@@ -9,7 +9,7 @@
  ],
  "opp_week": 6,
  "games_in_latest_week": 15,
- "built_at_utc": "2026-10-17T22:37:07.245199Z",
+ "built_at_utc": "2026-10-18T01:56:03.976600Z",
  "players": 448,
  "defenses": 32,
  "manzone_lookup_cols": 83,
@@ -17,5 +17,7 @@
  "fav_cols": 8,
  "align_cols": 4,
  "qbs": 43,
- "qb_cols": 122
+ "qb_cols": 122,
+ "rbs": 73,
+ "rb_cols": 135
 }

@@ -5,19 +5,20 @@
   2,
   3,
   4,
-  5
+  5,
+  6
  ],
- "opp_week": 6,
- "games_in_latest_week": 15,
- "built_at_utc": "2026-10-18T01:56:03.976600Z",
- "players": 448,
+ "opp_week": 7,
+ "games_in_latest_week": 13,
+ "built_at_utc": "2026-10-19T15:17:27.879751Z",
+ "players": 465,
  "defenses": 32,
  "manzone_lookup_cols": 83,
  "def_lookup_cols": 23,
  "fav_cols": 8,
  "align_cols": 4,
- "qbs": 43,
+ "qbs": 45,
  "qb_cols": 122,
- "rbs": 73,
+ "rbs": 80,
  "rb_cols": 135
 }

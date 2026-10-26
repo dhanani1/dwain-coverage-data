@@ -1,179 +1,179 @@
-player_id,Player,Team,Pos,2026 Routes,2026 Left,2026 Right,2026 Slot,2026 Inline,2026 Games,2026 Shadowed,2026 Full,2025 Games,2025 Shadowed,Shadowed By,2026 Shadow %,Wk Opp,Opp Shadow CB,Likely Mark
-61441.0,Nico Collins,HOU,WR,152,0.428,0.382,0.191,0.0,5,3.0,1.0,15.0,5.0,"Deonte Banks (p), Travis Hunter (p), Christian Benford, Jaylen Watson (p)",0.6,BYE,,
-47864.0,D.K. Metcalf,PIT,WR,287,0.484,0.328,0.188,0.0,7,2.0,2.0,15.0,6.0,"DJ Turner II, Christian Gonzalez, Rock Ya-Sin (p), Christian Benford (p)",0.286,CLE,,
-146759.0,Malik Nabers,NYG,WR,237,0.359,0.388,0.253,0.0,7,2.0,2.0,4.0,0.0,"Derek Stingley Jr., Trent McDuffie",0.286,BYE,,
-8688.0,Davante Adams,LAR,WR,232,0.569,0.276,0.155,0.0,6,2.0,1.0,14.0,4.0,"Pat Surtain II, Greg Newsome II (p), Nate Wiggins, Charvarius Ward (p)",0.333,LAC,,
-48236.0,Darnell Mooney,NYG,WR,185,0.211,0.232,0.557,0.0,7,2.0,0.0,15.0,0.0,"Kamari Lassiter (p), Josh Wallace (p)",0.286,BYE,,
-104155.0,Demario Douglas,NE,WR,172,0.07,0.087,0.843,0.0,7,2.0,1.0,17.0,1.0,"Jourdan Lewis, Devon Witherspoon (p), Jalen Ramsey (p)",0.286,MIA,,
-84329.0,Romeo Doubs,NE,WR,146,0.575,0.315,0.11,0.0,6,2.0,1.0,16.0,3.0,"Maxwell Hairston, Jamel Dean (p), D.J. Reed, Isaiah Rodgers (p)",0.333,MIA,,
-61398.0,Justin Jefferson,MIN,WR,123,0.447,0.398,0.154,0.0,5,2.0,1.0,17.0,2.0,"Charvarius Ward, Kool-Aid McKinstry (p), Amik Robertson, DJ Turner II",0.4,DET,D.J. Reed 29%,
-84423.0,Michael Wilson,ARI,WR,284,0.296,0.511,0.187,0.007,7,1.0,1.0,17.0,0.0,D.J. Reed,0.143,DAL,,
-148151.0,Bryce Lance,NO,WR,234,0.359,0.402,0.239,0.0,7,1.0,0.0,,,Asante Samuel Jr. (p),0.143,BYE,,
-129758.0,Jaxon Smith-Njigba,SEA,WR,231,0.39,0.338,0.273,0.0,7,1.0,0.0,17.0,1.0,"Christian Gonzalez (p), A.J. Terrell",0.143,CHI,,
-97405.0,Garrett Wilson,NYJ,WR,221,0.421,0.362,0.217,0.0,7,1.0,1.0,7.0,1.0,"Christian Gonzalez, Pat Surtain II (p)",0.143,LV,,
-12270.0,Kendrick Bourne,ARI,WR,220,0.159,0.127,0.714,0.0,7,1.0,0.0,16.0,0.0,Roger McCreary (p),0.143,DAL,,
-145055.0,Emeka Egbuka,TB,WR,215,0.223,0.433,0.34,0.005,6,1.0,0.0,17.0,2.0,"DJ Turner II (p), Christian Gonzalez, Kamari Lassiter (p)",0.167,ATL,,
-61211.0,Tee Higgins,CIN,WR,202,0.431,0.441,0.124,0.005,6,1.0,0.0,15.0,2.0,"Jarrian Jones (p), Christian Gonzalez (p), Riley Moss (p)",0.167,TEN,,
-151069.0,Malachi Fields,NYG,WR,201,0.463,0.343,0.194,0.0,7,1.0,0.0,,,Jaylen Watson (p),0.143,BYE,,
-61103.0,Jerry Jeudy,CLE,WR,192,0.359,0.375,0.266,0.0,7,1.0,0.0,17.0,1.0,"Asante Samuel Jr. (p), D.J. Reed",0.143,PIT,Asante Samuel Jr. 25%,
-158374.0,Germie Bernard,PIT,WR,191,0.162,0.366,0.466,0.005,7,1.0,1.0,,,Charles Woods,0.143,CLE,,
-101735.0,Wan'Dale Robinson,TEN,WR,185,0.124,0.124,0.751,0.0,7,1.0,0.0,16.0,2.0,"Myles Harden (p), Amik Robertson (p), Reddy Steward (p)",0.143,CIN,DJ Turner II 39%,YES
-124087.0,Kayshon Boutte,HOU,WR,174,0.264,0.466,0.27,0.0,7,1.0,0.0,14.0,2.0,"Maxwell Hairston (p), Rasul Douglas (p), Jack Jones (p)",0.143,BYE,,
-97156.0,Isaiah Williams,NYJ,WR,159,0.208,0.283,0.503,0.006,7,1.0,0.0,11.0,0.0,Marcus Harris (p),0.143,LV,,
-63707.0,Rashid Shaheed,SEA,WR,150,0.367,0.38,0.253,0.0,7,1.0,0.0,18.0,1.0,"Renardo Green (p), Mike Hughes (p)",0.143,CHI,,
-157263.0,Elic Ayomanor,TEN,WR,147,0.463,0.388,0.15,0.0,7,1.0,0.0,16.0,1.0,"Greg Newsome II (p), Riley Moss (p)",0.143,CIN,DJ Turner II 39%,
-61100.0,DeVonta Smith,PHI,WR,139,0.353,0.496,0.151,0.0,4,1.0,1.0,17.0,0.0,Will Lee III,0.25,WAS,,
-47153.0,Mike Gesicki,CIN,TE,129,0.047,0.085,0.86,0.008,6,1.0,0.0,13.0,0.0,Jourdan Lewis (p),0.167,TEN,,
-129604.0,Roman Wilson,PIT,WR,122,0.213,0.221,0.566,0.0,5,1.0,1.0,13.0,0.0,Marcus Jones,0.2,CLE,,
-156321.0,Chris Bell,MIA,WR,121,0.43,0.413,0.157,0.0,6,1.0,1.0,,,DJ Turner II,0.167,NE,Charles Woods 33%; Christian Gonzalez 32%,
-136866.0,Darius Cooper,PHI,WR,113,0.398,0.292,0.301,0.009,6,1.0,1.0,13.0,0.0,Akayleb Evans,0.167,WAS,,
-146760.0,Brian Thomas Jr.,JAX,WR,110,0.418,0.291,0.291,0.0,6,1.0,0.0,14.0,4.0,"Christian Gonzalez (p), Pat Surtain II (p), Charvarius Ward (p), Josh Jobe (p)",0.167,IND,Sauce Gardner 29%; Charvarius Ward 29%,
-11873.0,Mack Hollins,NE,WR,90,0.233,0.467,0.3,0.0,4,1.0,0.0,15.0,0.0,Asante Samuel Jr. (p),0.25,MIA,,
-75916.0,Trey McBride,ARI,TE,280,0.075,0.046,0.675,0.204,7,0.0,0.0,17.0,0.0,,0.0,DAL,,
-100637.0,Devaughn Vele,NO,WR,275,0.251,0.196,0.553,0.0,7,0.0,0.0,13.0,0.0,,0.0,BYE,,
-84355.0,Chris Olave,NO,WR,267,0.348,0.352,0.3,0.0,7,0.0,0.0,16.0,1.0,Christian Benford (p),0.0,BYE,,
-73774.0,Rome Odunze,CHI,WR,249,0.357,0.426,0.213,0.004,7,0.0,0.0,12.0,0.0,,0.0,SEA,,
-156165.0,Matthew Golden,GB,WR,249,0.422,0.353,0.225,0.0,7,0.0,0.0,14.0,0.0,,0.0,CAR,,
-162481.0,Denzel Boston,CLE,WR,247,0.494,0.429,0.077,0.0,7,0.0,0.0,,,,0.0,PIT,Asante Samuel Jr. 25%,YES
-66581.0,Christian Watson,GB,WR,243,0.35,0.366,0.267,0.016,7,0.0,0.0,10.0,2.0,"Pat Surtain II (p), Amik Robertson (p)",0.0,CAR,,
-122832.0,Josh Downs,IND,WR,241,0.141,0.166,0.693,0.0,7,0.0,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr. (p)",0.0,JAX,,
-83955.0,Isaiah Likely,NYG,TE,234,0.06,0.09,0.803,0.047,7,0.0,0.0,14.0,0.0,,0.0,BYE,,
-99229.0,George Pickens,DAL,WR,234,0.59,0.333,0.077,0.0,6,0.0,0.0,17.0,2.0,"Jaylen Watson (p), Sauce Gardner",0.0,ARI,,
-101106.0,Tre Tucker,LV,WR,232,0.341,0.405,0.254,0.0,7,0.0,0.0,17.0,0.0,,0.0,NYJ,,
-158735.0,Tetairoa McMillan,CAR,WR,230,0.374,0.33,0.296,0.0,6,0.0,0.0,17.0,1.0,A.J. Terrell (p),0.0,GB,,
-11839.0,Chris Godwin,TB,WR,223,0.247,0.206,0.547,0.0,7,0.0,0.0,9.0,0.0,,0.0,ATL,,
-101701.0,Jameson Williams,DET,WR,222,0.342,0.428,0.23,0.0,6,0.0,0.0,17.0,2.0,"Cor'Dale Flott (p), Isaiah Rodgers",0.0,MIN,,
-84470.0,Amon-Ra St. Brown,DET,WR,221,0.249,0.244,0.502,0.005,6,0.0,0.0,17.0,2.0,"Byron Murphy Jr. (p), Trent McDuffie (p)",0.0,MIN,,
-61570.0,CeeDee Lamb,DAL,WR,219,0.274,0.356,0.37,0.0,6,0.0,0.0,14.0,0.0,,0.0,ARI,,
-163104.0,Harold Fannin Jr.,CLE,TE,216,0.056,0.088,0.412,0.444,7,0.0,0.0,16.0,0.0,,0.0,PIT,Asante Samuel Jr. 25%,
-61071.0,Cade Otton,TB,TE,214,0.051,0.107,0.421,0.421,7,0.0,0.0,16.0,0.0,,0.0,ATL,,
-84085.0,Pat Freiermuth,PIT,TE,211,0.062,0.047,0.645,0.246,7,0.0,0.0,17.0,0.0,,0.0,CLE,,
-158540.0,Colston Loveland,CHI,TE,210,0.138,0.105,0.333,0.424,7,0.0,0.0,16.0,0.0,,0.0,SEA,,
-159617.0,Ryan Flournoy,DAL,WR,209,0.158,0.311,0.531,0.0,6,0.0,0.0,15.0,0.0,,0.0,ARI,,
-10657.0,Laquon Treadwell,IND,WR,207,0.444,0.382,0.174,0.0,7,0.0,0.0,4.0,0.0,,0.0,JAX,,
-170273.0,Carnell Tate,TEN,WR,207,0.372,0.348,0.28,0.0,7,0.0,0.0,,,,0.0,CIN,DJ Turner II 39%,YES
-104034.0,Tucker Kraft,GB,TE,205,0.063,0.039,0.332,0.566,7,0.0,0.0,8.0,0.0,,0.0,CAR,,
-122906.0,Michael Mayer,LV,TE,205,0.034,0.029,0.239,0.698,7,0.0,0.0,13.0,0.0,,0.0,NYJ,,
-28305.0,Juwan Johnson,NO,TE,203,0.094,0.054,0.537,0.315,7,0.0,0.0,17.0,0.0,,0.0,BYE,,
-86519.0,Drake London,ATL,WR,203,0.369,0.251,0.379,0.0,7,0.0,0.0,12.0,2.0,"Sauce Gardner (p), Christian Benford (p)",0.0,TB,,
-11824.0,Cooper Kupp,SEA,WR,200,0.255,0.21,0.535,0.0,7,0.0,0.0,16.0,0.0,,0.0,CHI,,
-48164.0,Courtland Sutton,DEN,WR,200,0.39,0.335,0.275,0.0,7,0.0,0.0,17.0,3.0,"Derek Stingley Jr. (p), Sauce Gardner, Quinyon Mitchell (p)",0.0,KC,,
-174150.0,Makai Lemon,PHI,WR,199,0.201,0.146,0.653,0.0,6,0.0,0.0,,,,0.0,WAS,,
-101690.0,Sam LaPorta,DET,TE,194,0.062,0.067,0.392,0.479,6,0.0,0.0,9.0,0.0,,0.0,MIN,,
-146715.0,Brock Bowers,LV,TE,194,0.186,0.186,0.505,0.124,5,0.0,0.0,12.0,0.0,,0.0,NYJ,,
-129433.0,AJ Barner,SEA,TE,193,0.041,0.047,0.212,0.699,7,0.0,0.0,17.0,0.0,,0.0,CHI,,
-157170.0,Luther Burden III,CHI,WR,192,0.25,0.188,0.562,0.0,7,0.0,0.0,15.0,1.0,Cooper DeJean (p),0.0,SEA,,
-144718.0,Xavier Worthy,KC,WR,189,0.291,0.392,0.302,0.016,6,0.0,0.0,14.0,0.0,,0.0,DEN,Pat Surtain II 50%,YES
-170362.0,KC Concepcion,CLE,WR,186,0.188,0.188,0.624,0.0,7,0.0,0.0,,,,0.0,PIT,Asante Samuel Jr. 25%,
-84088.0,Jaylen Waddle,DEN,WR,185,0.254,0.335,0.411,0.0,7,0.0,0.0,16.0,1.0,Maxwell Hairston,0.0,KC,,
-99711.0,Dontayvion Wicks,PHI,WR,185,0.378,0.33,0.292,0.0,6,0.0,0.0,14.0,0.0,,0.0,WAS,,
-84270.0,Ja'Marr Chase,CIN,WR,184,0.402,0.337,0.261,0.0,6,0.0,0.0,16.0,2.0,"Christian Benford (p), Pat Surtain II (p)",0.0,TEN,,
-11028.0,Kalif Raymond,CHI,WR,183,0.257,0.295,0.448,0.0,7,0.0,0.0,14.0,1.0,Fabian Moreau,0.0,SEA,,
-47304.0,Dalton Schultz,HOU,TE,181,0.072,0.099,0.431,0.398,7,0.0,0.0,17.0,0.0,,0.0,BYE,,
-100632.0,Puka Nacua,LAR,WR,181,0.26,0.481,0.254,0.006,5,0.0,0.0,16.0,0.0,,0.0,LAC,,
-10744.0,Tyler Higbee,LAR,TE,176,0.068,0.091,0.312,0.528,7,0.0,0.0,10.0,0.0,,0.0,LAC,,
-61081.0,Jake Ferguson,DAL,TE,176,0.023,0.034,0.534,0.409,6,0.0,0.0,17.0,0.0,,0.0,ARI,,
-11901.0,George Kittle,SF,TE,174,0.057,0.023,0.259,0.661,7,0.0,0.0,11.0,0.0,,0.0,BYE,,
-84296.0,Rashod Bateman,BAL,WR,174,0.299,0.374,0.322,0.006,7,0.0,0.0,13.0,0.0,,0.0,BUF,Christian Benford 32%,YES
-129799.0,Parker Washington,JAX,WR,173,0.289,0.26,0.445,0.006,6,0.0,0.0,16.0,1.0,Kenny Moore II (p),0.0,IND,Sauce Gardner 29%; Charvarius Ward 29%,YES
-47468.0,Jakobi Meyers,JAX,WR,172,0.262,0.413,0.326,0.0,6,0.0,0.0,16.0,1.0,Riley Moss (p),0.0,IND,Sauce Gardner 29%; Charvarius Ward 29%,YES
-84375.0,Jahan Dotson,ATL,WR,172,0.337,0.43,0.233,0.0,7,0.0,0.0,17.0,0.0,,0.0,TB,,
-172430.0,Isaac TeSlaa,DET,WR,168,0.387,0.262,0.339,0.012,6,0.0,0.0,17.0,0.0,,0.0,MIN,,
-47436.0,Mark Andrews,BAL,TE,167,0.132,0.114,0.455,0.299,7,0.0,0.0,17.0,0.0,,0.0,BUF,Christian Benford 32%,
-187922.0,Ted Hurst,TB,WR,167,0.443,0.269,0.287,0.0,7,0.0,0.0,,,,0.0,ATL,,
-7844.0,Travis Kelce,KC,TE,162,0.13,0.093,0.377,0.401,6,0.0,0.0,17.0,0.0,,0.0,DEN,Pat Surtain II 50%,
-129798.0,Tyler Warren,IND,TE,161,0.093,0.081,0.46,0.366,5,0.0,0.0,17.0,0.0,,0.0,JAX,,
-10669.0,Hunter Henry,NE,TE,160,0.012,0.119,0.444,0.425,7,0.0,0.0,17.0,0.0,,0.0,MIA,,
-7857.0,Keenan Allen,IND,WR,159,0.321,0.415,0.264,0.0,6,0.0,0.0,17.0,0.0,,0.0,JAX,,
-145056.0,Marvin Harrison Jr.,HOU,WR,159,0.472,0.333,0.195,0.0,6,0.0,0.0,12.0,1.0,L'Jarius Sneed (p),0.0,BYE,,
-97268.0,Zay Flowers,BAL,WR,158,0.209,0.209,0.582,0.0,6,0.0,0.0,17.0,2.0,DJ Turner II (p),0.0,BUF,Christian Benford 32%,YES
-122518.0,Xavier Hutchinson,HOU,WR,158,0.259,0.241,0.5,0.0,7,0.0,0.0,17.0,2.0,"Cam Hart (p), Jalyn Armour-Davis",0.0,BYE,,
-123000.0,Jordan Addison,MIN,WR,155,0.335,0.329,0.335,0.0,5,0.0,0.0,14.0,2.0,"D.J. Reed (p), Terrion Arnold (p)",0.0,DET,D.J. Reed 29%,YES
-123085.0,Quentin Johnston,LAC,WR,154,0.461,0.37,0.169,0.0,5,0.0,0.0,14.0,2.0,"Adoree' Jackson (p), Pat Surtain II",0.0,LAR,,
-97108.0,Malik Washington,MIA,WR,153,0.248,0.17,0.582,0.0,6,0.0,0.0,17.0,1.0,Jalen Davis (p),0.0,NE,Charles Woods 33%; Christian Gonzalez 32%,YES
-143068.0,Jalen Coker,CAR,WR,153,0.275,0.261,0.464,0.0,5,0.0,0.0,11.0,1.0,Jarvis Brownlee Jr.,0.0,GB,,
-101694.0,Brenton Strange,JAX,TE,147,0.082,0.068,0.395,0.456,6,0.0,0.0,12.0,0.0,,0.0,IND,Sauce Gardner 29%; Charvarius Ward 29%,
-125155.0,Jaylin Noel,HOU,WR,147,0.184,0.102,0.714,0.0,7,0.0,0.0,17.0,1.0,Upton Stout (p),0.0,BYE,,
-144949.0,Keon Coleman,BUF,WR,147,0.354,0.401,0.204,0.041,6,0.0,0.0,13.0,1.0,A.J. Terrell (p),0.0,BAL,,
-83964.0,Kyle Pitts,ATL,TE,145,0.11,0.138,0.345,0.407,7,0.0,0.0,17.0,0.0,,0.0,TB,,
-84140.0,Khalil Shakir,BUF,WR,144,0.167,0.188,0.562,0.083,6,0.0,0.0,16.0,2.0,"Dee Alford (p), Marlon Humphrey",0.0,BAL,,
-11778.0,Evan Engram,DEN,TE,142,0.07,0.07,0.282,0.577,7,0.0,0.0,16.0,0.0,,0.0,KC,,
-84292.0,Jalen Nailor,LV,WR,142,0.437,0.359,0.204,0.0,6,0.0,0.0,17.0,1.0,Javon Bullard (p),0.0,NYJ,,
-144726.0,Gunnar Helm,TEN,TE,141,0.043,0.078,0.596,0.284,7,0.0,0.0,16.0,0.0,,0.0,CIN,DJ Turner II 39%,
-9579.0,Stefon Diggs,WAS,WR,137,0.161,0.19,0.65,0.0,5,0.0,0.0,17.0,0.0,,0.0,PHI,,
-9637.0,Darren Waller,CAR,TE,137,0.124,0.117,0.555,0.204,6,0.0,0.0,9.0,0.0,,0.0,GB,,
-48027.0,Jauan Jennings,MIN,WR,137,0.197,0.19,0.613,0.0,5,0.0,0.0,15.0,0.0,,0.0,DET,D.J. Reed 29%,YES
-145598.0,Konata Mumpfield,LAR,WR,137,0.234,0.321,0.445,0.0,7,0.0,0.0,16.0,1.0,A.J. Terrell (p),0.0,LAC,,
-156241.0,Antonio Williams,WAS,WR,136,0.272,0.235,0.493,0.0,6,0.0,0.0,,,,0.0,PHI,,
-91791.0,Dalton Kincaid,BUF,TE,133,0.105,0.09,0.466,0.338,6,0.0,0.0,12.0,0.0,,0.0,BAL,,
-48229.0,Terry McLaurin,WAS,WR,132,0.432,0.341,0.227,0.0,5,0.0,0.0,10.0,1.0,Paulson Adebo (p),0.0,PHI,,
-84068.0,Greg Dulcich,MIA,TE,126,0.056,0.063,0.206,0.675,6,0.0,0.0,10.0,0.0,,0.0,NE,Charles Woods 33%; Christian Gonzalez 32%,
-122676.0,Tre Harris,LAC,WR,126,0.246,0.341,0.413,0.0,5,0.0,0.0,17.0,0.0,,0.0,LAR,,
-8642.0,Mike Evans,SF,WR,123,0.423,0.382,0.195,0.0,6,0.0,0.0,8.0,3.0,"Rasul Douglas (p), Sauce Gardner (p), Derek Stingley Jr.",0.0,BYE,,
-124044.0,Darnell Washington,PIT,TE,122,0.049,0.033,0.246,0.672,7,0.0,0.0,16.0,0.0,,0.0,CLE,,
-144046.0,Oronde Gadsden II,LAC,TE,122,0.09,0.131,0.369,0.41,6,0.0,0.0,15.0,0.0,,0.0,LAR,,
-40912.0,T.J. Hockenson,MIN,TE,118,0.059,0.076,0.407,0.458,6,0.0,0.0,15.0,0.0,,0.0,DET,D.J. Reed 29%,
-143800.0,Dohnte Meyers,CIN,WR,116,0.259,0.259,0.483,0.0,6,0.0,0.0,,,,0.0,TEN,,
-77986.0,Dyami Brown,WAS,WR,113,0.389,0.336,0.274,0.0,6,0.0,0.0,13.0,0.0,,0.0,PHI,,
-84000.0,Chigoziem Okonkwo,WAS,TE,111,0.054,0.099,0.477,0.369,4,0.0,0.0,17.0,0.0,,0.0,PHI,,
-145773.0,Devontez Walker,BAL,WR,111,0.405,0.297,0.297,0.0,6,0.0,0.0,9.0,0.0,,0.0,BUF,Christian Benford 32%,
-84425.0,Brycen Tremayne,CAR,WR,108,0.38,0.315,0.306,0.0,6,0.0,0.0,16.0,0.0,,0.0,GB,,
-99218.0,Treylon Burks,WAS,WR,108,0.315,0.398,0.287,0.0,5,0.0,0.0,8.0,0.0,,0.0,PHI,,
-157122.0,Mason Taylor,NYJ,TE,106,0.028,0.038,0.453,0.481,5,0.0,0.0,13.0,0.0,,0.0,LV,,
-84025.0,Tommy Tremble,CAR,TE,104,0.019,0.019,0.385,0.577,6,0.0,0.0,17.0,0.0,,0.0,GB,,
-47272.0,Dallas Goedert,PHI,TE,103,0.019,0.049,0.437,0.495,4,0.0,0.0,15.0,0.0,,0.0,WAS,,
-48262.0,Calvin Ridley,TEN,WR,101,0.366,0.455,0.178,0.0,6,0.0,0.0,7.0,1.0,Pat Surtain II,0.0,CIN,DJ Turner II 39%,
-29049.0,Michael Pittman Jr.,PIT,WR,99,0.333,0.404,0.263,0.0,3,0.0,0.0,17.0,1.0,Pat Surtain II (p),0.0,CLE,,
-111284.0,Jalen Brooks,ARI,WR,99,0.475,0.323,0.202,0.0,6,0.0,0.0,6.0,0.0,,0.0,DAL,,
-174132.0,Kenyon Sadiq,NYJ,TE,99,0.061,0.152,0.333,0.455,7,0.0,0.0,,,,0.0,LV,,
-78092.0,Tyquan Thornton,KC,WR,98,0.378,0.327,0.276,0.02,4,0.0,0.0,14.0,0.0,,0.0,DEN,Pat Surtain II 50%,
-60995.0,Cole Kmet,CHI,TE,97,0.124,0.103,0.103,0.67,7,0.0,0.0,16.0,0.0,,0.0,SEA,,
-123709.0,Tez Johnson,TB,WR,96,0.427,0.198,0.375,0.0,7,0.0,0.0,16.0,1.0,Amik Robertson (p),0.0,ATL,,
-128374.0,Kyle Williams,NE,WR,96,0.542,0.375,0.083,0.0,7,0.0,0.0,17.0,0.0,,0.0,MIA,,
-48274.0,Deebo Samuel,SF,WR,95,0.189,0.368,0.442,0.0,5,0.0,0.0,16.0,0.0,,0.0,BYE,,
-97605.0,Rashee Rice,KC,WR,95,0.232,0.305,0.453,0.011,4,0.0,0.0,8.0,0.0,,0.0,DEN,Pat Surtain II 50%,
-160756.0,Kevin Coleman Jr.,MIA,WR,95,0.263,0.337,0.4,0.0,6,0.0,0.0,,,,0.0,NE,Charles Woods 33%; Christian Gonzalez 32%,
-124030.0,Ladd McConkey,LAC,WR,94,0.266,0.266,0.457,0.011,5,0.0,0.0,16.0,0.0,,0.0,LAR,,
-52266.0,Colby Parkinson,LAR,TE,92,0.043,0.076,0.141,0.739,6,0.0,0.0,15.0,0.0,,0.0,LAC,,
-144800.0,Pat Bryant,DEN,WR,91,0.242,0.308,0.451,0.0,4,0.0,0.0,15.0,0.0,,0.0,KC,,
-146567.0,Troy Franklin,DEN,WR,91,0.286,0.253,0.44,0.022,7,0.0,0.0,17.0,1.0,Kenny Moore II (p),0.0,KC,,
-35883.0,Dawson Knox,BUF,TE,90,0.1,0.089,0.3,0.511,6,0.0,0.0,17.0,0.0,,0.0,BAL,,
-61448.0,Cody White,LV,WR,89,0.449,0.315,0.236,0.0,7,0.0,0.0,9.0,0.0,,0.0,NYJ,,
-97400.0,John Metchie III,CAR,WR,89,0.225,0.247,0.528,0.0,5,0.0,0.0,15.0,0.0,,0.0,GB,,
-44920.0,Olamide Zaccheaus,ATL,WR,87,0.115,0.195,0.69,0.0,6,0.0,0.0,16.0,0.0,,0.0,TB,,
-100894.0,Jacob Cowing,SF,WR,87,0.391,0.253,0.356,0.0,7,0.0,0.0,,,,0.0,BYE,,
-122730.0,Jordan Watkins,SF,WR,87,0.333,0.437,0.23,0.0,5,0.0,0.0,4.0,0.0,,0.0,BYE,,
-144886.0,Tai Felton,MIN,WR,86,0.407,0.372,0.221,0.0,4,0.0,0.0,5.0,0.0,,0.0,DET,D.J. Reed 29%,
-48327.0,A.J. Brown,NE,WR,83,0.506,0.337,0.157,0.0,3,0.0,0.0,15.0,3.0,"Rock Ya-Sin (p), Paulson Adebo, Pat Surtain II",0.0,MIA,,
-141521.0,Efton Chism III,NE,WR,81,0.21,0.37,0.407,0.012,6,0.0,0.0,6.0,0.0,,0.0,MIA,,
-163442.0,Jalen Royals,KC,WR,81,0.37,0.321,0.272,0.037,5,0.0,0.0,4.0,0.0,,0.0,DEN,Pat Surtain II 50%,
-146712.0,Adonai Mitchell,NYJ,WR,79,0.418,0.392,0.165,0.025,3,0.0,0.0,16.0,1.0,Mike Hughes (p),0.0,LV,,
-156970.0,Eli Raridon,NE,TE,76,0.105,0.145,0.342,0.408,6,0.0,0.0,,,,0.0,MIA,,
-157740.0,Caleb Douglas,MIA,WR,76,0.316,0.474,0.211,0.0,3,0.0,0.0,,,,0.0,NE,Charles Woods 33%; Christian Gonzalez 32%,YES
-42388.0,Noah Fant,NO,TE,75,0.067,0.067,0.16,0.707,6,0.0,0.0,15.0,0.0,,0.0,BYE,,
-62979.0,Joshua Palmer,BUF,WR,75,0.4,0.333,0.253,0.013,5,0.0,0.0,12.0,0.0,,0.0,BAL,,
-77965.0,Tutu Atwell,LAR,WR,75,0.2,0.133,0.667,0.0,4,0.0,0.0,10.0,0.0,,0.0,LAC,,
-42353.0,Luke Farrell,SF,TE,74,0.054,0.041,0.135,0.77,7,0.0,0.0,17.0,0.0,,0.0,BYE,,
-60878.0,Noah Gray,KC,TE,73,0.123,0.11,0.247,0.521,6,0.0,0.0,16.0,0.0,,0.0,DEN,Pat Surtain II 50%,
-99691.0,Jared Wayne,MIA,WR,72,0.556,0.347,0.097,0.0,6,0.0,0.0,1.0,0.0,,0.0,NE,Charles Woods 33%; Christian Gonzalez 32%,
-147486.0,Mitchell Evans,CAR,TE,72,0.056,0.056,0.194,0.694,6,0.0,0.0,17.0,0.0,,0.0,GB,,
-48267.0,DJ Moore,BUF,WR,71,0.366,0.352,0.282,0.0,4,0.0,0.0,17.0,0.0,,0.0,BAL,,
-61610.0,Bo Melton,GB,WR,71,0.268,0.282,0.451,0.0,7,0.0,0.0,9.0,0.0,,0.0,CAR,,
-8655.0,Brandin Cooks,SF,WR,69,0.435,0.29,0.275,0.0,4,0.0,0.0,15.0,0.0,,0.0,BYE,,
-60917.0,Charlie Kolar,LAC,TE,69,0.058,0.116,0.246,0.58,4,0.0,0.0,17.0,0.0,,0.0,LAR,,
-176638.0,Ja'Kobi Lane,BAL,WR,68,0.5,0.338,0.162,0.0,3,0.0,0.0,,,,0.0,BUF,Christian Benford 32%,
-11855.0,Jonnu Smith,GB,TE,67,0.045,0.09,0.403,0.463,7,0.0,0.0,17.0,0.0,,0.0,CAR,,
-98027.0,Elijah Higgins,ARI,TE,67,0.075,0.09,0.149,0.687,7,0.0,0.0,17.0,0.0,,0.0,DAL,,
-129787.0,Theo Johnson,NYG,TE,67,0.149,0.09,0.522,0.239,5,0.0,0.0,15.0,0.0,,0.0,BYE,,
-12206.0,Johnny Mundt,PHI,TE,66,0.045,0.061,0.409,0.485,6,0.0,0.0,15.0,0.0,,0.0,WAS,,
-99697.0,Davis Allen,LAR,TE,66,0.076,0.121,0.121,0.682,7,0.0,0.0,17.0,0.0,,0.0,LAC,,
-47259.0,Drew Sample,CIN,TE,63,0.0,0.016,0.079,0.905,6,0.0,0.0,17.0,0.0,,0.0,TEN,,
-174142.0,Zachariah Branch,ATL,WR,62,0.29,0.194,0.516,0.0,7,0.0,0.0,,,,0.0,TB,,
-97116.0,Skyy Moore,GB,WR,61,0.131,0.18,0.639,0.049,5,0.0,0.0,13.0,0.0,,0.0,CAR,,
-97623.0,Jordan Whittington,LAR,WR,61,0.082,0.213,0.689,0.016,6,0.0,0.0,16.0,1.0,Jacob Parrish (p),0.0,LAC,,
-128232.0,Tory Horton,SEA,WR,61,0.262,0.475,0.262,0.0,6,0.0,0.0,8.0,1.0,Kindle Vildor (p),0.0,CHI,,
-7912.0,Kyle Juszczyk,SF,WR,60,0.1,0.1,0.367,0.433,6,0.0,0.0,17.0,0.0,,0.0,BYE,,
-42257.0,Charlie Woerner,ATL,TE,60,0.033,0.1,0.217,0.65,6,0.0,0.0,17.0,0.0,,0.0,TB,,
-102585.0,Xavier Smith,LAR,WR,60,0.317,0.067,0.617,0.0,3,0.0,0.0,14.0,2.0,"Devon Witherspoon (p), Upton Stout (p)",0.0,LAC,,
-144513.0,Josh Cameron,JAX,WR,60,0.333,0.283,0.383,0.0,6,0.0,0.0,,,,0.0,IND,Sauce Gardner 29%; Charvarius Ward 29%,
-163586.0,Isaiah Bond,CLE,WR,60,0.15,0.1,0.733,0.017,7,0.0,0.0,16.0,1.0,Carlton Davis III (p),0.0,PIT,Asante Samuel Jr. 25%,
+player_id,Player,Team,Pos,Wk Opp,Opp Shadow CB,Likely Mark,2026 Games,2026 Shadowed,2026 Full,2026 Shadow %,Shadowed By (25-26),2026 Routes,2026 Left %,2026 Right %,2026 Slot %,2026 Inline %,2025 Games,2025 Shadowed
+61441.0,Nico Collins,HOU,WR,BYE,,,5,3.0,1.0,0.6,"Deonte Banks (p), Travis Hunter (p), Christian Benford, Jaylen Watson (p)",152,0.428,0.382,0.191,0.0,15.0,5.0
+47864.0,D.K. Metcalf,PIT,WR,CLE,,,7,2.0,2.0,0.286,"DJ Turner II, Christian Gonzalez, Rock Ya-Sin (p), Christian Benford (p)",287,0.484,0.328,0.188,0.0,15.0,6.0
+146759.0,Malik Nabers,NYG,WR,BYE,,,7,2.0,2.0,0.286,"Derek Stingley Jr., Trent McDuffie",237,0.359,0.388,0.253,0.0,4.0,0.0
+8688.0,Davante Adams,LAR,WR,LAC,,,6,2.0,1.0,0.333,"Pat Surtain II, Greg Newsome II (p), Nate Wiggins, Charvarius Ward (p)",232,0.569,0.276,0.155,0.0,14.0,4.0
+48236.0,Darnell Mooney,NYG,WR,BYE,,,7,2.0,0.0,0.286,"Kamari Lassiter (p), Josh Wallace (p)",185,0.211,0.232,0.557,0.0,15.0,0.0
+104155.0,Demario Douglas,NE,WR,MIA,,,7,2.0,1.0,0.286,"Jourdan Lewis, Devon Witherspoon (p), Jalen Ramsey (p)",172,0.07,0.087,0.843,0.0,17.0,1.0
+84329.0,Romeo Doubs,NE,WR,MIA,,,6,2.0,1.0,0.333,"Maxwell Hairston, Jamel Dean (p), D.J. Reed, Isaiah Rodgers (p)",146,0.575,0.315,0.11,0.0,16.0,3.0
+61398.0,Justin Jefferson,MIN,WR,DET,D.J. Reed 29%,,5,2.0,1.0,0.4,"Charvarius Ward, Kool-Aid McKinstry (p), Amik Robertson, DJ Turner II",123,0.447,0.398,0.154,0.0,17.0,2.0
+84423.0,Michael Wilson,ARI,WR,DAL,,,7,1.0,1.0,0.143,D.J. Reed,284,0.296,0.511,0.187,0.007,17.0,0.0
+148151.0,Bryce Lance,NO,WR,BYE,,,7,1.0,0.0,0.143,Asante Samuel Jr. (p),234,0.359,0.402,0.239,0.0,,
+129758.0,Jaxon Smith-Njigba,SEA,WR,CHI,,,7,1.0,0.0,0.143,"Christian Gonzalez (p), A.J. Terrell",231,0.39,0.338,0.273,0.0,17.0,1.0
+97405.0,Garrett Wilson,NYJ,WR,LV,,,7,1.0,1.0,0.143,"Christian Gonzalez, Pat Surtain II (p)",221,0.421,0.362,0.217,0.0,7.0,1.0
+12270.0,Kendrick Bourne,ARI,WR,DAL,,,7,1.0,0.0,0.143,Roger McCreary (p),220,0.159,0.127,0.714,0.0,16.0,0.0
+145055.0,Emeka Egbuka,TB,WR,ATL,,,6,1.0,0.0,0.167,"DJ Turner II (p), Christian Gonzalez, Kamari Lassiter (p)",215,0.223,0.433,0.34,0.005,17.0,2.0
+61211.0,Tee Higgins,CIN,WR,TEN,,,6,1.0,0.0,0.167,"Jarrian Jones (p), Christian Gonzalez (p), Riley Moss (p)",202,0.431,0.441,0.124,0.005,15.0,2.0
+151069.0,Malachi Fields,NYG,WR,BYE,,,7,1.0,0.0,0.143,Jaylen Watson (p),201,0.463,0.343,0.194,0.0,,
+61103.0,Jerry Jeudy,CLE,WR,PIT,Asante Samuel Jr. 25%,,7,1.0,0.0,0.143,"Asante Samuel Jr. (p), D.J. Reed",192,0.359,0.375,0.266,0.0,17.0,1.0
+158374.0,Germie Bernard,PIT,WR,CLE,,,7,1.0,1.0,0.143,Charles Woods,191,0.162,0.366,0.466,0.005,,
+101735.0,Wan'Dale Robinson,TEN,WR,CIN,DJ Turner II 39%,YES,7,1.0,0.0,0.143,"Myles Harden (p), Amik Robertson (p), Reddy Steward (p)",185,0.124,0.124,0.751,0.0,16.0,2.0
+124087.0,Kayshon Boutte,HOU,WR,BYE,,,7,1.0,0.0,0.143,"Maxwell Hairston (p), Rasul Douglas (p), Jack Jones (p)",174,0.264,0.466,0.27,0.0,14.0,2.0
+97156.0,Isaiah Williams,NYJ,WR,LV,,,7,1.0,0.0,0.143,Marcus Harris (p),159,0.208,0.283,0.503,0.006,11.0,0.0
+63707.0,Rashid Shaheed,SEA,WR,CHI,,,7,1.0,0.0,0.143,"Renardo Green (p), Mike Hughes (p)",150,0.367,0.38,0.253,0.0,18.0,1.0
+157263.0,Elic Ayomanor,TEN,WR,CIN,DJ Turner II 39%,,7,1.0,0.0,0.143,"Greg Newsome II (p), Riley Moss (p)",147,0.463,0.388,0.15,0.0,16.0,1.0
+61100.0,DeVonta Smith,PHI,WR,WAS,,,4,1.0,1.0,0.25,Will Lee III,139,0.353,0.496,0.151,0.0,17.0,0.0
+47153.0,Mike Gesicki,CIN,TE,TEN,,,6,1.0,0.0,0.167,Jourdan Lewis (p),129,0.047,0.085,0.86,0.008,13.0,0.0
+129604.0,Roman Wilson,PIT,WR,CLE,,,5,1.0,1.0,0.2,Marcus Jones,122,0.213,0.221,0.566,0.0,13.0,0.0
+156321.0,Chris Bell,MIA,WR,NE,Charles Woods 33%; Christian Gonzalez 32%,,6,1.0,1.0,0.167,DJ Turner II,121,0.43,0.413,0.157,0.0,,
+136866.0,Darius Cooper,PHI,WR,WAS,,,6,1.0,1.0,0.167,Akayleb Evans,113,0.398,0.292,0.301,0.009,13.0,0.0
+146760.0,Brian Thomas Jr.,JAX,WR,IND,Sauce Gardner 29%; Charvarius Ward 29%,,6,1.0,0.0,0.167,"Christian Gonzalez (p), Pat Surtain II (p), Charvarius Ward (p), Josh Jobe (p)",110,0.418,0.291,0.291,0.0,14.0,4.0
+11873.0,Mack Hollins,NE,WR,MIA,,,4,1.0,0.0,0.25,Asante Samuel Jr. (p),90,0.233,0.467,0.3,0.0,15.0,0.0
+75916.0,Trey McBride,ARI,TE,DAL,,,7,0.0,0.0,0.0,,280,0.075,0.046,0.675,0.204,17.0,0.0
+100637.0,Devaughn Vele,NO,WR,BYE,,,7,0.0,0.0,0.0,,275,0.251,0.196,0.553,0.0,13.0,0.0
+84355.0,Chris Olave,NO,WR,BYE,,,7,0.0,0.0,0.0,Christian Benford (p),267,0.348,0.352,0.3,0.0,16.0,1.0
+73774.0,Rome Odunze,CHI,WR,SEA,,,7,0.0,0.0,0.0,,249,0.357,0.426,0.213,0.004,12.0,0.0
+156165.0,Matthew Golden,GB,WR,CAR,,,7,0.0,0.0,0.0,,249,0.422,0.353,0.225,0.0,14.0,0.0
+162481.0,Denzel Boston,CLE,WR,PIT,Asante Samuel Jr. 25%,YES,7,0.0,0.0,0.0,,247,0.494,0.429,0.077,0.0,,
+66581.0,Christian Watson,GB,WR,CAR,,,7,0.0,0.0,0.0,"Pat Surtain II (p), Amik Robertson (p)",243,0.35,0.366,0.267,0.016,10.0,2.0
+122832.0,Josh Downs,IND,WR,JAX,,,7,0.0,0.0,0.0,"Brandin Echols, Jason Marshall Jr. (p)",241,0.141,0.166,0.693,0.0,16.0,2.0
+83955.0,Isaiah Likely,NYG,TE,BYE,,,7,0.0,0.0,0.0,,234,0.06,0.09,0.803,0.047,14.0,0.0
+99229.0,George Pickens,DAL,WR,ARI,,,6,0.0,0.0,0.0,"Jaylen Watson (p), Sauce Gardner",234,0.59,0.333,0.077,0.0,17.0,2.0
+101106.0,Tre Tucker,LV,WR,NYJ,,,7,0.0,0.0,0.0,,232,0.341,0.405,0.254,0.0,17.0,0.0
+158735.0,Tetairoa McMillan,CAR,WR,GB,,,6,0.0,0.0,0.0,A.J. Terrell (p),230,0.374,0.33,0.296,0.0,17.0,1.0
+11839.0,Chris Godwin,TB,WR,ATL,,,7,0.0,0.0,0.0,,223,0.247,0.206,0.547,0.0,9.0,0.0
+101701.0,Jameson Williams,DET,WR,MIN,,,6,0.0,0.0,0.0,"Cor'Dale Flott (p), Isaiah Rodgers",222,0.342,0.428,0.23,0.0,17.0,2.0
+84470.0,Amon-Ra St. Brown,DET,WR,MIN,,,6,0.0,0.0,0.0,"Byron Murphy Jr. (p), Trent McDuffie (p)",221,0.249,0.244,0.502,0.005,17.0,2.0
+61570.0,CeeDee Lamb,DAL,WR,ARI,,,6,0.0,0.0,0.0,,219,0.274,0.356,0.37,0.0,14.0,0.0
+163104.0,Harold Fannin Jr.,CLE,TE,PIT,Asante Samuel Jr. 25%,,7,0.0,0.0,0.0,,216,0.056,0.088,0.412,0.444,16.0,0.0
+61071.0,Cade Otton,TB,TE,ATL,,,7,0.0,0.0,0.0,,214,0.051,0.107,0.421,0.421,16.0,0.0
+84085.0,Pat Freiermuth,PIT,TE,CLE,,,7,0.0,0.0,0.0,,211,0.062,0.047,0.645,0.246,17.0,0.0
+158540.0,Colston Loveland,CHI,TE,SEA,,,7,0.0,0.0,0.0,,210,0.138,0.105,0.333,0.424,16.0,0.0
+159617.0,Ryan Flournoy,DAL,WR,ARI,,,6,0.0,0.0,0.0,,209,0.158,0.311,0.531,0.0,15.0,0.0
+10657.0,Laquon Treadwell,IND,WR,JAX,,,7,0.0,0.0,0.0,,207,0.444,0.382,0.174,0.0,4.0,0.0
+170273.0,Carnell Tate,TEN,WR,CIN,DJ Turner II 39%,YES,7,0.0,0.0,0.0,,207,0.372,0.348,0.28,0.0,,
+104034.0,Tucker Kraft,GB,TE,CAR,,,7,0.0,0.0,0.0,,205,0.063,0.039,0.332,0.566,8.0,0.0
+122906.0,Michael Mayer,LV,TE,NYJ,,,7,0.0,0.0,0.0,,205,0.034,0.029,0.239,0.698,13.0,0.0
+28305.0,Juwan Johnson,NO,TE,BYE,,,7,0.0,0.0,0.0,,203,0.094,0.054,0.537,0.315,17.0,0.0
+86519.0,Drake London,ATL,WR,TB,,,7,0.0,0.0,0.0,"Sauce Gardner (p), Christian Benford (p)",203,0.369,0.251,0.379,0.0,12.0,2.0
+11824.0,Cooper Kupp,SEA,WR,CHI,,,7,0.0,0.0,0.0,,200,0.255,0.21,0.535,0.0,16.0,0.0
+48164.0,Courtland Sutton,DEN,WR,KC,,,7,0.0,0.0,0.0,"Derek Stingley Jr. (p), Sauce Gardner, Quinyon Mitchell (p)",200,0.39,0.335,0.275,0.0,17.0,3.0
+174150.0,Makai Lemon,PHI,WR,WAS,,,6,0.0,0.0,0.0,,199,0.201,0.146,0.653,0.0,,
+101690.0,Sam LaPorta,DET,TE,MIN,,,6,0.0,0.0,0.0,,194,0.062,0.067,0.392,0.479,9.0,0.0
+146715.0,Brock Bowers,LV,TE,NYJ,,,5,0.0,0.0,0.0,,194,0.186,0.186,0.505,0.124,12.0,0.0
+129433.0,AJ Barner,SEA,TE,CHI,,,7,0.0,0.0,0.0,,193,0.041,0.047,0.212,0.699,17.0,0.0
+157170.0,Luther Burden III,CHI,WR,SEA,,,7,0.0,0.0,0.0,Cooper DeJean (p),192,0.25,0.188,0.562,0.0,15.0,1.0
+144718.0,Xavier Worthy,KC,WR,DEN,Pat Surtain II 50%,YES,6,0.0,0.0,0.0,,189,0.291,0.392,0.302,0.016,14.0,0.0
+170362.0,KC Concepcion,CLE,WR,PIT,Asante Samuel Jr. 25%,,7,0.0,0.0,0.0,,186,0.188,0.188,0.624,0.0,,
+84088.0,Jaylen Waddle,DEN,WR,KC,,,7,0.0,0.0,0.0,Maxwell Hairston,185,0.254,0.335,0.411,0.0,16.0,1.0
+99711.0,Dontayvion Wicks,PHI,WR,WAS,,,6,0.0,0.0,0.0,,185,0.378,0.33,0.292,0.0,14.0,0.0
+84270.0,Ja'Marr Chase,CIN,WR,TEN,,,6,0.0,0.0,0.0,"Christian Benford (p), Pat Surtain II (p)",184,0.402,0.337,0.261,0.0,16.0,2.0
+11028.0,Kalif Raymond,CHI,WR,SEA,,,7,0.0,0.0,0.0,Fabian Moreau,183,0.257,0.295,0.448,0.0,14.0,1.0
+47304.0,Dalton Schultz,HOU,TE,BYE,,,7,0.0,0.0,0.0,,181,0.072,0.099,0.431,0.398,17.0,0.0
+100632.0,Puka Nacua,LAR,WR,LAC,,,5,0.0,0.0,0.0,,181,0.26,0.481,0.254,0.006,16.0,0.0
+10744.0,Tyler Higbee,LAR,TE,LAC,,,7,0.0,0.0,0.0,,176,0.068,0.091,0.312,0.528,10.0,0.0
+61081.0,Jake Ferguson,DAL,TE,ARI,,,6,0.0,0.0,0.0,,176,0.023,0.034,0.534,0.409,17.0,0.0
+11901.0,George Kittle,SF,TE,BYE,,,7,0.0,0.0,0.0,,174,0.057,0.023,0.259,0.661,11.0,0.0
+84296.0,Rashod Bateman,BAL,WR,BUF,Christian Benford 32%,YES,7,0.0,0.0,0.0,,174,0.299,0.374,0.322,0.006,13.0,0.0
+129799.0,Parker Washington,JAX,WR,IND,Sauce Gardner 29%; Charvarius Ward 29%,YES,6,0.0,0.0,0.0,Kenny Moore II (p),173,0.289,0.26,0.445,0.006,16.0,1.0
+47468.0,Jakobi Meyers,JAX,WR,IND,Sauce Gardner 29%; Charvarius Ward 29%,YES,6,0.0,0.0,0.0,Riley Moss (p),172,0.262,0.413,0.326,0.0,16.0,1.0
+84375.0,Jahan Dotson,ATL,WR,TB,,,7,0.0,0.0,0.0,,172,0.337,0.43,0.233,0.0,17.0,0.0
+172430.0,Isaac TeSlaa,DET,WR,MIN,,,6,0.0,0.0,0.0,,168,0.387,0.262,0.339,0.012,17.0,0.0
+47436.0,Mark Andrews,BAL,TE,BUF,Christian Benford 32%,,7,0.0,0.0,0.0,,167,0.132,0.114,0.455,0.299,17.0,0.0
+187922.0,Ted Hurst,TB,WR,ATL,,,7,0.0,0.0,0.0,,167,0.443,0.269,0.287,0.0,,
+7844.0,Travis Kelce,KC,TE,DEN,Pat Surtain II 50%,,6,0.0,0.0,0.0,,162,0.13,0.093,0.377,0.401,17.0,0.0
+129798.0,Tyler Warren,IND,TE,JAX,,,5,0.0,0.0,0.0,,161,0.093,0.081,0.46,0.366,17.0,0.0
+10669.0,Hunter Henry,NE,TE,MIA,,,7,0.0,0.0,0.0,,160,0.012,0.119,0.444,0.425,17.0,0.0
+7857.0,Keenan Allen,IND,WR,JAX,,,6,0.0,0.0,0.0,,159,0.321,0.415,0.264,0.0,17.0,0.0
+145056.0,Marvin Harrison Jr.,HOU,WR,BYE,,,6,0.0,0.0,0.0,L'Jarius Sneed (p),159,0.472,0.333,0.195,0.0,12.0,1.0
+97268.0,Zay Flowers,BAL,WR,BUF,Christian Benford 32%,YES,6,0.0,0.0,0.0,DJ Turner II (p),158,0.209,0.209,0.582,0.0,17.0,2.0
+122518.0,Xavier Hutchinson,HOU,WR,BYE,,,7,0.0,0.0,0.0,"Cam Hart (p), Jalyn Armour-Davis",158,0.259,0.241,0.5,0.0,17.0,2.0
+123000.0,Jordan Addison,MIN,WR,DET,D.J. Reed 29%,YES,5,0.0,0.0,0.0,"D.J. Reed (p), Terrion Arnold (p)",155,0.335,0.329,0.335,0.0,14.0,2.0
+123085.0,Quentin Johnston,LAC,WR,LAR,,,5,0.0,0.0,0.0,"Adoree' Jackson (p), Pat Surtain II",154,0.461,0.37,0.169,0.0,14.0,2.0
+97108.0,Malik Washington,MIA,WR,NE,Charles Woods 33%; Christian Gonzalez 32%,YES,6,0.0,0.0,0.0,Jalen Davis (p),153,0.248,0.17,0.582,0.0,17.0,1.0
+143068.0,Jalen Coker,CAR,WR,GB,,,5,0.0,0.0,0.0,Jarvis Brownlee Jr.,153,0.275,0.261,0.464,0.0,11.0,1.0
+101694.0,Brenton Strange,JAX,TE,IND,Sauce Gardner 29%; Charvarius Ward 29%,,6,0.0,0.0,0.0,,147,0.082,0.068,0.395,0.456,12.0,0.0
+125155.0,Jaylin Noel,HOU,WR,BYE,,,7,0.0,0.0,0.0,Upton Stout (p),147,0.184,0.102,0.714,0.0,17.0,1.0
+144949.0,Keon Coleman,BUF,WR,BAL,,,6,0.0,0.0,0.0,A.J. Terrell (p),147,0.354,0.401,0.204,0.041,13.0,1.0
+83964.0,Kyle Pitts,ATL,TE,TB,,,7,0.0,0.0,0.0,,145,0.11,0.138,0.345,0.407,17.0,0.0
+84140.0,Khalil Shakir,BUF,WR,BAL,,,6,0.0,0.0,0.0,"Dee Alford (p), Marlon Humphrey",144,0.167,0.188,0.562,0.083,16.0,2.0
+11778.0,Evan Engram,DEN,TE,KC,,,7,0.0,0.0,0.0,,142,0.07,0.07,0.282,0.577,16.0,0.0
+84292.0,Jalen Nailor,LV,WR,NYJ,,,6,0.0,0.0,0.0,Javon Bullard (p),142,0.437,0.359,0.204,0.0,17.0,1.0
+144726.0,Gunnar Helm,TEN,TE,CIN,DJ Turner II 39%,,7,0.0,0.0,0.0,,141,0.043,0.078,0.596,0.284,16.0,0.0
+9579.0,Stefon Diggs,WAS,WR,PHI,,,5,0.0,0.0,0.0,,137,0.161,0.19,0.65,0.0,17.0,0.0
+9637.0,Darren Waller,CAR,TE,GB,,,6,0.0,0.0,0.0,,137,0.124,0.117,0.555,0.204,9.0,0.0
+48027.0,Jauan Jennings,MIN,WR,DET,D.J. Reed 29%,YES,5,0.0,0.0,0.0,,137,0.197,0.19,0.613,0.0,15.0,0.0
+145598.0,Konata Mumpfield,LAR,WR,LAC,,,7,0.0,0.0,0.0,A.J. Terrell (p),137,0.234,0.321,0.445,0.0,16.0,1.0
+156241.0,Antonio Williams,WAS,WR,PHI,,,6,0.0,0.0,0.0,,136,0.272,0.235,0.493,0.0,,
+91791.0,Dalton Kincaid,BUF,TE,BAL,,,6,0.0,0.0,0.0,,133,0.105,0.09,0.466,0.338,12.0,0.0
+48229.0,Terry McLaurin,WAS,WR,PHI,,,5,0.0,0.0,0.0,Paulson Adebo (p),132,0.432,0.341,0.227,0.0,10.0,1.0
+84068.0,Greg Dulcich,MIA,TE,NE,Charles Woods 33%; Christian Gonzalez 32%,,6,0.0,0.0,0.0,,126,0.056,0.063,0.206,0.675,10.0,0.0
+122676.0,Tre Harris,LAC,WR,LAR,,,5,0.0,0.0,0.0,,126,0.246,0.341,0.413,0.0,17.0,0.0
+8642.0,Mike Evans,SF,WR,BYE,,,6,0.0,0.0,0.0,"Rasul Douglas (p), Sauce Gardner (p), Derek Stingley Jr.",123,0.423,0.382,0.195,0.0,8.0,3.0
+124044.0,Darnell Washington,PIT,TE,CLE,,,7,0.0,0.0,0.0,,122,0.049,0.033,0.246,0.672,16.0,0.0
+144046.0,Oronde Gadsden II,LAC,TE,LAR,,,6,0.0,0.0,0.0,,122,0.09,0.131,0.369,0.41,15.0,0.0
+40912.0,T.J. Hockenson,MIN,TE,DET,D.J. Reed 29%,,6,0.0,0.0,0.0,,118,0.059,0.076,0.407,0.458,15.0,0.0
+143800.0,Dohnte Meyers,CIN,WR,TEN,,,6,0.0,0.0,0.0,,116,0.259,0.259,0.483,0.0,,
+77986.0,Dyami Brown,WAS,WR,PHI,,,6,0.0,0.0,0.0,,113,0.389,0.336,0.274,0.0,13.0,0.0
+84000.0,Chigoziem Okonkwo,WAS,TE,PHI,,,4,0.0,0.0,0.0,,111,0.054,0.099,0.477,0.369,17.0,0.0
+145773.0,Devontez Walker,BAL,WR,BUF,Christian Benford 32%,,6,0.0,0.0,0.0,,111,0.405,0.297,0.297,0.0,9.0,0.0
+84425.0,Brycen Tremayne,CAR,WR,GB,,,6,0.0,0.0,0.0,,108,0.38,0.315,0.306,0.0,16.0,0.0
+99218.0,Treylon Burks,WAS,WR,PHI,,,5,0.0,0.0,0.0,,108,0.315,0.398,0.287,0.0,8.0,0.0
+157122.0,Mason Taylor,NYJ,TE,LV,,,5,0.0,0.0,0.0,,106,0.028,0.038,0.453,0.481,13.0,0.0
+84025.0,Tommy Tremble,CAR,TE,GB,,,6,0.0,0.0,0.0,,104,0.019,0.019,0.385,0.577,17.0,0.0
+47272.0,Dallas Goedert,PHI,TE,WAS,,,4,0.0,0.0,0.0,,103,0.019,0.049,0.437,0.495,15.0,0.0
+48262.0,Calvin Ridley,TEN,WR,CIN,DJ Turner II 39%,,6,0.0,0.0,0.0,Pat Surtain II,101,0.366,0.455,0.178,0.0,7.0,1.0
+29049.0,Michael Pittman Jr.,PIT,WR,CLE,,,3,0.0,0.0,0.0,Pat Surtain II (p),99,0.333,0.404,0.263,0.0,17.0,1.0
+111284.0,Jalen Brooks,ARI,WR,DAL,,,6,0.0,0.0,0.0,,99,0.475,0.323,0.202,0.0,6.0,0.0
+174132.0,Kenyon Sadiq,NYJ,TE,LV,,,7,0.0,0.0,0.0,,99,0.061,0.152,0.333,0.455,,
+78092.0,Tyquan Thornton,KC,WR,DEN,Pat Surtain II 50%,,4,0.0,0.0,0.0,,98,0.378,0.327,0.276,0.02,14.0,0.0
+60995.0,Cole Kmet,CHI,TE,SEA,,,7,0.0,0.0,0.0,,97,0.124,0.103,0.103,0.67,16.0,0.0
+123709.0,Tez Johnson,TB,WR,ATL,,,7,0.0,0.0,0.0,Amik Robertson (p),96,0.427,0.198,0.375,0.0,16.0,1.0
+128374.0,Kyle Williams,NE,WR,MIA,,,7,0.0,0.0,0.0,,96,0.542,0.375,0.083,0.0,17.0,0.0
+48274.0,Deebo Samuel,SF,WR,BYE,,,5,0.0,0.0,0.0,,95,0.189,0.368,0.442,0.0,16.0,0.0
+97605.0,Rashee Rice,KC,WR,DEN,Pat Surtain II 50%,,4,0.0,0.0,0.0,,95,0.232,0.305,0.453,0.011,8.0,0.0
+160756.0,Kevin Coleman Jr.,MIA,WR,NE,Charles Woods 33%; Christian Gonzalez 32%,,6,0.0,0.0,0.0,,95,0.263,0.337,0.4,0.0,,
+124030.0,Ladd McConkey,LAC,WR,LAR,,,5,0.0,0.0,0.0,,94,0.266,0.266,0.457,0.011,16.0,0.0
+52266.0,Colby Parkinson,LAR,TE,LAC,,,6,0.0,0.0,0.0,,92,0.043,0.076,0.141,0.739,15.0,0.0
+144800.0,Pat Bryant,DEN,WR,KC,,,4,0.0,0.0,0.0,,91,0.242,0.308,0.451,0.0,15.0,0.0
+146567.0,Troy Franklin,DEN,WR,KC,,,7,0.0,0.0,0.0,Kenny Moore II (p),91,0.286,0.253,0.44,0.022,17.0,1.0
+35883.0,Dawson Knox,BUF,TE,BAL,,,6,0.0,0.0,0.0,,90,0.1,0.089,0.3,0.511,17.0,0.0
+61448.0,Cody White,LV,WR,NYJ,,,7,0.0,0.0,0.0,,89,0.449,0.315,0.236,0.0,9.0,0.0
+97400.0,John Metchie III,CAR,WR,GB,,,5,0.0,0.0,0.0,,89,0.225,0.247,0.528,0.0,15.0,0.0
+44920.0,Olamide Zaccheaus,ATL,WR,TB,,,6,0.0,0.0,0.0,,87,0.115,0.195,0.69,0.0,16.0,0.0
+100894.0,Jacob Cowing,SF,WR,BYE,,,7,0.0,0.0,0.0,,87,0.391,0.253,0.356,0.0,,
+122730.0,Jordan Watkins,SF,WR,BYE,,,5,0.0,0.0,0.0,,87,0.333,0.437,0.23,0.0,4.0,0.0
+144886.0,Tai Felton,MIN,WR,DET,D.J. Reed 29%,,4,0.0,0.0,0.0,,86,0.407,0.372,0.221,0.0,5.0,0.0
+48327.0,A.J. Brown,NE,WR,MIA,,,3,0.0,0.0,0.0,"Rock Ya-Sin (p), Paulson Adebo, Pat Surtain II",83,0.506,0.337,0.157,0.0,15.0,3.0
+141521.0,Efton Chism III,NE,WR,MIA,,,6,0.0,0.0,0.0,,81,0.21,0.37,0.407,0.012,6.0,0.0
+163442.0,Jalen Royals,KC,WR,DEN,Pat Surtain II 50%,,5,0.0,0.0,0.0,,81,0.37,0.321,0.272,0.037,4.0,0.0
+146712.0,Adonai Mitchell,NYJ,WR,LV,,,3,0.0,0.0,0.0,Mike Hughes (p),79,0.418,0.392,0.165,0.025,16.0,1.0
+156970.0,Eli Raridon,NE,TE,MIA,,,6,0.0,0.0,0.0,,76,0.105,0.145,0.342,0.408,,
+157740.0,Caleb Douglas,MIA,WR,NE,Charles Woods 33%; Christian Gonzalez 32%,YES,3,0.0,0.0,0.0,,76,0.316,0.474,0.211,0.0,,
+42388.0,Noah Fant,NO,TE,BYE,,,6,0.0,0.0,0.0,,75,0.067,0.067,0.16,0.707,15.0,0.0
+62979.0,Joshua Palmer,BUF,WR,BAL,,,5,0.0,0.0,0.0,,75,0.4,0.333,0.253,0.013,12.0,0.0
+77965.0,Tutu Atwell,LAR,WR,LAC,,,4,0.0,0.0,0.0,,75,0.2,0.133,0.667,0.0,10.0,0.0
+42353.0,Luke Farrell,SF,TE,BYE,,,7,0.0,0.0,0.0,,74,0.054,0.041,0.135,0.77,17.0,0.0
+60878.0,Noah Gray,KC,TE,DEN,Pat Surtain II 50%,,6,0.0,0.0,0.0,,73,0.123,0.11,0.247,0.521,16.0,0.0
+99691.0,Jared Wayne,MIA,WR,NE,Charles Woods 33%; Christian Gonzalez 32%,,6,0.0,0.0,0.0,,72,0.556,0.347,0.097,0.0,1.0,0.0
+147486.0,Mitchell Evans,CAR,TE,GB,,,6,0.0,0.0,0.0,,72,0.056,0.056,0.194,0.694,17.0,0.0
+48267.0,DJ Moore,BUF,WR,BAL,,,4,0.0,0.0,0.0,,71,0.366,0.352,0.282,0.0,17.0,0.0
+61610.0,Bo Melton,GB,WR,CAR,,,7,0.0,0.0,0.0,,71,0.268,0.282,0.451,0.0,9.0,0.0
+8655.0,Brandin Cooks,SF,WR,BYE,,,4,0.0,0.0,0.0,,69,0.435,0.29,0.275,0.0,15.0,0.0
+60917.0,Charlie Kolar,LAC,TE,LAR,,,4,0.0,0.0,0.0,,69,0.058,0.116,0.246,0.58,17.0,0.0
+176638.0,Ja'Kobi Lane,BAL,WR,BUF,Christian Benford 32%,,3,0.0,0.0,0.0,,68,0.5,0.338,0.162,0.0,,
+11855.0,Jonnu Smith,GB,TE,CAR,,,7,0.0,0.0,0.0,,67,0.045,0.09,0.403,0.463,17.0,0.0
+98027.0,Elijah Higgins,ARI,TE,DAL,,,7,0.0,0.0,0.0,,67,0.075,0.09,0.149,0.687,17.0,0.0
+129787.0,Theo Johnson,NYG,TE,BYE,,,5,0.0,0.0,0.0,,67,0.149,0.09,0.522,0.239,15.0,0.0
+12206.0,Johnny Mundt,PHI,TE,WAS,,,6,0.0,0.0,0.0,,66,0.045,0.061,0.409,0.485,15.0,0.0
+99697.0,Davis Allen,LAR,TE,LAC,,,7,0.0,0.0,0.0,,66,0.076,0.121,0.121,0.682,17.0,0.0
+47259.0,Drew Sample,CIN,TE,TEN,,,6,0.0,0.0,0.0,,63,0.0,0.016,0.079,0.905,17.0,0.0
+174142.0,Zachariah Branch,ATL,WR,TB,,,7,0.0,0.0,0.0,,62,0.29,0.194,0.516,0.0,,
+97116.0,Skyy Moore,GB,WR,CAR,,,5,0.0,0.0,0.0,,61,0.131,0.18,0.639,0.049,13.0,0.0
+97623.0,Jordan Whittington,LAR,WR,LAC,,,6,0.0,0.0,0.0,Jacob Parrish (p),61,0.082,0.213,0.689,0.016,16.0,1.0
+128232.0,Tory Horton,SEA,WR,CHI,,,6,0.0,0.0,0.0,Kindle Vildor (p),61,0.262,0.475,0.262,0.0,8.0,1.0
+7912.0,Kyle Juszczyk,SF,WR,BYE,,,6,0.0,0.0,0.0,,60,0.1,0.1,0.367,0.433,17.0,0.0
+42257.0,Charlie Woerner,ATL,TE,TB,,,6,0.0,0.0,0.0,,60,0.033,0.1,0.217,0.65,17.0,0.0
+102585.0,Xavier Smith,LAR,WR,LAC,,,3,0.0,0.0,0.0,"Devon Witherspoon (p), Upton Stout (p)",60,0.317,0.067,0.617,0.0,14.0,2.0
+144513.0,Josh Cameron,JAX,WR,IND,Sauce Gardner 29%; Charvarius Ward 29%,,6,0.0,0.0,0.0,,60,0.333,0.283,0.383,0.0,,
+163586.0,Isaiah Bond,CLE,WR,PIT,Asante Samuel Jr. 25%,,7,0.0,0.0,0.0,Carlton Davis III (p),60,0.15,0.1,0.733,0.017,16.0,1.0

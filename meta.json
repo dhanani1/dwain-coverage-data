@@ -6,13 +6,14 @@
   3,
   4,
   5,
-  6
+  6,
+  7
  ],
- "opp_week": 7,
- "games_in_latest_week": 14,
- "book_games_in_latest_week": 14,
- "built_at_utc": "2026-10-21T16:33:43.126508Z",
- "players": 468,
+ "opp_week": 8,
+ "games_in_latest_week": 12,
+ "book_games_in_latest_week": 13,
+ "built_at_utc": "2026-10-26T13:31:17.489595Z",
+ "players": 485,
  "defenses": 32,
  "manzone_lookup_cols": 83,
  "def_lookup_cols": 23,
@@ -20,8 +21,8 @@
  "align_cols": 4,
  "qbs": 45,
  "qb_cols": 122,
- "rbs": 80,
+ "rbs": 83,
  "rb_cols": 135,
- "manzone_rows": 467,
+ "manzone_rows": 485,
  "manzone_cols": 80
 }

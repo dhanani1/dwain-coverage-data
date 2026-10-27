@@ -7,7 +7,6 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 104155,Demario Douglas,NE,WR,7,2.0,17.0,1.0,"Jourdan Lewis, Devon Witherspoon, Jalen Ramsey",0.07,0.087,0.843,0.0,MIA
 146759,Malik Nabers,NYG,WR,7,2.0,4.0,0.0,"Derek Stingley Jr., Trent McDuffie",0.359,0.388,0.253,0.0,BYE
 48236,Darnell Mooney,NYG,WR,7,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.211,0.232,0.557,0.0,BYE
-148151,Bryce Lance,NO,WR,7,2.0,,,"Asante Samuel Jr., D.J. Reed",0.359,0.402,0.239,0.0,BYE
 145055,Emeka Egbuka,TB,WR,6,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.223,0.433,0.34,0.005,ATL
 61211,Tee Higgins,CIN,WR,6,1.0,15.0,2.0,"Jarrian Jones, Christian Gonzalez, Riley Moss",0.431,0.441,0.124,0.005,TEN
 101735,Wan'Dale Robinson,TEN,WR,7,1.0,16.0,2.0,"Myles Harden, Amik Robertson, Reddy Steward",0.124,0.124,0.751,0.0,CIN
@@ -25,6 +24,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 47153,Mike Gesicki,CIN,TE,6,1.0,13.0,0.0,Jourdan Lewis,0.047,0.085,0.86,0.008,TEN
 129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,CLE
 11873,Mack Hollins,NE,WR,4,1.0,15.0,0.0,Asante Samuel Jr.,0.233,0.467,0.3,0.0,MIA
+148151,Bryce Lance,NO,WR,7,1.0,,,Asante Samuel Jr.,0.359,0.402,0.239,0.0,BYE
 151069,Malachi Fields,NYG,WR,7,1.0,,,Jaylen Watson,0.463,0.343,0.194,0.0,BYE
 158374,Germie Bernard,PIT,WR,7,1.0,,,Charles Woods,0.162,0.366,0.466,0.005,CLE
 156321,Chris Bell,MIA,WR,6,1.0,,,DJ Turner II,0.43,0.413,0.157,0.0,NE

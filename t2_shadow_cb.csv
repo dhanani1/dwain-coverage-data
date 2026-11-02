@@ -1,89 +1,95 @@
-player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2025 G,2025 Shadow G,Shadowed,Left %,Right %,Slot %,Wk 8 Opp
-83119,Pat Surtain II,DEN,Yes,Both sides,No,4,1,14.0,8.0,"Davante Adams, Brian Thomas Jr., Christian Watson, Garrett Wilson, A.J. Brown",0.392,0.568,0.04,KC
-101376,DJ Turner II,CIN,Yes,Both sides,No,6,3,17.0,6.0,"Chris Bell, D.K. Metcalf, Emeka Egbuka, Zay Flowers, Romeo Doubs",0.47,0.496,0.034,TEN
-89148,Charles Woods,NE,Sometimes,Both sides,No,6,2,,,"Tim Patrick, Germie Bernard",0.279,0.667,0.054,MIA
-79181,Christian Benford,BUF,Yes,Both sides,No,5,1,14.0,5.0,"Nico Collins, Ja'Marr Chase, D.K. Metcalf, Drake London, Chris Olave",0.416,0.517,0.067,BAL
-26940,D.J. Reed,DET,Sometimes,Both sides,Yes,6,1,11.0,4.0,"Michael Wilson, Jordan Addison, Marquez Valdes-Scantling, Romeo Doubs, Jerry Jeudy",0.479,0.482,0.039,MIN
-100903,Sauce Gardner,IND,Sometimes,Right side,,6,0,11.0,5.0,"Drake London, Courtland Sutton, George Pickens, Mike Evans, D.K. Metcalf",0.005,0.934,0.06,JAX
-43034,Charvarius Ward,IND,Sometimes,Left side,No,7,1,7.0,3.0,"Justin Jefferson, Brian Thomas Jr., Nico Collins, Davante Adams",0.874,0.073,0.053,JAX
-131679,Christian Gonzalez,NE,Sometimes,Both sides,No,5,3,14.0,2.0,"Garrett Wilson, D.K. Metcalf, Jaxon Smith-Njigba, Tee Higgins, Emeka Egbuka",0.59,0.358,0.052,MIA
-76625,Asante Samuel Jr.,PIT,Sometimes,Both sides,No,7,3,5.0,0.0,"Bryce Lance, Jerry Jeudy, Mack Hollins",0.606,0.378,0.016,CLE
-40588,L'Jarius Sneed,KC,Sometimes,Slot,,6,0,7.0,3.0,"Marvin Harrison Jr., Nico Collins, Davante Adams",0.072,0.014,0.913,DEN
-55619,Amik Robertson,WAS,Sometimes,Both sides,,6,0,17.0,5.0,"KaVontae Turpin, Christian Watson, Wan'Dale Robinson, Justin Jefferson, Tez Johnson",0.233,0.591,0.177,PHI
-83259,Riley Moss,DEN,Sometimes,Both sides,,6,0,17.0,5.0,"Marquise Brown, Jakobi Meyers, Tee Higgins, Alec Pierce, Elic Ayomanor",0.572,0.401,0.027,KC
-65033,Akayleb Evans,CAR,Sometimes,Both sides,No,5,1,,,Darius Cooper,0.437,0.533,0.03,GB
-121906,Upton Stout,SF,Sometimes,Slot,,6,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,BYE
-11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,6,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.0,0.0,1.0,IND
-146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,6,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.456,0.513,0.032,BAL
-83176,Roger McCreary,DET,Sometimes,Slot,Yes,6,2,11.0,1.0,"Savion Williams, Kendrick Bourne, Christian Kirk",0.171,0.136,0.693,MIN
-55717,Marcus Jones,NE,Sometimes,Slot,Yes,7,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.072,0.222,0.706,MIA
-173110,Will Lee III,CAR,Sometimes,Both sides,No,6,1,,,DeVonta Smith,0.448,0.418,0.134,GB
-100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,7,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.009,0.991,KC
-101388,Devon Witherspoon,SEA,Sometimes,Outside + slot,Yes,7,1,12.0,2.0,"Demario Douglas, Xavier Smith, Greg Dortch",0.201,0.215,0.584,CHI
-131960,Jaylen Watson,LAR,Sometimes,Both sides,No,6,1,15.0,2.0,"Malachi Fields, Nico Collins, George Pickens",0.422,0.566,0.012,LAC
-146727,Kamari Lassiter,HOU,Sometimes,Right side,Yes,7,1,16.0,2.0,"Darnell Mooney, Brian Thomas Jr., Emeka Egbuka",0.078,0.766,0.156,BYE
-98253,Derek Stingley Jr.,HOU,Sometimes,Left side,No,7,1,17.0,2.0,"Malik Nabers, Courtland Sutton, Mike Evans",0.876,0.116,0.008,BYE
-97230,Marcus Harris,TEN,Sometimes,Slot,Yes,7,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.011,0.005,0.984,CIN
-72191,Trent McDuffie,LAR,Sometimes,Both sides,No,5,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.48,0.336,0.184,LAC
-34057,Mike Hughes,ATL,Sometimes,Both sides,,7,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.549,0.386,0.064,TB
-49564,Rock Ya-Sin,DET,Sometimes,Both sides,,4,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.462,0.49,0.048,MIN
-97486,Jarrian Jones,JAX,Sometimes,Both sides,No,6,1,14.0,1.0,"Tee Higgins, Christian Kirk",0.518,0.415,0.067,IND
-11854,Rasul Douglas,WAS,Sometimes,Both sides,,6,0,15.0,2.0,"Kayshon Boutte, Mike Evans",0.589,0.357,0.054,PHI
-83341,Greg Newsome II,NYG,Sometimes,Left side,No,6,2,17.0,0.0,"Elic Ayomanor, Davante Adams",0.846,0.132,0.022,BYE
-141857,Myles Harden,CLE,Sometimes,Slot,Yes,7,1,16.0,1.0,"Wan'Dale Robinson, Andrei Iosivas",0.005,0.027,0.968,PIT
-27069,Isaiah Rodgers,MIN,Sometimes,Both sides,,6,0,17.0,2.0,"Romeo Doubs, Jameson Williams",0.514,0.458,0.028,DET
-45644,Brandon Stephens,NYJ,Sometimes,Right side,,7,0,16.0,2.0,"Xavier Legette, Calvin Austin III",0.0,0.962,0.038,LV
-130628,Quinyon Mitchell,PHI,Sometimes,Right side,,7,0,16.0,2.0,"Courtland Sutton, Davante Adams",0.057,0.933,0.01,WAS
-146602,Kool-Aid McKinstry,NO,Sometimes,Both sides,No,7,1,17.0,1.0,"Justin Jefferson, Beaux Collins",0.477,0.514,0.009,BYE
-124075,Dru Phillips,NYG,Sometimes,Slot,,7,0,17.0,2.0,"Tyler Lockett, Jalen Tolbert",0.0,0.006,0.994,BYE
-97676,Josh Wallace,LAR,No,Outside + slot,,7,1,6.0,0.0,,0.226,0.21,0.565,LAC
-160766,Travis Hunter,JAX,No,Both sides,,6,1,7.0,0.0,,0.464,0.521,0.016,IND
-99734,Jarvis Brownlee Jr.,NYJ,No,Slot,,6,0,9.0,1.0,,0.008,0.016,0.977,LV
-146704,Jason Marshall Jr.,MIA,No,Both sides,,6,0,12.0,1.0,,0.431,0.562,0.007,NE
-101384,Deonte Banks,NYG,No,Right side,,5,1,14.0,0.0,,0.101,0.886,0.013,BYE
-34918,Jamel Dean,PIT,No,Both sides,,6,1,14.0,0.0,,0.333,0.621,0.046,CLE
-98834,Cor'Dale Flott,TEN,No,Both sides,,6,0,14.0,1.0,,0.588,0.407,0.005,CIN
-110542,Dee Alford,BUF,No,Slot,,5,0,15.0,1.0,,0.034,0.034,0.932,BAL
-99773,Renardo Green,SF,No,Both sides,,7,1,14.0,0.0,,0.484,0.516,0.0,BYE
-129537,Tarheeb Still,LAC,No,Outside + slot,,6,0,15.0,1.0,,0.303,0.174,0.523,LAR
-11771,Marlon Humphrey,BAL,No,Right side,,7,0,15.0,1.0,,0.014,0.957,0.028,BUF
-97539,Quincy Riley,NO,No,Both sides,,7,0,15.0,1.0,,0.45,0.545,0.005,BYE
-102955,Cam Hart,LAC,No,Both sides,,6,0,16.0,1.0,,0.34,0.647,0.013,LAR
-44027,Byron Murphy Jr.,MIN,No,Outside + slot,,6,0,17.0,1.0,,0.321,0.285,0.394,DET
-83122,Josh Jobe,SEA,No,Both sides,,7,0,16.0,1.0,,0.472,0.502,0.026,CHI
-157777,Jacob Parrish,TB,No,Right side,,6,0,17.0,1.0,,0.0,0.995,0.005,ATL
-144143,Nate Wiggins,BAL,No,Left side,,7,0,17.0,1.0,,0.949,0.008,0.043,BUF
-49511,Taron Johnson,LV,No,Slot,,7,0,13.0,0.0,,0.0,0.0,1.0,NYJ
-49558,Denzel Ward,CLE,No,Left side,,7,0,15.0,0.0,,0.905,0.079,0.016,PIT
-55593,CJ Henderson,ATL,No,Both sides,,6,0,,,,0.399,0.585,0.016,TB
-55686,Deommodore Lenoir,SF,No,Both sides,,7,0,17.0,0.0,,0.415,0.415,0.171,BYE
-55912,Eric Stokes,LV,No,Left side,,7,0,16.0,0.0,,0.987,0.0,0.013,NYJ
-56158,DaRon Bland,DAL,No,Both sides,,7,0,12.0,0.0,,0.493,0.48,0.026,ARI
-56167,Keisean Nixon,GB,No,Left side,,7,0,17.0,0.0,,1.0,0.0,0.0,CAR
-56259,Jaylon Johnson,CHI,No,Left side,,7,0,7.0,0.0,,0.951,0.0,0.049,SEA
-61790,Tariq Woolen,PHI,No,Left side,,7,0,16.0,0.0,,0.939,0.053,0.008,WAS
-66769,Zyon McCollum,TB,No,Left side,,7,0,13.0,0.0,,0.976,0.0,0.024,ATL
-83217,Tyson Campbell,CLE,No,Right side,,6,0,17.0,0.0,,0.0,0.959,0.041,PIT
-83256,JuJu Brents,MIA,No,Both sides,,6,0,,,,0.299,0.701,0.0,NE
-83469,Alontae Taylor,TEN,No,Both sides,,5,0,17.0,0.0,,0.331,0.669,0.0,CIN
-97180,Mike Sainristil,WAS,No,Slot,,6,0,17.0,0.0,,0.336,0.028,0.636,PHI
-97519,Dax Hill,CIN,No,Outside + slot,,6,0,17.0,0.0,,0.271,0.243,0.486,TEN
-97562,Tyrique Stevenson,CHI,No,Right side,,6,0,13.0,0.0,,0.0,0.958,0.042,SEA
-98875,Nehemiah Pritchett,SEA,No,Both sides,,7,0,,,,0.516,0.484,0.0,CHI
-123105,Jahdae Barron,DEN,No,Both sides,,7,0,17.0,0.0,,0.364,0.443,0.193,KC
-124194,Kris Abrams-Draine,DEN,No,Both sides,,4,0,8.0,0.0,,0.507,0.493,0.0,KC
-128375,Nohl Williams,KC,No,Left side,,6,0,14.0,0.0,,0.807,0.168,0.025,DEN
-129889,Max Melton,ARI,No,Both sides,,6,0,9.0,0.0,,0.434,0.557,0.008,DAL
-144638,Billy Bowman Jr.,ATL,No,Slot,,4,0,6.0,0.0,,0.01,0.0,0.99,TB
-144980,Justin Walley,IND,No,Slot,,7,0,,,,0.141,0.079,0.78,JAX
-145070,Denzel Burke,ARI,No,Both sides,,7,0,15.0,0.0,,0.449,0.411,0.141,DAL
-156277,Azareye'h Thomas,NYJ,No,Left side,,7,0,7.0,0.0,,0.983,0.004,0.013,LV
-156555,Hezekiah Masses,LV,No,Right side,,7,0,,,,0.0,0.904,0.096,NYJ
-157079,Daylen Everette,PIT,No,Both sides,,5,0,,,,0.39,0.54,0.07,CLE
-157129,Davison Igbinosun,BUF,No,Both sides,,6,0,,,,0.558,0.408,0.034,BAL
-157650,Mansoor Delane,KC,No,Right side,,5,0,,,,0.0,0.966,0.034,DEN
-158794,Chris Johnson,MIA,No,Outside + slot,,6,0,,,,0.409,0.006,0.585,NE
-163644,Keionte Scott,TB,No,Slot,,7,0,,,,0.0,0.0,1.0,ATL
-170031,Avieon Terrell,ATL,No,Outside + slot,,6,0,,,,0.363,0.319,0.319,TB
-170368,Brandon Cisse,GB,No,Right side,,7,0,,,,0.0,1.0,0.0,CAR
-173165,Malik Muhammad,CHI,No,Outside + slot,,7,0,,,,0.027,0.565,0.408,SEA
+player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2025 G,2025 Shadow G,Shadowed,Left %,Right %,Slot %,Wk 9 Opp
+156083,Joshua Williams,TEN,Sometimes,Both sides,No,3,2,,,"Tee Higgins, Denzel Boston",0.523,0.462,0.015,BYE
+83119,Pat Surtain II,DEN,Yes,Both sides,No,5,1,14.0,8.0,"Davante Adams, Brian Thomas Jr., Christian Watson, Garrett Wilson, A.J. Brown",0.436,0.534,0.031,CAR
+101376,DJ Turner II,CIN,Yes,Both sides,No,7,3,17.0,6.0,"Chris Bell, D.K. Metcalf, Emeka Egbuka, Zay Flowers, Romeo Doubs",0.502,0.468,0.03,ATL
+79181,Christian Benford,BUF,Yes,Both sides,No,6,1,14.0,5.0,"Nico Collins, Ja'Marr Chase, D.K. Metcalf, Drake London, Chris Olave",0.49,0.442,0.067,MIN
+89148,Charles Woods,NE,Sometimes,Both sides,No,7,2,,,"Tim Patrick, Germie Bernard",0.277,0.669,0.054,GB
+26940,D.J. Reed,DET,Sometimes,Both sides,Yes,7,1,11.0,4.0,"Michael Wilson, Jordan Addison, Marquez Valdes-Scantling, Romeo Doubs, Jerry Jeudy",0.479,0.486,0.035,MIA
+100903,Sauce Gardner,IND,Sometimes,Right side,,7,0,11.0,5.0,"Drake London, Courtland Sutton, George Pickens, Mike Evans, D.K. Metcalf",0.005,0.926,0.069,DAL
+43034,Charvarius Ward,IND,Sometimes,Left side,No,8,1,7.0,3.0,"Justin Jefferson, Brian Thomas Jr., Nico Collins, Davante Adams",0.885,0.066,0.049,DAL
+131679,Christian Gonzalez,NE,Sometimes,Both sides,No,6,3,14.0,2.0,"Garrett Wilson, D.K. Metcalf, Jaxon Smith-Njigba, Tee Higgins, Emeka Egbuka",0.573,0.383,0.044,GB
+76625,Asante Samuel Jr.,PIT,Sometimes,Both sides,No,8,3,5.0,0.0,"Bryce Lance, Jerry Jeudy, Mack Hollins",0.611,0.372,0.017,BYE
+40588,L'Jarius Sneed,KC,Sometimes,Slot,,6,0,7.0,3.0,"Marvin Harrison Jr., Nico Collins, Davante Adams",0.072,0.014,0.913,NYJ
+55619,Amik Robertson,WAS,Sometimes,Outside + slot,,7,0,17.0,5.0,"KaVontae Turpin, Christian Watson, Wan'Dale Robinson, Justin Jefferson, Tez Johnson",0.23,0.548,0.222,LAR
+83259,Riley Moss,DEN,Sometimes,Both sides,,7,0,17.0,5.0,"Marquise Brown, Jakobi Meyers, Tee Higgins, Alec Pierce, Elic Ayomanor",0.537,0.441,0.022,CAR
+65033,Akayleb Evans,CAR,Sometimes,Both sides,No,5,1,,,Darius Cooper,0.437,0.533,0.03,DEN
+121906,Upton Stout,SF,Sometimes,Slot,,6,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,LV
+11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,7,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.005,0.0,0.995,BAL
+146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,7,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.442,0.527,0.03,MIN
+55717,Marcus Jones,NE,Sometimes,Slot,Yes,8,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.063,0.195,0.741,GB
+100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,8,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.008,0.992,CAR
+101388,Devon Witherspoon,SEA,Sometimes,Outside + slot,Yes,7,1,12.0,2.0,"Demario Douglas, Xavier Smith, Greg Dortch",0.201,0.215,0.584,ARI
+173110,Will Lee III,CAR,Sometimes,Both sides,No,7,1,,,DeVonta Smith,0.449,0.425,0.126,DEN
+49335,Carlton Davis III,NE,Sometimes,Both sides,No,4,1,17.0,2.0,"Rashid Shaheed, Isaiah Bond, D.K. Metcalf",0.613,0.361,0.025,GB
+131960,Jaylen Watson,LAR,Sometimes,Both sides,No,7,1,15.0,2.0,"Malachi Fields, Nico Collins, George Pickens",0.446,0.539,0.016,WAS
+146727,Kamari Lassiter,HOU,Sometimes,Right side,Yes,7,1,16.0,2.0,"Darnell Mooney, Brian Thomas Jr., Emeka Egbuka",0.078,0.766,0.156,LAC
+98253,Derek Stingley Jr.,HOU,Sometimes,Left side,No,7,1,17.0,2.0,"Malik Nabers, Courtland Sutton, Mike Evans",0.876,0.116,0.008,LAC
+97230,Marcus Harris,TEN,Sometimes,Slot,Yes,8,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.01,0.01,0.979,BYE
+83176,Roger McCreary,DET,Sometimes,Slot,Yes,7,1,11.0,1.0,"Kendrick Bourne, Christian Kirk",0.173,0.147,0.68,MIA
+72191,Trent McDuffie,LAR,Sometimes,Outside + slot,No,6,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.463,0.337,0.2,WAS
+34057,Mike Hughes,ATL,Sometimes,Both sides,,8,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.54,0.38,0.08,CIN
+49564,Rock Ya-Sin,DET,Sometimes,Both sides,,5,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.474,0.474,0.052,MIA
+97486,Jarrian Jones,JAX,Sometimes,Both sides,No,7,1,14.0,1.0,"Tee Higgins, Christian Kirk",0.502,0.41,0.088,BAL
+11854,Rasul Douglas,WAS,Sometimes,Both sides,,7,0,15.0,2.0,"Kayshon Boutte, Mike Evans",0.579,0.374,0.046,LAR
+83341,Greg Newsome II,NYG,Sometimes,Left side,No,6,2,17.0,0.0,"Elic Ayomanor, Davante Adams",0.846,0.132,0.022,PHI
+141857,Myles Harden,CLE,Sometimes,Slot,Yes,8,1,16.0,1.0,"Wan'Dale Robinson, Andrei Iosivas",0.005,0.025,0.97,NO
+146602,Kool-Aid McKinstry,NO,Sometimes,Both sides,No,7,1,17.0,1.0,"Justin Jefferson, Beaux Collins",0.477,0.514,0.009,CLE
+27069,Isaiah Rodgers,MIN,Sometimes,Both sides,,7,0,17.0,2.0,"Romeo Doubs, Jameson Williams",0.545,0.43,0.025,BUF
+45644,Brandon Stephens,NYJ,Sometimes,Right side,,8,0,16.0,2.0,"Xavier Legette, Calvin Austin III",0.0,0.962,0.038,KC
+124075,Dru Phillips,NYG,Sometimes,Slot,,7,0,17.0,2.0,"Tyler Lockett, Jalen Tolbert",0.0,0.006,0.994,PHI
+130628,Quinyon Mitchell,PHI,Sometimes,Right side,,8,0,16.0,2.0,"Courtland Sutton, Davante Adams",0.118,0.857,0.025,NYG
+97676,Josh Wallace,LAR,No,Outside + slot,,8,1,6.0,0.0,,0.236,0.241,0.524,WAS
+160766,Travis Hunter,JAX,No,Both sides,,7,1,7.0,0.0,,0.453,0.529,0.018,BAL
+99734,Jarvis Brownlee Jr.,NYJ,No,Slot,,7,0,9.0,1.0,,0.014,0.021,0.964,KC
+101384,Deonte Banks,NYG,No,Right side,,5,1,14.0,0.0,,0.101,0.886,0.013,PHI
+146704,Jason Marshall Jr.,MIA,No,Both sides,,7,0,12.0,1.0,,0.429,0.565,0.006,DET
+110542,Dee Alford,BUF,No,Slot,,5,0,15.0,1.0,,0.034,0.034,0.932,MIN
+34918,Jamel Dean,PIT,No,Both sides,,7,1,14.0,0.0,,0.336,0.623,0.041,BYE
+99773,Renardo Green,SF,No,Both sides,,7,1,14.0,0.0,,0.484,0.516,0.0,LV
+98834,Cor'Dale Flott,TEN,No,Both sides,,7,0,14.0,1.0,,0.562,0.426,0.013,BYE
+97539,Quincy Riley,NO,No,Both sides,,7,0,15.0,1.0,,0.45,0.545,0.005,CLE
+129537,Tarheeb Still,LAC,No,Outside + slot,,7,0,15.0,1.0,,0.276,0.161,0.563,HOU
+11771,Marlon Humphrey,BAL,No,Right side,,8,0,15.0,1.0,,0.039,0.936,0.026,JAX
+83122,Josh Jobe,SEA,No,Both sides,,7,0,16.0,1.0,,0.472,0.502,0.026,ARI
+102955,Cam Hart,LAC,No,Both sides,,7,0,16.0,1.0,,0.348,0.635,0.017,HOU
+44027,Byron Murphy Jr.,MIN,No,Outside + slot,,7,0,17.0,1.0,,0.321,0.332,0.348,BUF
+157777,Jacob Parrish,TB,No,Right side,,7,0,17.0,1.0,,0.0,0.996,0.004,CHI
+144143,Nate Wiggins,BAL,No,Left side,,8,0,17.0,1.0,,0.949,0.007,0.044,JAX
+42894,Kristian Fulton,KC,No,Both sides,,6,0,8.0,0.0,,0.4,0.571,0.029,NYJ
+49511,Taron Johnson,LV,No,Slot,,8,0,13.0,0.0,,0.0,0.0,1.0,SF
+49558,Denzel Ward,CLE,No,Left side,,8,0,15.0,0.0,,0.906,0.08,0.014,NO
+55593,CJ Henderson,ATL,No,Both sides,,7,0,,,,0.405,0.579,0.015,CIN
+55686,Deommodore Lenoir,SF,No,Both sides,,7,0,17.0,0.0,,0.415,0.415,0.171,LV
+55797,Montaric Brown,JAX,No,Both sides,,5,0,14.0,0.0,,0.505,0.465,0.03,BAL
+55912,Eric Stokes,LV,No,Left side,,8,0,16.0,0.0,,0.981,0.0,0.019,SF
+56158,DaRon Bland,DAL,No,Both sides,,8,0,12.0,0.0,,0.512,0.466,0.021,IND
+56167,Keisean Nixon,GB,No,Left side,,8,0,17.0,0.0,,0.997,0.0,0.003,NE
+56259,Jaylon Johnson,CHI,No,Left side,,7,0,7.0,0.0,,0.951,0.0,0.049,TB
+60649,James Pierre,MIN,No,Both sides,,7,0,10.0,0.0,,0.379,0.592,0.029,BUF
+61790,Tariq Woolen,PHI,No,Left side,,8,0,16.0,0.0,,0.874,0.119,0.007,NYG
+66769,Zyon McCollum,TB,No,Left side,,8,0,13.0,0.0,,0.978,0.0,0.022,CHI
+83217,Tyson Campbell,CLE,No,Right side,,7,0,17.0,0.0,,0.0,0.962,0.038,NO
+83256,JuJu Brents,MIA,No,Both sides,,7,0,,,,0.3,0.7,0.0,DET
+83469,Alontae Taylor,TEN,No,Both sides,,6,0,17.0,0.0,,0.271,0.553,0.176,BYE
+97180,Mike Sainristil,WAS,No,Slot,,6,0,17.0,0.0,,0.336,0.028,0.636,LAR
+97519,Dax Hill,CIN,No,Outside + slot,,7,0,17.0,0.0,,0.264,0.3,0.436,ATL
+97562,Tyrique Stevenson,CHI,No,Right side,,6,0,13.0,0.0,,0.0,0.958,0.042,TB
+98875,Nehemiah Pritchett,SEA,No,Both sides,,7,0,,,,0.516,0.484,0.0,ARI
+104163,Kei'Trel Clark,ARI,No,Both sides,,8,0,10.0,0.0,,0.523,0.477,0.0,SEA
+123105,Jahdae Barron,DEN,No,Both sides,,7,0,17.0,0.0,,0.364,0.443,0.193,CAR
+124194,Kris Abrams-Draine,DEN,No,Both sides,,4,0,8.0,0.0,,0.507,0.493,0.0,CAR
+128375,Nohl Williams,KC,No,Left side,,7,0,14.0,0.0,,0.829,0.15,0.021,NYJ
+129889,Max Melton,ARI,No,Both sides,,7,0,9.0,0.0,,0.456,0.537,0.007,SEA
+144638,Billy Bowman Jr.,ATL,No,Slot,,4,0,6.0,0.0,,0.01,0.0,0.99,CIN
+144980,Justin Walley,IND,No,Slot,,7,0,,,,0.141,0.079,0.78,DAL
+145070,Denzel Burke,ARI,No,Both sides,,8,0,15.0,0.0,,0.453,0.425,0.121,SEA
+156277,Azareye'h Thomas,NYJ,No,Left side,,8,0,7.0,0.0,,0.981,0.004,0.015,KC
+156555,Hezekiah Masses,LV,No,Right side,,8,0,,,,0.0,0.912,0.088,SF
+157079,Daylen Everette,PIT,No,Both sides,,6,0,,,,0.367,0.514,0.119,BYE
+157129,Davison Igbinosun,BUF,No,Both sides,,7,0,,,,0.485,0.467,0.047,MIN
+157650,Mansoor Delane,KC,No,Right side,,5,0,,,,0.0,0.966,0.034,NYJ
+158794,Chris Johnson,MIA,No,Outside + slot,,7,0,,,,0.415,0.005,0.579,DET
+163644,Keionte Scott,TB,No,Slot,,8,0,,,,0.0,0.0,1.0,CHI
+170031,Avieon Terrell,ATL,No,Outside + slot,,6,0,,,,0.363,0.319,0.319,CIN
+170368,Brandon Cisse,GB,No,Right side,,8,0,,,,0.0,1.0,0.0,NE
+173165,Malik Muhammad,CHI,No,Outside + slot,,7,0,,,,0.027,0.565,0.408,TB

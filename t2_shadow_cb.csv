@@ -10,12 +10,13 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 131679,Christian Gonzalez,NE,Sometimes,Both sides,No,6,3,14.0,2.0,"Garrett Wilson, D.K. Metcalf, Jaxon Smith-Njigba, Tee Higgins, Emeka Egbuka",0.573,0.383,0.044,GB
 76625,Asante Samuel Jr.,PIT,Sometimes,Both sides,No,8,3,5.0,0.0,"Bryce Lance, Jerry Jeudy, Mack Hollins",0.611,0.372,0.017,BYE
 40588,L'Jarius Sneed,KC,Sometimes,Slot,,6,0,7.0,3.0,"Marvin Harrison Jr., Nico Collins, Davante Adams",0.072,0.014,0.913,NYJ
-55619,Amik Robertson,WAS,Sometimes,Outside + slot,,7,0,17.0,5.0,"KaVontae Turpin, Christian Watson, Wan'Dale Robinson, Justin Jefferson, Tez Johnson",0.23,0.548,0.222,LAR
+55619,Amik Robertson,WAS,Sometimes,Outside + slot,,7,0,17.0,5.0,"KaVontae Turpin, Christian Watson, Wan'Dale Robinson, Justin Jefferson, Tez Johnson",0.231,0.552,0.216,LAR
 83259,Riley Moss,DEN,Sometimes,Both sides,,7,0,17.0,5.0,"Marquise Brown, Jakobi Meyers, Tee Higgins, Alec Pierce, Elic Ayomanor",0.537,0.441,0.022,CAR
 65033,Akayleb Evans,CAR,Sometimes,Both sides,No,5,1,,,Darius Cooper,0.437,0.533,0.03,DEN
 121906,Upton Stout,SF,Sometimes,Slot,,6,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,LV
 11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,7,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.005,0.0,0.995,BAL
 146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,7,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.442,0.527,0.03,MIN
+83176,Roger McCreary,DET,Sometimes,Slot,Yes,7,2,11.0,1.0,"Savion Williams, Kendrick Bourne, Christian Kirk",0.173,0.147,0.68,MIA
 55717,Marcus Jones,NE,Sometimes,Slot,Yes,8,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.063,0.195,0.741,GB
 100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,8,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.008,0.992,CAR
 101388,Devon Witherspoon,SEA,Sometimes,Outside + slot,Yes,7,1,12.0,2.0,"Demario Douglas, Xavier Smith, Greg Dortch",0.201,0.215,0.584,ARI
@@ -25,12 +26,11 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 146727,Kamari Lassiter,HOU,Sometimes,Right side,Yes,7,1,16.0,2.0,"Darnell Mooney, Brian Thomas Jr., Emeka Egbuka",0.078,0.766,0.156,LAC
 98253,Derek Stingley Jr.,HOU,Sometimes,Left side,No,7,1,17.0,2.0,"Malik Nabers, Courtland Sutton, Mike Evans",0.876,0.116,0.008,LAC
 97230,Marcus Harris,TEN,Sometimes,Slot,Yes,8,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.01,0.01,0.979,BYE
-83176,Roger McCreary,DET,Sometimes,Slot,Yes,7,1,11.0,1.0,"Kendrick Bourne, Christian Kirk",0.173,0.147,0.68,MIA
 72191,Trent McDuffie,LAR,Sometimes,Outside + slot,No,6,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.463,0.337,0.2,WAS
 34057,Mike Hughes,ATL,Sometimes,Both sides,,8,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.54,0.38,0.08,CIN
 49564,Rock Ya-Sin,DET,Sometimes,Both sides,,5,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.474,0.474,0.052,MIA
 97486,Jarrian Jones,JAX,Sometimes,Both sides,No,7,1,14.0,1.0,"Tee Higgins, Christian Kirk",0.502,0.41,0.088,BAL
-11854,Rasul Douglas,WAS,Sometimes,Both sides,,7,0,15.0,2.0,"Kayshon Boutte, Mike Evans",0.579,0.374,0.046,LAR
+11854,Rasul Douglas,WAS,Sometimes,Both sides,,7,0,15.0,2.0,"Kayshon Boutte, Mike Evans",0.585,0.369,0.046,LAR
 83341,Greg Newsome II,NYG,Sometimes,Left side,No,6,2,17.0,0.0,"Elic Ayomanor, Davante Adams",0.846,0.132,0.022,PHI
 141857,Myles Harden,CLE,Sometimes,Slot,Yes,8,1,16.0,1.0,"Wan'Dale Robinson, Andrei Iosivas",0.005,0.025,0.97,NO
 146602,Kool-Aid McKinstry,NO,Sometimes,Both sides,No,7,1,17.0,1.0,"Justin Jefferson, Beaux Collins",0.477,0.514,0.009,CLE

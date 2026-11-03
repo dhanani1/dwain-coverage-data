@@ -16,16 +16,16 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 121906,Upton Stout,SF,Sometimes,Slot,,6,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,LV
 11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,7,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.005,0.0,0.995,BAL
 146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,7,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.442,0.527,0.03,MIN
-83176,Roger McCreary,DET,Sometimes,Slot,Yes,7,2,11.0,1.0,"Savion Williams, Kendrick Bourne, Christian Kirk",0.173,0.147,0.68,MIA
 55717,Marcus Jones,NE,Sometimes,Slot,Yes,8,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.063,0.195,0.741,GB
 100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,8,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.008,0.992,CAR
-101388,Devon Witherspoon,SEA,Sometimes,Outside + slot,Yes,7,1,12.0,2.0,"Demario Douglas, Xavier Smith, Greg Dortch",0.201,0.215,0.584,ARI
+101388,Devon Witherspoon,SEA,Sometimes,Outside + slot,Yes,8,1,12.0,2.0,"Demario Douglas, Xavier Smith, Greg Dortch",0.23,0.23,0.54,ARI
 173110,Will Lee III,CAR,Sometimes,Both sides,No,7,1,,,DeVonta Smith,0.449,0.425,0.126,DEN
 49335,Carlton Davis III,NE,Sometimes,Both sides,No,4,1,17.0,2.0,"Rashid Shaheed, Isaiah Bond, D.K. Metcalf",0.613,0.361,0.025,GB
 131960,Jaylen Watson,LAR,Sometimes,Both sides,No,7,1,15.0,2.0,"Malachi Fields, Nico Collins, George Pickens",0.446,0.539,0.016,WAS
 146727,Kamari Lassiter,HOU,Sometimes,Right side,Yes,7,1,16.0,2.0,"Darnell Mooney, Brian Thomas Jr., Emeka Egbuka",0.078,0.766,0.156,LAC
 98253,Derek Stingley Jr.,HOU,Sometimes,Left side,No,7,1,17.0,2.0,"Malik Nabers, Courtland Sutton, Mike Evans",0.876,0.116,0.008,LAC
 97230,Marcus Harris,TEN,Sometimes,Slot,Yes,8,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.01,0.01,0.979,BYE
+83176,Roger McCreary,DET,Sometimes,Slot,Yes,7,1,11.0,1.0,"Kendrick Bourne, Christian Kirk",0.173,0.147,0.68,MIA
 72191,Trent McDuffie,LAR,Sometimes,Outside + slot,No,6,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.463,0.337,0.2,WAS
 34057,Mike Hughes,ATL,Sometimes,Both sides,,8,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.54,0.38,0.08,CIN
 49564,Rock Ya-Sin,DET,Sometimes,Both sides,,5,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.474,0.474,0.052,MIA
@@ -50,9 +50,9 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 97539,Quincy Riley,NO,No,Both sides,,7,0,15.0,1.0,,0.45,0.545,0.005,CLE
 129537,Tarheeb Still,LAC,No,Outside + slot,,7,0,15.0,1.0,,0.276,0.161,0.563,HOU
 11771,Marlon Humphrey,BAL,No,Right side,,8,0,15.0,1.0,,0.039,0.936,0.026,JAX
-83122,Josh Jobe,SEA,No,Both sides,,7,0,16.0,1.0,,0.472,0.502,0.026,ARI
 102955,Cam Hart,LAC,No,Both sides,,7,0,16.0,1.0,,0.348,0.635,0.017,HOU
 44027,Byron Murphy Jr.,MIN,No,Outside + slot,,7,0,17.0,1.0,,0.321,0.332,0.348,BUF
+83122,Josh Jobe,SEA,No,Both sides,,8,0,16.0,1.0,,0.46,0.513,0.027,ARI
 157777,Jacob Parrish,TB,No,Right side,,7,0,17.0,1.0,,0.0,0.996,0.004,CHI
 144143,Nate Wiggins,BAL,No,Left side,,8,0,17.0,1.0,,0.949,0.007,0.044,JAX
 42894,Kristian Fulton,KC,No,Both sides,,6,0,8.0,0.0,,0.4,0.571,0.029,NYJ
@@ -64,7 +64,7 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 55912,Eric Stokes,LV,No,Left side,,8,0,16.0,0.0,,0.981,0.0,0.019,SF
 56158,DaRon Bland,DAL,No,Both sides,,8,0,12.0,0.0,,0.512,0.466,0.021,IND
 56167,Keisean Nixon,GB,No,Left side,,8,0,17.0,0.0,,0.997,0.0,0.003,NE
-56259,Jaylon Johnson,CHI,No,Left side,,7,0,7.0,0.0,,0.951,0.0,0.049,TB
+56259,Jaylon Johnson,CHI,No,Left side,,8,0,7.0,0.0,,0.95,0.0,0.05,TB
 60649,James Pierre,MIN,No,Both sides,,7,0,10.0,0.0,,0.379,0.592,0.029,BUF
 61790,Tariq Woolen,PHI,No,Left side,,8,0,16.0,0.0,,0.874,0.119,0.007,NYG
 66769,Zyon McCollum,TB,No,Left side,,8,0,13.0,0.0,,0.978,0.0,0.022,CHI
@@ -73,8 +73,8 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 83469,Alontae Taylor,TEN,No,Both sides,,6,0,17.0,0.0,,0.271,0.553,0.176,BYE
 97180,Mike Sainristil,WAS,No,Slot,,6,0,17.0,0.0,,0.336,0.028,0.636,LAR
 97519,Dax Hill,CIN,No,Outside + slot,,7,0,17.0,0.0,,0.264,0.3,0.436,ATL
-97562,Tyrique Stevenson,CHI,No,Right side,,6,0,13.0,0.0,,0.0,0.958,0.042,TB
-98875,Nehemiah Pritchett,SEA,No,Both sides,,7,0,,,,0.516,0.484,0.0,ARI
+97562,Tyrique Stevenson,CHI,No,Right side,,7,0,13.0,0.0,,0.0,0.959,0.041,TB
+98875,Nehemiah Pritchett,SEA,No,Both sides,,8,0,,,,0.525,0.475,0.0,ARI
 104163,Kei'Trel Clark,ARI,No,Both sides,,8,0,10.0,0.0,,0.523,0.477,0.0,SEA
 123105,Jahdae Barron,DEN,No,Both sides,,7,0,17.0,0.0,,0.364,0.443,0.193,CAR
 124194,Kris Abrams-Draine,DEN,No,Both sides,,4,0,8.0,0.0,,0.507,0.493,0.0,CAR

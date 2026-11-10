@@ -2,7 +2,7 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 156083,Joshua Williams,TEN,Sometimes,Both sides,No,3,2,,,"Tee Higgins, Denzel Boston",0.523,0.462,0.015,JAX
 83119,Pat Surtain II,DEN,Yes,Both sides,No,6,2,14.0,8.0,"Tetairoa McMillan, Davante Adams, Brian Thomas Jr., Christian Watson, Garrett Wilson",0.417,0.554,0.029,BYE
 101376,DJ Turner II,CIN,Yes,Both sides,No,8,3,17.0,6.0,"Chris Bell, D.K. Metcalf, Emeka Egbuka, Zay Flowers, Romeo Doubs",0.517,0.446,0.037,PIT
-131679,Christian Gonzalez,NE,Yes,Both sides,No,7,5,14.0,2.0,"Matthew Golden, Garrett Wilson, Brian Thomas Jr., D.K. Metcalf, Jaxon Smith-Njigba",0.567,0.392,0.042,DET
+131679,Christian Gonzalez,NE,Sometimes,Both sides,No,7,4,14.0,2.0,"Matthew Golden, Garrett Wilson, D.K. Metcalf, Jaxon Smith-Njigba, Tee Higgins",0.567,0.392,0.042,DET
 89148,Charles Woods,NE,Sometimes,Both sides,No,7,2,,,"Tim Patrick, Germie Bernard",0.277,0.669,0.054,DET
 79181,Christian Benford,BUF,Sometimes,Both sides,No,7,1,14.0,5.0,"Nico Collins, Ja'Marr Chase, D.K. Metcalf, Drake London, Chris Olave",0.493,0.444,0.062,NYJ
 26940,D.J. Reed,DET,Sometimes,Both sides,Yes,7,1,11.0,4.0,"Michael Wilson, Jordan Addison, Marquez Valdes-Scantling, Romeo Doubs, Jerry Jeudy",0.479,0.486,0.035,NE
@@ -17,7 +17,6 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 121906,Upton Stout,SF,Sometimes,Slot,,7,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,DAL
 11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,8,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.005,0.005,0.99,TEN
 146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,8,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.476,0.497,0.026,NYJ
-83176,Roger McCreary,DET,Sometimes,Slot,Yes,8,2,11.0,1.0,"Savion Williams, Kendrick Bourne, Christian Kirk",0.193,0.157,0.65,NE
 55717,Marcus Jones,NE,Sometimes,Slot,Yes,9,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.057,0.188,0.755,DET
 100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,9,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.007,0.993,BYE
 173110,Will Lee III,CAR,Sometimes,Both sides,No,7,1,,,DeVonta Smith,0.449,0.425,0.126,NO
@@ -29,6 +28,7 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 130628,Quinyon Mitchell,PHI,Sometimes,Right side,No,9,1,16.0,2.0,"Malik Nabers, Courtland Sutton, Davante Adams",0.175,0.803,0.022,BYE
 97230,Marcus Harris,TEN,Sometimes,Slot,Yes,8,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.01,0.01,0.979,JAX
 72191,Trent McDuffie,LAR,Sometimes,Outside + slot,No,6,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.463,0.337,0.2,ARI
+83176,Roger McCreary,DET,Sometimes,Slot,Yes,8,1,11.0,1.0,"Kendrick Bourne, Christian Kirk",0.193,0.157,0.65,NE
 34057,Mike Hughes,ATL,Sometimes,Both sides,,9,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.508,0.361,0.131,KC
 49564,Rock Ya-Sin,DET,Sometimes,Both sides,,6,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.477,0.477,0.045,NE
 97486,Jarrian Jones,JAX,Sometimes,Both sides,No,8,1,14.0,1.0,"Tee Higgins, Christian Kirk",0.484,0.393,0.123,TEN

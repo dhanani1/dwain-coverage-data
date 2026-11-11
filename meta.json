@@ -14,7 +14,17 @@
  "opp_week": 10,
  "games_in_latest_week": 15,
  "book_games_in_latest_week": 15,
- "built_at_utc": "2026-11-11T15:15:11.494733Z",
+ "forecast": {
+  "active": true,
+  "reason": "ok",
+  "built_at_utc": "2026-11-11T21:08:17Z",
+  "week": 10,
+  "norm_only": [
+   "disguise",
+   "run_blitz"
+  ]
+ },
+ "built_at_utc": "2026-11-11T23:11:23.648575Z",
  "players": 519,
  "defenses": 32,
  "manzone_lookup_cols": 83,

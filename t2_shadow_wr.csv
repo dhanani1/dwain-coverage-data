@@ -37,7 +37,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 48164,Courtland Sutton,DEN,WR,9,0.0,17.0,3.0,"Derek Stingley Jr., Sauce Gardner, Quinyon Mitchell",0.383,0.35,0.267,0.0,BYE
 8642,Mike Evans,SF,WR,6,0.0,8.0,3.0,"Rasul Douglas, Sauce Gardner, Derek Stingley Jr.",0.423,0.382,0.195,0.0,DAL
 48327,A.J. Brown,NE,WR,3,0.0,15.0,3.0,"Rock Ya-Sin, Paulson Adebo, Pat Surtain II",0.506,0.337,0.157,0.0,DET
-122832,Josh Downs,IND,WR,9,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr.",0.133,0.166,0.701,0.0,MIA
+122832,Josh Downs,KC,WR,9,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr.",0.133,0.166,0.701,0.0,ATL
 66581,Christian Watson,GB,WR,9,0.0,10.0,2.0,"Pat Surtain II, Amik Robertson",0.339,0.373,0.275,0.014,MIN
 99229,George Pickens,DAL,WR,8,0.0,17.0,2.0,"Jaylen Watson, Sauce Gardner",0.587,0.318,0.094,0.0,SF
 101701,Jameson Williams,DET,WR,8,0.0,17.0,2.0,"Cor'Dale Flott, Isaiah Rodgers",0.358,0.412,0.23,0.0,NE
@@ -102,7 +102,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 129798,Tyler Warren,IND,TE,7,0.0,17.0,0.0,,0.082,0.078,0.461,0.379,MIA
 84296,Rashod Bateman,BAL,WR,9,0.0,13.0,0.0,,0.321,0.367,0.307,0.005,LAC
 61081,Jake Ferguson,DAL,TE,9,0.0,17.0,0.0,,0.024,0.057,0.51,0.41,SF
-7857,Keenan Allen,IND,WR,8,0.0,17.0,0.0,,0.353,0.382,0.266,0.0,MIA
+7857,Keenan Allen,SF,WR,8,0.0,17.0,0.0,,0.353,0.382,0.266,0.0,DAL
 47436,Mark Andrews,BAL,TE,9,0.0,17.0,0.0,,0.137,0.102,0.488,0.273,LAC
 47304,Dalton Schultz,HOU,TE,8,0.0,17.0,0.0,,0.07,0.1,0.433,0.398,CLE
 11901,George Kittle,SF,TE,8,0.0,11.0,0.0,,0.065,0.02,0.261,0.653,DAL

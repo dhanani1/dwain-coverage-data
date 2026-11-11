@@ -27,6 +27,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 61100,DeVonta Smith,PHI,WR,4,1.0,17.0,0.0,Will Lee III,0.353,0.496,0.151,0.0,BYE
 11873,Mack Hollins,NE,WR,5,1.0,15.0,0.0,Asante Samuel Jr.,0.234,0.508,0.258,0.0,DET
 129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,CIN
+123101,Savion Williams,GB,WR,4,1.0,10.0,0.0,Roger McCreary,0.265,0.122,0.592,0.02,MIN
 162481,Denzel Boston,CLE,WR,9,1.0,,,Joshua Williams,0.485,0.424,0.091,0.0,HOU
 148151,Bryce Lance,NO,WR,8,1.0,,,Asante Samuel Jr.,0.352,0.402,0.246,0.0,CAR
 158374,Germie Bernard,PIT,WR,8,1.0,,,Charles Woods,0.155,0.362,0.479,0.005,CIN
@@ -147,7 +148,6 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 163442,Jalen Royals,KC,WR,7,0.0,4.0,0.0,,0.38,0.3,0.26,0.06,ATL
 111284,Jalen Brooks,ARI,WR,6,0.0,6.0,0.0,,0.475,0.323,0.202,0.0,LAR
 78092,Tyquan Thornton,KC,WR,4,0.0,14.0,0.0,,0.378,0.327,0.276,0.02,ATL
-123101,Savion Williams,GB,WR,4,0.0,10.0,0.0,,0.265,0.122,0.592,0.02,MIN
 60995,Cole Kmet,CHI,TE,7,0.0,16.0,0.0,,0.124,0.103,0.103,0.67,BYE
 98027,Elijah Higgins,ARI,TE,9,0.0,17.0,0.0,,0.146,0.104,0.177,0.573,LAR
 48274,Deebo Samuel,SF,WR,5,0.0,16.0,0.0,,0.189,0.368,0.442,0.0,DAL

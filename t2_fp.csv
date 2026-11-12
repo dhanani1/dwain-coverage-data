@@ -1,106 +1,106 @@
 player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Score,Efficiency Boost,Extra Targets (role),Boom / Bust,Verdict,Top Driver,Evidence
-154173,Emanuel Wilson,RB,SEA,LV,RB lead/bellcow,10.26,94,+0.53 yds/carry (+15%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
-10669,Hunter Henry,TE,NE,DET,TE · #4 target,7.12,92,+0.20 yds/route (+11%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Rhamondre Stevenson,Moderate
-156970,Eli Raridon,TE,NE,DET,TE,,92,+0.20 yds/route (+11%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
-83955,Isaiah Likely,TE,NYG,WAS,TE · #2 target,13.22,83,+0.16 yds/route (+9%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Tyrone Tracy Jr.,Moderate
-129798,Tyler Warren,TE,IND,MIA,TE · #1 target,9.3,73,+0.11 yds/route (+9%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
-97199,Kenneth Walker III,RB,KC,ATL,RB lead/bellcow,22.93,72,+0.27 yds/carry (+5%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
-57373,Chuba Hubbard,RB,CAR,NO,RB lead/bellcow,16.7,70,+0.24 yds/carry (+5%),,54% / 8%,Strong boost,Points allowed to position (+),Strong
-4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,70,+0.23 yds/dropback (+4%),,25% / 8%,Strong boost,Man coverage expected (+),Strong
-129433,AJ Barner,TE,SEA,LV,TE · #4 target,5.7,69,+0.09 yds/route (+11%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
-40306,Jordan Love,QB,GB,MIN,QB,20.56,69,+0.23 yds/dropback (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
-123943,Bryce Young,QB,CAR,NO,QB,18.32,68,+0.22 yds/dropback (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
-11763,Christian McCaffrey,RB,SF,DAL,RB lead/bellcow,18.59,68,+0.22 yds/carry (+5%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
-46601,Josh Allen,QB,BUF,NYJ,QB,25.02,68,+0.21 yds/dropback (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
-28237,Justin Herbert,QB,LAC,BAL,QB,10.08,68,+0.21 yds/dropback (+3%),,25% / 8%,Strong boost,Man coverage expected (+),Strong
-83964,Kyle Pitts,TE,ATL,KC,TE · #2 target,6.5,67,+0.08 yds/route (+7%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Zachariah Branch,Moderate
-46416,Lamar Jackson,QB,BAL,LAC,QB,15.82,66,+0.19 yds/dropback (+2%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
-9637,Darren Waller,TE,CAR,NO,TE · #4 target,8.18,66,+0.08 yds/route (+5%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
-84025,Tommy Tremble,TE,CAR,NO,TE · #5 target,5.8,66,+0.08 yds/route (+6%),,18% / 20%,Boost,Points allowed to position (+),Moderate
-10679,Derrick Henry,RB,BAL,LAC,RB lead/bellcow,15.14,65,+0.18 yds/carry (+5%),,54% / 8%,Strong boost,Run-gap matchup (+),Strong
-100632,Puka Nacua,WR,LAR,ARI,WR1,19.8,65,+0.03 yds/route (+1%),,37% / 23%,Boost,Pressure on his QB (+),Moderate
-77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,65,+0.17 yds/dropback (+2%),,27% / 10%,Boost,Man coverage expected (+),Strong
-60341,Malik Willis,QB,MIA,IND,QB,13.13,64,+0.17 yds/dropback (+3%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
-28022,Joe Burrow,QB,CIN,PIT,QB,24.89,63,+0.16 yds/dropback (+2%),,27% / 10%,Boost,Man coverage expected (+),Strong
-146760,Brian Thomas Jr.,WR,JAX,TEN,WR4+ · #4 target,4.1,62,+0.02 yds/route (+3%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
-46448,Tyler Huntley,QB,BAL,LAC,QB,10.94,62,+0.14 yds/dropback (+2%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
-83666,James Cook,RB,BUF,NYJ,RB lead/bellcow,17.8,61,+0.13 yds/carry (+3%),,54% / 8%,Strong boost,Points allowed to position (+),Strong
-10744,Tyler Higbee,TE,LAR,ARI,TE · #2 target (up 2),5.59,61,+0.05 yds/route (+4%),,18% / 20%,Boost,"Points allowed to position (+) | teammates out: Puka Nacua, Davante Adams",Moderate
-52266,Colby Parkinson,TE,LAR,ARI,TE · #1 target (up 3),3.8,61,+0.05 yds/route (+5%),,18% / 20%,Boost,"Points allowed to position (+) | teammates out: Puka Nacua, Davante Adams",Moderate
-57488,Jonathan Taylor,RB,IND,MIA,RB lead/bellcow,15.62,61,+0.13 yds/carry (+3%),,45% / 14%,Boost,Points allowed to position (+),Strong
-8688,Davante Adams,WR,LAR,ARI,WR1,14.5,61,+0.02 yds/route (+1%),,36% / 26%,Neutral,Pressure on his QB (+),Moderate
-47468,Jakobi Meyers,WR,JAX,TEN,WR4+ · #2 target,7.83,60,+0.02 yds/route (+1%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
-84085,Pat Freiermuth,TE,PIT,CIN,TE · #3 target (up 1),8.31,60,+0.05 yds/route (+5%),,18% / 20%,Boost,Points allowed to position (+),Moderate
-124044,Darnell Washington,TE,PIT,CIN,TE · #5 target (up 2),6.61,60,+0.05 yds/route (+2%),,18% / 20%,Boost,Points allowed to position (+),Moderate
-99229,George Pickens,WR,DAL,SF,WR2/3 · #2 target,10.6,60,+0.02 yds/route (+1%),0.5,21% / 23%,Boost,"Coverage matchup (+) | teammates out: Tyler Goodson, Jake Ferguson",Weak
-157792,Ollie Gordon II,RB,MIA,IND,RB lead/bellcow,10.87,59,+0.11 yds/carry (+3%),,45% / 14%,Boost,Line / contact matchup (+),Strong
-48274,Deebo Samuel,WR,SF,DAL,WR2/3 · #6 target,10.48,59,+0.02 yds/route (+1%),,21% / 23%,Boost,Coverage matchup (+),Weak
-8642,Mike Evans,WR,SF,DAL,WR2/3 · #3 target,12.58,59,+0.02 yds/route (+1%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
-129799,Parker Washington,WR,JAX,TEN,WR2/3 · #1 target,11.89,58,+0.02 yds/route (+1%),0.0,21% / 23%,Boost,Efficiency this defense allows (+),Weak
-83537,Tyler Shough,QB,NO,CAR,QB,,58,+0.09 yds/dropback (+1%),,27% / 10%,Boost,Man coverage expected (+),Strong
-47304,Dalton Schultz,TE,HOU,CLE,TE · #2 target,6.74,57,+0.03 yds/route (+2%),,18% / 20%,Boost,Points allowed to position (+) | teammates out: Jaylin Noel,Moderate
-144718,Xavier Worthy,WR,KC,ATL,WR4+ · #3 target,6.29,57,+0.01 yds/route (+1%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,56,+0.07 yds/dropback (+1%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
-124087,Kayshon Boutte,WR,HOU,CLE,WR4+ · #5 target,6.68,56,+0.01 yds/route (+1%),0.4,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
-84068,Greg Dulcich,TE,MIA,IND,TE · #1 target,5.86,56,+0.03 yds/route (+2%),,18% / 20%,Boost,Points allowed to position (+),Moderate
-61441,Nico Collins,WR,HOU,CLE,WR2/3 · #1 target,12.93,55,+0.01 yds/route (+0%),0.5,21% / 23%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Weak
-122518,Xavier Hutchinson,WR,HOU,CLE,WR4+ · #4 target,6.79,55,+0.01 yds/route (+1%),0.5,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
-77965,Tutu Atwell,WR,LAR,ARI,WR4+ · #4 target (up 3),2.68,55,+0.01 yds/route (+1%),1.6,6% / 26%,Neutral,"Pressure on his QB (+) | teammates out: Puka Nacua, Davante Adams",Moderate
-97605,Rashee Rice,WR,KC,ATL,WR2/3 · #1 target,10.74,55,+0.01 yds/route (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
-145056,Marvin Harrison Jr.,WR,HOU,CLE,WR4+ · #6 target,4.57,55,+0.01 yds/route (+1%),0.3,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
-148151,Bryce Lance,WR,NO,CAR,WR4+ · #7 target (up 1),2.29,54,+0.01 yds/route (+3%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
-35883,Dawson Knox,TE,BUF,NYJ,TE · #6 target,2.55,54,+0.02 yds/route (+3%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
-91791,Dalton Kincaid,TE,BUF,NYJ,TE · #3 target,8.74,54,+0.02 yds/route (+1%),,18% / 20%,Boost,Points allowed to position (+),Moderate
-10635,Jared Goff,QB,DET,NE,QB,18.42,54,+0.04 yds/dropback (+1%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
-84470,Amon-Ra St. Brown,WR,DET,NE,WR1 · #1 target,15.89,54,+0.01 yds/route (+0%),0.0,36% / 26%,Neutral,Coverage matchup (+),Moderate
-101701,Jameson Williams,WR,DET,NE,WR2/3 · #2 target,11.46,53,+0.01 yds/route (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
-125155,Jaylin Noel,WR,HOU,CLE,WR4+,8.17,53,+0.01 yds/route (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
-9434,Jameis Winston,QB,NYG,WAS,QB,10.46,53,+0.04 yds/dropback (+1%),,27% / 7%,Neutral,Blitz rate expected (+),Strong
-39395,Daniel Jones,QB,IND,MIA,QB,9.05,53,+0.04 yds/dropback (+1%),,27% / 7%,Neutral,Man coverage expected (+),Strong
-172430,Isaac TeSlaa,WR,DET,NE,WR4+ · #5 target,3.73,53,+0.01 yds/route (+0%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
-7857,Keenan Allen,WR,SF,DAL,WR4+ · #2 target,7.64,53,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-84355,Chris Olave,WR,NO,CAR,WR1 · #1 target,14.18,52,+0.00 yds/route (+0%),0.0,36% / 26%,Neutral,Efficiency this defense allows (+),Moderate
-143969,Drake Maye,QB,NE,DET,QB,19.91,52,+0.03 yds/dropback (+0%),,27% / 7%,Neutral,Pressure matchup (+),Strong
-60917,Charlie Kolar,TE,LAC,BAL,TE · #3 target (up 1),2.95,52,+0.01 yds/route (+1%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
-144046,Oronde Gadsden II,TE,LAC,BAL,TE · #5 target (up 1),4.11,52,+0.01 yds/route (+1%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
-122730,Jordan Watkins,WR,SF,DAL,WR4+ · #7 target,8.35,52,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-128232,Tory Horton,WR,SEA,LV,WR4+ · #5 target,4.08,52,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-122832,Josh Downs,WR,KC,ATL,WR4+ · #4 target,6.51,52,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
-84140,Khalil Shakir,WR,BUF,NYJ,WR4+ · #2 target,7.59,52,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-9579,Stefon Diggs,WR,WAS,NYG,WR2/3 · #1 target,10.76,51,+0.00 yds/route (+0%),0.4,21% / 23%,Boost,Two-high expected (-) | teammates out: Terry McLaurin,Weak
-11873,Mack Hollins,WR,NE,DET,WR4+ · #3 target,7.9,51,+0.00 yds/route (+0%),0.2,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
-48229,Terry McLaurin,WR,WAS,NYG,WR4+,7.7,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
-48236,Darnell Mooney,WR,NYG,WAS,WR4+ · #4 target,3.19,51,+0.00 yds/route (+0%),0.2,6% / 26%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Moderate
-61103,Jerry Jeudy,WR,CLE,HOU,WR4+ · #5 target,3.73,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
-66581,Christian Watson,WR,GB,MIN,WR1 · #2 target,16.93,51,+0.00 yds/route (+0%),0.8,34% / 20%,Downgrade,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
-77986,Dyami Brown,WR,WAS,NYG,WR4+,1.7,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
-84329,Romeo Doubs,WR,NE,DET,WR4+,8.52,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
-84425,Brycen Tremayne,WR,CAR,NO,WR4+ · #10 target (up 1),2.01,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
-97108,Malik Washington,WR,MIA,IND,WR4+ · #2 target,7.41,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-97156,Isaiah Williams,WR,NYJ,BUF,WR4+ · #13 target,4.16,51,+0.00 yds/route (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
-97400,John Metchie III,WR,CAR,NO,WR4+ · #6 target,4.06,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-97405,Garrett Wilson,WR,NYJ,BUF,WR2/3 · #1 target,11.53,51,+0.00 yds/route (+0%),0.0,20% / 28%,Neutral,Two-high expected (-),Weak
-99218,Treylon Burks,WR,WAS,NYG,WR4+ · #4 target (up 1),6.88,51,+0.00 yds/route (+0%),0.4,7% / 24%,Boost,Two-high expected (-) | teammates out: Terry McLaurin,Moderate
-104155,Demario Douglas,WR,NE,DET,WR2/3 · #2 target,8.99,51,+0.00 yds/route (+0%),1.0,21% / 23%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Weak
-122676,Tre Harris,WR,LAC,BAL,WR4+ · #1 target,5.24,51,+0.00 yds/route (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
-123085,Quentin Johnston,WR,LAC,BAL,WR4+ · #6 target,5.61,51,+0.00 yds/route (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
-124030,Ladd McConkey,WR,LAC,BAL,WR4+ · #4 target (up 1),7.18,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (-),Moderate
-128374,Kyle Williams,WR,NE,DET,WR4+ · #7 target (up 3),3.83,51,+0.00 yds/route (+0%),0.2,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
-141521,Efton Chism III,WR,NE,DET,WR4+ · #6 target (up 2),5.11,51,+0.00 yds/route (+0%),0.5,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
-143068,Jalen Coker,WR,CAR,NO,WR2/3 · #2 target,10.36,51,+0.00 yds/route (+0%),0.0,21% / 23%,Boost,Two-high expected (+),Weak
-146712,Adonai Mitchell,WR,NYJ,BUF,WR4+ · #2 target,8.1,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (-),Moderate
-146759,Malik Nabers,WR,NYG,WAS,WR2/3 · #1 target,12.91,51,+0.00 yds/route (+0%),0.6,20% / 28%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Weak
-151069,Malachi Fields,WR,NYG,WAS,WR4+ · #3 target,5.54,51,+0.00 yds/route (+0%),0.2,6% / 26%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Moderate
-156165,Matthew Golden,WR,GB,MIN,WR1 · #1 target,15.27,51,+0.00 yds/route (+0%),1.2,34% / 20%,Downgrade,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
-156241,Antonio Williams,WR,WAS,NYG,WR4+,,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
-156321,Chris Bell,WR,MIA,IND,WR4+ · #4 target (up 1),2.9,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-156395,Omar Cooper Jr.,WR,NYJ,BUF,WR2/3 · #3 target,13.15,51,+0.00 yds/route (+0%),0.0,21% / 23%,Boost,Two-high expected (-),Weak
-157740,Caleb Douglas,WR,MIA,IND,WR4+,,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
-158735,Tetairoa McMillan,WR,CAR,NO,WR2/3 · #1 target,12.69,51,+0.00 yds/route (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
-160756,Kevin Coleman Jr.,WR,MIA,IND,WR4+,,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
-162481,Denzel Boston,WR,CLE,HOU,WR4+,,51,+0.00 yds/route (+0%),,7% / 24%,Boost,Two-high expected (+),Moderate
-170362,KC Concepcion,WR,CLE,HOU,WR4+ · #3 target,7.77,51,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
-48267,DJ Moore,WR,BUF,NYJ,WR4+ · #1 target,8.33,50,+0.00 yds/route (+0%),0.0,7% / 24%,Boost,Pressure on his QB (-),Moderate
+154173,Emanuel Wilson,RB,SEA,LV,RB lead/bellcow,10.26,94,yds/carry +0.53 (+15%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
+10669,Hunter Henry,TE,NE,DET,TE · #4 target,7.12,92,yds/route +0.20 (+11%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Rhamondre Stevenson,Moderate
+156970,Eli Raridon,TE,NE,DET,TE,,92,yds/route +0.20 (+11%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
+83955,Isaiah Likely,TE,NYG,WAS,TE · #2 target,13.22,83,yds/route +0.16 (+9%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Tyrone Tracy Jr.,Moderate
+129798,Tyler Warren,TE,IND,MIA,TE · #1 target,9.3,73,yds/route +0.11 (+9%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
+97199,Kenneth Walker III,RB,KC,ATL,RB lead/bellcow,22.93,72,yds/carry +0.27 (+5%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
+57373,Chuba Hubbard,RB,CAR,NO,RB lead/bellcow,16.7,70,yds/carry +0.24 (+5%),,54% / 8%,Strong boost,Points allowed to position (+),Strong
+4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,70,yds/dropback +0.23 (+4%),,25% / 8%,Strong boost,Man coverage expected (+),Strong
+129433,AJ Barner,TE,SEA,LV,TE · #4 target,5.7,69,yds/route +0.09 (+11%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
+40306,Jordan Love,QB,GB,MIN,QB,20.56,69,yds/dropback +0.23 (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
+123943,Bryce Young,QB,CAR,NO,QB,18.32,68,yds/dropback +0.22 (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
+11763,Christian McCaffrey,RB,SF,DAL,RB lead/bellcow,18.59,68,yds/carry +0.22 (+5%),,54% / 8%,Strong boost,Line / contact matchup (+),Strong
+46601,Josh Allen,QB,BUF,NYJ,QB,25.02,68,yds/dropback +0.21 (+3%),,25% / 8%,Strong boost,Blitz rate expected (+),Strong
+28237,Justin Herbert,QB,LAC,BAL,QB,10.08,68,yds/dropback +0.21 (+3%),,25% / 8%,Strong boost,Man coverage expected (+),Strong
+83964,Kyle Pitts,TE,ATL,KC,TE · #2 target,6.5,67,yds/route +0.08 (+7%),,24% / 22%,Strong boost,Points allowed to position (+) | teammates out: Zachariah Branch,Moderate
+46416,Lamar Jackson,QB,BAL,LAC,QB,15.82,66,yds/dropback +0.19 (+2%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
+9637,Darren Waller,TE,CAR,NO,TE · #4 target,8.18,66,yds/route +0.08 (+5%),,24% / 22%,Strong boost,Points allowed to position (+),Moderate
+84025,Tommy Tremble,TE,CAR,NO,TE · #5 target,5.8,66,yds/route +0.08 (+6%),,18% / 20%,Boost,Points allowed to position (+),Moderate
+10679,Derrick Henry,RB,BAL,LAC,RB lead/bellcow,15.14,65,yds/carry +0.18 (+5%),,54% / 8%,Strong boost,Run-gap matchup (+),Strong
+100632,Puka Nacua,WR,LAR,ARI,WR1,19.8,65,yds/route +0.03 (+1%),,37% / 23%,Boost,Pressure on his QB (+),Moderate
+77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,65,yds/dropback +0.17 (+2%),,27% / 10%,Boost,Man coverage expected (+),Strong
+60341,Malik Willis,QB,MIA,IND,QB,13.13,64,yds/dropback +0.17 (+3%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
+28022,Joe Burrow,QB,CIN,PIT,QB,24.89,63,yds/dropback +0.16 (+2%),,27% / 10%,Boost,Man coverage expected (+),Strong
+146760,Brian Thomas Jr.,WR,JAX,TEN,WR4+ · #4 target,4.1,62,yds/route +0.02 (+3%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
+46448,Tyler Huntley,QB,BAL,LAC,QB,10.94,62,yds/dropback +0.14 (+2%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
+83666,James Cook,RB,BUF,NYJ,RB lead/bellcow,17.8,61,yds/carry +0.13 (+3%),,54% / 8%,Strong boost,Points allowed to position (+),Strong
+10744,Tyler Higbee,TE,LAR,ARI,TE · #2 target (up 2),5.59,61,yds/route +0.05 (+4%),,18% / 20%,Boost,"Points allowed to position (+) | teammates out: Puka Nacua, Davante Adams",Moderate
+52266,Colby Parkinson,TE,LAR,ARI,TE · #1 target (up 3),3.8,61,yds/route +0.05 (+5%),,18% / 20%,Boost,"Points allowed to position (+) | teammates out: Puka Nacua, Davante Adams",Moderate
+57488,Jonathan Taylor,RB,IND,MIA,RB lead/bellcow,15.62,61,yds/carry +0.13 (+3%),,45% / 14%,Boost,Points allowed to position (+),Strong
+8688,Davante Adams,WR,LAR,ARI,WR1,14.5,61,yds/route +0.02 (+1%),,36% / 26%,Neutral,Pressure on his QB (+),Moderate
+47468,Jakobi Meyers,WR,JAX,TEN,WR4+ · #2 target,7.83,60,yds/route +0.02 (+1%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
+84085,Pat Freiermuth,TE,PIT,CIN,TE · #3 target (up 1),8.31,60,yds/route +0.05 (+5%),,18% / 20%,Boost,Points allowed to position (+),Moderate
+124044,Darnell Washington,TE,PIT,CIN,TE · #5 target (up 2),6.61,60,yds/route +0.05 (+2%),,18% / 20%,Boost,Points allowed to position (+),Moderate
+99229,George Pickens,WR,DAL,SF,WR2/3 · #2 target,10.6,60,yds/route +0.02 (+1%),0.5,21% / 23%,Boost,"Coverage matchup (+) | teammates out: Tyler Goodson, Jake Ferguson",Weak
+157792,Ollie Gordon II,RB,MIA,IND,RB lead/bellcow,10.87,59,yds/carry +0.11 (+3%),,45% / 14%,Boost,Line / contact matchup (+),Strong
+48274,Deebo Samuel,WR,SF,DAL,WR2/3 · #6 target,10.48,59,yds/route +0.02 (+1%),,21% / 23%,Boost,Coverage matchup (+),Weak
+8642,Mike Evans,WR,SF,DAL,WR2/3 · #3 target,12.58,59,yds/route +0.02 (+1%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
+129799,Parker Washington,WR,JAX,TEN,WR2/3 · #1 target,11.89,58,yds/route +0.02 (+1%),0.0,21% / 23%,Boost,Efficiency this defense allows (+),Weak
+83537,Tyler Shough,QB,NO,CAR,QB,,58,yds/dropback +0.09 (+1%),,27% / 10%,Boost,Man coverage expected (+),Strong
+47304,Dalton Schultz,TE,HOU,CLE,TE · #2 target,6.74,57,yds/route +0.03 (+2%),,18% / 20%,Boost,Points allowed to position (+) | teammates out: Jaylin Noel,Moderate
+144718,Xavier Worthy,WR,KC,ATL,WR4+ · #3 target,6.29,57,yds/route +0.01 (+1%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,56,yds/dropback +0.07 (+1%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
+124087,Kayshon Boutte,WR,HOU,CLE,WR4+ · #5 target,6.68,56,yds/route +0.01 (+1%),0.4,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
+84068,Greg Dulcich,TE,MIA,IND,TE · #1 target,5.86,56,yds/route +0.03 (+2%),,18% / 20%,Boost,Points allowed to position (+),Moderate
+61441,Nico Collins,WR,HOU,CLE,WR2/3 · #1 target,12.93,55,yds/route +0.01 (+0%),0.5,21% / 23%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Weak
+122518,Xavier Hutchinson,WR,HOU,CLE,WR4+ · #4 target,6.79,55,yds/route +0.01 (+1%),0.5,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
+77965,Tutu Atwell,WR,LAR,ARI,WR4+ · #4 target (up 3),2.68,55,yds/route +0.01 (+1%),1.6,6% / 26%,Neutral,"Pressure on his QB (+) | teammates out: Puka Nacua, Davante Adams",Moderate
+97605,Rashee Rice,WR,KC,ATL,WR2/3 · #1 target,10.74,55,yds/route +0.01 (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
+145056,Marvin Harrison Jr.,WR,HOU,CLE,WR4+ · #6 target,4.57,55,yds/route +0.01 (+1%),0.3,7% / 24%,Boost,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
+148151,Bryce Lance,WR,NO,CAR,WR4+ · #7 target (up 1),2.29,54,yds/route +0.01 (+3%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
+35883,Dawson Knox,TE,BUF,NYJ,TE · #6 target,2.55,54,yds/route +0.02 (+3%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
+91791,Dalton Kincaid,TE,BUF,NYJ,TE · #3 target,8.74,54,yds/route +0.02 (+1%),,18% / 20%,Boost,Points allowed to position (+),Moderate
+10635,Jared Goff,QB,DET,NE,QB,18.42,54,yds/dropback +0.04 (+1%),,27% / 10%,Boost,Efficiency this defense allows (+),Strong
+84470,Amon-Ra St. Brown,WR,DET,NE,WR1 · #1 target,15.89,54,yds/route +0.01 (+0%),0.0,36% / 26%,Neutral,Coverage matchup (+),Moderate
+101701,Jameson Williams,WR,DET,NE,WR2/3 · #2 target,11.46,53,yds/route +0.01 (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
+125155,Jaylin Noel,WR,HOU,CLE,WR4+,8.17,53,yds/route +0.01 (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
+9434,Jameis Winston,QB,NYG,WAS,QB,10.46,53,yds/dropback +0.04 (+1%),,27% / 7%,Neutral,Blitz rate expected (+),Strong
+39395,Daniel Jones,QB,IND,MIA,QB,9.05,53,yds/dropback +0.04 (+1%),,27% / 7%,Neutral,Man coverage expected (+),Strong
+172430,Isaac TeSlaa,WR,DET,NE,WR4+ · #5 target,3.73,53,yds/route +0.01 (+0%),0.0,7% / 24%,Boost,Efficiency this defense allows (+),Moderate
+7857,Keenan Allen,WR,SF,DAL,WR4+ · #2 target,7.64,53,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+84355,Chris Olave,WR,NO,CAR,WR1 · #1 target,14.18,52,yds/route +0.00 (+0%),0.0,36% / 26%,Neutral,Efficiency this defense allows (+),Moderate
+143969,Drake Maye,QB,NE,DET,QB,19.91,52,yds/dropback +0.03 (+0%),,27% / 7%,Neutral,Pressure matchup (+),Strong
+60917,Charlie Kolar,TE,LAC,BAL,TE · #3 target (up 1),2.95,52,yds/route +0.01 (+1%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
+144046,Oronde Gadsden II,TE,LAC,BAL,TE · #5 target (up 1),4.11,52,yds/route +0.01 (+1%),,18% / 22%,Neutral,Points allowed to position (+),Moderate
+122730,Jordan Watkins,WR,SF,DAL,WR4+ · #7 target,8.35,52,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+128232,Tory Horton,WR,SEA,LV,WR4+ · #5 target,4.08,52,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+122832,Josh Downs,WR,KC,ATL,WR4+ · #4 target,6.51,52,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
+84140,Khalil Shakir,WR,BUF,NYJ,WR4+ · #2 target,7.59,52,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+9579,Stefon Diggs,WR,WAS,NYG,WR2/3 · #1 target,10.76,51,yds/route +0.00 (+0%),0.4,21% / 23%,Boost,Two-high expected (-) | teammates out: Terry McLaurin,Weak
+11873,Mack Hollins,WR,NE,DET,WR4+ · #3 target,7.9,51,yds/route +0.00 (+0%),0.2,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
+48229,Terry McLaurin,WR,WAS,NYG,WR4+,7.7,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
+48236,Darnell Mooney,WR,NYG,WAS,WR4+ · #4 target,3.19,51,yds/route +0.00 (+0%),0.2,6% / 26%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Moderate
+61103,Jerry Jeudy,WR,CLE,HOU,WR4+ · #5 target,3.73,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
+66581,Christian Watson,WR,GB,MIN,WR1 · #2 target,16.93,51,yds/route +0.00 (+0%),0.8,34% / 20%,Downgrade,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
+77986,Dyami Brown,WR,WAS,NYG,WR4+,1.7,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
+84329,Romeo Doubs,WR,NE,DET,WR4+,8.52,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
+84425,Brycen Tremayne,WR,CAR,NO,WR4+ · #10 target (up 1),2.01,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
+97108,Malik Washington,WR,MIA,IND,WR4+ · #2 target,7.41,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+97156,Isaiah Williams,WR,NYJ,BUF,WR4+ · #13 target,4.16,51,yds/route +0.00 (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
+97400,John Metchie III,WR,CAR,NO,WR4+ · #6 target,4.06,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+97405,Garrett Wilson,WR,NYJ,BUF,WR2/3 · #1 target,11.53,51,yds/route +0.00 (+0%),0.0,20% / 28%,Neutral,Two-high expected (-),Weak
+99218,Treylon Burks,WR,WAS,NYG,WR4+ · #4 target (up 1),6.88,51,yds/route +0.00 (+0%),0.4,7% / 24%,Boost,Two-high expected (-) | teammates out: Terry McLaurin,Moderate
+104155,Demario Douglas,WR,NE,DET,WR2/3 · #2 target,8.99,51,yds/route +0.00 (+0%),1.0,21% / 23%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Weak
+122676,Tre Harris,WR,LAC,BAL,WR4+ · #1 target,5.24,51,yds/route +0.00 (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
+123085,Quentin Johnston,WR,LAC,BAL,WR4+ · #6 target,5.61,51,yds/route +0.00 (+0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
+124030,Ladd McConkey,WR,LAC,BAL,WR4+ · #4 target (up 1),7.18,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (-),Moderate
+128374,Kyle Williams,WR,NE,DET,WR4+ · #7 target (up 3),3.83,51,yds/route +0.00 (+0%),0.2,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
+141521,Efton Chism III,WR,NE,DET,WR4+ · #6 target (up 2),5.11,51,yds/route +0.00 (+0%),0.5,7% / 24%,Boost,Coverage matchup (+) | teammates out: Rhamondre Stevenson,Moderate
+143068,Jalen Coker,WR,CAR,NO,WR2/3 · #2 target,10.36,51,yds/route +0.00 (+0%),0.0,21% / 23%,Boost,Two-high expected (+),Weak
+146712,Adonai Mitchell,WR,NYJ,BUF,WR4+ · #2 target,8.1,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (-),Moderate
+146759,Malik Nabers,WR,NYG,WAS,WR2/3 · #1 target,12.91,51,yds/route +0.00 (+0%),0.6,20% / 28%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Weak
+151069,Malachi Fields,WR,NYG,WAS,WR4+ · #3 target,5.54,51,yds/route +0.00 (+0%),0.2,6% / 26%,Neutral,Two-high expected (-) | teammates out: Tyrone Tracy Jr.,Moderate
+156165,Matthew Golden,WR,GB,MIN,WR1 · #1 target,15.27,51,yds/route +0.00 (+0%),1.2,34% / 20%,Downgrade,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
+156241,Antonio Williams,WR,WAS,NYG,WR4+,,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
+156321,Chris Bell,WR,MIA,IND,WR4+ · #4 target (up 1),2.9,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+156395,Omar Cooper Jr.,WR,NYJ,BUF,WR2/3 · #3 target,13.15,51,yds/route +0.00 (+0%),0.0,21% / 23%,Boost,Two-high expected (-),Weak
+157740,Caleb Douglas,WR,MIA,IND,WR4+,,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Two-high expected (-),Moderate
+158735,Tetairoa McMillan,WR,CAR,NO,WR2/3 · #1 target,12.69,51,yds/route +0.00 (+0%),0.0,21% / 23%,Boost,Coverage matchup (+),Weak
+160756,Kevin Coleman Jr.,WR,MIA,IND,WR4+,,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Coverage matchup (+),Moderate
+162481,Denzel Boston,WR,CLE,HOU,WR4+,,51,yds/route +0.00 (+0%),,7% / 24%,Boost,Two-high expected (+),Moderate
+170362,KC Concepcion,WR,CLE,HOU,WR4+ · #3 target,7.77,51,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Two-high expected (+),Moderate
+48267,DJ Moore,WR,BUF,NYJ,WR4+ · #1 target,8.33,50,yds/route +0.00 (+0%),0.0,7% / 24%,Boost,Pressure on his QB (-),Moderate
 150568,Bhayshul Tuten,RB,JAX,TEN,RB committee,,50,no reliable signal,,25% / 10%,No reliable signal,Run-gap matchup (+),None
 157128,Quinshon Judkins,RB,CLE,HOU,RB committee,,50,no reliable signal,,25% / 10%,No reliable signal,Run-gap matchup (-),None
 124179,Woody Marks,RB,HOU,CLE,RB committee,,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (+),None
@@ -127,83 +127,83 @@ player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Score,Effici
 122936,Seth McGowan,RB,IND,MIA,RB committee,,50,no reliable signal,,25% / 10%,No reliable signal,Points allowed to position (+),None
 156419,Kaleb Johnson,RB,GB,MIN,RB committee,3.24,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (+),None
 101659,Tyler Goodson,RB,DAL,SF,RB committee,3.43,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (-),None
-10657,Laquon Treadwell,WR,IND,MIA,WR4+ · #4 target (up 1),3.28,49,-0.00 yds/route (-0%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-100637,Devaughn Vele,WR,NO,CAR,WR2/3 · #2 target,9.0,49,-0.00 yds/route (-0%),0.0,20% / 28%,Neutral,Coverage matchup (-),Weak
-144949,Keon Coleman,WR,BUF,NYJ,WR4+ · #4 target,7.49,49,-0.00 yds/route (-0%),0.0,6% / 26%,Neutral,Pressure on his QB (-),Moderate
-129604,Roman Wilson,WR,PIT,CIN,WR4+,7.56,49,-0.00 yds/route (-0%),,7% / 24%,Boost,Pressure on his QB (+),Moderate
-28305,Juwan Johnson,TE,NO,CAR,TE · #5 target,8.11,49,-0.01 yds/route (-1%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-133244,Cam Ward,QB,TEN,JAX,QB,12.57,49,-0.02 yds/dropback (-0%),,27% / 7%,Neutral,Man coverage expected (+),Strong
-63707,Rashid Shaheed,WR,SEA,LV,WR4+ · #3 target,4.89,48,-0.00 yds/route (-0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
-129758,Jaxon Smith-Njigba,WR,SEA,LV,WR1 · #1 target,21.84,48,-0.00 yds/route (-0%),0.0,36% / 26%,Neutral,Coverage matchup (+),Moderate
-98692,Jaylen Warren,RB,PIT,CIN,RB lead/bellcow,16.04,48,-0.02 yds/carry (-0%),,36% / 14%,Neutral,Line / contact matchup (+),Strong
-123000,Jordan Addison,WR,MIN,GB,WR4+ · #2 target,6.41,48,-0.00 yds/route (-0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
-11824,Cooper Kupp,WR,SEA,LV,WR4+ · #2 target,5.2,48,-0.00 yds/route (-0%),0.0,6% / 26%,Neutral,Coverage matchup (+),Moderate
-48027,Jauan Jennings,WR,MIN,GB,WR4+ · #7 target (up 1),1.4,47,-0.00 yds/route (-1%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-61398,Justin Jefferson,WR,MIN,GB,WR2/3 · #1 target,11.39,47,-0.00 yds/route (-0%),0.1,20% / 28%,Neutral,Two-high expected (-),Weak
-159617,Ryan Flournoy,WR,DAL,SF,WR4+ · #3 target,7.53,47,-0.00 yds/route (-0%),0.5,6% / 26%,Neutral,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
-27126,Tony Pollard,RB,TEN,JAX,RB lead/bellcow,13.69,47,-0.04 yds/carry (-1%),,36% / 14%,Neutral,None,Strong
-145159,Braelon Allen,RB,NYJ,BUF,RB lead/bellcow,10.61,47,-0.04 yds/carry (-1%),,36% / 14%,Neutral,None,Strong
-83639,Tyler Allgeier,RB,ARI,LAR,RB lead/bellcow,8.8,47,-0.04 yds/carry (-1%),,36% / 14%,Neutral,None,Strong
-101735,Wan'Dale Robinson,WR,TEN,JAX,WR4+ · #2 target,7.47,47,-0.01 yds/route (-1%),0.1,9% / 27%,Downgrade,Two-high expected (-),Moderate
-162750,Omarion Hampton,RB,LAC,BAL,RB lead/bellcow,7.84,45,-0.06 yds/carry (-2%),,36% / 14%,Neutral,Line / contact matchup (-),Strong
-11937,Aaron Jones,RB,MIN,GB,RB lead/bellcow,9.36,45,-0.06 yds/carry (-1%),,36% / 14%,Neutral,Points allowed to position (+),Strong
-61570,CeeDee Lamb,WR,DAL,SF,WR1 · #1 target,18.53,45,-0.01 yds/route (-0%),1.3,36% / 26%,Neutral,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
-44920,Olamide Zaccheaus,WR,ATL,KC,WR4+ · #5 target,0.7,45,-0.01 yds/route (-4%),0.1,6% / 26%,Neutral,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
-61081,Jake Ferguson,TE,DAL,SF,TE,5.64,45,-0.02 yds/route (-4%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-84006,Brevyn Spann-Ford,TE,DAL,SF,TE · #4 target (up 1),2.28,45,-0.02 yds/route (-2%),,18% / 22%,Neutral,"Points allowed to position (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
-170273,Carnell Tate,WR,TEN,JAX,WR4+ · #1 target,8.61,45,-0.01 yds/route (-0%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
-157196,Ashton Jeanty,RB,LV,SEA,RB lead/bellcow,13.14,45,-0.06 yds/carry (-2%),,36% / 14%,Neutral,Line / contact matchup (-),Strong
-11901,George Kittle,TE,SF,DAL,TE · #1 target,11.91,45,-0.03 yds/route (-1%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-122474,Jahmyr Gibbs,RB,DET,NE,RB lead/bellcow,24.03,45,-0.07 yds/carry (-1%),,38% / 18%,Downgrade,Run-gap matchup (+),Strong
-84292,Jalen Nailor,WR,LV,SEA,WR4+ · #5 target,3.6,45,-0.01 yds/route (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-7102,Kirk Cousins,QB,MIN,GB,QB,19.14,44,-0.07 yds/dropback (-1%),,23% / 13%,Downgrade,Man coverage expected (+),Strong
-158374,Germie Bernard,WR,PIT,CIN,WR4+,,44,-0.01 yds/route (-1%),,6% / 26%,Neutral,Pressure on his QB (+),Moderate
-143800,Dohnte Meyers,WR,CIN,PIT,WR4+,,44,-0.01 yds/route (-1%),,6% / 26%,Neutral,Efficiency this defense allows (-),Moderate
-97268,Zay Flowers,WR,BAL,LAC,WR1 · #1 target,13.25,44,-0.01 yds/route (-0%),0.0,34% / 20%,Downgrade,Coverage matchup (-),Moderate
-101106,Tre Tucker,WR,LV,SEA,WR2/3 · #2 target,10.31,44,-0.01 yds/route (-1%),0.0,22% / 22%,Downgrade,Coverage matchup (-),Weak
-157122,Mason Taylor,TE,NYJ,BUF,TE · #4 target,6.28,44,-0.03 yds/route (-3%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-174132,Kenyon Sadiq,TE,NYJ,BUF,TE · #8 target,4.92,44,-0.03 yds/route (-2%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-48262,Calvin Ridley,WR,TEN,JAX,WR4+ · #6 target,2.02,43,-0.01 yds/route (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-38334,Kyler Murray,QB,MIN,GB,QB,12.26,43,-0.08 yds/dropback (-1%),,23% / 13%,Downgrade,Man coverage expected (+),Strong
-86519,Drake London,WR,ATL,KC,WR2/3 · #1 target,11.07,43,-0.01 yds/route (-0%),0.4,20% / 28%,Neutral,Coverage matchup (-) | teammates out: Zachariah Branch,Weak
-47153,Mike Gesicki,TE,CIN,PIT,TE · #5 target,10.1,43,-0.03 yds/route (-2%),,17% / 22%,Downgrade,Points allowed to position (-) | teammates out: Erick All,Moderate
-101694,Brenton Strange,TE,JAX,TEN,TE · #3 target,7.08,43,-0.03 yds/route (-2%),,17% / 22%,Downgrade,Points allowed to position (-),Moderate
-176638,Ja'Kobi Lane,WR,BAL,LAC,WR4+ · #4 target,2.68,43,-0.01 yds/route (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-29048,Sam Darnold,QB,SEA,LV,QB,13.19,43,-0.08 yds/dropback (-1%),,23% / 13%,Downgrade,Coverage disguise (-),Strong
-7844,Travis Kelce,TE,KC,ATL,TE · #2 target,10.35,42,-0.04 yds/route (-2%),,17% / 22%,Downgrade,Points allowed to position (-),Moderate
-60878,Noah Gray,TE,KC,ATL,TE · #7 target (up 1),3.99,42,-0.04 yds/route (-2%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
-84296,Rashod Bateman,WR,BAL,LAC,WR4+ · #5 target,5.04,41,-0.02 yds/route (-1%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
-145773,Devontez Walker,WR,BAL,LAC,WR4+ · #9 target,3.1,41,-0.02 yds/route (-3%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
-157263,Elic Ayomanor,WR,TEN,JAX,WR4+ · #3 target,4.2,41,-0.02 yds/route (-1%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
-84375,Jahan Dotson,WR,ATL,KC,WR4+ · #3 target,6.14,41,-0.02 yds/route (-1%),0.2,9% / 27%,Downgrade,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
-47864,D.K. Metcalf,WR,PIT,CIN,WR4+ · #1 target,7.68,40,-0.02 yds/route (-2%),0.1,9% / 27%,Downgrade,Coverage matchup (-),Moderate
-77803,Javonte Williams,RB,DAL,SF,RB lead/bellcow,16.4,40,-0.13 yds/carry (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
-147787,Cam Skattebo,RB,NYG,WAS,RB lead/bellcow,10.82,38,-0.14 yds/carry (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
-123126,Bijan Robinson,RB,ATL,KC,RB lead/bellcow,18.28,38,-0.14 yds/carry (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
-84423,Michael Wilson,WR,ARI,LAR,WR2/3,10.58,38,-0.02 yds/route (-1%),,19% / 28%,Strong downgrade,Coverage matchup (-),Weak
-12270,Kendrick Bourne,WR,ARI,LAR,WR4+,5.61,38,-0.02 yds/route (-2%),,8% / 27%,Strong downgrade,Coverage matchup (-),Moderate
-82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,38,-0.14 yds/dropback (-2%),,23% / 13%,Downgrade,Coverage disguise (-),Strong
-61211,Tee Higgins,WR,CIN,PIT,WR1 · #2 target,16.98,37,-0.03 yds/route (-1%),0.5,27% / 29%,Strong downgrade,Coverage matchup (-) | teammates out: Erick All,Moderate
-145598,Konata Mumpfield,WR,LAR,ARI,WR4+ · #6 target (up 3),3.46,37,-0.03 yds/route (-3%),1.6,9% / 27%,Downgrade,"Coverage matchup (-) | teammates out: Puka Nacua, Davante Adams",Moderate
-84270,Ja'Marr Chase,WR,CIN,PIT,WR1 · #1 target,16.65,37,-0.03 yds/route (-1%),0.8,27% / 29%,Strong downgrade,Coverage matchup (-) | teammates out: Erick All,Moderate
-7820,Geno Smith,QB,NYJ,BUF,QB,14.5,36,-0.16 yds/dropback (-2%),,23% / 13%,Downgrade,Pressure matchup (-),Strong
-84000,Chigoziem Okonkwo,TE,WAS,NYG,TE · #2 target (up 1),5.57,36,-0.07 yds/route (-5%),,17% / 22%,Downgrade,Points allowed to position (-) | teammates out: Terry McLaurin,Moderate
-11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,36,-0.17 yds/dropback (-3%),,23% / 13%,Downgrade,Blitz rate expected (-),Strong
-98689,Rhamondre Stevenson,RB,NE,DET,RB lead/bellcow,11.19,35,-0.18 yds/carry (-5%),,38% / 18%,Downgrade,Points allowed to position (-),Strong
-97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,35,-0.18 yds/dropback (-3%),,23% / 13%,Downgrade,Blitz rate expected (+),Strong
-2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,34,-0.19 yds/dropback (-3%),,23% / 13%,Downgrade,Man coverage expected (-),Strong
-10769,Dak Prescott,QB,DAL,SF,QB,18.6,33,-0.20 yds/dropback (-3%),,22% / 13%,Strong downgrade,Coverage disguise (-),Strong
-97118,Kyren Williams,RB,LAR,ARI,RB lead/bellcow,15.68,31,-0.23 yds/carry (-5%),,36% / 17%,Strong downgrade,Run-gap matchup (-),Strong
-101690,Sam LaPorta,TE,DET,NE,TE · #3 target,9.45,30,-0.09 yds/route (-6%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-144726,Gunnar Helm,TE,TEN,JAX,TE · #4 target,4.07,30,-0.10 yds/route (-10%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-75916,Trey McBride,TE,ARI,LAR,TE · #1 target,14.03,30,-0.10 yds/route (-6%),,20% / 26%,Strong downgrade,"Points allowed to position (-) | teammates out: Michael Wilson, Kendrick Bourne",Moderate
-122906,Michael Mayer,TE,LV,SEA,TE · #4 target,6.92,29,-0.10 yds/route (-7%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-146715,Brock Bowers,TE,LV,SEA,TE · #1 target,17.43,29,-0.10 yds/route (-4%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,27,-0.27 yds/dropback (-4%),,22% / 13%,Strong downgrade,Man coverage expected (-),Strong
-163104,Harold Fannin Jr.,TE,CLE,HOU,TE · #2 target,9.31,26,-0.11 yds/route (-7%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-47436,Mark Andrews,TE,BAL,LAC,TE · #3 target,4.8,26,-0.12 yds/route (-10%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-40912,T.J. Hockenson,TE,MIN,GB,TE · #3 target,8.54,25,-0.12 yds/route (-6%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
-104034,Tucker Kraft,TE,GB,MIN,TE · #3 target,8.04,23,-0.13 yds/route (-9%),,20% / 26%,Strong downgrade,Points allowed to position (-) | teammates out: Josh Jacobs,Moderate
-11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,22,-0.33 yds/dropback (-5%),,22% / 13%,Strong downgrade,Coverage disguise (-),Strong
-77672,Brock Purdy,QB,SF,DAL,QB,21.41,22,-0.33 yds/dropback (-4%),,22% / 13%,Strong downgrade,Efficiency this defense allows (-),Strong
-77787,Chase Brown,RB,CIN,PIT,RB lead/bellcow,10.24,18,-0.39 yds/carry (-10%),,36% / 17%,Strong downgrade,Line / contact matchup (-),Strong
+10657,Laquon Treadwell,WR,IND,MIA,WR4+ · #4 target (up 1),3.28,49,yds/route -0.00 (-0%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+100637,Devaughn Vele,WR,NO,CAR,WR2/3 · #2 target,9.0,49,yds/route -0.00 (-0%),0.0,20% / 28%,Neutral,Coverage matchup (-),Weak
+144949,Keon Coleman,WR,BUF,NYJ,WR4+ · #4 target,7.49,49,yds/route -0.00 (-0%),0.0,6% / 26%,Neutral,Pressure on his QB (-),Moderate
+129604,Roman Wilson,WR,PIT,CIN,WR4+,7.56,49,yds/route -0.00 (-0%),,7% / 24%,Boost,Pressure on his QB (+),Moderate
+28305,Juwan Johnson,TE,NO,CAR,TE · #5 target,8.11,49,yds/route -0.01 (-1%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+133244,Cam Ward,QB,TEN,JAX,QB,12.57,49,yds/dropback -0.02 (-0%),,27% / 7%,Neutral,Man coverage expected (+),Strong
+63707,Rashid Shaheed,WR,SEA,LV,WR4+ · #3 target,4.89,48,yds/route -0.00 (-0%),0.0,7% / 24%,Boost,Coverage matchup (+),Moderate
+129758,Jaxon Smith-Njigba,WR,SEA,LV,WR1 · #1 target,21.84,48,yds/route -0.00 (-0%),0.0,36% / 26%,Neutral,Coverage matchup (+),Moderate
+98692,Jaylen Warren,RB,PIT,CIN,RB lead/bellcow,16.04,48,yds/carry -0.02 (-0%),,36% / 14%,Neutral,Line / contact matchup (+),Strong
+123000,Jordan Addison,WR,MIN,GB,WR4+ · #2 target,6.41,48,yds/route -0.00 (-0%),0.0,6% / 26%,Neutral,Two-high expected (-),Moderate
+11824,Cooper Kupp,WR,SEA,LV,WR4+ · #2 target,5.2,48,yds/route -0.00 (-0%),0.0,6% / 26%,Neutral,Coverage matchup (+),Moderate
+48027,Jauan Jennings,WR,MIN,GB,WR4+ · #7 target (up 1),1.4,47,yds/route -0.00 (-1%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+61398,Justin Jefferson,WR,MIN,GB,WR2/3 · #1 target,11.39,47,yds/route -0.00 (-0%),0.1,20% / 28%,Neutral,Two-high expected (-),Weak
+159617,Ryan Flournoy,WR,DAL,SF,WR4+ · #3 target,7.53,47,yds/route -0.00 (-0%),0.5,6% / 26%,Neutral,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
+27126,Tony Pollard,RB,TEN,JAX,RB lead/bellcow,13.69,47,yds/carry -0.04 (-1%),,36% / 14%,Neutral,None,Strong
+145159,Braelon Allen,RB,NYJ,BUF,RB lead/bellcow,10.61,47,yds/carry -0.04 (-1%),,36% / 14%,Neutral,None,Strong
+83639,Tyler Allgeier,RB,ARI,LAR,RB lead/bellcow,8.8,47,yds/carry -0.04 (-1%),,36% / 14%,Neutral,None,Strong
+101735,Wan'Dale Robinson,WR,TEN,JAX,WR4+ · #2 target,7.47,47,yds/route -0.01 (-1%),0.1,9% / 27%,Downgrade,Two-high expected (-),Moderate
+162750,Omarion Hampton,RB,LAC,BAL,RB lead/bellcow,7.84,45,yds/carry -0.06 (-2%),,36% / 14%,Neutral,Line / contact matchup (-),Strong
+11937,Aaron Jones,RB,MIN,GB,RB lead/bellcow,9.36,45,yds/carry -0.06 (-1%),,36% / 14%,Neutral,Points allowed to position (+),Strong
+61570,CeeDee Lamb,WR,DAL,SF,WR1 · #1 target,18.53,45,yds/route -0.01 (-0%),1.3,36% / 26%,Neutral,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
+44920,Olamide Zaccheaus,WR,ATL,KC,WR4+ · #5 target,0.7,45,yds/route -0.01 (-4%),0.1,6% / 26%,Neutral,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
+61081,Jake Ferguson,TE,DAL,SF,TE,5.64,45,yds/route -0.02 (-4%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+84006,Brevyn Spann-Ford,TE,DAL,SF,TE · #4 target (up 1),2.28,45,yds/route -0.02 (-2%),,18% / 22%,Neutral,"Points allowed to position (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
+170273,Carnell Tate,WR,TEN,JAX,WR4+ · #1 target,8.61,45,yds/route -0.01 (-0%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
+157196,Ashton Jeanty,RB,LV,SEA,RB lead/bellcow,13.14,45,yds/carry -0.06 (-2%),,36% / 14%,Neutral,Line / contact matchup (-),Strong
+11901,George Kittle,TE,SF,DAL,TE · #1 target,11.91,45,yds/route -0.03 (-1%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+122474,Jahmyr Gibbs,RB,DET,NE,RB lead/bellcow,24.03,45,yds/carry -0.07 (-1%),,38% / 18%,Downgrade,Run-gap matchup (+),Strong
+84292,Jalen Nailor,WR,LV,SEA,WR4+ · #5 target,3.6,45,yds/route -0.01 (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+7102,Kirk Cousins,QB,MIN,GB,QB,19.14,44,yds/dropback -0.07 (-1%),,23% / 13%,Downgrade,Man coverage expected (+),Strong
+158374,Germie Bernard,WR,PIT,CIN,WR4+,,44,yds/route -0.01 (-1%),,6% / 26%,Neutral,Pressure on his QB (+),Moderate
+143800,Dohnte Meyers,WR,CIN,PIT,WR4+,,44,yds/route -0.01 (-1%),,6% / 26%,Neutral,Efficiency this defense allows (-),Moderate
+97268,Zay Flowers,WR,BAL,LAC,WR1 · #1 target,13.25,44,yds/route -0.01 (-0%),0.0,34% / 20%,Downgrade,Coverage matchup (-),Moderate
+101106,Tre Tucker,WR,LV,SEA,WR2/3 · #2 target,10.31,44,yds/route -0.01 (-1%),0.0,22% / 22%,Downgrade,Coverage matchup (-),Weak
+157122,Mason Taylor,TE,NYJ,BUF,TE · #4 target,6.28,44,yds/route -0.03 (-3%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+174132,Kenyon Sadiq,TE,NYJ,BUF,TE · #8 target,4.92,44,yds/route -0.03 (-2%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+48262,Calvin Ridley,WR,TEN,JAX,WR4+ · #6 target,2.02,43,yds/route -0.01 (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+38334,Kyler Murray,QB,MIN,GB,QB,12.26,43,yds/dropback -0.08 (-1%),,23% / 13%,Downgrade,Man coverage expected (+),Strong
+86519,Drake London,WR,ATL,KC,WR2/3 · #1 target,11.07,43,yds/route -0.01 (-0%),0.4,20% / 28%,Neutral,Coverage matchup (-) | teammates out: Zachariah Branch,Weak
+47153,Mike Gesicki,TE,CIN,PIT,TE · #5 target,10.1,43,yds/route -0.03 (-2%),,17% / 22%,Downgrade,Points allowed to position (-) | teammates out: Erick All,Moderate
+101694,Brenton Strange,TE,JAX,TEN,TE · #3 target,7.08,43,yds/route -0.03 (-2%),,17% / 22%,Downgrade,Points allowed to position (-),Moderate
+176638,Ja'Kobi Lane,WR,BAL,LAC,WR4+ · #4 target,2.68,43,yds/route -0.01 (-2%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+29048,Sam Darnold,QB,SEA,LV,QB,13.19,43,yds/dropback -0.08 (-1%),,23% / 13%,Downgrade,Coverage disguise (-),Strong
+7844,Travis Kelce,TE,KC,ATL,TE · #2 target,10.35,42,yds/route -0.04 (-2%),,17% / 22%,Downgrade,Points allowed to position (-),Moderate
+60878,Noah Gray,TE,KC,ATL,TE · #7 target (up 1),3.99,42,yds/route -0.04 (-2%),,18% / 22%,Neutral,Points allowed to position (-),Moderate
+84296,Rashod Bateman,WR,BAL,LAC,WR4+ · #5 target,5.04,41,yds/route -0.02 (-1%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
+145773,Devontez Walker,WR,BAL,LAC,WR4+ · #9 target,3.1,41,yds/route -0.02 (-3%),0.0,6% / 26%,Neutral,Coverage matchup (-),Moderate
+157263,Elic Ayomanor,WR,TEN,JAX,WR4+ · #3 target,4.2,41,yds/route -0.02 (-1%),0.0,9% / 27%,Downgrade,Coverage matchup (-),Moderate
+84375,Jahan Dotson,WR,ATL,KC,WR4+ · #3 target,6.14,41,yds/route -0.02 (-1%),0.2,9% / 27%,Downgrade,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
+47864,D.K. Metcalf,WR,PIT,CIN,WR4+ · #1 target,7.68,40,yds/route -0.02 (-2%),0.1,9% / 27%,Downgrade,Coverage matchup (-),Moderate
+77803,Javonte Williams,RB,DAL,SF,RB lead/bellcow,16.4,40,yds/carry -0.13 (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
+147787,Cam Skattebo,RB,NYG,WAS,RB lead/bellcow,10.82,38,yds/carry -0.14 (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
+123126,Bijan Robinson,RB,ATL,KC,RB lead/bellcow,18.28,38,yds/carry -0.14 (-3%),,38% / 18%,Downgrade,Line / contact matchup (-),Strong
+84423,Michael Wilson,WR,ARI,LAR,WR2/3,10.58,38,yds/route -0.02 (-1%),,19% / 28%,Strong downgrade,Coverage matchup (-),Weak
+12270,Kendrick Bourne,WR,ARI,LAR,WR4+,5.61,38,yds/route -0.02 (-2%),,8% / 27%,Strong downgrade,Coverage matchup (-),Moderate
+82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,38,yds/dropback -0.14 (-2%),,23% / 13%,Downgrade,Coverage disguise (-),Strong
+61211,Tee Higgins,WR,CIN,PIT,WR1 · #2 target,16.98,37,yds/route -0.03 (-1%),0.5,27% / 29%,Strong downgrade,Coverage matchup (-) | teammates out: Erick All,Moderate
+145598,Konata Mumpfield,WR,LAR,ARI,WR4+ · #6 target (up 3),3.46,37,yds/route -0.03 (-3%),1.6,9% / 27%,Downgrade,"Coverage matchup (-) | teammates out: Puka Nacua, Davante Adams",Moderate
+84270,Ja'Marr Chase,WR,CIN,PIT,WR1 · #1 target,16.65,37,yds/route -0.03 (-1%),0.8,27% / 29%,Strong downgrade,Coverage matchup (-) | teammates out: Erick All,Moderate
+7820,Geno Smith,QB,NYJ,BUF,QB,14.5,36,yds/dropback -0.16 (-2%),,23% / 13%,Downgrade,Pressure matchup (-),Strong
+84000,Chigoziem Okonkwo,TE,WAS,NYG,TE · #2 target (up 1),5.57,36,yds/route -0.07 (-5%),,17% / 22%,Downgrade,Points allowed to position (-) | teammates out: Terry McLaurin,Moderate
+11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,36,yds/dropback -0.17 (-3%),,23% / 13%,Downgrade,Blitz rate expected (-),Strong
+98689,Rhamondre Stevenson,RB,NE,DET,RB lead/bellcow,11.19,35,yds/carry -0.18 (-5%),,38% / 18%,Downgrade,Points allowed to position (-),Strong
+97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,35,yds/dropback -0.18 (-3%),,23% / 13%,Downgrade,Blitz rate expected (+),Strong
+2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,34,yds/dropback -0.19 (-3%),,23% / 13%,Downgrade,Man coverage expected (-),Strong
+10769,Dak Prescott,QB,DAL,SF,QB,18.6,33,yds/dropback -0.20 (-3%),,22% / 13%,Strong downgrade,Coverage disguise (-),Strong
+97118,Kyren Williams,RB,LAR,ARI,RB lead/bellcow,15.68,31,yds/carry -0.23 (-5%),,36% / 17%,Strong downgrade,Run-gap matchup (-),Strong
+101690,Sam LaPorta,TE,DET,NE,TE · #3 target,9.45,30,yds/route -0.09 (-6%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+144726,Gunnar Helm,TE,TEN,JAX,TE · #4 target,4.07,30,yds/route -0.10 (-10%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+75916,Trey McBride,TE,ARI,LAR,TE · #1 target,14.03,30,yds/route -0.10 (-6%),,20% / 26%,Strong downgrade,"Points allowed to position (-) | teammates out: Michael Wilson, Kendrick Bourne",Moderate
+122906,Michael Mayer,TE,LV,SEA,TE · #4 target,6.92,29,yds/route -0.10 (-7%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+146715,Brock Bowers,TE,LV,SEA,TE · #1 target,17.43,29,yds/route -0.10 (-4%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,27,yds/dropback -0.27 (-4%),,22% / 13%,Strong downgrade,Man coverage expected (-),Strong
+163104,Harold Fannin Jr.,TE,CLE,HOU,TE · #2 target,9.31,26,yds/route -0.11 (-7%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+47436,Mark Andrews,TE,BAL,LAC,TE · #3 target,4.8,26,yds/route -0.12 (-10%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+40912,T.J. Hockenson,TE,MIN,GB,TE · #3 target,8.54,25,yds/route -0.12 (-6%),,20% / 26%,Strong downgrade,Points allowed to position (-),Moderate
+104034,Tucker Kraft,TE,GB,MIN,TE · #3 target,8.04,23,yds/route -0.13 (-9%),,20% / 26%,Strong downgrade,Points allowed to position (-) | teammates out: Josh Jacobs,Moderate
+11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,22,yds/dropback -0.33 (-5%),,22% / 13%,Strong downgrade,Coverage disguise (-),Strong
+77672,Brock Purdy,QB,SF,DAL,QB,21.41,22,yds/dropback -0.33 (-4%),,22% / 13%,Strong downgrade,Efficiency this defense allows (-),Strong
+77787,Chase Brown,RB,CIN,PIT,RB lead/bellcow,10.24,18,yds/carry -0.39 (-10%),,36% / 17%,Strong downgrade,Line / contact matchup (-),Strong

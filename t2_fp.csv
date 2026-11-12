@@ -1,31 +1,31 @@
 player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Score,Efficiency Boost,Extra Targets (role),Boom / Bust,Verdict,Top Driver,Evidence
-77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,98,pts +2.2 (+12%) · yds/dropback +0.23 (+3%),,37% / 5%,Strong boost · #1 of 28 QBs,Team total 28.5 (+5.8 vs usual) | Efficiency this defense allows (+),Strong
-83537,Tyler Shough,QB,NO,CAR,QB,18.2,80,pts +1.4 (+8%) · yds/dropback -0.01 (-0%),,26% / 7%,Strong boost · #2 of 28 QBs,Team total 25.8 (+4.3 vs usual) | Man coverage expected (+),Strong
-77672,Brock Purdy,QB,SF,DAL,QB,21.41,74,pts +1.3 (+6%) · yds/dropback +0.01 (+0%),,44% / 7%,Strong boost · #3 of 28 QBs,Team total 29.8 (+3.9 vs usual) | Efficiency this defense allows (+),Strong
-123943,Bryce Young,QB,CAR,NO,QB,18.32,74,pts +1.1 (+6%) · yds/dropback +0.21 (+3%),,23% / 9%,Strong boost · #4 of 28 QBs,Team total 23.2 (+2.0 vs usual) | Blitz rate expected (+),Strong
-46601,Josh Allen,QB,BUF,NYJ,QB,25.02,71,pts +1.3 (+5%) · yds/dropback +0.07 (+1%),,43% / 7%,Strong boost · #5 of 28 QBs,Team total 29.5 (+3.7 vs usual) | Blitz rate expected (+),Strong
-7820,Geno Smith,QB,NYJ,BUF,QB,14.5,71,pts +0.7 (+5%) · yds/dropback -0.13 (-2%),,15% / 10%,Strong boost · #6 of 28 QBs,Team total 21.5 (+3.0 vs usual) | Pressure matchup (-),Strong
-143969,Drake Maye,QB,NE,DET,QB,19.91,69,pts +0.9 (+5%) · yds/dropback +0.17 (+2%),,30% / 9%,Boost · #7 of 28 QBs,Team total 25.5 (+1.9 vs usual) | Points allowed to position (+) | status: FP Wed,Strong
-144918,J.J. McCarthy,QB,NYG,WAS,QB,8.49,61,pts +0.4 (+3%) · yds/dropback +0.20 (+2%),,20% / 12%,Boost · #8 of 28 QBs,"Team total 21.5 (-1.1 vs usual, not counted: new starter) | Blitz rate expected (+) | status: FP Wed",Strong
-39517,Drew Lock,QB,SEA,LV,QB,15.59,61,pts +0.4 (+3%) · yds/dropback +0.21 (+3%),,27% / 12%,Boost · #9 of 28 QBs,"Team total 23.5 (-1.4 vs usual, not counted: new starter) | Pre-snap coverage look (+) | status: Questionable · LP Wed",Strong
--3,Kyle McCord,QB,MIA,IND,QB,,60,pts +0.4 (+3%) · yds/dropback +0.14 (+2%),,11% / 14%,Boost · #10 of 28 QBs,"Team total 17.0 (-1.9 vs usual, not counted: new starter) | Efficiency this defense allows (+)",Strong
-2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,57,pts +0.3 (+2%) · yds/dropback -0.02 (-0%),,22% / 12%,Neutral · #11 of 28 QBs,Team total 23.0 (+0.7 vs usual) | Efficiency this defense allows (+),Strong
+77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,97,pts +2.2 (+12%) · yds/dropback +0.23 (+3%),,37% / 5%,Strong boost · #1 of 28 QBs,Team total 28.5 (+5.8 vs usual) | Efficiency this defense allows (+),Strong
+83537,Tyler Shough,QB,NO,CAR,QB,18.2,80,pts +1.3 (+7%) · yds/dropback -0.01 (-0%),,26% / 7%,Strong boost · #2 of 28 QBs,Team total 25.8 (+4.3 vs usual) | Man coverage expected (+),Strong
+77672,Brock Purdy,QB,SF,DAL,QB,21.41,73,pts +1.3 (+6%) · yds/dropback +0.01 (+0%),,44% / 7%,Strong boost · #3 of 28 QBs,Team total 29.8 (+3.9 vs usual) | Efficiency this defense allows (+),Strong
+123943,Bryce Young,QB,CAR,NO,QB,18.32,73,pts +1.1 (+6%) · yds/dropback +0.21 (+3%),,23% / 9%,Strong boost · #4 of 28 QBs,Team total 23.2 (+2.0 vs usual) | Blitz rate expected (+),Strong
+46601,Josh Allen,QB,BUF,NYJ,QB,25.02,70,pts +1.3 (+5%) · yds/dropback +0.07 (+1%),,43% / 7%,Strong boost · #5 of 28 QBs,Team total 29.5 (+3.7 vs usual) | Blitz rate expected (+),Strong
+7820,Geno Smith,QB,NYJ,BUF,QB,14.5,70,pts +0.7 (+5%) · yds/dropback -0.13 (-2%),,15% / 10%,Boost · #6 of 28 QBs,Team total 21.5 (+3.0 vs usual) | Pressure matchup (-),Strong
+143969,Drake Maye,QB,NE,DET,QB,19.91,68,pts +0.9 (+5%) · yds/dropback +0.17 (+2%),,30% / 9%,Boost · #7 of 28 QBs,Team total 25.5 (+1.9 vs usual) | Points allowed to position (+) | status: FP Wed,Strong
+144918,J.J. McCarthy,QB,NYG,WAS,QB,8.49,60,pts +0.4 (+3%) · yds/dropback +0.20 (+2%),,20% / 12%,Boost · #8 of 28 QBs,"Team total 21.5 (-1.1 vs usual, not counted: new starter) | Blitz rate expected (+) | status: FP Wed",Strong
+39517,Drew Lock,QB,SEA,LV,QB,15.59,60,pts +0.4 (+2%) · yds/dropback +0.21 (+3%),,27% / 12%,Boost · #9 of 28 QBs,"Team total 23.5 (-1.4 vs usual, not counted: new starter) | Pre-snap coverage look (+) | status: Questionable · LP Wed",Strong
+-3,Kyle McCord,QB,MIA,IND,QB,,59,pts +0.3 (+2%) · yds/dropback +0.14 (+2%),,11% / 14%,Boost · #10 of 28 QBs,"Team total 17.0 (-1.9 vs usual, not counted: new starter) | Efficiency this defense allows (+)",Strong
+2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,56,pts +0.2 (+2%) · yds/dropback -0.02 (-0%),,22% / 12%,Neutral · #11 of 28 QBs,Team total 23.0 (+0.7 vs usual) | Efficiency this defense allows (+),Strong
 28022,Joe Burrow,QB,CIN,PIT,QB,24.89,55,pts +0.3 (+1%) · yds/dropback -0.04 (-1%),,34% / 11%,Neutral · #12 of 28 QBs,Team total 26.5 (+1.0 vs usual) | Points allowed to position (-),Strong
-4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,50,pts +0.0 (+0%) · yds/dropback +0.36 (+5%),,35% / 12%,Neutral · #13 of 28 QBs,Team total 24.5 (-2.5 vs usual) | Efficiency this defense allows (+) | status: FP Wed,Strong
-11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,48,pts -0.1 (-0%) · yds/dropback -0.05 (-1%),,11% / 13%,Neutral · #14 of 28 QBs,Team total 18.2 (-0.2 vs usual) | Blitz rate expected (-),Strong
+4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,50,pts -0.0 (-0%) · yds/dropback +0.36 (+5%),,35% / 12%,Neutral · #13 of 28 QBs,Team total 24.5 (-2.5 vs usual) | Efficiency this defense allows (+) | status: FP Wed,Strong
+11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,48,pts -0.1 (-1%) · yds/dropback -0.05 (-1%),,11% / 13%,Neutral · #14 of 28 QBs,Team total 18.2 (-0.2 vs usual) | Blitz rate expected (-),Strong
 82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,47,pts -0.1 (-1%) · yds/dropback -0.19 (-3%),,18% / 13%,Neutral · #15 of 28 QBs,Team total 22.0 (+0.5 vs usual) | Points allowed to position (-),Strong
-10769,Dak Prescott,QB,DAL,SF,QB,18.6,47,pts -0.1 (-1%) · yds/dropback -0.17 (-3%),,31% / 13%,Neutral · #16 of 28 QBs,Team total 25.8 (+0.3 vs usual) | Coverage disguise (-),Strong
-39395,Daniel Jones,QB,IND,MIA,QB,9.05,46,pts -0.1 (-1%) · yds/dropback +0.14 (+3%),,20% / 13%,Neutral · #17 of 28 QBs,Team total 21.0 (-1.8 vs usual) | Man coverage expected (+),Strong
-11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,44,pts -0.3 (-1%) · yds/dropback -0.20 (-3%),,27% / 13%,Neutral · #18 of 28 QBs,Team total 25.0 (+0.1 vs usual) | Efficiency this defense allows (-) | status: FP Wed,Strong
-129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,43,pts -0.4 (-2%) · yds/dropback -0.26 (-3%),,21% / 13%,Neutral · #19 of 28 QBs,Team total 23.2 (-0.0 vs usual) | Man coverage expected (-),Strong
--1,Carson Beck,QB,ARI,LAR,QB,,42,pts -0.3 (-2%) · yds/dropback -0.17 (-3%),,7% / 20%,Neutral · #20 of 28 QBs,"Team total 15.0 (-3.2 vs usual, not counted: new starter) | Efficiency this defense allows (-) | DEF out: Jaylen Watson (CB, 65)",Strong
-10635,Jared Goff,QB,DET,NE,QB,18.42,34,pts -0.7 (-4%) · yds/dropback +0.02 (+0%),,30% / 16%,Downgrade · #21 of 28 QBs,"Team total 24.0 (-2.9 vs usual) | Pressure matchup (-) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Strong
-40306,Jordan Love,QB,GB,MIN,QB,20.56,34,pts -0.8 (-4%) · yds/dropback -0.05 (-1%),,24% / 16%,Downgrade · #22 of 28 QBs,Team total 22.5 (-2.8 vs usual) | Efficiency this defense allows (-),Strong
-97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,28,pts -1.1 (-6%) · yds/dropback -0.03 (-0%),,16% / 18%,Strong downgrade · #23 of 28 QBs,Team total 19.5 (-3.6 vs usual) | Blitz rate expected (+) | status: FP Wed,Strong
-133244,Cam Ward,QB,TEN,JAX,QB,12.57,27,pts -0.8 (-6%) · yds/dropback -0.08 (-1%),,12% / 17%,Strong downgrade · #24 of 28 QBs,Team total 18.0 (-2.3 vs usual) | Points allowed to position (-),Strong
-7102,Kirk Cousins,QB,MIN,GB,QB,19.14,22,pts -1.3 (-7%) · yds/dropback -0.15 (-2%),,16% / 20%,Strong downgrade · #25 of 28 QBs,Team total 19.5 (-3.8 vs usual) | Efficiency this defense allows (-),Strong
-10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,11,pts -1.4 (-10%) · yds/dropback +0.07 (+1%),,24% / 20%,Strong downgrade · #26 of 28 QBs,Team total 21.5 (-5.3 vs usual) | Efficiency this defense allows (+),Strong
--2,Fernando Mendoza,QB,LV,SEA,QB,,8,pts -1.5 (-11%) · yds/dropback -0.43 (-7%),,8% / 21%,Strong downgrade · #27 of 28 QBs,Team total 17.0 (-2.3 vs usual) | Efficiency this defense allows (-),Strong
+10769,Dak Prescott,QB,DAL,SF,QB,18.6,46,pts -0.2 (-1%) · yds/dropback -0.17 (-3%),,31% / 13%,Neutral · #16 of 28 QBs,Team total 25.8 (+0.3 vs usual) | Coverage disguise (-),Strong
+39395,Daniel Jones,QB,IND,MIA,QB,9.05,45,pts -0.2 (-1%) · yds/dropback +0.14 (+3%),,20% / 13%,Neutral · #17 of 28 QBs,Team total 21.0 (-1.8 vs usual) | Man coverage expected (+),Strong
+11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,44,pts -0.3 (-2%) · yds/dropback -0.20 (-3%),,27% / 13%,Neutral · #18 of 28 QBs,Team total 25.0 (+0.1 vs usual) | Efficiency this defense allows (-) | status: FP Wed,Strong
+129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,42,pts -0.4 (-2%) · yds/dropback -0.26 (-3%),,21% / 13%,Neutral · #19 of 28 QBs,Team total 23.2 (-0.0 vs usual) | Man coverage expected (-),Strong
+-1,Carson Beck,QB,ARI,LAR,QB,,42,pts -0.3 (-2%) · yds/dropback -0.17 (-3%),,7% / 20%,Downgrade · #20 of 28 QBs,"Team total 15.0 (-3.2 vs usual, not counted: new starter) | Efficiency this defense allows (-) | DEF out: Jaylen Watson (CB, 65)",Strong
+10635,Jared Goff,QB,DET,NE,QB,18.42,33,pts -0.8 (-4%) · yds/dropback +0.02 (+0%),,30% / 16%,Downgrade · #21 of 28 QBs,"Team total 24.0 (-2.9 vs usual) | Pressure matchup (-) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Strong
+40306,Jordan Love,QB,GB,MIN,QB,20.56,33,pts -0.9 (-4%) · yds/dropback -0.05 (-1%),,24% / 16%,Downgrade · #22 of 28 QBs,Team total 22.5 (-2.8 vs usual) | Efficiency this defense allows (-),Strong
+-2,Fernando Mendoza,QB,LV,SEA,QB,,27,pts -0.8 (-6%) · yds/dropback -0.43 (-7%),,8% / 21%,Strong downgrade · #23 of 28 QBs,"Team total 17.0 (-2.3 vs usual, not counted: new starter) | Efficiency this defense allows (-)",Strong
+97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,27,pts -1.1 (-6%) · yds/dropback -0.03 (-0%),,16% / 18%,Strong downgrade · #24 of 28 QBs,Team total 19.5 (-3.6 vs usual) | Blitz rate expected (+) | status: FP Wed,Strong
+133244,Cam Ward,QB,TEN,JAX,QB,12.57,27,pts -0.8 (-6%) · yds/dropback -0.08 (-1%),,12% / 17%,Strong downgrade · #25 of 28 QBs,Team total 18.0 (-2.3 vs usual) | Points allowed to position (-),Strong
+7102,Kirk Cousins,QB,MIN,GB,QB,19.14,22,pts -1.4 (-7%) · yds/dropback -0.15 (-2%),,16% / 20%,Strong downgrade · #26 of 28 QBs,Team total 19.5 (-3.8 vs usual) | Efficiency this defense allows (-),Strong
+10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,10,pts -1.4 (-10%) · yds/dropback +0.07 (+1%),,24% / 20%,Strong downgrade · #27 of 28 QBs,Team total 21.5 (-5.3 vs usual) | Efficiency this defense allows (+),Strong
 28237,Justin Herbert,QB,LAC,BAL,QB,10.08,2,pts -1.7 (-12%) · yds/dropback +0.17 (+3%),,15% / 23%,Strong downgrade · #28 of 28 QBs,Team total 17.0 (-6.9 vs usual) | Man coverage expected (+),Strong
 97630,Zach Charbonnet,RB,SEA,LV,RB shared · 53% of RB opps,6.75,84,yds/carry +0.38 (+8%),,39% / 15%,Strong boost · #1 of 45 RBs,Line / contact matchup (+),Strong
 147476,Audric Estime,RB,NO,CAR,RB lead · 59% of RB opps,11.05,82,yds/carry +0.31 (+8%),,48% / 15%,Strong boost · #2 of 45 RBs,Points allowed to position (+),Strong

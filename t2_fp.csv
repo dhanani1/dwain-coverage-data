@@ -1,77 +1,77 @@
 player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Score,Efficiency Boost,Extra Targets (role),Boom / Bust,Verdict,Top Driver,Evidence
-77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,97,pts +2.2 (+12%) · yds/dropback +0.23 (+3%),,37% / 5%,Strong boost · #1 of 28 QBs,Team total 28.5 (+5.8 vs usual) | Efficiency this defense allows (+),Strong
-83537,Tyler Shough,QB,NO,CAR,QB,18.2,80,pts +1.3 (+7%) · yds/dropback -0.01 (-0%),,26% / 7%,Strong boost · #2 of 28 QBs,Team total 25.8 (+4.3 vs usual) | Man coverage expected (+),Strong
+77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,97,pts +2.2 (+12%) · yds/dropback +0.23 (+3%),,36% / 5%,Strong boost · #1 of 28 QBs,Team total 28.5 (+5.8 vs usual) | Efficiency this defense allows (+),Strong
+83537,Tyler Shough,QB,NO,CAR,QB,18.2,80,pts +1.3 (+7%) · yds/dropback -0.01 (-0%),,28% / 8%,Strong boost · #2 of 28 QBs,Team total 25.8 (+4.3 vs usual) | Man coverage expected (+),Strong
 77672,Brock Purdy,QB,SF,DAL,QB,21.41,73,pts +1.3 (+6%) · yds/dropback +0.01 (+0%),,44% / 7%,Strong boost · #3 of 28 QBs,Team total 29.8 (+3.9 vs usual) | Efficiency this defense allows (+),Strong
-123943,Bryce Young,QB,CAR,NO,QB,18.32,73,pts +1.1 (+6%) · yds/dropback +0.21 (+3%),,23% / 9%,Strong boost · #4 of 28 QBs,Team total 23.2 (+2.0 vs usual) | Blitz rate expected (+),Strong
-46601,Josh Allen,QB,BUF,NYJ,QB,25.02,70,pts +1.3 (+5%) · yds/dropback +0.07 (+1%),,43% / 7%,Strong boost · #5 of 28 QBs,Team total 29.5 (+3.7 vs usual) | Blitz rate expected (+),Strong
-7820,Geno Smith,QB,NYJ,BUF,QB,14.5,70,pts +0.7 (+5%) · yds/dropback -0.13 (-2%),,15% / 10%,Boost · #6 of 28 QBs,Team total 21.5 (+3.0 vs usual) | Pressure matchup (-),Strong
-143969,Drake Maye,QB,NE,DET,QB,19.91,68,pts +0.9 (+5%) · yds/dropback +0.17 (+2%),,30% / 9%,Boost · #7 of 28 QBs,Team total 25.5 (+1.9 vs usual) | Points allowed to position (+) | status: FP Wed,Strong
-144918,J.J. McCarthy,QB,NYG,WAS,QB,8.49,60,pts +0.4 (+3%) · yds/dropback +0.20 (+2%),,20% / 12%,Boost · #8 of 28 QBs,"Team total 21.5 (-1.1 vs usual, not counted: new starter) | Blitz rate expected (+) | status: FP Wed",Strong
-39517,Drew Lock,QB,SEA,LV,QB,15.59,60,pts +0.4 (+2%) · yds/dropback +0.21 (+3%),,27% / 12%,Boost · #9 of 28 QBs,"Team total 23.5 (-1.4 vs usual, not counted: new starter) | Pre-snap coverage look (+) | status: Questionable · LP Wed",Strong
--3,Kyle McCord,QB,MIA,IND,QB,,59,pts +0.3 (+2%) · yds/dropback +0.14 (+2%),,11% / 14%,Boost · #10 of 28 QBs,"Team total 17.0 (-1.9 vs usual, not counted: new starter) | Efficiency this defense allows (+)",Strong
-2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,56,pts +0.2 (+2%) · yds/dropback -0.02 (-0%),,22% / 12%,Neutral · #11 of 28 QBs,Team total 23.0 (+0.7 vs usual) | Efficiency this defense allows (+),Strong
-28022,Joe Burrow,QB,CIN,PIT,QB,24.89,55,pts +0.3 (+1%) · yds/dropback -0.04 (-1%),,34% / 11%,Neutral · #12 of 28 QBs,Team total 26.5 (+1.0 vs usual) | Points allowed to position (-),Strong
-4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,50,pts -0.0 (-0%) · yds/dropback +0.36 (+5%),,35% / 12%,Neutral · #13 of 28 QBs,Team total 24.5 (-2.5 vs usual) | Efficiency this defense allows (+) | status: FP Wed,Strong
-11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,48,pts -0.1 (-1%) · yds/dropback -0.05 (-1%),,11% / 13%,Neutral · #14 of 28 QBs,Team total 18.2 (-0.2 vs usual) | Blitz rate expected (-),Strong
-82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,47,pts -0.1 (-1%) · yds/dropback -0.19 (-3%),,18% / 13%,Neutral · #15 of 28 QBs,Team total 22.0 (+0.5 vs usual) | Points allowed to position (-),Strong
-10769,Dak Prescott,QB,DAL,SF,QB,18.6,46,pts -0.2 (-1%) · yds/dropback -0.17 (-3%),,31% / 13%,Neutral · #16 of 28 QBs,Team total 25.8 (+0.3 vs usual) | Coverage disguise (-),Strong
-39395,Daniel Jones,QB,IND,MIA,QB,9.05,45,pts -0.2 (-1%) · yds/dropback +0.14 (+3%),,20% / 13%,Neutral · #17 of 28 QBs,Team total 21.0 (-1.8 vs usual) | Man coverage expected (+),Strong
-11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,44,pts -0.3 (-2%) · yds/dropback -0.20 (-3%),,27% / 13%,Neutral · #18 of 28 QBs,Team total 25.0 (+0.1 vs usual) | Efficiency this defense allows (-) | status: FP Wed,Strong
-129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,42,pts -0.4 (-2%) · yds/dropback -0.26 (-3%),,21% / 13%,Neutral · #19 of 28 QBs,Team total 23.2 (-0.0 vs usual) | Man coverage expected (-),Strong
--1,Carson Beck,QB,ARI,LAR,QB,,42,pts -0.3 (-2%) · yds/dropback -0.17 (-3%),,7% / 20%,Downgrade · #20 of 28 QBs,"Team total 15.0 (-3.2 vs usual, not counted: new starter) | Efficiency this defense allows (-) | DEF out: Jaylen Watson (CB, 65)",Strong
-10635,Jared Goff,QB,DET,NE,QB,18.42,33,pts -0.8 (-4%) · yds/dropback +0.02 (+0%),,30% / 16%,Downgrade · #21 of 28 QBs,"Team total 24.0 (-2.9 vs usual) | Pressure matchup (-) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Strong
-40306,Jordan Love,QB,GB,MIN,QB,20.56,33,pts -0.9 (-4%) · yds/dropback -0.05 (-1%),,24% / 16%,Downgrade · #22 of 28 QBs,Team total 22.5 (-2.8 vs usual) | Efficiency this defense allows (-),Strong
--2,Fernando Mendoza,QB,LV,SEA,QB,,27,pts -0.8 (-6%) · yds/dropback -0.43 (-7%),,8% / 21%,Strong downgrade · #23 of 28 QBs,"Team total 17.0 (-2.3 vs usual, not counted: new starter) | Efficiency this defense allows (-)",Strong
-97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,27,pts -1.1 (-6%) · yds/dropback -0.03 (-0%),,16% / 18%,Strong downgrade · #24 of 28 QBs,Team total 19.5 (-3.6 vs usual) | Blitz rate expected (+) | status: FP Wed,Strong
-133244,Cam Ward,QB,TEN,JAX,QB,12.57,27,pts -0.8 (-6%) · yds/dropback -0.08 (-1%),,12% / 17%,Strong downgrade · #25 of 28 QBs,Team total 18.0 (-2.3 vs usual) | Points allowed to position (-),Strong
-7102,Kirk Cousins,QB,MIN,GB,QB,19.14,22,pts -1.4 (-7%) · yds/dropback -0.15 (-2%),,16% / 20%,Strong downgrade · #26 of 28 QBs,Team total 19.5 (-3.8 vs usual) | Efficiency this defense allows (-),Strong
-10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,10,pts -1.4 (-10%) · yds/dropback +0.07 (+1%),,24% / 20%,Strong downgrade · #27 of 28 QBs,Team total 21.5 (-5.3 vs usual) | Efficiency this defense allows (+),Strong
-28237,Justin Herbert,QB,LAC,BAL,QB,10.08,2,pts -1.7 (-12%) · yds/dropback +0.17 (+3%),,15% / 23%,Strong downgrade · #28 of 28 QBs,Team total 17.0 (-6.9 vs usual) | Man coverage expected (+),Strong
-97630,Zach Charbonnet,RB,SEA,LV,RB shared · 53% of RB opps,6.75,84,yds/carry +0.38 (+8%),,39% / 15%,Strong boost · #1 of 45 RBs,Line / contact matchup (+),Strong
-147476,Audric Estime,RB,NO,CAR,RB lead · 59% of RB opps,11.05,82,yds/carry +0.31 (+8%),,48% / 15%,Strong boost · #2 of 45 RBs,Points allowed to position (+),Strong
-156985,Jadarian Price,RB,SEA,LV,RB shared · 40% of RB opps,5.3,78,yds/carry +0.26 (+7%),,38% / 15%,Strong boost · #3 of 45 RBs,Line / contact matchup (+),Strong
-138448,Kaelon Black,RB,SF,DAL,RB shared · 34% of RB opps,4.53,76,yds/carry +0.29 (+7%),,53% / 15%,Strong boost · #4 of 45 RBs,Line / contact matchup (+),Strong
-124179,Woody Marks,RB,HOU,CLE,RB lead · 87% of RB opps,7.92,73,yds/carry +0.21 (+6%),,39% / 15%,Strong boost · #5 of 45 RBs,Line / contact matchup (+) | status: Questionable · LP Wed,Strong
-11822,Alvin Kamara,RB,NO,CAR,RB shared · 41% of RB opps,8.74,72,yds/carry +0.19 (+6%),,48% / 15%,Strong boost · #6 of 45 RBs,Points allowed to position (+) | status: Questionable · DNP Wed,Strong
-57373,Chuba Hubbard,RB,CAR,NO,RB lead · 92% of RB opps,16.7,70,yds/carry +0.24 (+5%),,42% / 15%,Strong boost · #7 of 45 RBs,Points allowed to position (+) | status: DNP-Non Injury Wed,Strong
-97199,Kenneth Walker III,RB,KC,ATL,RB lead · 90% of RB opps,22.93,70,yds/carry +0.27 (+5%),,42% / 15%,Boost · #8 of 45 RBs,Line / contact matchup (+),Strong
-11763,Christian McCaffrey,RB,SF,DAL,RB lead · 58% of RB opps,18.59,69,yds/carry +0.22 (+5%),,52% / 15%,Boost · #9 of 45 RBs,Line / contact matchup (+) | status: DNP-Non Injury Wed,Strong
-10679,Derrick Henry,RB,BAL,LAC,RB lead · 74% of RB opps,15.14,68,yds/carry +0.18 (+4%),,31% / 15%,Boost · #10 of 45 RBs,Run-gap matchup (+),Strong
-57488,Jonathan Taylor,RB,IND,MIA,RB lead · 70% of RB opps,15.62,63,yds/carry +0.13 (+3%),,34% / 15%,Boost · #11 of 45 RBs,Points allowed to position (+) | status: LP-Non Injury Wed,Strong
-83666,James Cook,RB,BUF,NYJ,RB lead · 85% of RB opps,17.8,61,yds/carry +0.13 (+3%),,51% / 15%,Boost · #12 of 45 RBs,Points allowed to position (+),Strong
+123943,Bryce Young,QB,CAR,NO,QB,18.32,73,pts +1.1 (+6%) · yds/dropback +0.21 (+3%),,27% / 10%,Strong boost · #4 of 28 QBs,Team total 23.2 (+2.0 vs usual) | Blitz rate expected (+),Strong
+46601,Josh Allen,QB,BUF,NYJ,QB,25.02,70,pts +1.3 (+5%) · yds/dropback +0.07 (+1%),,57% / 10%,Strong boost · #5 of 28 QBs,Team total 29.5 (+3.7 vs usual) | Blitz rate expected (+),Strong
+7820,Geno Smith,QB,NYJ,BUF,QB,14.5,70,pts +0.7 (+5%) · yds/dropback -0.13 (-2%),,14% / 9%,Boost · #6 of 28 QBs,Team total 21.5 (+3.0 vs usual) | Pressure matchup (-),Strong
+143969,Drake Maye,QB,NE,DET,QB,19.91,68,pts +0.9 (+5%) · yds/dropback +0.17 (+2%),,35% / 10%,Boost · #7 of 28 QBs,Team total 25.5 (+1.9 vs usual) | Points allowed to position (+) | status: FP Wed,Strong
+144918,J.J. McCarthy,QB,NYG,WAS,QB,8.49,60,pts +0.4 (+3%) · yds/dropback +0.20 (+2%),,8% / 6%,Boost · #8 of 28 QBs,"Team total 21.5 (-1.1 vs usual, not counted: new starter) | Blitz rate expected (+) | status: FP Wed",Strong
+39517,Drew Lock,QB,SEA,LV,QB,15.59,60,pts +0.4 (+2%) · yds/dropback +0.21 (+3%),,21% / 10%,Boost · #9 of 28 QBs,"Team total 23.5 (-1.4 vs usual, not counted: new starter) | Pre-snap coverage look (+) | status: Questionable · LP Wed",Strong
+-3,Kyle McCord,QB,MIA,IND,QB,,59,pts +0.3 (+2%) · yds/dropback +0.14 (+2%),,18% / 20%,Boost · #10 of 28 QBs,"Team total 17.0 (-1.9 vs usual, not counted: new starter) | Efficiency this defense allows (+)",Strong
+2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,56,pts +0.2 (+2%) · yds/dropback -0.02 (-0%),,16% / 9%,Neutral · #11 of 28 QBs,Team total 23.0 (+0.7 vs usual) | Efficiency this defense allows (+),Strong
+28022,Joe Burrow,QB,CIN,PIT,QB,24.89,55,pts +0.3 (+1%) · yds/dropback -0.04 (-1%),,49% / 16%,Neutral · #12 of 28 QBs,Team total 26.5 (+1.0 vs usual) | Points allowed to position (-),Strong
+4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,50,pts -0.0 (-0%) · yds/dropback +0.36 (+5%),,26% / 9%,Neutral · #13 of 28 QBs,Team total 24.5 (-2.5 vs usual) | Efficiency this defense allows (+) | status: FP Wed,Strong
+11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,48,pts -0.1 (-1%) · yds/dropback -0.05 (-1%),,12% / 14%,Neutral · #14 of 28 QBs,Team total 18.2 (-0.2 vs usual) | Blitz rate expected (-),Strong
+82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,47,pts -0.1 (-1%) · yds/dropback -0.19 (-3%),,13% / 10%,Neutral · #15 of 28 QBs,Team total 22.0 (+0.5 vs usual) | Points allowed to position (-),Strong
+10769,Dak Prescott,QB,DAL,SF,QB,18.6,46,pts -0.2 (-1%) · yds/dropback -0.17 (-3%),,27% / 11%,Neutral · #16 of 28 QBs,Team total 25.8 (+0.3 vs usual) | Coverage disguise (-),Strong
+39395,Daniel Jones,QB,IND,MIA,QB,9.05,45,pts -0.2 (-1%) · yds/dropback +0.14 (+3%),,9% / 7%,Neutral · #17 of 28 QBs,Team total 21.0 (-1.8 vs usual) | Man coverage expected (+),Strong
+11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,44,pts -0.3 (-2%) · yds/dropback -0.20 (-3%),,23% / 11%,Neutral · #18 of 28 QBs,Team total 25.0 (+0.1 vs usual) | Efficiency this defense allows (-) | status: FP Wed,Strong
+129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,42,pts -0.4 (-2%) · yds/dropback -0.26 (-3%),,27% / 17%,Neutral · #19 of 28 QBs,Team total 23.2 (-0.0 vs usual) | Man coverage expected (-),Strong
+-1,Carson Beck,QB,ARI,LAR,QB,,42,pts -0.3 (-2%) · yds/dropback -0.17 (-3%),,13% / 29%,Downgrade · #20 of 28 QBs,"Team total 15.0 (-3.2 vs usual, not counted: new starter) | Efficiency this defense allows (-) | DEF out: Jaylen Watson (CB, 65)",Strong
+10635,Jared Goff,QB,DET,NE,QB,18.42,33,pts -0.8 (-4%) · yds/dropback +0.02 (+0%),,26% / 14%,Downgrade · #21 of 28 QBs,"Team total 24.0 (-2.9 vs usual) | Pressure matchup (-) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Strong
+40306,Jordan Love,QB,GB,MIN,QB,20.56,33,pts -0.9 (-4%) · yds/dropback -0.05 (-1%),,29% / 19%,Downgrade · #22 of 28 QBs,Team total 22.5 (-2.8 vs usual) | Efficiency this defense allows (-),Strong
+-2,Fernando Mendoza,QB,LV,SEA,QB,,27,pts -0.8 (-6%) · yds/dropback -0.43 (-7%),,12% / 27%,Strong downgrade · #23 of 28 QBs,"Team total 17.0 (-2.3 vs usual, not counted: new starter) | Efficiency this defense allows (-)",Strong
+97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,27,pts -1.1 (-6%) · yds/dropback -0.03 (-0%),,22% / 23%,Strong downgrade · #24 of 28 QBs,Team total 19.5 (-3.6 vs usual) | Blitz rate expected (+) | status: FP Wed,Strong
+133244,Cam Ward,QB,TEN,JAX,QB,12.57,27,pts -0.8 (-6%) · yds/dropback -0.08 (-1%),,9% / 15%,Strong downgrade · #25 of 28 QBs,Team total 18.0 (-2.3 vs usual) | Points allowed to position (-),Strong
+7102,Kirk Cousins,QB,MIN,GB,QB,19.14,22,pts -1.4 (-7%) · yds/dropback -0.15 (-2%),,20% / 24%,Strong downgrade · #26 of 28 QBs,Team total 19.5 (-3.8 vs usual) | Efficiency this defense allows (-),Strong
+10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,10,pts -1.4 (-10%) · yds/dropback +0.07 (+1%),,15% / 13%,Strong downgrade · #27 of 28 QBs,Team total 21.5 (-5.3 vs usual) | Efficiency this defense allows (+),Strong
+28237,Justin Herbert,QB,LAC,BAL,QB,10.08,2,pts -1.7 (-12%) · yds/dropback +0.17 (+3%),,7% / 15%,Strong downgrade · #28 of 28 QBs,Team total 17.0 (-6.9 vs usual) | Man coverage expected (+),Strong
+97630,Zach Charbonnet,RB,SEA,LV,RB shared · 53% of RB opps,6.75,84,yds/carry +0.38 (+8%),,26% / 15%,Strong boost · #1 of 45 RBs,Line / contact matchup (+),Strong
+147476,Audric Estime,RB,NO,CAR,RB lead · 59% of RB opps,11.05,82,yds/carry +0.31 (+8%),,43% / 15%,Strong boost · #2 of 45 RBs,Points allowed to position (+),Strong
+156985,Jadarian Price,RB,SEA,LV,RB shared · 40% of RB opps,5.3,78,yds/carry +0.26 (+7%),,23% / 15%,Strong boost · #3 of 45 RBs,Line / contact matchup (+),Strong
+138448,Kaelon Black,RB,SF,DAL,RB shared · 34% of RB opps,4.53,76,yds/carry +0.29 (+7%),,29% / 15%,Strong boost · #4 of 45 RBs,Line / contact matchup (+),Strong
+124179,Woody Marks,RB,HOU,CLE,RB lead · 87% of RB opps,7.92,73,yds/carry +0.21 (+6%),,29% / 15%,Strong boost · #5 of 45 RBs,Line / contact matchup (+) | status: Questionable · LP Wed,Strong
+11822,Alvin Kamara,RB,NO,CAR,RB shared · 41% of RB opps,8.74,72,yds/carry +0.19 (+6%),,37% / 15%,Strong boost · #6 of 45 RBs,Points allowed to position (+) | status: Questionable · DNP Wed,Strong
+57373,Chuba Hubbard,RB,CAR,NO,RB lead · 92% of RB opps,16.7,70,yds/carry +0.24 (+5%),,50% / 15%,Strong boost · #7 of 45 RBs,Points allowed to position (+) | status: DNP-Non Injury Wed,Strong
+97199,Kenneth Walker III,RB,KC,ATL,RB lead · 90% of RB opps,22.93,70,yds/carry +0.27 (+5%),,63% / 15%,Boost · #8 of 45 RBs,Line / contact matchup (+),Strong
+11763,Christian McCaffrey,RB,SF,DAL,RB lead · 58% of RB opps,18.59,69,yds/carry +0.22 (+5%),,60% / 15%,Boost · #9 of 45 RBs,Line / contact matchup (+) | status: DNP-Non Injury Wed,Strong
+10679,Derrick Henry,RB,BAL,LAC,RB lead · 74% of RB opps,15.14,68,yds/carry +0.18 (+4%),,36% / 15%,Boost · #10 of 45 RBs,Run-gap matchup (+),Strong
+57488,Jonathan Taylor,RB,IND,MIA,RB lead · 70% of RB opps,15.62,63,yds/carry +0.13 (+3%),,42% / 15%,Boost · #11 of 45 RBs,Points allowed to position (+) | status: LP-Non Injury Wed,Strong
+83666,James Cook,RB,BUF,NYJ,RB lead · 85% of RB opps,17.8,61,yds/carry +0.13 (+3%),,58% / 15%,Boost · #12 of 45 RBs,Points allowed to position (+),Strong
 157792,Ollie Gordon II,RB,MIA,IND,RB lead · 86% of RB opps,10.87,58,yds/carry +0.09 (+2%),,29% / 15%,Boost · #13 of 45 RBs,Line / contact matchup (+),Strong
-62946,Jordan Mason,RB,MIN,GB,RB shared · 53% of RB opps,6.48,53,yds/carry +0.03 (+1%),,30% / 15%,Neutral · #14 of 45 RBs,Points allowed to position (+),Strong
-129574,Blake Corum,RB,LAR,ARI,RB shared · 50% of RB opps,9.96,52,yds/carry +0.02 (+0%),,36% / 15%,Neutral · #15 of 45 RBs,Run-gap matchup (+),Strong
-12164,Austin Ekeler,RB,WAS,NYG,RB shared · 41% of RB opps,3.62,51,yds/carry +0.01 (+0%),,30% / 15%,Neutral · #16 of 45 RBs,Run-gap matchup (+),Strong
-131633,Rachaad White,RB,WAS,NYG,RB shared · 46% of RB opps,8.96,51,yds/carry +0.01 (+0%),,30% / 15%,Neutral · #17 of 45 RBs,Run-gap matchup (+),Strong
-40693,Rico Dowdle,RB,PIT,CIN,RB shared · 39% of RB opps,7.62,50,yds/carry +0.00 (+0%),,39% / 15%,Neutral · #18 of 45 RBs,Run-gap matchup (+),Strong
-122936,Seth McGowan,RB,IND,MIA,RB shared · 30% of RB opps,3.36,50,yds/carry -0.00 (-0%),,33% / 15%,Neutral · #19 of 45 RBs,Points allowed to position (+),Strong
-98692,Jaylen Warren,RB,PIT,CIN,RB lead · 61% of RB opps,16.04,48,yds/carry -0.03 (-1%),,38% / 15%,Neutral · #20 of 45 RBs,Line / contact matchup (+),Strong
-150568,Bhayshul Tuten,RB,JAX,TEN,RB lead · 65% of RB opps,14.96,48,yds/carry -0.02 (-1%),,51% / 15%,Neutral · #21 of 45 RBs,Run-gap matchup (+) | status: Questionable · DNP Wed,Strong
-97432,Bam Knight,RB,ARI,LAR,RB shared · 34% of RB opps,4.42,47,yds/carry -0.04 (-1%),,25% / 15%,Neutral · #22 of 45 RBs,None | status: Questionable · LP Wed,Strong
-163772,Dylan Sampson,RB,CLE,HOU,RB shared · 38% of RB opps,6.35,47,yds/carry -0.04 (-1%),,32% / 15%,Neutral · #23 of 45 RBs,Run-gap matchup (+),Strong
-45865,Justice Hill,RB,BAL,LAC,RB shared · 26% of RB opps,5.68,47,yds/carry -0.06 (-1%),,30% / 15%,Neutral · #24 of 45 RBs,Points allowed to position (+),Strong
-145159,Braelon Allen,RB,NYJ,BUF,RB lead · 59% of RB opps,10.61,47,yds/carry -0.04 (-1%),,39% / 15%,Neutral · #25 of 45 RBs,None,Strong
-27126,Tony Pollard,RB,TEN,JAX,RB lead · 94% of RB opps,13.69,46,yds/carry -0.04 (-1%),,30% / 15%,Neutral · #26 of 45 RBs,None | status: FP Wed,Strong
-83639,Tyler Allgeier,RB,ARI,LAR,RB lead · 66% of RB opps,8.8,46,yds/carry -0.04 (-1%),,25% / 15%,Neutral · #27 of 45 RBs,None,Strong
-145672,Mike Washington Jr.,RB,LV,SEA,RB lead · 57% of RB opps,4.01,46,yds/carry -0.04 (-1%),,28% / 15%,Neutral · #28 of 45 RBs,None,Strong
-97636,Breece Hall,RB,NYJ,BUF,RB lead · 70% of RB opps,11.93,45,yds/carry -0.04 (-1%),,39% / 15%,Neutral · #29 of 45 RBs,None,Strong
-157128,Quinshon Judkins,RB,CLE,HOU,RB lead · 62% of RB opps,10.14,44,yds/carry -0.05 (-1%),,31% / 15%,Neutral · #30 of 45 RBs,Run-gap matchup (-),Strong
-122474,Jahmyr Gibbs,RB,DET,NE,RB lead · 79% of RB opps,24.03,44,yds/carry -0.07 (-2%),,36% / 15%,Neutral · #31 of 45 RBs,Run-gap matchup (+),Strong
-11937,Aaron Jones,RB,MIN,GB,RB shared · 41% of RB opps,9.36,44,yds/carry -0.06 (-2%),,29% / 15%,Neutral · #32 of 45 RBs,Points allowed to position (+),Strong
-86392,Corey Kiner,RB,NE,DET,RB shared · 14% of RB opps,3.44,44,yds/carry -0.08 (-2%),,42% / 15%,Neutral · #33 of 45 RBs,"Run-gap matchup (+) | DEF out: Jack Campbell (LB, 65)",Strong
-162750,Omarion Hampton,RB,LAC,BAL,RB shared · 38% of RB opps,7.84,43,yds/carry -0.06 (-2%),,24% / 15%,Neutral · #34 of 45 RBs,Line / contact matchup (-),Strong
-40485,Devin Singletary,RB,NYG,WAS,RB shared · 52% of RB opps,6.88,43,yds/carry -0.07 (-2%),,34% / 15%,Neutral · #35 of 45 RBs,Run-gap matchup (+),Strong
-157196,Ashton Jeanty,RB,LV,SEA,RB shared · 41% of RB opps,13.14,42,yds/carry -0.07 (-2%),,28% / 15%,Neutral · #36 of 45 RBs,Line / contact matchup (-),Strong
-123727,Kimani Vidal,RB,LAC,BAL,RB shared · 38% of RB opps,5.54,42,yds/carry -0.09 (-2%),,24% / 15%,Downgrade · #37 of 45 RBs,Run-gap matchup (-),Strong
-123091,Kendre Miller,RB,DAL,SF,RB shared · 50% of RB opps,5.68,41,yds/carry -0.08 (-2%),,41% / 15%,Downgrade · #38 of 45 RBs,Line / contact matchup (-),Strong
-123126,Bijan Robinson,RB,ATL,KC,RB lead · 89% of RB opps,18.28,38,yds/carry -0.15 (-3%),,36% / 15%,Downgrade · #39 of 45 RBs,Line / contact matchup (-),Strong
-77803,Javonte Williams,RB,DAL,SF,RB lead · 69% of RB opps,16.4,37,yds/carry -0.13 (-3%),,41% / 15%,Downgrade · #40 of 45 RBs,Line / contact matchup (-),Strong
-147787,Cam Skattebo,RB,NYG,WAS,RB lead · 57% of RB opps,10.82,36,yds/carry -0.15 (-3%),,33% / 15%,Downgrade · #41 of 45 RBs,Line / contact matchup (-) | status: FP Wed,Strong
-66619,Pierre Strong Jr.,RB,GB,MIN,RB lead · 57% of RB opps,4.25,32,yds/carry -0.16 (-5%),,33% / 15%,Downgrade · #42 of 45 RBs,Run-gap matchup (-),Strong
-97118,Kyren Williams,RB,LAR,ARI,RB shared · 50% of RB opps,15.68,30,yds/carry -0.24 (-5%),,35% / 15%,Strong downgrade · #43 of 45 RBs,Run-gap matchup (-),Strong
-83689,Chris Rodriguez Jr.,RB,JAX,TEN,RB shared · 27% of RB opps,6.55,29,yds/carry -0.22 (-5%),,49% / 15%,Strong downgrade · #44 of 45 RBs,Line / contact matchup (-) | status: Questionable · LP Wed,Strong
-77787,Chase Brown,RB,CIN,PIT,RB lead · 77% of RB opps,10.24,9,yds/carry -0.39 (-10%),,40% / 15%,Strong downgrade · #45 of 45 RBs,Line / contact matchup (-),Strong
+62946,Jordan Mason,RB,MIN,GB,RB shared · 53% of RB opps,6.48,53,yds/carry +0.03 (+1%),,19% / 15%,Neutral · #14 of 45 RBs,Points allowed to position (+),Strong
+129574,Blake Corum,RB,LAR,ARI,RB shared · 50% of RB opps,9.96,52,yds/carry +0.02 (+0%),,29% / 15%,Neutral · #15 of 45 RBs,Run-gap matchup (+),Strong
+12164,Austin Ekeler,RB,WAS,NYG,RB shared · 41% of RB opps,3.62,51,yds/carry +0.01 (+0%),,15% / 15%,Neutral · #16 of 45 RBs,Run-gap matchup (+),Strong
+131633,Rachaad White,RB,WAS,NYG,RB shared · 46% of RB opps,8.96,51,yds/carry +0.01 (+0%),,23% / 15%,Neutral · #17 of 45 RBs,Run-gap matchup (+),Strong
+40693,Rico Dowdle,RB,PIT,CIN,RB shared · 39% of RB opps,7.62,50,yds/carry +0.00 (+0%),,26% / 15%,Neutral · #18 of 45 RBs,Run-gap matchup (+),Strong
+122936,Seth McGowan,RB,IND,MIA,RB shared · 30% of RB opps,3.36,50,yds/carry -0.00 (-0%),,17% / 15%,Neutral · #19 of 45 RBs,Points allowed to position (+),Strong
+98692,Jaylen Warren,RB,PIT,CIN,RB lead · 61% of RB opps,16.04,48,yds/carry -0.03 (-1%),,44% / 15%,Neutral · #20 of 45 RBs,Line / contact matchup (+),Strong
+150568,Bhayshul Tuten,RB,JAX,TEN,RB lead · 65% of RB opps,14.96,48,yds/carry -0.02 (-1%),,53% / 15%,Neutral · #21 of 45 RBs,Run-gap matchup (+) | status: Questionable · DNP Wed,Strong
+97432,Bam Knight,RB,ARI,LAR,RB shared · 34% of RB opps,4.42,47,yds/carry -0.04 (-1%),,15% / 15%,Neutral · #22 of 45 RBs,None | status: Questionable · LP Wed,Strong
+163772,Dylan Sampson,RB,CLE,HOU,RB shared · 38% of RB opps,6.35,47,yds/carry -0.04 (-1%),,22% / 15%,Neutral · #23 of 45 RBs,Run-gap matchup (+),Strong
+45865,Justice Hill,RB,BAL,LAC,RB shared · 26% of RB opps,5.68,47,yds/carry -0.06 (-1%),,17% / 15%,Neutral · #24 of 45 RBs,Points allowed to position (+),Strong
+145159,Braelon Allen,RB,NYJ,BUF,RB lead · 59% of RB opps,10.61,47,yds/carry -0.04 (-1%),,34% / 15%,Neutral · #25 of 45 RBs,None,Strong
+27126,Tony Pollard,RB,TEN,JAX,RB lead · 94% of RB opps,13.69,46,yds/carry -0.04 (-1%),,32% / 15%,Neutral · #26 of 45 RBs,None | status: FP Wed,Strong
+83639,Tyler Allgeier,RB,ARI,LAR,RB lead · 66% of RB opps,8.8,46,yds/carry -0.04 (-1%),,22% / 15%,Neutral · #27 of 45 RBs,None,Strong
+145672,Mike Washington Jr.,RB,LV,SEA,RB lead · 57% of RB opps,4.01,46,yds/carry -0.04 (-1%),,16% / 15%,Neutral · #28 of 45 RBs,None,Strong
+97636,Breece Hall,RB,NYJ,BUF,RB lead · 70% of RB opps,11.93,45,yds/carry -0.04 (-1%),,37% / 15%,Neutral · #29 of 45 RBs,None,Strong
+157128,Quinshon Judkins,RB,CLE,HOU,RB lead · 62% of RB opps,10.14,44,yds/carry -0.05 (-1%),,28% / 15%,Neutral · #30 of 45 RBs,Run-gap matchup (-),Strong
+122474,Jahmyr Gibbs,RB,DET,NE,RB lead · 79% of RB opps,24.03,44,yds/carry -0.07 (-2%),,58% / 15%,Neutral · #31 of 45 RBs,Run-gap matchup (+),Strong
+11937,Aaron Jones,RB,MIN,GB,RB shared · 41% of RB opps,9.36,44,yds/carry -0.06 (-2%),,23% / 15%,Neutral · #32 of 45 RBs,Points allowed to position (+),Strong
+86392,Corey Kiner,RB,NE,DET,RB shared · 14% of RB opps,3.44,44,yds/carry -0.08 (-2%),,21% / 15%,Neutral · #33 of 45 RBs,"Run-gap matchup (+) | DEF out: Jack Campbell (LB, 65)",Strong
+162750,Omarion Hampton,RB,LAC,BAL,RB shared · 38% of RB opps,7.84,43,yds/carry -0.06 (-2%),,17% / 15%,Neutral · #34 of 45 RBs,Line / contact matchup (-),Strong
+40485,Devin Singletary,RB,NYG,WAS,RB shared · 52% of RB opps,6.88,43,yds/carry -0.07 (-2%),,23% / 15%,Neutral · #35 of 45 RBs,Run-gap matchup (+),Strong
+157196,Ashton Jeanty,RB,LV,SEA,RB shared · 41% of RB opps,13.14,42,yds/carry -0.07 (-2%),,31% / 15%,Neutral · #36 of 45 RBs,Line / contact matchup (-),Strong
+123727,Kimani Vidal,RB,LAC,BAL,RB shared · 38% of RB opps,5.54,42,yds/carry -0.09 (-2%),,14% / 15%,Downgrade · #37 of 45 RBs,Run-gap matchup (-),Strong
+123091,Kendre Miller,RB,DAL,SF,RB shared · 50% of RB opps,5.68,41,yds/carry -0.08 (-2%),,22% / 15%,Downgrade · #38 of 45 RBs,Line / contact matchup (-),Strong
+123126,Bijan Robinson,RB,ATL,KC,RB lead · 89% of RB opps,18.28,38,yds/carry -0.15 (-3%),,48% / 15%,Downgrade · #39 of 45 RBs,Line / contact matchup (-),Strong
+77803,Javonte Williams,RB,DAL,SF,RB lead · 69% of RB opps,16.4,37,yds/carry -0.13 (-3%),,44% / 15%,Downgrade · #40 of 45 RBs,Line / contact matchup (-),Strong
+147787,Cam Skattebo,RB,NYG,WAS,RB lead · 57% of RB opps,10.82,36,yds/carry -0.15 (-3%),,29% / 15%,Downgrade · #41 of 45 RBs,Line / contact matchup (-) | status: FP Wed,Strong
+66619,Pierre Strong Jr.,RB,GB,MIN,RB lead · 57% of RB opps,4.25,32,yds/carry -0.16 (-5%),,17% / 15%,Downgrade · #42 of 45 RBs,Run-gap matchup (-),Strong
+97118,Kyren Williams,RB,LAR,ARI,RB shared · 50% of RB opps,15.68,30,yds/carry -0.24 (-5%),,39% / 15%,Strong downgrade · #43 of 45 RBs,Run-gap matchup (-),Strong
+83689,Chris Rodriguez Jr.,RB,JAX,TEN,RB shared · 27% of RB opps,6.55,29,yds/carry -0.22 (-5%),,31% / 15%,Strong downgrade · #44 of 45 RBs,Line / contact matchup (-) | status: Questionable · LP Wed,Strong
+77787,Chase Brown,RB,CIN,PIT,RB lead · 77% of RB opps,10.24,9,yds/carry -0.39 (-10%),,29% / 15%,Strong downgrade · #45 of 45 RBs,Line / contact matchup (-),Strong
 124247,MarShawn Lloyd,RB,GB,MIN,RB committee · 24% of RB opps,5.66,50,no reliable signal,,25% / 10%,No reliable signal,Run-gap matchup (-),None
 123826,Keaton Mitchell,RB,LAC,BAL,RB committee · 24% of RB opps,5.14,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (-),None
 11869,Samaje Perine,RB,CIN,PIT,RB committee · 23% of RB opps,5.11,50,no reliable signal,,25% / 10%,No reliable signal,Run-gap matchup (-),None
@@ -81,129 +81,129 @@ player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Score,Effici
 156473,Emmett Johnson,RB,KC,ATL,RB committee · 15% of RB opps,6.73,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (+),None
 146934,Jaylen Wright,RB,MIA,IND,RB committee · 18% of RB opps,0.68,50,no reliable signal,,25% / 10%,No reliable signal,Line / contact matchup (+) | status: FP Wed,None
 138299,Isaiah Davis,RB,NYJ,BUF,RB committee · 16% of RB opps,1.71,50,no reliable signal,,25% / 10%,No reliable signal,None,None
-77965,Tutu Atwell,WR,LAR,ARI,WR4+ · #4 target (up 3),2.68,61,yds/route +0.06 (+4%) · TPRR -0.4%,1.6,20% / 26%,Boost · #1 of 90 WRs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams",Moderate
-128232,Tory Horton,WR,SEA,LV,WR4+ · #5 target,4.08,57,yds/route +0.02 (+2%) · TPRR +0.2%,0.0,19% / 26%,Neutral · #2 of 90 WRs,Coverage matchup (+),Moderate
-124087,Kayshon Boutte,WR,HOU,CLE,WR4+ · #5 target,6.68,56,yds/route +0.00 (+0%) · TPRR +0.4%,0.4,18% / 26%,Neutral · #3 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
-145598,Konata Mumpfield,WR,LAR,ARI,WR4+ · #6 target (up 3),3.46,55,yds/route +0.04 (+3%) · TPRR -0.6%,1.6,20% / 28%,Neutral · #4 of 90 WRs,"Coverage matchup (-) | teammates out: Puka Nacua, Davante Adams",Moderate
-146760,Brian Thomas Jr.,WR,JAX,TEN,WR4+ · #4 target,4.1,55,yds/route +0.03 (+2%) · TPRR -0.0%,0.0,24% / 22%,Neutral · #5 of 90 WRs,His QB's matchup (+),Moderate
-48274,Deebo Samuel,WR,SF,DAL,WR2/3 · #6 target,10.48,55,yds/route +0.03 (+1%) · TPRR +0.2%,,30% / 22%,Neutral · #6 of 90 WRs,Coverage matchup (+) | status: Questionable · LP Wed,Weak
-145056,Marvin Harrison Jr.,WR,HOU,CLE,WR4+ · #6 target,4.57,54,yds/route +0.00 (+0%) · TPRR +0.4%,0.3,18% / 26%,Neutral · #7 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel | status: Questionable · LP Wed,Moderate
-122518,Xavier Hutchinson,WR,HOU,CLE,WR4+ · #4 target,6.79,54,yds/route +0.00 (+0%) · TPRR +0.4%,0.5,18% / 26%,Neutral · #8 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
-144718,Xavier Worthy,WR,KC,ATL,WR4+ · #3 target,6.29,54,yds/route +0.01 (+1%) · TPRR +0.3%,0.0,22% / 25%,Neutral · #9 of 90 WRs,Coverage matchup (+) | status: FP Wed,Moderate
-163442,Jalen Royals,WR,KC,ATL,WR4+ · #8 target (up 1),2.04,54,yds/route +0.01 (+1%) · TPRR +0.2%,0.0,22% / 25%,Neutral · #10 of 90 WRs,Coverage matchup (+),Moderate
-63707,Rashid Shaheed,WR,SEA,LV,WR4+ · #3 target,4.89,54,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,19% / 27%,Neutral · #11 of 90 WRs,Coverage matchup (+) | status: FP Wed,Moderate
-47468,Jakobi Meyers,WR,JAX,TEN,WR4+ · #2 target,7.83,53,yds/route +0.02 (+1%) · TPRR -0.1%,0.0,24% / 23%,Neutral · #12 of 90 WRs,His QB's matchup (+) | status: Questionable · DNP Wed,Moderate
-99229,George Pickens,WR,DAL,SF,WR2/3 · #2 target,10.6,53,yds/route +0.01 (+1%) · TPRR +0.2%,0.5,26% / 24%,Neutral · #13 of 90 WRs,"Coverage matchup (+) | teammates out: Tyler Goodson, Jake Ferguson | status: Questionable · LP Wed",Weak
+77965,Tutu Atwell,WR,LAR,ARI,WR4+ · #4 target (up 3),2.68,61,yds/route +0.06 (+4%) · TPRR -0.4%,1.6,6% / 29%,Boost · #1 of 90 WRs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams",Moderate
+128232,Tory Horton,WR,SEA,LV,WR4+ · #5 target,4.08,57,yds/route +0.02 (+2%) · TPRR +0.2%,0.0,7% / 28%,Neutral · #2 of 90 WRs,Coverage matchup (+),Moderate
+124087,Kayshon Boutte,WR,HOU,CLE,WR4+ · #5 target,6.68,56,yds/route +0.00 (+0%) · TPRR +0.4%,0.4,11% / 27%,Neutral · #3 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
+145598,Konata Mumpfield,WR,LAR,ARI,WR4+ · #6 target (up 3),3.46,55,yds/route +0.04 (+3%) · TPRR -0.6%,1.6,7% / 30%,Neutral · #4 of 90 WRs,"Coverage matchup (-) | teammates out: Puka Nacua, Davante Adams",Moderate
+146760,Brian Thomas Jr.,WR,JAX,TEN,WR4+ · #4 target,4.1,55,yds/route +0.03 (+2%) · TPRR -0.0%,0.0,10% / 24%,Neutral · #5 of 90 WRs,His QB's matchup (+),Moderate
+48274,Deebo Samuel,WR,SF,DAL,WR2/3 · #6 target,10.48,55,yds/route +0.03 (+1%) · TPRR +0.2%,,24% / 22%,Neutral · #6 of 90 WRs,Coverage matchup (+) | status: Questionable · LP Wed,Weak
+145056,Marvin Harrison Jr.,WR,HOU,CLE,WR4+ · #6 target,4.57,54,yds/route +0.00 (+0%) · TPRR +0.4%,0.3,8% / 28%,Neutral · #7 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel | status: Questionable · LP Wed,Moderate
+122518,Xavier Hutchinson,WR,HOU,CLE,WR4+ · #4 target,6.79,54,yds/route +0.00 (+0%) · TPRR +0.4%,0.5,11% / 27%,Neutral · #8 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Moderate
+144718,Xavier Worthy,WR,KC,ATL,WR4+ · #3 target,6.29,54,yds/route +0.01 (+1%) · TPRR +0.3%,0.0,11% / 27%,Neutral · #9 of 90 WRs,Coverage matchup (+) | status: FP Wed,Moderate
+163442,Jalen Royals,WR,KC,ATL,WR4+ · #8 target (up 1),2.04,54,yds/route +0.01 (+1%) · TPRR +0.2%,0.0,6% / 28%,Neutral · #10 of 90 WRs,Coverage matchup (+),Moderate
+63707,Rashid Shaheed,WR,SEA,LV,WR4+ · #3 target,4.89,54,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,8% / 29%,Neutral · #11 of 90 WRs,Coverage matchup (+) | status: FP Wed,Moderate
+47468,Jakobi Meyers,WR,JAX,TEN,WR4+ · #2 target,7.83,53,yds/route +0.02 (+1%) · TPRR -0.1%,0.0,16% / 23%,Neutral · #12 of 90 WRs,His QB's matchup (+) | status: Questionable · DNP Wed,Moderate
+99229,George Pickens,WR,DAL,SF,WR2/3 · #2 target,10.6,53,yds/route +0.01 (+1%) · TPRR +0.2%,0.5,22% / 24%,Neutral · #13 of 90 WRs,"Coverage matchup (+) | teammates out: Tyler Goodson, Jake Ferguson | status: Questionable · LP Wed",Weak
 8642,Mike Evans,WR,SF,DAL,WR2/3 · #3 target,12.58,53,yds/route +0.03 (+1%) · TPRR +0.2%,0.0,30% / 22%,Neutral · #14 of 90 WRs,Coverage matchup (+) | status: Questionable · DNP Wed,Weak
-11824,Cooper Kupp,WR,SEA,LV,WR4+ · #2 target,5.2,53,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,19% / 27%,Neutral · #15 of 90 WRs,Coverage matchup (+),Moderate
-61441,Nico Collins,WR,HOU,CLE,WR2/3 · #1 target,12.93,53,yds/route +0.00 (+0%) · TPRR +0.5%,0.5,18% / 27%,Neutral · #16 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Weak
-122730,Jordan Watkins,WR,SF,DAL,WR4+ · #7 target,8.35,52,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,30% / 23%,Neutral · #17 of 90 WRs,Coverage matchup (+),Moderate
-129799,Parker Washington,WR,JAX,TEN,WR2/3 · #1 target,11.89,52,yds/route +0.02 (+1%) · TPRR -0.1%,0.0,24% / 23%,Neutral · #18 of 90 WRs,His QB's matchup (+),Weak
-172430,Isaac TeSlaa,WR,DET,NE,WR4+ · #5 target,3.73,52,yds/route +0.01 (+1%) · TPRR +0.0%,0.0,23% / 27%,Neutral · #19 of 90 WRs,"Pressure on his QB (-) | DEF out: Carlton Davis III (CB, 71)",Moderate
-7857,Keenan Allen,WR,SF,DAL,WR4+ · #2 target,7.64,52,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,30% / 23%,Neutral · #20 of 90 WRs,Coverage matchup (+),Moderate
-101701,Jameson Williams,WR,DET,NE,WR2/3 · #2 target,11.46,52,yds/route +0.01 (+1%) · TPRR +0.0%,0.0,23% / 27%,Neutral · #21 of 90 WRs,"Coverage matchup (+) | DEF out: Carlton Davis III (CB, 71)",Weak
-158735,Tetairoa McMillan,WR,CAR,NO,WR2/3 · #1 target,12.69,52,yds/route +0.00 (+0%) · TPRR +0.3%,0.0,20% / 25%,Neutral · #22 of 90 WRs,Coverage matchup (+),Weak
-61103,Jerry Jeudy,WR,CLE,HOU,WR4+ · #5 target,3.73,52,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,14% / 27%,Neutral · #23 of 90 WRs,Two-high expected (+),Moderate
-84470,Amon-Ra St. Brown,WR,DET,NE,WR1 · #1 target,15.89,51,yds/route +0.01 (+0%) · TPRR +0.0%,0.0,23% / 27%,Neutral · #24 of 90 WRs,"Coverage matchup (+) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Moderate
-84425,Brycen Tremayne,WR,CAR,NO,WR4+ · #10 target (up 1),2.01,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,20% / 25%,Neutral · #25 of 90 WRs,Pressure on his QB (-),Moderate
+11824,Cooper Kupp,WR,SEA,LV,WR4+ · #2 target,5.2,53,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,8% / 29%,Neutral · #15 of 90 WRs,Coverage matchup (+),Moderate
+61441,Nico Collins,WR,HOU,CLE,WR2/3 · #1 target,12.93,53,yds/route +0.00 (+0%) · TPRR +0.5%,0.5,23% / 26%,Neutral · #16 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel,Weak
+122730,Jordan Watkins,WR,SF,DAL,WR4+ · #7 target,8.35,52,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,19% / 24%,Neutral · #17 of 90 WRs,Coverage matchup (+),Moderate
+129799,Parker Washington,WR,JAX,TEN,WR2/3 · #1 target,11.89,52,yds/route +0.02 (+1%) · TPRR -0.1%,0.0,25% / 23%,Neutral · #18 of 90 WRs,His QB's matchup (+),Weak
+172430,Isaac TeSlaa,WR,DET,NE,WR4+ · #5 target,3.73,52,yds/route +0.01 (+1%) · TPRR +0.0%,0.0,8% / 30%,Neutral · #19 of 90 WRs,"Pressure on his QB (-) | DEF out: Carlton Davis III (CB, 71)",Moderate
+7857,Keenan Allen,WR,SF,DAL,WR4+ · #2 target,7.64,52,yds/route +0.01 (+1%) · TPRR +0.1%,0.0,17% / 24%,Neutral · #20 of 90 WRs,Coverage matchup (+),Moderate
+101701,Jameson Williams,WR,DET,NE,WR2/3 · #2 target,11.46,52,yds/route +0.01 (+1%) · TPRR +0.0%,0.0,21% / 27%,Neutral · #21 of 90 WRs,"Coverage matchup (+) | DEF out: Carlton Davis III (CB, 71)",Weak
+158735,Tetairoa McMillan,WR,CAR,NO,WR2/3 · #1 target,12.69,52,yds/route +0.00 (+0%) · TPRR +0.3%,0.0,26% / 24%,Neutral · #22 of 90 WRs,Coverage matchup (+),Weak
+61103,Jerry Jeudy,WR,CLE,HOU,WR4+ · #5 target,3.73,52,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,7% / 28%,Neutral · #23 of 90 WRs,Two-high expected (+),Moderate
+84470,Amon-Ra St. Brown,WR,DET,NE,WR1 · #1 target,15.89,51,yds/route +0.01 (+0%) · TPRR +0.0%,0.0,35% / 26%,Neutral · #24 of 90 WRs,"Coverage matchup (+) | DEF out: Carlton Davis III (CB, 71) | status: Questionable · LP Wed",Moderate
+84425,Brycen Tremayne,WR,CAR,NO,WR4+ · #10 target (up 1),2.01,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,7% / 27%,Neutral · #25 of 90 WRs,Pressure on his QB (-),Moderate
 143068,Jalen Coker,WR,CAR,NO,WR2/3 · #2 target,10.36,51,yds/route +0.00 (+0%) · TPRR +0.2%,0.0,20% / 25%,Neutral · #26 of 90 WRs,Coverage matchup (+),Weak
-128374,Kyle Williams,WR,NE,DET,WR4+ · #7 target (up 3),3.83,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.2,23% / 25%,Neutral · #27 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
-162481,Denzel Boston,WR,CLE,HOU,WR2/3 · #1 target,9.63,51,yds/route +0.00 (+0%) · TPRR +0.2%,0.0,14% / 27%,Neutral · #28 of 90 WRs,Two-high expected (+) | status: Questionable · DNP Wed,Weak
-78874,Tank Dell,WR,HOU,CLE,WR4+ · #3 target,11.75,51,yds/route +0.01 (+0%) · TPRR +0.4%,0.3,18% / 27%,Neutral · #29 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel | status: Questionable · LP Wed,Moderate
-148151,Bryce Lance,WR,NO,CAR,WR4+ · #7 target (up 1),2.29,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,22% / 24%,Neutral · #30 of 90 WRs,Efficiency this defense allows (-),Moderate
-48327,A.J. Brown,WR,NE,DET,WR4+ · #1 target,4.87,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.6,23% / 25%,Neutral · #31 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson | status: Questionable · LP Wed,Moderate
-129758,Jaxon Smith-Njigba,WR,SEA,LV,WR1 · #1 target,21.84,51,yds/route +0.01 (+0%) · TPRR +0.1%,0.0,18% / 28%,Neutral · #32 of 90 WRs,Coverage matchup (+) | status: DNP-Non Injury Wed,Moderate
-97605,Rashee Rice,WR,KC,ATL,WR2/3 · #1 target,10.74,51,yds/route +0.00 (+0%) · TPRR +0.2%,0.0,22% / 26%,Neutral · #33 of 90 WRs,Coverage matchup (+) | status: FP Wed,Weak
-156321,Chris Bell,WR,MIA,IND,WR4+ · #4 target (up 1),2.9,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,12% / 29%,Neutral · #34 of 90 WRs,Coverage matchup (+) | status: Questionable · LP Wed,Moderate
-170362,KC Concepcion,WR,CLE,HOU,WR4+ · #3 target,7.77,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,14% / 27%,Neutral · #35 of 90 WRs,Two-high expected (+),Moderate
-104155,Demario Douglas,WR,NE,DET,WR2/3 · #2 target,8.99,51,yds/route +0.00 (+0%) · TPRR +0.1%,1.0,23% / 25%,Neutral · #36 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Weak
-160756,Kevin Coleman Jr.,WR,MIA,IND,WR4+ · #6 target (up 1),3.69,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,12% / 29%,Neutral · #37 of 90 WRs,Coverage matchup (+),Moderate
-84140,Khalil Shakir,WR,BUF,NYJ,WR4+ · #2 target,7.59,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,28% / 24%,Neutral · #38 of 90 WRs,Coverage matchup (+),Moderate
-141521,Efton Chism III,WR,NE,DET,WR4+ · #6 target (up 2),5.11,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.5,23% / 25%,Neutral · #39 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
-11873,Mack Hollins,WR,NE,DET,WR4+ · #3 target,7.9,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.2,23% / 25%,Neutral · #40 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
-97108,Malik Washington,WR,MIA,IND,WR4+ · #2 target,7.41,50,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,12% / 29%,Neutral · #41 of 90 WRs,Coverage matchup (+),Moderate
-157740,Caleb Douglas,WR,MIA,IND,WR2/3 · #3 target,10.22,50,yds/route +0.00 (+0%) · TPRR +0.0%,0.0,12% / 29%,Neutral · #42 of 90 WRs,Two-high expected (-),Weak
-146712,Adonai Mitchell,WR,NYJ,BUF,WR4+ · #2 target,8.1,50,yds/route +0.00 (+0%) · TPRR +0.0%,0.0,19% / 24%,Neutral · #43 of 90 WRs,Two-high expected (-),Moderate
-48267,DJ Moore,WR,BUF,NYJ,WR4+ · #1 target,8.33,50,yds/route -0.00 (-0%) · TPRR +0.1%,0.0,27% / 24%,Neutral · #44 of 90 WRs,Pressure on his QB (-),Moderate
-124030,Ladd McConkey,WR,LAC,BAL,WR4+ · #4 target (up 1),7.18,50,yds/route +0.00 (+0%) · TPRR -0.0%,0.0,14% / 32%,Neutral · #45 of 90 WRs,Two-high expected (-),Moderate
-97268,Zay Flowers,WR,BAL,LAC,WR1 · #1 target,13.25,50,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,17% / 31%,Neutral · #46 of 90 WRs,Coverage matchup (-),Moderate
-84355,Chris Olave,WR,NO,CAR,WR1 · #1 target,14.18,50,yds/route -0.00 (-0%) · TPRR +0.0%,0.0,22% / 24%,Neutral · #47 of 90 WRs,Coverage matchup (-),Moderate
-156395,Omar Cooper Jr.,WR,NYJ,BUF,WR2/3 · #3 target,13.15,50,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,19% / 24%,Neutral · #48 of 90 WRs,Two-high expected (-) | status: Questionable · LP Wed,Weak
-159617,Ryan Flournoy,WR,DAL,SF,WR4+ · #3 target,7.53,50,yds/route -0.00 (-0%) · TPRR +0.1%,0.5,26% / 25%,Neutral · #49 of 90 WRs,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
-144949,Keon Coleman,WR,BUF,NYJ,WR4+ · #4 target,7.49,50,yds/route -0.00 (-0%) · TPRR +0.0%,0.0,27% / 24%,Neutral · #50 of 90 WRs,Pressure on his QB (-),Moderate
-61570,CeeDee Lamb,WR,DAL,SF,WR1 · #1 target,18.53,49,yds/route -0.01 (-0%) · TPRR +0.1%,1.3,26% / 25%,Neutral · #51 of 90 WRs,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
-122676,Tre Harris,WR,LAC,BAL,WR4+ · #1 target,5.24,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,14% / 32%,Neutral · #52 of 90 WRs,Two-high expected (-),Moderate
-122832,Josh Downs,WR,KC,ATL,WR4+ · #4 target,6.51,49,yds/route -0.01 (-1%) · TPRR +0.2%,0.0,22% / 27%,Neutral · #53 of 90 WRs,His QB's matchup (-),Moderate
-97405,Garrett Wilson,WR,NYJ,BUF,WR2/3 · #1 target,11.53,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,19% / 24%,Neutral · #54 of 90 WRs,Two-high expected (-) | status: Questionable · LP Wed,Weak
-129789,KeAndre Lambert-Smith,WR,LAC,BAL,WR4+ · #2 target,3.07,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,14% / 32%,Neutral · #55 of 90 WRs,Two-high expected (-),Moderate
-97156,Isaiah Williams,WR,NYJ,BUF,WR4+ · #13 target,4.16,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,19% / 24%,Neutral · #56 of 90 WRs,Two-high expected (-),Moderate
-176638,Ja'Kobi Lane,WR,BAL,LAC,WR4+ · #4 target,2.68,49,yds/route -0.00 (-0%) · TPRR -0.1%,0.0,17% / 31%,Neutral · #57 of 90 WRs,Coverage matchup (-),Moderate
-9579,Stefon Diggs,WR,WAS,NYG,WR2/3 · #1 target,10.76,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.4,15% / 30%,Neutral · #58 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin,Weak
-146759,Malik Nabers,WR,NYG,WAS,WR2/3 · #1 target,12.91,49,yds/route -0.00 (-0%) · TPRR -0.1%,0.6,17% / 28%,Neutral · #59 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr. | status: FP Wed,Weak
-143800,Dohnte Meyers,WR,CIN,PIT,WR4+ · #6 target,4.23,49,yds/route -0.00 (-0%) · TPRR -0.0%,0.2,24% / 26%,Neutral · #60 of 90 WRs,Pressure on his QB (+) | teammates out: Erick All,Moderate
-66581,Christian Watson,WR,GB,MIN,WR1 · #2 target,16.93,49,yds/route +0.00 (+0%) · TPRR -0.3%,0.8,18% / 29%,Neutral · #61 of 90 WRs,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
-157690,Jordyn Tyson,WR,NO,CAR,WR4+ · #3 target,3.0,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.0,22% / 24%,Neutral · #62 of 90 WRs,Coverage matchup (-),Moderate
-158374,Germie Bernard,WR,PIT,CIN,WR4+ · #2 target,7.26,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.1,20% / 26%,Neutral · #63 of 90 WRs,Pressure on his QB (+),Moderate
-156241,Antonio Williams,WR,WAS,NYG,WR4+ · #3 target (up 1),5.92,49,yds/route -0.01 (-1%) · TPRR +0.0%,0.5,15% / 30%,Neutral · #64 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin,Moderate
-156165,Matthew Golden,WR,GB,MIN,WR1 · #1 target,15.27,49,yds/route +0.00 (+0%) · TPRR -0.3%,1.2,18% / 29%,Neutral · #65 of 90 WRs,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
-170273,Carnell Tate,WR,TEN,JAX,WR4+ · #1 target,8.61,49,yds/route -0.00 (-0%) · TPRR -0.3%,0.0,15% / 28%,Neutral · #66 of 90 WRs,Coverage matchup (-) | status: Questionable · DNP Wed,Moderate
-123085,Quentin Johnston,WR,LAC,BAL,WR4+ · #6 target,5.61,49,yds/route +0.00 (+0%) · TPRR -0.2%,0.0,14% / 32%,Neutral · #67 of 90 WRs,Two-high expected (-),Moderate
-101735,Wan'Dale Robinson,WR,TEN,JAX,WR4+ · #2 target,7.47,49,yds/route -0.00 (-0%) · TPRR -0.2%,0.1,15% / 28%,Neutral · #68 of 90 WRs,Two-high expected (-),Moderate
-99218,Treylon Burks,WR,WAS,NYG,WR4+ · #4 target (up 1),6.88,48,yds/route -0.01 (-1%) · TPRR +0.0%,0.4,15% / 30%,Neutral · #69 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin | status: DNP Wed,Moderate
-84296,Rashod Bateman,WR,BAL,LAC,WR4+ · #5 target,5.04,48,yds/route -0.00 (-0%) · TPRR -0.1%,0.0,17% / 32%,Neutral · #70 of 90 WRs,Coverage matchup (-),Moderate
-100637,Devaughn Vele,WR,NO,CAR,WR2/3 · #2 target,9.0,48,yds/route -0.01 (-1%) · TPRR +0.0%,0.0,22% / 24%,Neutral · #71 of 90 WRs,Coverage matchup (-),Weak
-61211,Tee Higgins,WR,CIN,PIT,WR1 · #2 target,16.98,48,yds/route -0.01 (-0%) · TPRR -0.2%,0.5,24% / 26%,Neutral · #72 of 90 WRs,Coverage matchup (-) | teammates out: Erick All,Moderate
-12087,Tim Patrick,WR,NYJ,BUF,WR4+ · #7 target,2.8,48,yds/route +0.00 (+0%) · TPRR -0.3%,0.0,18% / 25%,Neutral · #73 of 90 WRs,Coverage matchup (-),Moderate
-151069,Malachi Fields,WR,NYG,WAS,WR4+ · #3 target,5.54,48,yds/route -0.01 (-1%) · TPRR -0.1%,0.2,16% / 29%,Neutral · #74 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr.,Moderate
-84270,Ja'Marr Chase,WR,CIN,PIT,WR1 · #1 target,16.65,48,yds/route -0.01 (-1%) · TPRR -0.2%,0.8,24% / 26%,Neutral · #75 of 90 WRs,Coverage matchup (-) | teammates out: Erick All,Moderate
-48236,Darnell Mooney,WR,NYG,WAS,WR4+ · #4 target,3.19,48,yds/route -0.01 (-1%) · TPRR -0.1%,0.2,16% / 29%,Neutral · #76 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr. | status: FP Wed,Moderate
-145773,Devontez Walker,WR,BAL,LAC,WR4+ · #9 target,3.1,47,yds/route -0.01 (-1%) · TPRR -0.1%,0.0,17% / 32%,Neutral · #77 of 90 WRs,Coverage matchup (-),Moderate
-48262,Calvin Ridley,WR,TEN,JAX,WR4+ · #6 target,2.02,47,yds/route -0.00 (-0%) · TPRR -0.3%,0.0,15% / 29%,Neutral · #78 of 90 WRs,Coverage matchup (-),Moderate
-47864,D.K. Metcalf,WR,PIT,CIN,WR4+ · #1 target,7.68,47,yds/route -0.01 (-1%) · TPRR -0.0%,0.1,20% / 26%,Neutral · #79 of 90 WRs,Coverage matchup (-),Moderate
-86519,Drake London,WR,ATL,KC,WR2/3 · #1 target,11.07,47,yds/route -0.02 (-1%) · TPRR -0.1%,0.4,18% / 27%,Neutral · #80 of 90 WRs,Coverage matchup (-) | teammates out: Zachariah Branch,Weak
-61398,Justin Jefferson,WR,MIN,GB,WR2/3 · #1 target,11.39,46,yds/route -0.02 (-1%) · TPRR -0.2%,0.1,16% / 31%,Neutral · #81 of 90 WRs,Coverage matchup (-),Weak
-10657,Laquon Treadwell,WR,IND,MIA,WR4+ · #4 target (up 1),3.28,46,yds/route -0.01 (-1%) · TPRR -0.2%,0.0,15% / 30%,Neutral · #82 of 90 WRs,Coverage matchup (-),Moderate
-157263,Elic Ayomanor,WR,TEN,JAX,WR4+ · #3 target,4.2,45,yds/route -0.01 (-1%) · TPRR -0.4%,0.0,15% / 29%,Neutral · #83 of 90 WRs,Coverage matchup (-),Moderate
-101106,Tre Tucker,WR,LV,SEA,WR2/3 · #2 target,10.31,45,yds/route -0.02 (-1%) · TPRR -0.2%,0.0,13% / 30%,Neutral · #84 of 90 WRs,His QB's matchup (-),Weak
-123000,Jordan Addison,WR,MIN,GB,WR4+ · #2 target,6.41,45,yds/route -0.02 (-1%) · TPRR -0.1%,0.0,16% / 31%,Neutral · #85 of 90 WRs,Coverage matchup (-),Moderate
-123155,Myles Price,WR,MIN,GB,WR4+ · #5 target (up 1),1.3,43,yds/route -0.02 (-2%) · TPRR -0.0%,0.0,15% / 32%,Neutral · #86 of 90 WRs,Pressure on his QB (-),Moderate
-84375,Jahan Dotson,WR,ATL,KC,WR4+ · #3 target,6.14,43,yds/route -0.03 (-2%) · TPRR -0.1%,0.2,18% / 28%,Neutral · #87 of 90 WRs,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
-48027,Jauan Jennings,WR,MIN,GB,WR4+ · #7 target (up 1),1.4,42,yds/route -0.02 (-2%) · TPRR -0.1%,0.0,15% / 32%,Downgrade · #88 of 90 WRs,Coverage matchup (-) | status: Questionable · DNP Wed,Moderate
-84292,Jalen Nailor,WR,LV,SEA,WR4+ · #5 target,3.6,41,yds/route -0.03 (-3%) · TPRR -0.2%,0.0,13% / 32%,Downgrade · #89 of 90 WRs,His QB's matchup (-),Moderate
-144886,Tai Felton,WR,MIN,GB,WR4+ · #8 target,1.4,40,yds/route -0.03 (-3%) · TPRR -0.1%,0.0,15% / 33%,Downgrade · #90 of 90 WRs,Coverage matchup (-),Moderate
-52266,Colby Parkinson,TE,LAR,ARI,TE · #1 target (up 3),3.8,89,yds/route +0.13 (+14%) · TPRR +0.6%,,25% / 26%,Strong boost · #1 of 36 TEs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams | status: Questionable · LP Wed",Moderate
-129433,AJ Barner,TE,SEA,LV,TE · #4 target,5.7,88,yds/route +0.11 (+12%) · TPRR +0.6%,,25% / 26%,Strong boost · #2 of 36 TEs,His QB's matchup (+) | status: FP Wed,Moderate
-10669,Hunter Henry,TE,NE,DET,TE · #4 target,7.12,85,yds/route +0.17 (+10%) · TPRR +0.9%,,30% / 26%,Strong boost · #3 of 36 TEs,"Points allowed to position (+) | teammates out: Rhamondre Stevenson | DEF out: Jack Campbell (LB, 65) | status: Questionable · LP Wed",Moderate
-10744,Tyler Higbee,TE,LAR,ARI,TE · #2 target (up 2),5.59,84,yds/route +0.13 (+11%) · TPRR +0.6%,,25% / 26%,Strong boost · #4 of 36 TEs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams",Moderate
-156970,Eli Raridon,TE,NE,DET,TE · #5 target (up 2),5.31,84,yds/route +0.17 (+11%) · TPRR +0.9%,,30% / 26%,Strong boost · #5 of 36 TEs,"Points allowed to position (+) | teammates out: Rhamondre Stevenson | DEF out: Jack Campbell (LB, 65)",Moderate
-83955,Isaiah Likely,TE,NYG,WAS,TE · #2 target,13.22,75,yds/route +0.15 (+9%) · TPRR +0.4%,,21% / 26%,Strong boost · #6 of 36 TEs,Points allowed to position (+) | teammates out: Tyrone Tracy Jr.,Moderate
-129798,Tyler Warren,TE,IND,MIA,TE · #1 target,9.3,75,yds/route +0.10 (+8%) · TPRR +0.6%,,20% / 26%,Strong boost · #7 of 36 TEs,Points allowed to position (+),Moderate
+128374,Kyle Williams,WR,NE,DET,WR4+ · #7 target (up 3),3.83,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.2,9% / 27%,Neutral · #27 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
+162481,Denzel Boston,WR,CLE,HOU,WR2/3 · #1 target,9.63,51,yds/route +0.00 (+0%) · TPRR +0.2%,0.0,15% / 27%,Neutral · #28 of 90 WRs,Two-high expected (+) | status: Questionable · DNP Wed,Weak
+78874,Tank Dell,WR,HOU,CLE,WR4+ · #3 target,11.75,51,yds/route +0.01 (+0%) · TPRR +0.4%,0.3,20% / 27%,Neutral · #29 of 90 WRs,Coverage matchup (+) | teammates out: Jaylin Noel | status: Questionable · LP Wed,Moderate
+148151,Bryce Lance,WR,NO,CAR,WR4+ · #7 target (up 1),2.29,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,7% / 26%,Neutral · #30 of 90 WRs,Efficiency this defense allows (-),Moderate
+48327,A.J. Brown,WR,NE,DET,WR4+ · #1 target,4.87,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.6,10% / 27%,Neutral · #31 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson | status: Questionable · LP Wed,Moderate
+129758,Jaxon Smith-Njigba,WR,SEA,LV,WR1 · #1 target,21.84,51,yds/route +0.01 (+0%) · TPRR +0.1%,0.0,53% / 25%,Neutral · #32 of 90 WRs,Coverage matchup (+) | status: DNP-Non Injury Wed,Moderate
+97605,Rashee Rice,WR,KC,ATL,WR2/3 · #1 target,10.74,51,yds/route +0.00 (+0%) · TPRR +0.2%,0.0,20% / 26%,Neutral · #33 of 90 WRs,Coverage matchup (+) | status: FP Wed,Weak
+156321,Chris Bell,WR,MIA,IND,WR4+ · #4 target (up 1),2.9,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,5% / 31%,Neutral · #34 of 90 WRs,Coverage matchup (+) | status: Questionable · LP Wed,Moderate
+170362,KC Concepcion,WR,CLE,HOU,WR4+ · #3 target,7.77,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,12% / 27%,Neutral · #35 of 90 WRs,Two-high expected (+),Moderate
+104155,Demario Douglas,WR,NE,DET,WR2/3 · #2 target,8.99,51,yds/route +0.00 (+0%) · TPRR +0.1%,1.0,17% / 25%,Neutral · #36 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Weak
+160756,Kevin Coleman Jr.,WR,MIA,IND,WR4+ · #6 target (up 1),3.69,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,6% / 30%,Neutral · #37 of 90 WRs,Coverage matchup (+),Moderate
+84140,Khalil Shakir,WR,BUF,NYJ,WR4+ · #2 target,7.59,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,16% / 25%,Neutral · #38 of 90 WRs,Coverage matchup (+),Moderate
+141521,Efton Chism III,WR,NE,DET,WR4+ · #6 target (up 2),5.11,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.5,10% / 27%,Neutral · #39 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
+11873,Mack Hollins,WR,NE,DET,WR4+ · #3 target,7.9,51,yds/route +0.00 (+0%) · TPRR +0.1%,0.2,15% / 26%,Neutral · #40 of 90 WRs,Pressure on his QB (-) | teammates out: Rhamondre Stevenson,Moderate
+97108,Malik Washington,WR,MIA,IND,WR4+ · #2 target,7.41,50,yds/route +0.00 (+0%) · TPRR +0.1%,0.0,10% / 29%,Neutral · #41 of 90 WRs,Coverage matchup (+),Moderate
+157740,Caleb Douglas,WR,MIA,IND,WR2/3 · #3 target,10.22,50,yds/route +0.00 (+0%) · TPRR +0.0%,0.0,14% / 28%,Neutral · #42 of 90 WRs,Two-high expected (-),Weak
+146712,Adonai Mitchell,WR,NYJ,BUF,WR4+ · #2 target,8.1,50,yds/route +0.00 (+0%) · TPRR +0.0%,0.0,15% / 24%,Neutral · #43 of 90 WRs,Two-high expected (-),Moderate
+48267,DJ Moore,WR,BUF,NYJ,WR4+ · #1 target,8.33,50,yds/route -0.00 (-0%) · TPRR +0.1%,0.0,17% / 25%,Neutral · #44 of 90 WRs,Pressure on his QB (-),Moderate
+124030,Ladd McConkey,WR,LAC,BAL,WR4+ · #4 target (up 1),7.18,50,yds/route +0.00 (+0%) · TPRR -0.0%,0.0,9% / 33%,Neutral · #45 of 90 WRs,Two-high expected (-),Moderate
+97268,Zay Flowers,WR,BAL,LAC,WR1 · #1 target,13.25,50,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,21% / 30%,Neutral · #46 of 90 WRs,Coverage matchup (-),Moderate
+84355,Chris Olave,WR,NO,CAR,WR1 · #1 target,14.18,50,yds/route -0.00 (-0%) · TPRR +0.0%,0.0,32% / 23%,Neutral · #47 of 90 WRs,Coverage matchup (-),Moderate
+156395,Omar Cooper Jr.,WR,NYJ,BUF,WR2/3 · #3 target,13.15,50,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,27% / 23%,Neutral · #48 of 90 WRs,Two-high expected (-) | status: Questionable · LP Wed,Weak
+159617,Ryan Flournoy,WR,DAL,SF,WR4+ · #3 target,7.53,50,yds/route -0.00 (-0%) · TPRR +0.1%,0.5,15% / 26%,Neutral · #49 of 90 WRs,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
+144949,Keon Coleman,WR,BUF,NYJ,WR4+ · #4 target,7.49,50,yds/route -0.00 (-0%) · TPRR +0.0%,0.0,15% / 25%,Neutral · #50 of 90 WRs,Pressure on his QB (-),Moderate
+61570,CeeDee Lamb,WR,DAL,SF,WR1 · #1 target,18.53,49,yds/route -0.01 (-0%) · TPRR +0.1%,1.3,48% / 23%,Neutral · #51 of 90 WRs,"Efficiency this defense allows (-) | teammates out: Tyler Goodson, Jake Ferguson",Moderate
+122676,Tre Harris,WR,LAC,BAL,WR4+ · #1 target,5.24,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,7% / 34%,Neutral · #52 of 90 WRs,Two-high expected (-),Moderate
+122832,Josh Downs,WR,KC,ATL,WR4+ · #4 target,6.51,49,yds/route -0.01 (-1%) · TPRR +0.2%,0.0,12% / 28%,Neutral · #53 of 90 WRs,His QB's matchup (-),Moderate
+97405,Garrett Wilson,WR,NYJ,BUF,WR2/3 · #1 target,11.53,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,23% / 24%,Neutral · #54 of 90 WRs,Two-high expected (-) | status: Questionable · LP Wed,Weak
+129789,KeAndre Lambert-Smith,WR,LAC,BAL,WR4+ · #2 target,3.07,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,5% / 35%,Neutral · #55 of 90 WRs,Two-high expected (-),Moderate
+97156,Isaiah Williams,WR,NYJ,BUF,WR4+ · #13 target,4.16,49,yds/route +0.00 (+0%) · TPRR -0.1%,0.0,9% / 26%,Neutral · #56 of 90 WRs,Two-high expected (-),Moderate
+176638,Ja'Kobi Lane,WR,BAL,LAC,WR4+ · #4 target,2.68,49,yds/route -0.00 (-0%) · TPRR -0.1%,0.0,5% / 34%,Neutral · #57 of 90 WRs,Coverage matchup (-),Moderate
+9579,Stefon Diggs,WR,WAS,NYG,WR2/3 · #1 target,10.76,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.4,16% / 29%,Neutral · #58 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin,Weak
+146759,Malik Nabers,WR,NYG,WAS,WR2/3 · #1 target,12.91,49,yds/route -0.00 (-0%) · TPRR -0.1%,0.6,22% / 27%,Neutral · #59 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr. | status: FP Wed,Weak
+143800,Dohnte Meyers,WR,CIN,PIT,WR4+ · #6 target,4.23,49,yds/route -0.00 (-0%) · TPRR -0.0%,0.2,9% / 28%,Neutral · #60 of 90 WRs,Pressure on his QB (+) | teammates out: Erick All,Moderate
+66581,Christian Watson,WR,GB,MIN,WR1 · #2 target,16.93,49,yds/route +0.00 (+0%) · TPRR -0.3%,0.8,34% / 27%,Neutral · #61 of 90 WRs,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
+157690,Jordyn Tyson,WR,NO,CAR,WR4+ · #3 target,3.0,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.0,8% / 26%,Neutral · #62 of 90 WRs,Coverage matchup (-),Moderate
+158374,Germie Bernard,WR,PIT,CIN,WR4+ · #2 target,7.26,49,yds/route -0.01 (-0%) · TPRR +0.0%,0.1,13% / 27%,Neutral · #63 of 90 WRs,Pressure on his QB (+),Moderate
+156241,Antonio Williams,WR,WAS,NYG,WR4+ · #3 target (up 1),5.92,49,yds/route -0.01 (-1%) · TPRR +0.0%,0.5,9% / 31%,Neutral · #64 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin,Moderate
+156165,Matthew Golden,WR,GB,MIN,WR1 · #1 target,15.27,49,yds/route +0.00 (+0%) · TPRR -0.3%,1.2,29% / 28%,Neutral · #65 of 90 WRs,Coverage matchup (-) | teammates out: Josh Jacobs,Moderate
+170273,Carnell Tate,WR,TEN,JAX,WR4+ · #1 target,8.61,49,yds/route -0.00 (-0%) · TPRR -0.3%,0.0,13% / 28%,Neutral · #66 of 90 WRs,Coverage matchup (-) | status: Questionable · DNP Wed,Moderate
+123085,Quentin Johnston,WR,LAC,BAL,WR4+ · #6 target,5.61,49,yds/route +0.00 (+0%) · TPRR -0.2%,0.0,7% / 34%,Neutral · #67 of 90 WRs,Two-high expected (-),Moderate
+101735,Wan'Dale Robinson,WR,TEN,JAX,WR4+ · #2 target,7.47,49,yds/route -0.00 (-0%) · TPRR -0.2%,0.1,11% / 29%,Neutral · #68 of 90 WRs,Two-high expected (-),Moderate
+99218,Treylon Burks,WR,WAS,NYG,WR4+ · #4 target (up 1),6.88,48,yds/route -0.01 (-1%) · TPRR +0.0%,0.4,10% / 31%,Neutral · #69 of 90 WRs,Pressure on his QB (-) | teammates out: Terry McLaurin | status: DNP Wed,Moderate
+84296,Rashod Bateman,WR,BAL,LAC,WR4+ · #5 target,5.04,48,yds/route -0.00 (-0%) · TPRR -0.1%,0.0,7% / 34%,Neutral · #70 of 90 WRs,Coverage matchup (-),Moderate
+100637,Devaughn Vele,WR,NO,CAR,WR2/3 · #2 target,9.0,48,yds/route -0.01 (-1%) · TPRR +0.0%,0.0,17% / 25%,Neutral · #71 of 90 WRs,Coverage matchup (-),Weak
+61211,Tee Higgins,WR,CIN,PIT,WR1 · #2 target,16.98,48,yds/route -0.01 (-0%) · TPRR -0.2%,0.5,40% / 24%,Neutral · #72 of 90 WRs,Coverage matchup (-) | teammates out: Erick All,Moderate
+12087,Tim Patrick,WR,NYJ,BUF,WR4+ · #7 target,2.8,48,yds/route +0.00 (+0%) · TPRR -0.3%,0.0,7% / 27%,Neutral · #73 of 90 WRs,Coverage matchup (-),Moderate
+151069,Malachi Fields,WR,NYG,WAS,WR4+ · #3 target,5.54,48,yds/route -0.01 (-1%) · TPRR -0.1%,0.2,9% / 30%,Neutral · #74 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr.,Moderate
+84270,Ja'Marr Chase,WR,CIN,PIT,WR1 · #1 target,16.65,48,yds/route -0.01 (-1%) · TPRR -0.2%,0.8,39% / 25%,Neutral · #75 of 90 WRs,Coverage matchup (-) | teammates out: Erick All,Moderate
+48236,Darnell Mooney,WR,NYG,WAS,WR4+ · #4 target,3.19,48,yds/route -0.01 (-1%) · TPRR -0.1%,0.2,6% / 31%,Neutral · #76 of 90 WRs,Coverage matchup (-) | teammates out: Tyrone Tracy Jr. | status: FP Wed,Moderate
+145773,Devontez Walker,WR,BAL,LAC,WR4+ · #9 target,3.1,47,yds/route -0.01 (-1%) · TPRR -0.1%,0.0,5% / 35%,Neutral · #77 of 90 WRs,Coverage matchup (-),Moderate
+48262,Calvin Ridley,WR,TEN,JAX,WR4+ · #6 target,2.02,47,yds/route -0.00 (-0%) · TPRR -0.3%,0.0,5% / 31%,Neutral · #78 of 90 WRs,Coverage matchup (-),Moderate
+47864,D.K. Metcalf,WR,PIT,CIN,WR4+ · #1 target,7.68,47,yds/route -0.01 (-1%) · TPRR -0.0%,0.1,14% / 27%,Neutral · #79 of 90 WRs,Coverage matchup (-),Moderate
+86519,Drake London,WR,ATL,KC,WR2/3 · #1 target,11.07,47,yds/route -0.02 (-1%) · TPRR -0.1%,0.4,20% / 27%,Neutral · #80 of 90 WRs,Coverage matchup (-) | teammates out: Zachariah Branch,Weak
+61398,Justin Jefferson,WR,MIN,GB,WR2/3 · #1 target,11.39,46,yds/route -0.02 (-1%) · TPRR -0.2%,0.1,18% / 30%,Neutral · #81 of 90 WRs,Coverage matchup (-),Weak
+10657,Laquon Treadwell,WR,IND,MIA,WR4+ · #4 target (up 1),3.28,46,yds/route -0.01 (-1%) · TPRR -0.2%,0.0,6% / 32%,Neutral · #82 of 90 WRs,Coverage matchup (-),Moderate
+157263,Elic Ayomanor,WR,TEN,JAX,WR4+ · #3 target,4.2,45,yds/route -0.01 (-1%) · TPRR -0.4%,0.0,7% / 31%,Neutral · #83 of 90 WRs,Coverage matchup (-),Moderate
+101106,Tre Tucker,WR,LV,SEA,WR2/3 · #2 target,10.31,45,yds/route -0.02 (-1%) · TPRR -0.2%,0.0,15% / 30%,Neutral · #84 of 90 WRs,His QB's matchup (-),Weak
+123000,Jordan Addison,WR,MIN,GB,WR4+ · #2 target,6.41,45,yds/route -0.02 (-1%) · TPRR -0.1%,0.0,9% / 32%,Neutral · #85 of 90 WRs,Coverage matchup (-),Moderate
+123155,Myles Price,WR,MIN,GB,WR4+ · #5 target (up 1),1.3,43,yds/route -0.02 (-2%) · TPRR -0.0%,0.0,4% / 35%,Neutral · #86 of 90 WRs,Pressure on his QB (-),Moderate
+84375,Jahan Dotson,WR,ATL,KC,WR4+ · #3 target,6.14,43,yds/route -0.03 (-2%) · TPRR -0.1%,0.2,10% / 29%,Neutral · #87 of 90 WRs,Coverage matchup (-) | teammates out: Zachariah Branch,Moderate
+48027,Jauan Jennings,WR,MIN,GB,WR4+ · #7 target (up 1),1.4,42,yds/route -0.02 (-2%) · TPRR -0.1%,0.0,4% / 35%,Downgrade · #88 of 90 WRs,Coverage matchup (-) | status: Questionable · DNP Wed,Moderate
+84292,Jalen Nailor,WR,LV,SEA,WR4+ · #5 target,3.6,41,yds/route -0.03 (-3%) · TPRR -0.2%,0.0,6% / 33%,Downgrade · #89 of 90 WRs,His QB's matchup (-),Moderate
+144886,Tai Felton,WR,MIN,GB,WR4+ · #8 target,1.4,40,yds/route -0.03 (-3%) · TPRR -0.1%,0.0,4% / 36%,Downgrade · #90 of 90 WRs,Coverage matchup (-),Moderate
+52266,Colby Parkinson,TE,LAR,ARI,TE · #1 target (up 3),3.8,89,yds/route +0.13 (+14%) · TPRR +0.6%,,12% / 26%,Strong boost · #1 of 36 TEs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams | status: Questionable · LP Wed",Moderate
+129433,AJ Barner,TE,SEA,LV,TE · #4 target,5.7,88,yds/route +0.11 (+12%) · TPRR +0.6%,,17% / 26%,Strong boost · #2 of 36 TEs,His QB's matchup (+) | status: FP Wed,Moderate
+10669,Hunter Henry,TE,NE,DET,TE · #4 target,7.12,85,yds/route +0.17 (+10%) · TPRR +0.9%,,24% / 26%,Strong boost · #3 of 36 TEs,"Points allowed to position (+) | teammates out: Rhamondre Stevenson | DEF out: Jack Campbell (LB, 65) | status: Questionable · LP Wed",Moderate
+10744,Tyler Higbee,TE,LAR,ARI,TE · #2 target (up 2),5.59,84,yds/route +0.13 (+11%) · TPRR +0.6%,,16% / 26%,Strong boost · #4 of 36 TEs,"His QB's matchup (+) | teammates out: Puka Nacua, Davante Adams",Moderate
+156970,Eli Raridon,TE,NE,DET,TE · #5 target (up 2),5.31,84,yds/route +0.17 (+11%) · TPRR +0.9%,,19% / 26%,Strong boost · #5 of 36 TEs,"Points allowed to position (+) | teammates out: Rhamondre Stevenson | DEF out: Jack Campbell (LB, 65)",Moderate
+83955,Isaiah Likely,TE,NYG,WAS,TE · #2 target,13.22,75,yds/route +0.15 (+9%) · TPRR +0.4%,,42% / 26%,Strong boost · #6 of 36 TEs,Points allowed to position (+) | teammates out: Tyrone Tracy Jr.,Moderate
+129798,Tyler Warren,TE,IND,MIA,TE · #1 target,9.3,75,yds/route +0.10 (+8%) · TPRR +0.6%,,25% / 26%,Strong boost · #7 of 36 TEs,Points allowed to position (+),Moderate
 9637,Darren Waller,TE,CAR,NO,TE · #4 target,8.18,69,yds/route +0.10 (+6%) · TPRR +0.2%,,26% / 26%,Boost · #8 of 36 TEs,His QB's matchup (+),Moderate
-144046,Oronde Gadsden II,TE,LAC,BAL,TE · #5 target (up 1),4.11,66,yds/route +0.05 (+6%) · TPRR +0.2%,,15% / 26%,Boost · #9 of 36 TEs,His QB's matchup (+),Moderate
-84068,Greg Dulcich,TE,MIA,IND,TE · #1 target,5.86,63,yds/route +0.05 (+3%) · TPRR +0.5%,,15% / 26%,Boost · #10 of 36 TEs,His QB's matchup (+),Moderate
-60917,Charlie Kolar,TE,LAC,BAL,TE · #3 target (up 1),2.95,62,yds/route +0.05 (+4%) · TPRR +0.2%,,15% / 26%,Boost · #11 of 36 TEs,His QB's matchup (+),Moderate
-84085,Pat Freiermuth,TE,PIT,CIN,TE · #3 target (up 1),8.31,60,yds/route +0.02 (+2%) · TPRR +0.5%,,25% / 26%,Boost · #12 of 36 TEs,Points allowed to position (+),Moderate
-101694,Brenton Strange,TE,JAX,TEN,TE · #3 target,7.08,59,yds/route +0.04 (+2%) · TPRR +0.4%,,34% / 26%,Boost · #13 of 36 TEs,His QB's matchup (+),Moderate
-35883,Dawson Knox,TE,BUF,NYJ,TE · #6 target,2.55,57,yds/route +0.03 (+3%) · TPRR -0.3%,,36% / 26%,Neutral · #14 of 36 TEs,His QB's matchup (+),Moderate
-124044,Darnell Washington,TE,PIT,CIN,TE · #5 target (up 2),6.61,57,yds/route +0.02 (+1%) · TPRR +0.5%,,25% / 26%,Neutral · #15 of 36 TEs,Points allowed to position (+) | status: DNP-Non Injury Wed,Moderate
-91791,Dalton Kincaid,TE,BUF,NYJ,TE · #3 target,8.74,53,yds/route +0.03 (+1%) · TPRR -0.3%,,36% / 26%,Neutral · #16 of 36 TEs,His QB's matchup (+) | status: Questionable · LP Wed,Moderate
-11901,George Kittle,TE,SF,DAL,TE · #1 target,11.91,50,yds/route -0.01 (-0%) · TPRR +0.2%,,37% / 26%,Neutral · #17 of 36 TEs,His QB's matchup (+),Moderate
-83964,Kyle Pitts,TE,ATL,KC,TE · #2 target,6.5,49,yds/route -0.00 (-0%) · TPRR -0.0%,,22% / 26%,Neutral · #18 of 36 TEs,Points allowed to position (+) | teammates out: Zachariah Branch,Moderate
-28305,Juwan Johnson,TE,NO,CAR,TE · #5 target,8.11,47,yds/route -0.00 (-0%) · TPRR -0.3%,,29% / 26%,Neutral · #19 of 36 TEs,His QB's matchup (+),Moderate
-174132,Kenyon Sadiq,TE,NYJ,BUF,TE · #8 target,4.92,43,yds/route -0.05 (-2%) · TPRR -0.3%,,23% / 26%,Neutral · #20 of 36 TEs,His QB's matchup (-),Moderate
-47153,Mike Gesicki,TE,CIN,PIT,TE · #5 target,10.1,42,yds/route -0.03 (-3%) · TPRR -0.1%,,29% / 26%,Downgrade · #21 of 36 TEs,Points allowed to position (-) | teammates out: Erick All,Moderate
-47304,Dalton Schultz,TE,HOU,CLE,TE · #2 target,6.74,42,yds/route -0.05 (-3%) · TPRR -0.1%,,23% / 26%,Downgrade · #22 of 36 TEs,His QB's matchup (-) | teammates out: Jaylin Noel,Moderate
-101690,Sam LaPorta,TE,DET,NE,TE · #3 target,9.45,39,yds/route -0.05 (-3%) · TPRR -0.4%,,24% / 26%,Downgrade · #23 of 36 TEs,Points allowed to position (-),Moderate
-7844,Travis Kelce,TE,KC,ATL,TE · #2 target,10.35,38,yds/route -0.08 (-4%) · TPRR -0.2%,,26% / 26%,Downgrade · #24 of 36 TEs,His QB's matchup (-) | status: FP Wed,Moderate
-47436,Mark Andrews,TE,BAL,LAC,TE · #3 target,4.8,37,yds/route -0.05 (-4%) · TPRR -0.3%,,19% / 26%,Downgrade · #25 of 36 TEs,Points allowed to position (-),Moderate
-84000,Chigoziem Okonkwo,TE,WAS,NYG,TE · #2 target (up 1),5.57,36,yds/route -0.05 (-3%) · TPRR -0.6%,,17% / 26%,Downgrade · #26 of 36 TEs,Points allowed to position (-) | teammates out: Terry McLaurin,Moderate
-157122,Mason Taylor,TE,NYJ,BUF,TE · #4 target,6.28,36,yds/route -0.05 (-4%) · TPRR -0.3%,,23% / 26%,Downgrade · #27 of 36 TEs,His QB's matchup (-),Moderate
-163104,Harold Fannin Jr.,TE,CLE,HOU,TE · #2 target,9.31,35,yds/route -0.08 (-5%) · TPRR -0.0%,,17% / 26%,Downgrade · #28 of 36 TEs,Points allowed to position (-) | status: Questionable · LP Wed,Moderate
-84006,Brevyn Spann-Ford,TE,DAL,SF,TE · #4 target (up 1),2.28,34,yds/route -0.06 (-5%) · TPRR -0.2%,,29% / 26%,Downgrade · #29 of 36 TEs,"His QB's matchup (-) | teammates out: Tyler Goodson, Jake Ferguson | status: FP Wed",Moderate
-75916,Trey McBride,TE,ARI,LAR,TE · #1 target,14.03,32,yds/route -0.10 (-6%) · TPRR -0.3%,,13% / 26%,Downgrade · #30 of 36 TEs,"Points allowed to position (-) | teammates out: Michael Wilson, Kendrick Bourne",Moderate
+144046,Oronde Gadsden II,TE,LAC,BAL,TE · #5 target (up 1),4.11,66,yds/route +0.05 (+6%) · TPRR +0.2%,,7% / 26%,Boost · #9 of 36 TEs,His QB's matchup (+),Moderate
+84068,Greg Dulcich,TE,MIA,IND,TE · #1 target,5.86,63,yds/route +0.05 (+3%) · TPRR +0.5%,,13% / 26%,Boost · #10 of 36 TEs,His QB's matchup (+),Moderate
+60917,Charlie Kolar,TE,LAC,BAL,TE · #3 target (up 1),2.95,62,yds/route +0.05 (+4%) · TPRR +0.2%,,6% / 26%,Boost · #11 of 36 TEs,His QB's matchup (+),Moderate
+84085,Pat Freiermuth,TE,PIT,CIN,TE · #3 target (up 1),8.31,60,yds/route +0.02 (+2%) · TPRR +0.5%,,24% / 26%,Boost · #12 of 36 TEs,Points allowed to position (+),Moderate
+101694,Brenton Strange,TE,JAX,TEN,TE · #3 target,7.08,59,yds/route +0.04 (+2%) · TPRR +0.4%,,28% / 26%,Boost · #13 of 36 TEs,His QB's matchup (+),Moderate
+35883,Dawson Knox,TE,BUF,NYJ,TE · #6 target,2.55,57,yds/route +0.03 (+3%) · TPRR -0.3%,,13% / 26%,Neutral · #14 of 36 TEs,His QB's matchup (+),Moderate
+124044,Darnell Washington,TE,PIT,CIN,TE · #5 target (up 2),6.61,57,yds/route +0.02 (+1%) · TPRR +0.5%,,18% / 26%,Neutral · #15 of 36 TEs,Points allowed to position (+) | status: DNP-Non Injury Wed,Moderate
+91791,Dalton Kincaid,TE,BUF,NYJ,TE · #3 target,8.74,53,yds/route +0.03 (+1%) · TPRR -0.3%,,32% / 26%,Neutral · #16 of 36 TEs,His QB's matchup (+) | status: Questionable · LP Wed,Moderate
+11901,George Kittle,TE,SF,DAL,TE · #1 target,11.91,50,yds/route -0.01 (-0%) · TPRR +0.2%,,46% / 26%,Neutral · #17 of 36 TEs,His QB's matchup (+),Moderate
+83964,Kyle Pitts,TE,ATL,KC,TE · #2 target,6.5,49,yds/route -0.00 (-0%) · TPRR -0.0%,,17% / 26%,Neutral · #18 of 36 TEs,Points allowed to position (+) | teammates out: Zachariah Branch,Moderate
+28305,Juwan Johnson,TE,NO,CAR,TE · #5 target,8.11,47,yds/route -0.00 (-0%) · TPRR -0.3%,,28% / 26%,Neutral · #19 of 36 TEs,His QB's matchup (+),Moderate
+174132,Kenyon Sadiq,TE,NYJ,BUF,TE · #8 target,4.92,43,yds/route -0.05 (-2%) · TPRR -0.3%,,15% / 26%,Neutral · #20 of 36 TEs,His QB's matchup (-),Moderate
+47153,Mike Gesicki,TE,CIN,PIT,TE · #5 target,10.1,42,yds/route -0.03 (-3%) · TPRR -0.1%,,31% / 26%,Downgrade · #21 of 36 TEs,Points allowed to position (-) | teammates out: Erick All,Moderate
+47304,Dalton Schultz,TE,HOU,CLE,TE · #2 target,6.74,42,yds/route -0.05 (-3%) · TPRR -0.1%,,17% / 26%,Downgrade · #22 of 36 TEs,His QB's matchup (-) | teammates out: Jaylin Noel,Moderate
+101690,Sam LaPorta,TE,DET,NE,TE · #3 target,9.45,39,yds/route -0.05 (-3%) · TPRR -0.4%,,23% / 26%,Downgrade · #23 of 36 TEs,Points allowed to position (-),Moderate
+7844,Travis Kelce,TE,KC,ATL,TE · #2 target,10.35,38,yds/route -0.08 (-4%) · TPRR -0.2%,,30% / 26%,Downgrade · #24 of 36 TEs,His QB's matchup (-) | status: FP Wed,Moderate
+47436,Mark Andrews,TE,BAL,LAC,TE · #3 target,4.8,37,yds/route -0.05 (-4%) · TPRR -0.3%,,9% / 26%,Downgrade · #25 of 36 TEs,Points allowed to position (-),Moderate
+84000,Chigoziem Okonkwo,TE,WAS,NYG,TE · #2 target (up 1),5.57,36,yds/route -0.05 (-3%) · TPRR -0.6%,,11% / 26%,Downgrade · #26 of 36 TEs,Points allowed to position (-) | teammates out: Terry McLaurin,Moderate
+157122,Mason Taylor,TE,NYJ,BUF,TE · #4 target,6.28,36,yds/route -0.05 (-4%) · TPRR -0.3%,,18% / 26%,Downgrade · #27 of 36 TEs,His QB's matchup (-),Moderate
+163104,Harold Fannin Jr.,TE,CLE,HOU,TE · #2 target,9.31,35,yds/route -0.08 (-5%) · TPRR -0.0%,,22% / 26%,Downgrade · #28 of 36 TEs,Points allowed to position (-) | status: Questionable · LP Wed,Moderate
+84006,Brevyn Spann-Ford,TE,DAL,SF,TE · #4 target (up 1),2.28,34,yds/route -0.06 (-5%) · TPRR -0.2%,,9% / 26%,Downgrade · #29 of 36 TEs,"His QB's matchup (-) | teammates out: Tyler Goodson, Jake Ferguson | status: FP Wed",Moderate
+75916,Trey McBride,TE,ARI,LAR,TE · #1 target,14.03,32,yds/route -0.10 (-6%) · TPRR -0.3%,,35% / 26%,Downgrade · #30 of 36 TEs,"Points allowed to position (-) | teammates out: Michael Wilson, Kendrick Bourne",Moderate
 40912,T.J. Hockenson,TE,MIN,GB,TE · #3 target,8.54,29,yds/route -0.11 (-6%) · TPRR -0.7%,,17% / 26%,Strong downgrade · #31 of 36 TEs,Points allowed to position (-) | status: Questionable · DNP Wed,Moderate
-146715,Brock Bowers,TE,LV,SEA,TE · #1 target,17.43,27,yds/route -0.17 (-7%) · TPRR -0.7%,,15% / 26%,Strong downgrade · #32 of 36 TEs,His QB's matchup (-),Moderate
-144726,Gunnar Helm,TE,TEN,JAX,TE · #4 target,4.07,25,yds/route -0.08 (-8%) · TPRR -0.4%,,16% / 26%,Strong downgrade · #33 of 36 TEs,Points allowed to position (-),Moderate
-104034,Tucker Kraft,TE,GB,MIN,TE · #3 target,8.04,24,yds/route -0.09 (-7%) · TPRR -1.0%,,20% / 26%,Strong downgrade · #34 of 36 TEs,Points allowed to position (-) | teammates out: Josh Jacobs,Moderate
-60878,Noah Gray,TE,KC,ATL,TE · #7 target (up 1),3.99,23,yds/route -0.08 (-8%) · TPRR -0.2%,,25% / 26%,Strong downgrade · #35 of 36 TEs,His QB's matchup (-),Moderate
-122906,Michael Mayer,TE,LV,SEA,TE · #4 target,6.92,16,yds/route -0.17 (-10%) · TPRR -0.7%,,14% / 26%,Strong downgrade · #36 of 36 TEs,His QB's matchup (-),Moderate
+146715,Brock Bowers,TE,LV,SEA,TE · #1 target,17.43,27,yds/route -0.17 (-7%) · TPRR -0.7%,,52% / 26%,Strong downgrade · #32 of 36 TEs,His QB's matchup (-),Moderate
+144726,Gunnar Helm,TE,TEN,JAX,TE · #4 target,4.07,25,yds/route -0.08 (-8%) · TPRR -0.4%,,8% / 26%,Strong downgrade · #33 of 36 TEs,Points allowed to position (-),Moderate
+104034,Tucker Kraft,TE,GB,MIN,TE · #3 target,8.04,24,yds/route -0.09 (-7%) · TPRR -1.0%,,17% / 26%,Strong downgrade · #34 of 36 TEs,Points allowed to position (-) | teammates out: Josh Jacobs,Moderate
+60878,Noah Gray,TE,KC,ATL,TE · #7 target (up 1),3.99,23,yds/route -0.08 (-8%) · TPRR -0.2%,,11% / 26%,Strong downgrade · #35 of 36 TEs,His QB's matchup (-),Moderate
+122906,Michael Mayer,TE,LV,SEA,TE · #4 target,6.92,16,yds/route -0.17 (-10%) · TPRR -0.7%,,13% / 26%,Strong downgrade · #36 of 36 TEs,His QB's matchup (-),Moderate

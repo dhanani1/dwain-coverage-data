@@ -1,209 +1,209 @@
-player_id,Player,Pos,Team,Wk10 Opp,Type,Half-PPR PPG,Fav,Fav FP,Volume / G,Look A,Exp A,Look B,Exp B
-129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,0.0676,1.39,38.5,Exp Pressured DB,13.9,Exp Blitzed DB,11.4
-46601,Josh Allen,QB,BUF,NYJ,QB,25.02,0.0532,1.33,34.0,Exp Pressured DB,12.4,Exp Blitzed DB,15.3
-10635,Jared Goff,QB,DET,NE,QB,18.42,0.0398,0.73,37.2,Exp Pressured DB,13.5,Exp Blitzed DB,14.7
-57373,Chuba Hubbard,RB,CAR,NO,RB,16.7,0.0433,0.72,16.8,Exp Light-Box Carries,3.5,Exp Heavy-Box Carries,6.7
-97199,Kenneth Walker III,RB,KC,ATL,RB,22.93,0.0275,0.63,19.9,Exp Light-Box Carries,4.8,Exp Heavy-Box Carries,9.5
-143969,Drake Maye,QB,NE,DET,QB,19.91,0.0311,0.62,35.4,Exp Pressured DB,14.1,Exp Blitzed DB,11.4
-10679,Derrick Henry,RB,BAL,LAC,RB,15.14,0.039,0.59,19.4,Exp Light-Box Carries,4.4,Exp Heavy-Box Carries,8.1
-157792,Ollie Gordon II,RB,MIA,IND,RB,10.87,0.0535,0.58,15.3,Exp Light-Box Carries,3.4,Exp Heavy-Box Carries,5.8
-29048,Sam Darnold,QB,SEA,LV,QB,13.19,0.0426,0.56,33.9,Exp Pressured DB,12.4,Exp Blitzed DB,10.7
-61441,Nico Collins,WR,HOU,CLE,REC,12.93,0.0435,0.56,30.3,Exp vs Two-High,9.3,Exp vs Man,12.0
-28237,Justin Herbert,QB,LAC,BAL,QB,10.08,0.0528,0.53,36.1,Exp Pressured DB,14.5,Exp Blitzed DB,13.3
-129758,Jaxon Smith-Njigba,WR,SEA,LV,REC,21.84,0.0218,0.48,32.7,Exp vs Two-High,17.1,Exp vs Man,7.3
-8642,Mike Evans,WR,SF,DAL,REC,12.58,0.0371,0.47,20.5,Exp vs Two-High,9.5,Exp vs Man,4.8
-158735,Tetairoa McMillan,WR,CAR,NO,REC,12.69,0.0327,0.41,38.9,Exp vs Two-High,14.2,Exp vs Man,7.4
-48274,Deebo Samuel,WR,SF,DAL,REC,10.48,0.0375,0.39,20.2,Exp vs Two-High,9.3,Exp vs Man,4.8
-84470,Amon-Ra St. Brown,WR,DET,NE,REC,15.89,0.0233,0.37,34.2,Exp vs Two-High,19.3,Exp vs Man,9.6
-57120,Brian Robinson,RB,ATL,KC,RB,8.43,0.0443,0.37,8.8,Exp Light-Box Carries,1.9,Exp Heavy-Box Carries,2.9
-131633,Rachaad White,RB,WAS,NYG,RB,8.96,0.041,0.37,7.7,Exp Light-Box Carries,1.9,Exp Heavy-Box Carries,3.1
-99229,George Pickens,WR,DAL,SF,REC,10.6,0.035,0.37,35.6,Exp vs Two-High,16.7,Exp vs Man,4.8
-124087,Kayshon Boutte,WR,HOU,CLE,REC,6.68,0.05,0.33,23.5,Exp vs Two-High,7.2,Exp vs Man,9.3
-40693,Rico Dowdle,RB,PIT,CIN,RB,7.62,0.0433,0.33,9.2,Exp Light-Box Carries,3.2,Exp Heavy-Box Carries,2.5
-122474,Jahmyr Gibbs,RB,DET,NE,RB,24.03,0.0139,0.33,22.1,Exp Light-Box Carries,4.5,Exp Heavy-Box Carries,8.8
-98692,Jaylen Warren,RB,PIT,CIN,RB,16.04,0.0207,0.33,14.9,Exp Light-Box Carries,5.2,Exp Heavy-Box Carries,4.0
-154173,Emanuel Wilson,RB,SEA,LV,RB,10.26,0.0288,0.3,15.9,Exp Light-Box Carries,3.5,Exp Heavy-Box Carries,7.3
-122518,Xavier Hutchinson,WR,HOU,CLE,REC,6.79,0.0411,0.28,23.9,Exp vs Two-High,7.3,Exp vs Man,9.5
-97605,Rashee Rice,WR,KC,ATL,REC,10.74,0.0258,0.28,24.2,Exp vs Two-High,9.3,Exp vs Man,6.5
-57488,Jonathan Taylor,RB,IND,MIA,RB,15.62,0.0182,0.28,17.9,Exp Light-Box Carries,3.6,Exp Heavy-Box Carries,6.8
-60341,Malik Willis,QB,MIA,IND,QB,13.13,0.0191,0.25,31.5,Exp Pressured DB,12.7,Exp Blitzed DB,8.6
-144718,Xavier Worthy,WR,KC,ATL,REC,6.29,0.0391,0.25,32.5,Exp vs Two-High,12.5,Exp vs Man,8.7
-125155,Jaylin Noel,WR,HOU,CLE,REC,8.17,0.0292,0.24,21.0,Exp vs Two-High,6.4,Exp vs Man,8.3
-101701,Jameson Williams,WR,DET,NE,REC,11.46,0.0199,0.23,34.1,Exp vs Two-High,19.2,Exp vs Man,9.5
-46416,Lamar Jackson,QB,BAL,LAC,QB,15.82,0.0143,0.23,22.8,Exp Pressured DB,7.9,Exp Blitzed DB,8.0
-77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,0.0119,0.22,30.9,Exp Pressured DB,10.3,Exp Blitzed DB,8.9
-138448,Kaelon Black,RB,SF,DAL,RB,4.53,0.0466,0.21,8.5,Exp Light-Box Carries,1.6,Exp Heavy-Box Carries,3.0
-62946,Jordan Mason,RB,MIN,GB,RB,6.48,0.0317,0.21,11.0,Exp Light-Box Carries,2.6,Exp Heavy-Box Carries,3.8
-143068,Jalen Coker,WR,CAR,NO,REC,10.36,0.0193,0.2,33.6,Exp vs Two-High,12.2,Exp vs Man,6.4
-156419,Kaleb Johnson,RB,GB,MIN,RB,3.24,0.0574,0.19,7.0,Exp Light-Box Carries,0.7,Exp Heavy-Box Carries,3.3
-128232,Tory Horton,WR,SEA,LV,REC,4.08,0.0446,0.18,13.4,Exp vs Two-High,7.0,Exp vs Man,3.0
-97636,Breece Hall,RB,NYJ,BUF,RB,11.93,0.0141,0.17,16.5,Exp Light-Box Carries,2.9,Exp Heavy-Box Carries,7.6
-145056,Marvin Harrison Jr.,WR,HOU,CLE,REC,4.57,0.038,0.17,24.7,Exp vs Two-High,7.6,Exp vs Man,9.8
-104155,Demario Douglas,WR,NE,DET,REC,8.99,0.0194,0.17,25.9,Exp vs Two-High,12.2,Exp vs Man,5.8
-97400,John Metchie III,WR,CAR,NO,REC,4.06,0.0393,0.16,18.6,Exp vs Two-High,6.8,Exp vs Man,3.5
-86392,Corey Kiner,RB,NE,DET,RB,3.44,0.0429,0.15,6.2,Exp Light-Box Carries,1.3,Exp Heavy-Box Carries,2.7
-124179,Woody Marks,RB,HOU,CLE,RB,7.92,0.0188,0.15,11.9,Exp Light-Box Carries,2.5,Exp Heavy-Box Carries,4.9
-84329,Romeo Doubs,WR,NE,DET,REC,8.52,0.0163,0.14,24.3,Exp vs Two-High,11.4,Exp vs Man,5.5
-11822,Alvin Kamara,RB,NO,CAR,RB,8.74,0.0153,0.13,6.7,Exp Light-Box Carries,1.9,Exp Heavy-Box Carries,2.3
-124030,Ladd McConkey,WR,LAC,BAL,REC,7.18,0.0174,0.12,21.2,Exp vs Two-High,13.1,Exp vs Man,2.9
-102382,Jacory Croskey-Merritt,RB,WAS,NYG,RB,8.48,0.014,0.12,13.4,Exp Light-Box Carries,3.3,Exp Heavy-Box Carries,5.4
-104034,Tucker Kraft,TE,GB,MIN,REC,8.04,0.0134,0.11,28.3,Exp vs Two-High,20.5,Exp vs Man,1.4
-83955,Isaiah Likely,TE,NYG,WAS,REC,13.22,0.0083,0.11,33.0,Exp vs Two-High,19.5,Exp vs Man,6.6
-162481,Denzel Boston,WR,CLE,HOU,REC,9.63,0.0109,0.11,36.4,Exp vs Two-High,15.3,Exp vs Man,7.8
-11873,Mack Hollins,WR,NE,DET,REC,7.9,0.0141,0.11,25.0,Exp vs Two-High,11.8,Exp vs Man,5.6
-11824,Cooper Kupp,WR,SEA,LV,REC,5.2,0.0193,0.1,29.1,Exp vs Two-High,15.3,Exp vs Man,6.5
-61570,CeeDee Lamb,WR,DAL,SF,REC,18.53,0.0054,0.1,34.4,Exp vs Two-High,16.1,Exp vs Man,4.7
-63707,Rashid Shaheed,WR,SEA,LV,REC,4.89,0.0214,0.1,21.6,Exp vs Two-High,11.3,Exp vs Man,4.8
-84140,Khalil Shakir,WR,BUF,NYJ,REC,7.59,0.0123,0.09,24.8,Exp vs Two-High,11.9,Exp vs Man,8.5
-28022,Joe Burrow,QB,CIN,PIT,QB,24.89,0.0037,0.09,40.1,Exp Pressured DB,12.7,Exp Blitzed DB,12.6
-7857,Keenan Allen,WR,SF,DAL,REC,7.64,0.0118,0.09,26.1,Exp vs Two-High,12.0,Exp vs Man,6.2
-128374,Kyle Williams,WR,NE,DET,REC,3.83,0.0208,0.08,17.2,Exp vs Two-High,8.1,Exp vs Man,3.9
-141521,Efton Chism III,WR,NE,DET,REC,5.11,0.0158,0.08,15.6,Exp vs Two-High,7.3,Exp vs Man,3.5
-146712,Adonai Mitchell,WR,NYJ,BUF,REC,8.1,0.01,0.08,28.0,Exp vs Two-High,14.4,Exp vs Man,6.6
-122730,Jordan Watkins,WR,SF,DAL,REC,8.35,0.01,0.08,18.8,Exp vs Two-High,8.7,Exp vs Man,4.4
-159617,Ryan Flournoy,WR,DAL,SF,REC,7.53,0.0097,0.07,32.9,Exp vs Two-High,15.4,Exp vs Man,4.4
-91791,Dalton Kincaid,TE,BUF,NYJ,REC,8.74,0.0075,0.07,22.2,Exp vs Two-High,10.7,Exp vs Man,7.6
-97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,0.0036,0.07,36.7,Exp Pressured DB,13.9,Exp Blitzed DB,15.8
-10744,Tyler Higbee,TE,LAR,ARI,REC,5.59,0.0125,0.07,25.9,Exp vs Two-High,15.7,Exp vs Man,2.7
-129798,Tyler Warren,TE,IND,MIA,REC,9.3,0.0077,0.07,31.9,Exp vs Two-High,17.3,Exp vs Man,4.3
-129433,AJ Barner,TE,SEA,LV,REC,5.7,0.0103,0.06,28.0,Exp vs Two-High,14.7,Exp vs Man,6.2
-157196,Ashton Jeanty,RB,LV,SEA,RB,13.14,0.0046,0.06,12.7,Exp Light-Box Carries,2.9,Exp Heavy-Box Carries,4.7
-7844,Travis Kelce,TE,KC,ATL,REC,10.35,0.0055,0.06,28.9,Exp vs Two-High,11.1,Exp vs Man,7.8
-9579,Stefon Diggs,WR,WAS,NYG,REC,10.76,0.0052,0.06,27.7,Exp vs Two-High,14.0,Exp vs Man,7.4
-48267,DJ Moore,WR,BUF,NYJ,REC,8.33,0.0066,0.06,22.0,Exp vs Two-High,10.5,Exp vs Man,7.5
-97108,Malik Washington,WR,MIA,IND,REC,7.41,0.0081,0.06,27.0,Exp vs Two-High,12.9,Exp vs Man,5.3
-46448,Tyler Huntley,QB,BAL,LAC,QB,10.94,0.0047,0.05,26.2,Exp Pressured DB,9.1,Exp Blitzed DB,9.2
-9434,Jameis Winston,QB,NYG,WAS,QB,10.46,0.0052,0.05,31.3,Exp Pressured DB,12.0,Exp Blitzed DB,13.7
-84085,Pat Freiermuth,TE,PIT,CIN,REC,8.31,0.0052,0.04,28.0,Exp vs Two-High,12.0,Exp vs Man,9.9
-144726,Gunnar Helm,TE,TEN,JAX,REC,4.07,0.0108,0.04,21.2,Exp vs Two-High,11.2,Exp vs Man,3.5
-160756,Kevin Coleman Jr.,WR,MIA,IND,REC,3.69,0.01,0.04,13.6,Exp vs Two-High,6.5,Exp vs Man,2.7
-156321,Chris Bell,WR,MIA,IND,REC,2.9,0.0141,0.04,21.5,Exp vs Two-High,10.3,Exp vs Man,4.2
-122906,Michael Mayer,TE,LV,SEA,REC,6.92,0.0056,0.04,27.6,Exp vs Two-High,15.2,Exp vs Man,5.3
-61103,Jerry Jeudy,WR,CLE,HOU,REC,3.73,0.0068,0.03,29.2,Exp vs Two-High,12.2,Exp vs Man,6.2
-77986,Dyami Brown,WR,WAS,NYG,REC,1.7,0.0183,0.03,16.9,Exp vs Two-High,8.5,Exp vs Man,4.5
-124247,MarShawn Lloyd,RB,GB,MIN,RB,5.66,0.005,0.03,7.1,Exp Light-Box Carries,0.7,Exp Heavy-Box Carries,3.4
-156241,Antonio Williams,WR,WAS,NYG,REC,5.92,0.005,0.03,25.2,Exp vs Two-High,12.8,Exp vs Man,6.7
-45719,David Montgomery,RB,HOU,CLE,RB,8.4,0.0036,0.03,10.4,Exp Light-Box Carries,2.2,Exp Heavy-Box Carries,4.3
-172430,Isaac TeSlaa,WR,DET,NE,REC,3.73,0.0082,0.03,24.1,Exp vs Two-High,13.6,Exp vs Man,6.7
-40912,T.J. Hockenson,TE,MIN,GB,REC,8.54,0.004,0.03,22.0,Exp vs Two-High,14.3,Exp vs Man,2.9
-101690,Sam LaPorta,TE,DET,NE,REC,9.45,0.0035,0.03,31.2,Exp vs Two-High,17.6,Exp vs Man,8.7
-122832,Josh Downs,WR,KC,ATL,REC,6.51,0.005,0.03,34.4,Exp vs Two-High,13.2,Exp vs Man,9.3
-122676,Tre Harris,WR,LAC,BAL,REC,5.24,0.005,0.03,25.1,Exp vs Two-High,15.5,Exp vs Man,3.4
-124044,Darnell Washington,TE,PIT,CIN,REC,6.61,0.0047,0.03,16.5,Exp vs Two-High,7.1,Exp vs Man,5.9
-84425,Brycen Tremayne,WR,CAR,NO,REC,2.01,0.0157,0.03,16.0,Exp vs Two-High,5.8,Exp vs Man,3.1
-83639,Tyler Allgeier,RB,ARI,LAR,RB,8.8,0.0025,0.02,9.9,Exp Light-Box Carries,2.3,Exp Heavy-Box Carries,4.2
-171090,Jeremiyah Love,RB,ARI,LAR,RB,7.98,0.0029,0.02,12.7,Exp Light-Box Carries,2.9,Exp Heavy-Box Carries,5.4
-157740,Caleb Douglas,WR,MIA,IND,REC,10.22,0.0016,0.02,26.2,Exp vs Two-High,12.5,Exp vs Man,5.1
-144046,Oronde Gadsden II,TE,LAC,BAL,REC,4.11,0.006,0.02,20.9,Exp vs Two-High,12.9,Exp vs Man,2.8
-10669,Hunter Henry,TE,NE,DET,REC,7.12,0.0033,0.02,22.6,Exp vs Two-High,10.6,Exp vs Man,5.1
-9637,Darren Waller,TE,CAR,NO,REC,8.18,0.0024,0.02,24.6,Exp vs Two-High,9.0,Exp vs Man,4.7
-101694,Brenton Strange,TE,JAX,TEN,REC,7.08,0.0027,0.02,22.2,Exp vs Two-High,10.7,Exp vs Man,3.6
-52266,Colby Parkinson,TE,LAR,ARI,REC,3.8,0.0032,0.01,16.1,Exp vs Two-High,9.8,Exp vs Man,1.7
-148151,Bryce Lance,WR,NO,CAR,REC,2.29,0.0043,0.01,32.0,Exp vs Two-High,14.6,Exp vs Man,4.0
-60917,Charlie Kolar,TE,LAC,BAL,REC,2.95,0.0018,0.01,17.0,Exp vs Two-High,10.5,Exp vs Man,2.3
-48229,Terry McLaurin,WR,WAS,NYG,REC,7.7,0.0007,0.01,26.4,Exp vs Two-High,13.3,Exp vs Man,7.0
-47153,Mike Gesicki,TE,CIN,PIT,REC,10.1,0.0013,0.01,23.9,Exp vs Two-High,13.4,Exp vs Man,3.5
-75916,Trey McBride,TE,ARI,LAR,REC,14.03,0.0008,0.01,40.0,Exp vs Two-High,26.1,Exp vs Man,11.8
-47436,Mark Andrews,TE,BAL,LAC,REC,4.8,0.0016,0.01,22.8,Exp vs Two-High,11.5,Exp vs Man,4.8
-162750,Omarion Hampton,RB,LAC,BAL,RB,7.84,0.0006,0.0,12.8,Exp Light-Box Carries,3.2,Exp Heavy-Box Carries,4.5
-170362,KC Concepcion,WR,CLE,HOU,REC,7.77,0.0005,0.0,30.1,Exp vs Two-High,12.6,Exp vs Man,6.4
-146760,Brian Thomas Jr.,WR,JAX,TEN,REC,4.1,0.0003,0.0,16.4,Exp vs Two-High,7.9,Exp vs Man,2.7
-144949,Keon Coleman,WR,BUF,NYJ,REC,7.49,0.0002,0.0,24.9,Exp vs Two-High,11.9,Exp vs Man,8.5
-84068,Greg Dulcich,TE,MIA,IND,REC,5.86,0.0004,0.0,21.8,Exp vs Two-High,10.4,Exp vs Man,4.3
-35883,Dawson Knox,TE,BUF,NYJ,REC,2.55,0.0009,0.0,16.0,Exp vs Two-High,7.7,Exp vs Man,5.5
-97156,Isaiah Williams,WR,NYJ,BUF,REC,4.16,-0.0031,-0.01,21.0,Exp vs Two-High,10.8,Exp vs Man,5.0
-163104,Harold Fannin Jr.,TE,CLE,HOU,REC,9.31,-0.0014,-0.01,32.6,Exp vs Two-High,13.6,Exp vs Man,6.9
-157122,Mason Taylor,TE,NYJ,BUF,REC,6.28,-0.0014,-0.01,21.0,Exp vs Two-High,10.8,Exp vs Man,5.0
-156970,Eli Raridon,TE,NE,DET,REC,5.31,-0.0012,-0.01,14.8,Exp vs Two-High,6.9,Exp vs Man,3.3
-156395,Omar Cooper Jr.,WR,NYJ,BUF,REC,13.15,-0.0008,-0.01,22.4,Exp vs Two-High,11.5,Exp vs Man,5.3
-44920,Olamide Zaccheaus,WR,ATL,KC,REC,0.7,-0.0149,-0.01,14.8,Exp vs Two-High,8.1,Exp vs Man,2.9
-47468,Jakobi Meyers,WR,JAX,TEN,REC,7.83,-0.0026,-0.02,25.8,Exp vs Two-High,12.4,Exp vs Man,4.2
-84006,Brevyn Spann-Ford,TE,DAL,SF,REC,2.28,-0.0104,-0.02,11.3,Exp vs Two-High,5.3,Exp vs Man,1.5
-48262,Calvin Ridley,WR,TEN,JAX,REC,2.02,-0.0171,-0.03,17.7,Exp vs Two-High,9.4,Exp vs Man,2.9
-143800,Dohnte Meyers,WR,CIN,PIT,REC,4.23,-0.0076,-0.03,20.9,Exp vs Two-High,11.8,Exp vs Man,3.1
-48027,Jauan Jennings,WR,MIN,GB,REC,1.4,-0.0213,-0.03,26.0,Exp vs Two-High,16.9,Exp vs Man,3.4
-123943,Bryce Young,QB,CAR,NO,QB,18.32,-0.0017,-0.03,42.6,Exp Pressured DB,16.7,Exp Blitzed DB,17.8
-100632,Puka Nacua,WR,LAR,ARI,REC,19.8,-0.0019,-0.04,35.3,Exp vs Two-High,21.5,Exp vs Man,3.7
-2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,-0.003,-0.04,39.4,Exp Pressured DB,11.9,Exp Blitzed DB,9.3
-101735,Wan'Dale Robinson,WR,TEN,JAX,REC,7.47,-0.005,-0.04,28.5,Exp vs Two-High,15.1,Exp vs Man,4.6
-174132,Kenyon Sadiq,TE,NYJ,BUF,REC,4.92,-0.0075,-0.04,15.3,Exp vs Two-High,7.9,Exp vs Man,3.6
-84355,Chris Olave,WR,NO,CAR,REC,14.18,-0.0026,-0.04,39.1,Exp vs Two-High,17.9,Exp vs Man,4.9
-77965,Tutu Atwell,WR,LAR,ARI,REC,2.68,-0.0131,-0.04,19.7,Exp vs Two-High,12.0,Exp vs Man,2.1
-84025,Tommy Tremble,TE,CAR,NO,REC,5.8,-0.0062,-0.04,18.2,Exp vs Two-High,6.6,Exp vs Man,3.5
-123085,Quentin Johnston,WR,LAC,BAL,REC,5.61,-0.0085,-0.05,30.9,Exp vs Two-High,19.0,Exp vs Man,4.2
-129604,Roman Wilson,WR,PIT,CIN,REC,7.56,-0.0066,-0.05,24.4,Exp vs Two-High,10.5,Exp vs Man,8.7
-28305,Juwan Johnson,TE,NO,CAR,REC,8.11,-0.0056,-0.05,29.0,Exp vs Two-High,13.3,Exp vs Man,3.6
-176638,Ja'Kobi Lane,WR,BAL,LAC,REC,2.68,-0.0195,-0.05,20.6,Exp vs Two-High,10.4,Exp vs Man,4.3
-99218,Treylon Burks,WR,WAS,NYG,REC,6.88,-0.0078,-0.05,22.3,Exp vs Two-High,11.3,Exp vs Man,6.0
-84292,Jalen Nailor,WR,LV,SEA,REC,3.6,-0.013,-0.05,22.8,Exp vs Two-High,12.5,Exp vs Man,4.4
-47304,Dalton Schultz,TE,HOU,CLE,REC,6.74,-0.0088,-0.06,25.6,Exp vs Two-High,7.8,Exp vs Man,10.1
-122936,Seth McGowan,RB,IND,MIA,RB,3.36,-0.0176,-0.06,5.4,Exp Light-Box Carries,1.1,Exp Heavy-Box Carries,2.0
-61081,Jake Ferguson,TE,DAL,SF,REC,5.64,-0.0108,-0.06,23.4,Exp vs Two-High,11.0,Exp vs Man,3.2
-123091,Kendre Miller,RB,DAL,SF,RB,5.68,-0.0109,-0.06,9.5,Exp Light-Box Carries,3.1,Exp Heavy-Box Carries,3.0
-83964,Kyle Pitts,TE,ATL,KC,REC,6.5,-0.0105,-0.07,21.4,Exp vs Two-High,11.8,Exp vs Man,4.2
-48236,Darnell Mooney,WR,NYG,WAS,REC,3.19,-0.0233,-0.07,25.9,Exp vs Two-High,15.3,Exp vs Man,5.2
-97405,Garrett Wilson,WR,NYJ,BUF,REC,11.53,-0.0065,-0.07,31.9,Exp vs Two-High,16.4,Exp vs Man,7.5
-123000,Jordan Addison,WR,MIN,GB,REC,6.41,-0.0113,-0.07,31.3,Exp vs Two-High,20.3,Exp vs Man,4.1
-129799,Parker Washington,WR,JAX,TEN,REC,11.89,-0.006,-0.07,26.5,Exp vs Two-High,12.8,Exp vs Man,4.3
-11763,Christian McCaffrey,RB,SF,DAL,RB,18.59,-0.0038,-0.07,12.8,Exp Light-Box Carries,2.5,Exp Heavy-Box Carries,4.5
-150568,Bhayshul Tuten,RB,JAX,TEN,RB,14.96,-0.0048,-0.07,15.2,Exp Light-Box Carries,4.5,Exp Heavy-Box Carries,6.0
-60878,Noah Gray,TE,KC,ATL,REC,3.99,-0.0189,-0.08,15.0,Exp vs Two-High,5.8,Exp vs Man,4.0
-11901,George Kittle,TE,SF,DAL,REC,11.91,-0.0069,-0.08,25.1,Exp vs Two-High,11.6,Exp vs Man,5.9
-10657,Laquon Treadwell,WR,IND,MIA,REC,3.28,-0.0288,-0.09,29.3,Exp vs Two-High,16.0,Exp vs Man,4.0
-156985,Jadarian Price,RB,SEA,LV,RB,5.3,-0.0168,-0.09,9.4,Exp Light-Box Carries,2.1,Exp Heavy-Box Carries,4.3
-8688,Davante Adams,WR,LAR,ARI,REC,14.5,-0.0065,-0.09,38.5,Exp vs Two-High,23.4,Exp vs Man,4.1
-145773,Devontez Walker,WR,BAL,LAC,REC,3.1,-0.0282,-0.09,14.8,Exp vs Two-High,7.4,Exp vs Man,3.1
-129574,Blake Corum,RB,LAR,ARI,RB,9.96,-0.0086,-0.09,9.6,Exp Light-Box Carries,1.2,Exp Heavy-Box Carries,6.5
-170273,Carnell Tate,WR,TEN,JAX,REC,8.61,-0.0108,-0.09,29.6,Exp vs Two-High,15.6,Exp vs Man,4.8
-158374,Germie Bernard,WR,PIT,CIN,REC,7.26,-0.0136,-0.1,26.4,Exp vs Two-High,11.3,Exp vs Man,9.4
-145159,Braelon Allen,RB,NYJ,BUF,RB,10.61,-0.0093,-0.1,13.3,Exp Light-Box Carries,2.3,Exp Heavy-Box Carries,6.2
-145059,TreVeyon Henderson,RB,NE,DET,RB,5.22,-0.022,-0.11,8.7,Exp Light-Box Carries,1.8,Exp Heavy-Box Carries,3.7
-123126,Bijan Robinson,RB,ATL,KC,RB,18.28,-0.0062,-0.11,18.8,Exp Light-Box Carries,4.1,Exp Heavy-Box Carries,6.2
-157263,Elic Ayomanor,WR,TEN,JAX,REC,4.2,-0.0273,-0.11,22.1,Exp vs Two-High,11.7,Exp vs Man,3.6
-145598,Konata Mumpfield,WR,LAR,ARI,REC,3.46,-0.0339,-0.12,20.2,Exp vs Two-High,12.3,Exp vs Man,2.1
-100637,Devaughn Vele,WR,NO,CAR,REC,9.0,-0.0131,-0.12,39.8,Exp vs Two-High,18.2,Exp vs Man,4.9
-84296,Rashod Bateman,WR,BAL,LAC,REC,5.04,-0.0258,-0.13,24.2,Exp vs Two-High,12.2,Exp vs Man,5.1
-12270,Kendrick Bourne,WR,ARI,LAR,REC,5.61,-0.0249,-0.14,29.6,Exp vs Two-High,19.3,Exp vs Man,8.7
-101659,Tyler Goodson,RB,DAL,SF,RB,3.43,-0.0443,-0.15,6.7,Exp Light-Box Carries,2.2,Exp Heavy-Box Carries,2.1
-84375,Jahan Dotson,WR,ATL,KC,REC,6.14,-0.024,-0.15,24.7,Exp vs Two-High,13.6,Exp vs Man,4.8
-98689,Rhamondre Stevenson,RB,NE,DET,RB,11.19,-0.0137,-0.15,11.3,Exp Light-Box Carries,2.4,Exp Heavy-Box Carries,4.9
-97118,Kyren Williams,RB,LAR,ARI,RB,15.68,-0.0102,-0.16,14.1,Exp Light-Box Carries,1.7,Exp Heavy-Box Carries,9.5
-101106,Tre Tucker,WR,LV,SEA,REC,10.31,-0.0153,-0.16,30.1,Exp vs Two-High,16.6,Exp vs Man,5.8
-47864,D.K. Metcalf,WR,PIT,CIN,REC,7.68,-0.0203,-0.16,38.9,Exp vs Two-High,16.7,Exp vs Man,13.8
-157128,Quinshon Judkins,RB,CLE,HOU,RB,10.14,-0.0172,-0.17,14.5,Exp Light-Box Carries,3.5,Exp Heavy-Box Carries,5.4
-151069,Malachi Fields,WR,NYG,WAS,REC,5.54,-0.0298,-0.17,29.0,Exp vs Two-High,17.1,Exp vs Man,5.8
-123826,Keaton Mitchell,RB,LAC,BAL,RB,5.14,-0.0358,-0.18,5.8,Exp Light-Box Carries,1.4,Exp Heavy-Box Carries,2.0
-146715,Brock Bowers,TE,LV,SEA,REC,17.43,-0.0102,-0.18,36.3,Exp vs Two-High,20.0,Exp vs Man,7.0
-82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,-0.0139,-0.19,30.9,Exp Pressured DB,9.8,Exp Blitzed DB,10.7
-11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,-0.0128,-0.19,38.4,Exp Pressured DB,16.5,Exp Blitzed DB,8.9
-97268,Zay Flowers,WR,BAL,LAC,REC,13.25,-0.0151,-0.2,26.4,Exp vs Two-High,13.3,Exp vs Man,5.5
-39395,Daniel Jones,QB,IND,MIA,QB,9.05,-0.022,-0.2,37.7,Exp Pressured DB,13.9,Exp Blitzed DB,11.9
-7820,Geno Smith,QB,NYJ,BUF,QB,14.5,-0.0138,-0.2,34.6,Exp Pressured DB,14.0,Exp Blitzed DB,12.3
-77672,Brock Purdy,QB,SF,DAL,QB,21.41,-0.0092,-0.2,32.9,Exp Pressured DB,11.4,Exp Blitzed DB,8.4
-86519,Drake London,WR,ATL,KC,REC,11.07,-0.0184,-0.2,28.9,Exp vs Two-High,15.9,Exp vs Man,5.7
-147787,Cam Skattebo,RB,NYG,WAS,RB,10.82,-0.0217,-0.23,16.3,Exp Light-Box Carries,3.2,Exp Heavy-Box Carries,7.5
-61398,Justin Jefferson,WR,MIN,GB,REC,11.39,-0.0204,-0.23,27.1,Exp vs Two-High,17.6,Exp vs Man,3.5
-145672,Mike Washington Jr.,RB,LV,SEA,RB,4.01,-0.0591,-0.24,7.9,Exp Light-Box Carries,1.8,Exp Heavy-Box Carries,3.0
-84423,Michael Wilson,WR,ARI,LAR,REC,10.58,-0.0245,-0.26,39.8,Exp vs Two-High,26.0,Exp vs Man,11.7
-146759,Malik Nabers,WR,NYG,WAS,REC,12.91,-0.0203,-0.26,33.9,Exp vs Two-High,20.0,Exp vs Man,6.8
-77787,Chase Brown,RB,CIN,PIT,RB,10.24,-0.0271,-0.28,12.9,Exp Light-Box Carries,3.9,Exp Heavy-Box Carries,5.1
-133244,Cam Ward,QB,TEN,JAX,QB,12.57,-0.0223,-0.28,34.8,Exp Pressured DB,12.6,Exp Blitzed DB,11.5
-83689,Chris Rodriguez Jr.,RB,JAX,TEN,RB,6.55,-0.0471,-0.31,6.9,Exp Light-Box Carries,2.0,Exp Heavy-Box Carries,2.7
-11869,Samaje Perine,RB,CIN,PIT,RB,5.11,-0.0653,-0.33,5.8,Exp Light-Box Carries,1.7,Exp Heavy-Box Carries,2.3
-84270,Ja'Marr Chase,WR,CIN,PIT,REC,16.65,-0.0219,-0.36,33.6,Exp vs Two-High,18.9,Exp vs Man,4.9
-61211,Tee Higgins,WR,CIN,PIT,REC,16.98,-0.0213,-0.36,35.0,Exp vs Two-High,19.7,Exp vs Man,5.1
-40306,Jordan Love,QB,GB,MIN,QB,20.56,-0.0209,-0.43,40.0,Exp Pressured DB,16.2,Exp Blitzed DB,30.7
-27126,Tony Pollard,RB,TEN,JAX,RB,13.69,-0.0316,-0.43,16.6,Exp Light-Box Carries,4.3,Exp Heavy-Box Carries,4.9
-83666,James Cook,RB,BUF,NYJ,RB,17.8,-0.0265,-0.47,21.1,Exp Light-Box Carries,4.1,Exp Heavy-Box Carries,11.4
-38334,Kyler Murray,QB,MIN,GB,QB,12.26,-0.0392,-0.48,30.8,Exp Pressured DB,11.3,Exp Blitzed DB,11.9
-11937,Aaron Jones,RB,MIN,GB,RB,9.36,-0.0541,-0.51,14.4,Exp Light-Box Carries,3.4,Exp Heavy-Box Carries,5.0
-11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,-0.0332,-0.59,36.1,Exp Pressured DB,12.9,Exp Blitzed DB,10.4
-77803,Javonte Williams,RB,DAL,SF,RB,16.4,-0.0421,-0.69,17.1,Exp Light-Box Carries,5.6,Exp Heavy-Box Carries,5.4
-10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,-0.0506,-0.7,41.6,Exp Pressured DB,14.5,Exp Blitzed DB,14.6
-4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,-0.0457,-0.73,40.6,Exp Pressured DB,11.9,Exp Blitzed DB,13.8
-156165,Matthew Golden,WR,GB,MIN,REC,15.27,-0.0491,-0.75,35.1,Exp vs Two-High,25.4,Exp vs Man,1.7
-66581,Christian Watson,WR,GB,MIN,REC,16.93,-0.0469,-0.79,32.3,Exp vs Two-High,23.4,Exp vs Man,1.6
-10769,Dak Prescott,QB,DAL,SF,QB,18.6,-0.044,-0.82,40.9,Exp Pressured DB,13.2,Exp Blitzed DB,12.9
-83537,Tyler Shough,QB,NO,CAR,QB,18.2,-0.0609,-1.11,42.9,Exp Pressured DB,14.5,Exp Blitzed DB,18.1
-7102,Kirk Cousins,QB,MIN,GB,QB,19.14,-0.0677,-1.3,36.8,Exp Pressured DB,13.4,Exp Blitzed DB,14.2
-84000,Chigoziem Okonkwo,TE,WAS,NYG,REC,,0.0084,,29.0,Exp vs Two-High,14.6,Exp vs Man,7.7
+player_id,Player,Pos,Team,Wk10 Opp,Player Type,Half-PPR PPG,Matchup Boost (pts),Tier,Boom % (hist),Bust % (hist),Top Driver,Our Score,Evidence
+156970,Eli Raridon,TE,NE,DET,TE,,1.73,Strong boost,0.225,0.217,Points allowed to position (+1.7),-0.0012,Moderate
+10669,Hunter Henry,TE,NE,DET,TE,7.12,1.73,Strong boost,0.225,0.217,Points allowed to position (+1.7),0.0033,Moderate
+57373,Chuba Hubbard,RB,CAR,NO,RB lead/bellcow,16.7,1.6,Strong boost,0.483,0.09,Run-gap matchup (+0.8),0.0433,Strong
+143969,Drake Maye,QB,NE,DET,QB,19.91,1.48,Strong boost,0.221,0.083,Points allowed to position (+1.7),0.0311,Moderate
+4924,Matthew Stafford,QB,LAR,ARI,QB,15.87,1.35,Strong boost,0.221,0.083,Points allowed to position (+1.4),-0.0457,Moderate
+157792,Ollie Gordon II,RB,MIA,IND,RB lead/bellcow,10.87,1.23,Strong boost,0.483,0.09,Line / contact matchup (+0.7),0.0535,Strong
+29048,Sam Darnold,QB,SEA,LV,QB,13.19,1.19,Strong boost,0.221,0.083,Points allowed to position (+1.2),0.0426,Moderate
+11822,Alvin Kamara,RB,NO,CAR,RB committee,8.74,0.91,Strong boost,0.282,0.026,Points allowed to position (+0.9),0.0153,Thin
+83955,Isaiah Likely,TE,NYG,WAS,TE,13.22,0.83,Strong boost,0.225,0.217,Points allowed to position (+0.8),0.0083,Moderate
+77672,Brock Purdy,QB,SF,DAL,QB,21.41,0.8,Strong boost,0.221,0.083,Points allowed to position (+0.8),-0.0092,Moderate
+98692,Jaylen Warren,RB,PIT,CIN,RB lead/bellcow,16.04,0.77,Boost,0.446,0.157,Heavy boxes expected (+0.7),0.0207,Strong
+9434,Jameis Winston,QB,NYG,WAS,QB,10.46,0.76,Strong boost,0.221,0.083,Points allowed to position (+0.8),0.0052,Moderate
+156985,Jadarian Price,RB,SEA,LV,RB committee,5.3,0.74,Strong boost,0.282,0.026,Points allowed to position (+0.7),-0.0168,Thin
+97993,Jayden Daniels,QB,WAS,NYG,QB,19.2,0.71,Strong boost,0.221,0.083,Points allowed to position (+0.7),0.0036,Moderate
+138448,Kaelon Black,RB,SF,DAL,RB committee,4.53,0.65,Strong boost,0.282,0.026,Points allowed to position (+0.6),0.0466,Thin
+11763,Christian McCaffrey,RB,SF,DAL,RB lead/bellcow,18.59,0.63,Boost,0.446,0.157,Line / contact matchup (+0.6),-0.0038,Strong
+62946,Jordan Mason,RB,MIN,GB,RB committee,6.48,0.6,Strong boost,0.282,0.026,Points allowed to position (+0.6),0.0317,Thin
+77632,Trevor Lawrence,QB,JAX,TEN,QB,18.4,0.59,Boost,0.205,0.132,Points allowed to position (+0.6),0.0119,Moderate
+129798,Tyler Warren,TE,IND,MIA,TE,9.3,0.57,Strong boost,0.225,0.217,Points allowed to position (+0.6),0.0077,Moderate
+60341,Malik Willis,QB,MIA,IND,QB,13.13,0.54,Boost,0.205,0.132,Points allowed to position (+0.5),0.0191,Moderate
+39395,Daniel Jones,QB,IND,MIA,QB,9.05,0.53,Boost,0.205,0.132,Points allowed to position (+0.5),-0.022,Moderate
+154173,Emanuel Wilson,RB,SEA,LV,RB lead/bellcow,10.26,0.52,Boost,0.446,0.157,Line / contact matchup (+1.0),0.0288,Strong
+129433,AJ Barner,TE,SEA,LV,TE,5.7,0.49,Strong boost,0.225,0.217,Points allowed to position (+0.5),0.0103,Moderate
+123943,Bryce Young,QB,CAR,NO,QB,18.32,0.44,Boost,0.205,0.132,Points allowed to position (+0.4),-0.0017,Moderate
+83964,Kyle Pitts,TE,ATL,KC,TE,6.5,0.43,Strong boost,0.225,0.217,Points allowed to position (+0.4),-0.0105,Moderate
+11767,Deshaun Watson,QB,CLE,HOU,QB,14.74,0.41,Boost,0.205,0.132,Points allowed to position (+0.4),-0.0128,Moderate
+84025,Tommy Tremble,TE,CAR,NO,TE,5.8,0.39,Boost,0.173,0.231,Points allowed to position (+0.4),-0.0062,Moderate
+9637,Darren Waller,TE,CAR,NO,TE,8.18,0.39,Boost,0.173,0.231,Points allowed to position (+0.4),0.0024,Moderate
+84470,Amon-Ra St. Brown,WR,DET,NE,WR1,15.89,0.36,Boost,0.367,0.229,Points allowed to position (+0.4),0.0233,Weak
+97636,Breece Hall,RB,NYJ,BUF,RB committee,,0.36,Boost,0.269,0.128,Points allowed to position (+0.4),0.0141,Thin
+46601,Josh Allen,QB,BUF,NYJ,QB,25.02,0.36,Boost,0.205,0.132,Points allowed to position (+0.4),0.0532,Moderate
+28237,Justin Herbert,QB,LAC,BAL,QB,10.08,0.35,Boost,0.205,0.132,Points allowed to position (+0.3),0.0528,Moderate
+122936,Seth McGowan,RB,IND,MIA,RB committee,,0.35,Boost,0.269,0.128,Points allowed to position (+0.3),-0.0176,Thin
+97268,Zay Flowers,WR,BAL,LAC,WR1,13.25,0.33,Boost,0.367,0.229,Points allowed to position (+0.3),-0.0151,Weak
+57488,Jonathan Taylor,RB,IND,MIA,RB lead/bellcow,15.62,0.32,Boost,0.446,0.157,Points allowed to position (+0.2),0.0182,Strong
+104155,Demario Douglas,WR,NE,DET,WR2/3,8.99,0.31,Strong boost,0.191,0.255,Team total (+0.3),0.0194,Weak
+10679,Derrick Henry,RB,BAL,LAC,RB lead/bellcow,15.14,0.29,Boost,0.446,0.157,Run-gap matchup (+0.4),0.039,Strong
+52266,Colby Parkinson,TE,LAR,ARI,TE,3.8,0.28,Boost,0.173,0.231,Points allowed to position (+0.3),0.0032,Moderate
+10744,Tyler Higbee,TE,LAR,ARI,TE,5.59,0.28,Boost,0.173,0.231,Points allowed to position (+0.3),0.0125,Moderate
+2241,Aaron Rodgers,QB,PIT,CIN,QB,14.64,0.26,Boost,0.205,0.132,Points allowed to position (+0.3),-0.003,Moderate
+124044,Darnell Washington,TE,PIT,CIN,TE,6.61,0.25,Boost,0.173,0.231,Points allowed to position (+0.3),0.0047,Moderate
+84085,Pat Freiermuth,TE,PIT,CIN,TE,8.31,0.25,Boost,0.173,0.231,Points allowed to position (+0.3),0.0052,Moderate
+141521,Efton Chism III,WR,NE,DET,WR4+,5.11,0.22,Strong boost,0.08,0.274,Team total (+0.2),0.0158,None
+128374,Kyle Williams,WR,NE,DET,WR4+,3.83,0.22,Strong boost,0.08,0.274,Team total (+0.2),0.0208,None
+10635,Jared Goff,QB,DET,NE,QB,18.42,0.22,Boost,0.205,0.132,Points allowed to position (+0.3),0.0398,Moderate
+11873,Mack Hollins,WR,NE,DET,WR4+,7.9,0.22,Strong boost,0.08,0.274,Team total (+0.2),0.0141,None
+11765,Patrick Mahomes,QB,KC,ATL,QB,17.75,0.22,Boost,0.205,0.132,Points allowed to position (+0.2),-0.0332,Moderate
+84329,Romeo Doubs,WR,NE,DET,WR4+,8.52,0.22,Strong boost,0.08,0.274,Team total (+0.2),0.0163,None
+101701,Jameson Williams,WR,DET,NE,WR2/3,11.46,0.21,Boost,0.231,0.272,Team total (+0.1),0.0199,Weak
+172430,Isaac TeSlaa,WR,DET,NE,WR4+,3.73,0.2,Strong boost,0.08,0.274,Team total (+0.1),0.0082,None
+47304,Dalton Schultz,TE,HOU,CLE,TE,6.74,0.17,Boost,0.173,0.231,Points allowed to position (+0.2),-0.0088,Moderate
+129758,Jaxon Smith-Njigba,WR,SEA,LV,WR1,21.84,0.17,Boost,0.367,0.229,Points allowed to position (+0.2),0.0218,Weak
+84068,Greg Dulcich,TE,MIA,IND,TE,5.86,0.15,Boost,0.173,0.231,Points allowed to position (+0.1),0.0004,Moderate
+91791,Dalton Kincaid,TE,BUF,NYJ,TE,8.74,0.11,Neutral,0.192,0.252,Points allowed to position (+0.1),0.0075,Moderate
+35883,Dawson Knox,TE,BUF,NYJ,TE,2.55,0.11,Neutral,0.192,0.252,Points allowed to position (+0.1),0.0009,Moderate
+47468,Jakobi Meyers,WR,JAX,TEN,WR4+,7.83,0.1,Boost,0.089,0.289,Points allowed to position (+0.1),-0.0026,None
+146760,Brian Thomas Jr.,WR,JAX,TEN,WR4+,4.1,0.1,Boost,0.089,0.289,Points allowed to position (+0.1),0.0003,None
+8688,Davante Adams,WR,LAR,ARI,WR1,14.5,0.09,Neutral,0.325,0.283,Points allowed to position (+0.1),-0.0065,Weak
+100632,Puka Nacua,WR,LAR,ARI,WR1,19.8,0.09,Neutral,0.325,0.283,Points allowed to position (+0.1),-0.0019,Weak
+145059,TreVeyon Henderson,RB,NE,DET,RB committee,,0.09,Neutral,0.282,0.115,Game total (+0.7),-0.022,Thin
+83537,Tyler Shough,QB,NO,CAR,QB,,0.09,Neutral,0.234,0.139,Points allowed to position (+0.1),-0.0609,Moderate
+86392,Corey Kiner,RB,NE,DET,RB committee,3.44,0.09,Neutral,0.282,0.115,Game total (+0.7),0.0429,Thin
+129799,Parker Washington,WR,JAX,TEN,WR2/3,11.89,0.08,Neutral,0.203,0.24,Points allowed to position (+0.1),-0.006,Weak
+145773,Devontez Walker,WR,BAL,LAC,WR4+,3.1,0.07,Boost,0.089,0.289,Points allowed to position (+0.1),-0.0282,None
+84296,Rashod Bateman,WR,BAL,LAC,WR4+,5.04,0.07,Boost,0.089,0.289,Points allowed to position (+0.1),-0.0258,None
+176638,Ja'Kobi Lane,WR,BAL,LAC,WR4+,2.68,0.07,Boost,0.089,0.289,Points allowed to position (+0.1),-0.0195,None
+162750,Omarion Hampton,RB,LAC,BAL,RB lead/bellcow,7.84,0.07,Neutral,0.36,0.172,Run-gap matchup (+0.6),0.0006,Strong
+144046,Oronde Gadsden II,TE,LAC,BAL,TE,4.11,0.06,Neutral,0.192,0.252,Points allowed to position (+0.1),0.006,Moderate
+61103,Jerry Jeudy,WR,CLE,HOU,WR4+,3.73,0.06,Boost,0.089,0.289,Points allowed to position (+0.1),0.0068,None
+162481,Denzel Boston,WR,CLE,HOU,WR4+,,0.06,Boost,0.089,0.289,Points allowed to position (+0.1),0.0109,None
+170362,KC Concepcion,WR,CLE,HOU,WR4+,7.77,0.06,Boost,0.089,0.289,Points allowed to position (+0.1),0.0005,None
+60917,Charlie Kolar,TE,LAC,BAL,TE,2.95,0.06,Neutral,0.192,0.252,Points allowed to position (+0.1),0.0018,Moderate
+97199,Kenneth Walker III,RB,KC,ATL,RB lead/bellcow,22.93,0.05,Neutral,0.36,0.172,Heavy boxes expected (-0.9),0.0275,Strong
+7857,Keenan Allen,WR,SF,DAL,WR4+,7.64,0.04,Neutral,0.087,0.292,None,0.0118,None
+123000,Jordan Addison,WR,MIN,GB,WR4+,6.41,0.04,Neutral,0.087,0.292,None,-0.0113,None
+146712,Adonai Mitchell,WR,NYJ,BUF,WR4+,8.1,0.04,Neutral,0.087,0.292,None,0.01,None
+122730,Jordan Watkins,WR,SF,DAL,WR4+,8.35,0.04,Neutral,0.087,0.292,None,0.01,None
+48027,Jauan Jennings,WR,MIN,GB,WR4+,1.4,0.04,Neutral,0.087,0.292,None,-0.0213,None
+97156,Isaiah Williams,WR,NYJ,BUF,WR4+,4.16,0.04,Neutral,0.087,0.292,None,-0.0031,None
+61398,Justin Jefferson,WR,MIN,GB,WR2/3,11.39,0.04,Neutral,0.203,0.24,None,-0.0204,Weak
+48274,Deebo Samuel,WR,SF,DAL,WR2/3,10.48,0.03,Neutral,0.203,0.24,None,0.0375,Weak
+156395,Omar Cooper Jr.,WR,NYJ,BUF,WR2/3,13.15,0.03,Neutral,0.203,0.24,None,-0.0008,Weak
+63707,Rashid Shaheed,WR,SEA,LV,WR4+,4.89,0.03,Neutral,0.087,0.292,None,0.0214,None
+97405,Garrett Wilson,WR,NYJ,BUF,WR2/3,11.53,0.03,Neutral,0.203,0.24,None,-0.0065,Weak
+128232,Tory Horton,WR,SEA,LV,WR4+,4.08,0.03,Neutral,0.087,0.292,None,0.0446,None
+48236,Darnell Mooney,WR,NYG,WAS,WR4+,3.19,0.03,Neutral,0.087,0.292,None,-0.0233,None
+151069,Malachi Fields,WR,NYG,WAS,WR4+,5.54,0.03,Neutral,0.087,0.292,None,-0.0298,None
+123085,Quentin Johnston,WR,LAC,BAL,WR4+,5.61,0.03,Neutral,0.087,0.292,None,-0.0085,None
+122676,Tre Harris,WR,LAC,BAL,WR4+,5.24,0.03,Neutral,0.087,0.292,None,0.005,None
+11824,Cooper Kupp,WR,SEA,LV,WR4+,5.2,0.03,Neutral,0.087,0.292,None,0.0193,None
+8642,Mike Evans,WR,SF,DAL,WR2/3,12.58,0.03,Neutral,0.203,0.24,None,0.0371,Weak
+124030,Ladd McConkey,WR,LAC,BAL,WR4+,7.18,0.03,Neutral,0.087,0.292,None,0.0174,None
+122832,Josh Downs,WR,KC,ATL,WR4+,6.51,0.02,Neutral,0.087,0.292,None,0.005,None
+77965,Tutu Atwell,WR,LAR,ARI,WR4+,2.68,0.02,Neutral,0.087,0.292,None,-0.0131,None
+157263,Elic Ayomanor,WR,TEN,JAX,WR4+,4.2,0.02,Neutral,0.087,0.292,None,-0.0273,None
+144718,Xavier Worthy,WR,KC,ATL,WR4+,6.29,0.02,Neutral,0.087,0.292,None,0.0391,None
+170273,Carnell Tate,WR,TEN,JAX,WR4+,8.61,0.02,Neutral,0.087,0.292,None,-0.0108,None
+145598,Konata Mumpfield,WR,LAR,ARI,WR4+,3.46,0.02,Neutral,0.087,0.292,None,-0.0339,None
+101735,Wan'Dale Robinson,WR,TEN,JAX,WR4+,7.47,0.02,Neutral,0.087,0.292,None,-0.005,None
+146759,Malik Nabers,WR,NYG,WAS,WR2/3,12.91,0.02,Neutral,0.203,0.24,None,-0.0203,Weak
+48262,Calvin Ridley,WR,TEN,JAX,WR4+,2.02,0.02,Neutral,0.087,0.292,None,-0.0171,None
+97605,Rashee Rice,WR,KC,ATL,WR2/3,10.74,0.01,Neutral,0.203,0.24,None,0.0258,Weak
+157128,Quinshon Judkins,RB,CLE,HOU,RB committee,,0.01,Neutral,0.282,0.115,None,-0.0172,Thin
+158735,Tetairoa McMillan,WR,CAR,NO,WR2/3,12.69,-0.0,Neutral,0.203,0.24,None,0.0327,Weak
+150568,Bhayshul Tuten,RB,JAX,TEN,RB committee,,-0.0,Neutral,0.282,0.115,None,-0.0048,Thin
+83689,Chris Rodriguez Jr.,RB,JAX,TEN,RB committee,6.55,-0.0,Neutral,0.282,0.115,None,-0.0471,Thin
+84425,Brycen Tremayne,WR,CAR,NO,WR4+,2.01,-0.0,Neutral,0.087,0.292,None,0.0157,None
+97400,John Metchie III,WR,CAR,NO,WR4+,4.06,-0.0,Neutral,0.087,0.292,None,0.0393,None
+143068,Jalen Coker,WR,CAR,NO,WR2/3,10.36,-0.0,Neutral,0.203,0.24,None,0.0193,Weak
+9579,Stefon Diggs,WR,WAS,NYG,WR2/3,10.76,-0.01,Neutral,0.203,0.24,None,0.0052,Weak
+100637,Devaughn Vele,WR,NO,CAR,WR2/3,9.0,-0.01,Neutral,0.203,0.24,None,-0.0131,Weak
+148151,Bryce Lance,WR,NO,CAR,WR4+,2.29,-0.01,Neutral,0.087,0.292,None,0.0043,None
+124179,Woody Marks,RB,HOU,CLE,RB committee,,-0.01,Neutral,0.282,0.115,None,0.0188,Thin
+47864,D.K. Metcalf,WR,PIT,CIN,WR4+,7.68,-0.01,Neutral,0.087,0.292,None,-0.0203,None
+45719,David Montgomery,RB,HOU,CLE,RB committee,8.4,-0.01,Neutral,0.282,0.115,None,0.0036,Thin
+158374,Germie Bernard,WR,PIT,CIN,WR4+,,-0.01,Neutral,0.087,0.292,None,-0.0136,None
+129604,Roman Wilson,WR,PIT,CIN,WR4+,7.56,-0.01,Neutral,0.087,0.292,None,-0.0066,None
+61441,Nico Collins,WR,HOU,CLE,WR2/3,12.93,-0.02,Neutral,0.203,0.24,None,0.0435,Weak
+77986,Dyami Brown,WR,WAS,NYG,WR4+,1.7,-0.02,Neutral,0.087,0.292,None,0.0183,None
+48229,Terry McLaurin,WR,WAS,NYG,WR4+,7.7,-0.02,Neutral,0.087,0.292,None,0.0007,None
+99218,Treylon Burks,WR,WAS,NYG,WR4+,6.88,-0.02,Neutral,0.087,0.292,None,-0.0078,None
+160756,Kevin Coleman Jr.,WR,MIA,IND,WR4+,,-0.02,Neutral,0.087,0.292,None,0.01,None
+97108,Malik Washington,WR,MIA,IND,WR4+,7.41,-0.02,Neutral,0.087,0.292,None,0.0081,None
+157740,Caleb Douglas,WR,MIA,IND,WR4+,,-0.02,Neutral,0.087,0.292,None,0.0016,None
+84355,Chris Olave,WR,NO,CAR,WR1,14.18,-0.02,Neutral,0.325,0.283,None,-0.0026,Weak
+156321,Chris Bell,WR,MIA,IND,WR4+,2.9,-0.02,Neutral,0.087,0.292,None,0.0141,None
+156241,Antonio Williams,WR,WAS,NYG,WR4+,,-0.02,Neutral,0.087,0.292,None,0.005,None
+145056,Marvin Harrison Jr.,WR,HOU,CLE,WR4+,4.57,-0.03,Neutral,0.087,0.292,None,0.038,None
+28305,Juwan Johnson,TE,NO,CAR,TE,8.11,-0.03,Neutral,0.192,0.252,None,-0.0056,Moderate
+124087,Kayshon Boutte,WR,HOU,CLE,WR4+,6.68,-0.03,Neutral,0.087,0.292,None,0.05,None
+125155,Jaylin Noel,WR,HOU,CLE,WR4+,8.17,-0.03,Neutral,0.087,0.292,None,0.0292,None
+122518,Xavier Hutchinson,WR,HOU,CLE,WR4+,6.79,-0.03,Neutral,0.087,0.292,None,0.0411,None
+143800,Dohnte Meyers,WR,CIN,PIT,WR4+,,-0.04,Neutral,0.087,0.292,None,-0.0076,None
+144949,Keon Coleman,WR,BUF,NYJ,WR4+,7.49,-0.04,Neutral,0.087,0.292,None,0.0002,None
+12270,Kendrick Bourne,WR,ARI,LAR,WR4+,5.61,-0.04,Neutral,0.087,0.292,None,-0.0249,None
+48267,DJ Moore,WR,BUF,NYJ,WR4+,8.33,-0.04,Neutral,0.087,0.292,None,0.0066,None
+84140,Khalil Shakir,WR,BUF,NYJ,WR4+,7.59,-0.04,Neutral,0.087,0.292,None,0.0123,None
+84423,Michael Wilson,WR,ARI,LAR,WR2/3,10.58,-0.04,Neutral,0.203,0.24,None,-0.0245,Weak
+159617,Ryan Flournoy,WR,DAL,SF,WR4+,7.53,-0.05,Neutral,0.087,0.292,Points allowed to position (-0.1),0.0097,None
+99229,George Pickens,WR,DAL,SF,WR2/3,10.6,-0.05,Neutral,0.203,0.24,None,0.035,Weak
+129574,Blake Corum,RB,LAR,ARI,RB committee,9.96,-0.06,Neutral,0.282,0.115,Points allowed to position (-0.1),-0.0086,Thin
+10657,Laquon Treadwell,WR,IND,MIA,WR4+,3.28,-0.07,Downgrade,0.071,0.264,Points allowed to position (-0.1),-0.0288,None
+46448,Tyler Huntley,QB,BAL,LAC,QB,10.94,-0.07,Neutral,0.234,0.139,Points allowed to position (-0.1),0.0047,Moderate
+10725,Jacoby Brissett,QB,BAL,LAC,QB,13.83,-0.07,Neutral,0.234,0.139,Points allowed to position (-0.1),-0.0506,Moderate
+46416,Lamar Jackson,QB,BAL,LAC,QB,15.82,-0.07,Neutral,0.234,0.139,Points allowed to position (-0.1),0.0143,Moderate
+101106,Tre Tucker,WR,LV,SEA,WR2/3,10.31,-0.09,Neutral,0.203,0.24,Points allowed to position (-0.1),-0.0153,Weak
+86519,Drake London,WR,ATL,KC,WR2/3,11.07,-0.09,Neutral,0.203,0.24,Points allowed to position (-0.1),-0.0184,Weak
+44920,Olamide Zaccheaus,WR,ATL,KC,WR4+,0.7,-0.1,Downgrade,0.071,0.264,Points allowed to position (-0.1),-0.0149,None
+7820,Geno Smith,QB,NYJ,BUF,QB,14.5,-0.1,Neutral,0.234,0.139,Points allowed to position (-0.1),-0.0138,Moderate
+84375,Jahan Dotson,WR,ATL,KC,WR4+,6.14,-0.1,Downgrade,0.071,0.264,Points allowed to position (-0.1),-0.024,None
+84292,Jalen Nailor,WR,LV,SEA,WR4+,3.6,-0.11,Downgrade,0.071,0.264,Points allowed to position (-0.1),-0.013,None
+61081,Jake Ferguson,TE,DAL,SF,TE,5.64,-0.12,Neutral,0.192,0.252,Points allowed to position (-0.1),-0.0108,Moderate
+84006,Brevyn Spann-Ford,TE,DAL,SF,TE,2.28,-0.12,Neutral,0.192,0.252,Points allowed to position (-0.1),-0.0104,Moderate
+11901,George Kittle,TE,SF,DAL,TE,11.91,-0.13,Neutral,0.192,0.252,Points allowed to position (-0.1),-0.0069,Moderate
+157122,Mason Taylor,TE,NYJ,BUF,TE,6.28,-0.15,Downgrade,0.197,0.21,Points allowed to position (-0.2),-0.0014,Moderate
+174132,Kenyon Sadiq,TE,NYJ,BUF,TE,4.92,-0.15,Downgrade,0.197,0.21,Points allowed to position (-0.2),-0.0075,Moderate
+47153,Mike Gesicki,TE,CIN,PIT,TE,10.1,-0.16,Downgrade,0.197,0.21,Points allowed to position (-0.2),0.0013,Moderate
+40693,Rico Dowdle,RB,PIT,CIN,RB committee,7.62,-0.17,Neutral,0.282,0.115,Points allowed to position (-0.2),0.0433,Thin
+101694,Brenton Strange,TE,JAX,TEN,TE,7.08,-0.17,Downgrade,0.197,0.21,Points allowed to position (-0.2),0.0027,Moderate
+61211,Tee Higgins,WR,CIN,PIT,WR1,16.98,-0.18,Downgrade,0.295,0.241,Points allowed to position (-0.2),-0.0213,Weak
+84270,Ja'Marr Chase,WR,CIN,PIT,WR1,16.65,-0.18,Downgrade,0.295,0.241,Points allowed to position (-0.2),-0.0219,Weak
+7844,Travis Kelce,TE,KC,ATL,TE,10.35,-0.19,Downgrade,0.197,0.21,Points allowed to position (-0.2),0.0055,Moderate
+60878,Noah Gray,TE,KC,ATL,TE,3.99,-0.19,Downgrade,0.197,0.21,Points allowed to position (-0.2),-0.0189,Moderate
+123126,Bijan Robinson,RB,ATL,KC,RB lead/bellcow,18.28,-0.2,Neutral,0.36,0.172,Line / contact matchup (-0.6),-0.0062,Strong
+61570,CeeDee Lamb,WR,DAL,SF,WR1,18.53,-0.22,Downgrade,0.295,0.241,Points allowed to position (-0.2),0.0054,Weak
+122474,Jahmyr Gibbs,RB,DET,NE,RB lead/bellcow,24.03,-0.23,Neutral,0.36,0.172,Run-gap matchup (+0.7),0.0139,Strong
+145672,Mike Washington Jr.,RB,LV,SEA,RB committee,4.01,-0.24,Downgrade,0.205,0.103,Points allowed to position (-0.2),-0.0591,Thin
+77803,Javonte Williams,RB,DAL,SF,RB lead/bellcow,16.4,-0.26,Neutral,0.36,0.172,Line / contact matchup (-0.6),-0.0421,Strong
+123826,Keaton Mitchell,RB,LAC,BAL,RB committee,5.14,-0.28,Downgrade,0.205,0.103,Points allowed to position (-0.3),-0.0358,Thin
+123091,Kendre Miller,RB,DAL,SF,RB committee,5.68,-0.31,Downgrade,0.205,0.103,Points allowed to position (-0.3),-0.0109,Thin
+101659,Tyler Goodson,RB,DAL,SF,RB committee,3.43,-0.31,Downgrade,0.205,0.103,Points allowed to position (-0.3),-0.0443,Thin
+102382,Jacory Croskey-Merritt,RB,WAS,NYG,RB committee,8.48,-0.32,Downgrade,0.205,0.103,Points allowed to position (-0.3),0.014,Thin
+131633,Rachaad White,RB,WAS,NYG,RB committee,8.96,-0.32,Downgrade,0.205,0.103,Points allowed to position (-0.3),0.041,Thin
+156419,Kaleb Johnson,RB,GB,MIN,RB committee,3.24,-0.34,Downgrade,0.205,0.103,Points allowed to position (-0.3),0.0574,Thin
+124247,MarShawn Lloyd,RB,GB,MIN,RB committee,5.66,-0.34,Downgrade,0.205,0.103,Points allowed to position (-0.3),0.005,Thin
+84000,Chigoziem Okonkwo,TE,WAS,NYG,TE,5.57,-0.35,Downgrade,0.197,0.21,Points allowed to position (-0.3),0.0084,Moderate
+66581,Christian Watson,WR,GB,MIN,WR1,16.93,-0.35,Downgrade,0.295,0.241,Points allowed to position (-0.3),-0.0469,Weak
+11937,Aaron Jones,RB,MIN,GB,RB lead/bellcow,9.36,-0.35,Neutral,0.36,0.172,Run-gap matchup (-0.5),-0.0541,Strong
+156165,Matthew Golden,WR,GB,MIN,WR1,15.27,-0.35,Downgrade,0.295,0.241,Points allowed to position (-0.3),-0.0491,Weak
+11869,Samaje Perine,RB,CIN,PIT,RB committee,5.11,-0.37,Downgrade,0.205,0.103,Points allowed to position (-0.4),-0.0653,Thin
+27126,Tony Pollard,RB,TEN,JAX,RB lead/bellcow,13.69,-0.38,Neutral,0.36,0.172,Line / contact matchup (-0.8),-0.0316,Strong
+57120,Brian Robinson,RB,ATL,KC,RB committee,8.43,-0.39,Downgrade,0.205,0.103,Points allowed to position (-0.4),0.0443,Thin
+10769,Dak Prescott,QB,DAL,SF,QB,18.6,-0.43,Downgrade,0.271,0.119,Points allowed to position (-0.4),-0.044,Moderate
+101690,Sam LaPorta,TE,DET,NE,TE,9.45,-0.48,Strong downgrade,0.154,0.28,Points allowed to position (-0.5),0.0035,Moderate
+144726,Gunnar Helm,TE,TEN,JAX,TE,4.07,-0.5,Strong downgrade,0.154,0.28,Points allowed to position (-0.5),0.0108,Moderate
+75916,Trey McBride,TE,ARI,LAR,TE,14.03,-0.5,Strong downgrade,0.154,0.28,Points allowed to position (-0.5),0.0008,Moderate
+171090,Jeremiyah Love,RB,ARI,LAR,RB committee,7.98,-0.51,Downgrade,0.205,0.103,Points allowed to position (-0.5),0.0029,Thin
+122906,Michael Mayer,TE,LV,SEA,TE,6.92,-0.53,Strong downgrade,0.154,0.28,Points allowed to position (-0.5),0.0056,Moderate
+146715,Brock Bowers,TE,LV,SEA,TE,17.43,-0.53,Strong downgrade,0.154,0.28,Points allowed to position (-0.5),-0.0102,Moderate
+163104,Harold Fannin Jr.,TE,CLE,HOU,TE,9.31,-0.59,Strong downgrade,0.154,0.28,Points allowed to position (-0.6),-0.0014,Moderate
+47436,Mark Andrews,TE,BAL,LAC,TE,4.8,-0.6,Strong downgrade,0.154,0.28,Points allowed to position (-0.6),0.0016,Moderate
+40912,T.J. Hockenson,TE,MIN,GB,TE,8.54,-0.63,Strong downgrade,0.154,0.28,Points allowed to position (-0.6),0.004,Moderate
+145159,Braelon Allen,RB,NYJ,BUF,RB lead/bellcow,10.61,-0.63,Downgrade,0.333,0.202,Heavy boxes expected (-0.8),-0.0093,Strong
+104034,Tucker Kraft,TE,GB,MIN,TE,8.04,-0.66,Strong downgrade,0.154,0.28,Points allowed to position (-0.7),0.0134,Moderate
+129759,C.J. Stroud,QB,HOU,CLE,QB,20.51,-0.67,Strong downgrade,0.257,0.129,Points allowed to position (-0.7),0.0676,Moderate
+98689,Rhamondre Stevenson,RB,NE,DET,RB lead/bellcow,11.19,-0.84,Downgrade,0.333,0.202,Heavy boxes expected (-0.5),-0.0137,Strong
+38334,Kyler Murray,QB,MIN,GB,QB,12.26,-0.9,Strong downgrade,0.257,0.129,Points allowed to position (-0.9),-0.0392,Moderate
+7102,Kirk Cousins,QB,MIN,GB,QB,19.14,-0.9,Strong downgrade,0.257,0.129,Points allowed to position (-0.9),-0.0677,Moderate
+83639,Tyler Allgeier,RB,ARI,LAR,RB lead/bellcow,8.8,-0.91,Downgrade,0.333,0.202,Line / contact matchup (-0.6),0.0025,Strong
+157196,Ashton Jeanty,RB,LV,SEA,RB lead/bellcow,13.14,-0.92,Downgrade,0.333,0.202,Line / contact matchup (-0.7),0.0046,Strong
+147787,Cam Skattebo,RB,NYG,WAS,RB lead/bellcow,10.82,-0.92,Downgrade,0.333,0.202,Heavy boxes expected (-0.7),-0.0217,Strong
+133244,Cam Ward,QB,TEN,JAX,QB,12.57,-1.16,Strong downgrade,0.257,0.129,Points allowed to position (-1.2),-0.0223,Moderate
+82134,Michael Penix Jr.,QB,ATL,KC,QB,13.75,-1.2,Strong downgrade,0.257,0.129,Points allowed to position (-1.2),-0.0139,Moderate
+83666,James Cook,RB,BUF,NYJ,RB lead/bellcow,17.8,-1.24,Strong downgrade,0.363,0.187,Heavy boxes expected (-1.4),-0.0265,Strong
+28022,Joe Burrow,QB,CIN,PIT,QB,24.89,-1.3,Strong downgrade,0.257,0.129,Points allowed to position (-1.3),0.0037,Moderate
+77787,Chase Brown,RB,CIN,PIT,RB lead/bellcow,10.24,-1.55,Strong downgrade,0.363,0.187,Line / contact matchup (-0.6),-0.0271,Strong
+40306,Jordan Love,QB,GB,MIN,QB,20.56,-2.37,Strong downgrade,0.257,0.129,Points allowed to position (-2.4),-0.0209,Moderate
+97118,Kyren Williams,RB,LAR,ARI,RB lead/bellcow,15.68,-2.88,Strong downgrade,0.363,0.187,Heavy boxes expected (-2.4),-0.0102,Strong

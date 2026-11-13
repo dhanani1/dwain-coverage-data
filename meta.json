@@ -9,23 +9,21 @@
   6,
   7,
   8,
-  9
+  9,
+  10
  ],
- "opp_week": 10,
- "games_in_latest_week": 15,
- "book_games_in_latest_week": 15,
+ "opp_week": 11,
+ "games_in_latest_week": 1,
+ "book_games_in_latest_week": 1,
  "forecast": {
-  "active": true,
-  "reason": "ok",
-  "built_at_utc": "2026-11-12T13:52:46Z",
-  "week": 10,
-  "norm_only": [
-   "disguise",
-   "run_blitz"
-  ]
+  "active": false,
+  "reason": "FileNotFoundError(2, 'No such file or directory')",
+  "built_at_utc": null,
+  "week": 11,
+  "norm_only": []
  },
- "built_at_utc": "2026-11-13T03:38:38.654787Z",
- "players": 519,
+ "built_at_utc": "2026-11-13T15:16:34.158166Z",
+ "players": 520,
  "defenses": 32,
  "manzone_lookup_cols": 83,
  "def_lookup_cols": 23,
@@ -35,6 +33,6 @@
  "qb_cols": 122,
  "rbs": 92,
  "rb_cols": 135,
- "manzone_rows": 518,
+ "manzone_rows": 519,
  "manzone_cols": 80
 }

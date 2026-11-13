@@ -19,14 +19,14 @@
  "forecast": {
   "active": true,
   "reason": "ok",
-  "built_at_utc": "2026-11-13T13:52:04Z",
+  "built_at_utc": "2026-11-13T19:20:07Z",
   "week": 10,
   "norm_only": [
    "disguise",
    "run_blitz"
   ]
  },
- "built_at_utc": "2026-11-13T19:05:14.580815Z",
+ "built_at_utc": "2026-11-13T19:23:57.306166Z",
  "players": 520,
  "defenses": 32,
  "manzone_lookup_cols": 83,

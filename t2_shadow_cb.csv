@@ -17,7 +17,6 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 121906,Upton Stout,SF,Sometimes,Slot,,7,0,16.0,4.0,"Chimere Dike, Greg Dortch, Xavier Smith, Jaylin Noel",0.0,0.0,1.0,DAL
 11846,Jourdan Lewis,JAX,Sometimes,Slot,Yes,8,2,11.0,1.0,"Mike Gesicki, Demario Douglas, Hunter Renfrow",0.005,0.005,0.99,TEN
 146746,Maxwell Hairston,BUF,Sometimes,Both sides,No,8,2,11.0,1.0,"Romeo Doubs, Kayshon Boutte, Jaylen Waddle",0.476,0.497,0.026,NYJ
-83176,Roger McCreary,DET,Sometimes,Slot,Yes,8,2,11.0,1.0,"Savion Williams, Kendrick Bourne, Christian Kirk",0.193,0.157,0.65,NE
 55717,Marcus Jones,NE,Sometimes,Slot,Yes,9,2,17.0,2.0,"Omar Cooper Jr., Roman Wilson, Chimere Dike, Calvin Austin III",0.057,0.188,0.755,DET
 100931,Ja'Quan McMillian,DEN,Sometimes,Slot,,9,0,17.0,4.0,"Christian Kirk, KaVontae Turpin, Andrei Iosivas, Tyler Lockett",0.0,0.007,0.993,BYE
 173110,Will Lee III,CAR,Sometimes,Both sides,No,7,1,,,DeVonta Smith,0.449,0.425,0.126,NO
@@ -29,6 +28,7 @@ player_id,CB,Team,Shadows?,Lines Up,Follows WR Into Slot?,2026 G,2026 Shadow G,2
 130628,Quinyon Mitchell,PHI,Sometimes,Right side,No,9,1,16.0,2.0,"Malik Nabers, Courtland Sutton, Davante Adams",0.175,0.803,0.022,BYE
 97230,Marcus Harris,TEN,Sometimes,Slot,Yes,8,1,9.0,1.0,"Isaiah Williams, Christian Kirk",0.01,0.01,0.979,JAX
 72191,Trent McDuffie,LAR,Sometimes,Outside + slot,No,6,1,13.0,1.0,"Malik Nabers, Amon-Ra St. Brown",0.463,0.337,0.2,ARI
+83176,Roger McCreary,DET,Sometimes,Slot,Yes,8,1,11.0,1.0,"Kendrick Bourne, Christian Kirk",0.193,0.157,0.65,NE
 34057,Mike Hughes,ATL,Sometimes,Both sides,,9,0,12.0,2.0,"Rashid Shaheed, Adonai Mitchell",0.508,0.361,0.131,KC
 49564,Rock Ya-Sin,DET,Sometimes,Both sides,,6,0,15.0,2.0,"D.K. Metcalf, A.J. Brown",0.477,0.477,0.045,NE
 97486,Jarrian Jones,JAX,Sometimes,Both sides,No,8,1,14.0,1.0,"Tee Higgins, Christian Kirk",0.484,0.393,0.123,TEN

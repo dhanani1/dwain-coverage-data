@@ -1,199 +1,199 @@
-player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,Shadowed By,Left %,Right %,Slot %,Inline %,Wk 11 Opp
-61441,Nico Collins,HOU,WR,6,3.0,15.0,5.0,"Deonte Banks, Travis Hunter, Christian Benford, Jaylen Watson",0.443,0.355,0.202,0.0,IND
-146759,Malik Nabers,NYG,WR,9,3.0,4.0,0.0,"Quinyon Mitchell, Derek Stingley Jr., Trent McDuffie",0.356,0.379,0.265,0.0,JAX
-47864,D.K. Metcalf,PIT,WR,8,2.0,15.0,6.0,"DJ Turner II, Christian Gonzalez, Rock Ya-Sin, Christian Benford",0.489,0.332,0.179,0.0,PHI
-8688,Davante Adams,LAR,WR,6,2.0,14.0,4.0,"Pat Surtain II, Greg Newsome II, Nate Wiggins, Charvarius Ward",0.569,0.276,0.155,0.0,BYE
-84329,Romeo Doubs,NE,WR,6,2.0,16.0,3.0,"Maxwell Hairston, Jamel Dean, D.J. Reed, Isaiah Rodgers",0.575,0.315,0.11,0.0,BYE
-61211,Tee Higgins,CIN,WR,8,2.0,15.0,2.0,"Joshua Williams, Jarrian Jones, Christian Gonzalez, Riley Moss",0.429,0.446,0.121,0.004,WAS
-61398,Justin Jefferson,MIN,WR,7,2.0,17.0,2.0,"Charvarius Ward, Kool-Aid McKinstry, Amik Robertson, DJ Turner II",0.466,0.372,0.162,0.0,SF
-104155,Demario Douglas,NE,WR,9,2.0,17.0,1.0,"Jourdan Lewis, Devon Witherspoon, Jalen Ramsey",0.073,0.086,0.841,0.0,BYE
-63707,Rashid Shaheed,SEA,WR,7,2.0,18.0,1.0,"Renardo Green, Carlton Davis III, Mike Hughes",0.367,0.38,0.253,0.0,BYE
-48236,Darnell Mooney,NYG,WR,9,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.21,0.227,0.563,0.0,JAX
-151069,Malachi Fields,NYG,WR,9,2.0,,,"Tariq Woolen, Jaylen Watson",0.44,0.362,0.198,0.0,JAX
-148151,Bryce Lance,NO,WR,8,2.0,,,"Asante Samuel Jr., D.J. Reed",0.352,0.402,0.246,0.0,CHI
-145055,Emeka Egbuka,TB,WR,7,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.23,0.436,0.329,0.004,DET
-101735,Wan'Dale Robinson,TEN,WR,8,1.0,16.0,2.0,"Myles Harden, Amik Robertson, Reddy Steward",0.118,0.127,0.754,0.0,DAL
-124087,Kayshon Boutte,HOU,WR,8,1.0,14.0,2.0,"Maxwell Hairston, Rasul Douglas, Jack Jones",0.261,0.479,0.261,0.0,IND
-158735,Tetairoa McMillan,CAR,WR,8,1.0,17.0,1.0,"Pat Surtain II, A.J. Terrell",0.405,0.312,0.283,0.0,BAL
-129758,Jaxon Smith-Njigba,SEA,WR,9,1.0,17.0,1.0,"Christian Gonzalez, A.J. Terrell",0.376,0.363,0.261,0.0,BYE
-61103,Jerry Jeudy,CLE,WR,9,1.0,17.0,1.0,"Asante Samuel Jr., D.J. Reed",0.34,0.397,0.263,0.0,BYE
-97405,Garrett Wilson,NYJ,WR,8,1.0,7.0,1.0,"Christian Gonzalez, Pat Surtain II",0.408,0.365,0.227,0.0,LAC
-157263,Elic Ayomanor,TEN,WR,8,1.0,16.0,1.0,"Greg Newsome II, Riley Moss",0.463,0.39,0.141,0.006,DAL
-84423,Michael Wilson,ARI,WR,9,1.0,17.0,0.0,D.J. Reed,0.292,0.515,0.187,0.006,KC
-156165,Matthew Golden,GB,WR,9,1.0,14.0,0.0,Christian Gonzalez,0.396,0.362,0.242,0.0,BYE
-12270,Kendrick Bourne,ARI,WR,8,1.0,16.0,0.0,Roger McCreary,0.153,0.136,0.712,0.0,KC
-136866,Darius Cooper,PHI,WR,9,1.0,13.0,0.0,Akayleb Evans,0.365,0.348,0.275,0.013,PIT
-47153,Mike Gesicki,CIN,TE,8,1.0,13.0,0.0,Jourdan Lewis,0.047,0.068,0.879,0.005,WAS
-97156,Isaiah Williams,NYJ,WR,9,1.0,11.0,0.0,Marcus Harris,0.212,0.291,0.492,0.005,LAC
-61100,DeVonta Smith,PHI,WR,4,1.0,17.0,0.0,Will Lee III,0.353,0.496,0.151,0.0,PIT
-11873,Mack Hollins,NE,WR,5,1.0,15.0,0.0,Asante Samuel Jr.,0.234,0.508,0.258,0.0,BYE
-129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,PHI
-123101,Savion Williams,GB,WR,4,1.0,10.0,0.0,Roger McCreary,0.265,0.122,0.592,0.02,BYE
-162481,Denzel Boston,CLE,WR,9,1.0,,,Joshua Williams,0.485,0.424,0.091,0.0,BYE
-158374,Germie Bernard,PIT,WR,8,1.0,,,Charles Woods,0.155,0.362,0.479,0.005,PHI
-156321,Chris Bell,MIA,WR,8,1.0,,,DJ Turner II,0.43,0.395,0.174,0.0,BUF
-156395,Omar Cooper Jr.,NYJ,WR,5,1.0,,,Marcus Jones,0.243,0.153,0.604,0.0,LAC
-146760,Brian Thomas Jr.,JAX,WR,8,0.0,14.0,4.0,"Pat Surtain II, Charvarius Ward, Josh Jobe, Kamari Lassiter",0.376,0.323,0.301,0.0,NYG
-48164,Courtland Sutton,DEN,WR,9,0.0,17.0,3.0,"Derek Stingley Jr., Sauce Gardner, Quinyon Mitchell",0.383,0.35,0.267,0.0,LV
-8642,Mike Evans,SF,WR,6,0.0,8.0,3.0,"Rasul Douglas, Sauce Gardner, Derek Stingley Jr.",0.423,0.382,0.195,0.0,MIN
-48327,A.J. Brown,NE,WR,3,0.0,15.0,3.0,"Rock Ya-Sin, Paulson Adebo, Pat Surtain II",0.506,0.337,0.157,0.0,BYE
-122832,Josh Downs,KC,WR,9,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr.",0.133,0.166,0.701,0.0,ARI
-66581,Christian Watson,GB,WR,9,0.0,10.0,2.0,"Pat Surtain II, Amik Robertson",0.339,0.373,0.275,0.014,BYE
-99229,George Pickens,DAL,WR,8,0.0,17.0,2.0,"Jaylen Watson, Sauce Gardner",0.587,0.318,0.094,0.0,TEN
-101701,Jameson Williams,DET,WR,8,0.0,17.0,2.0,"Cor'Dale Flott, Isaiah Rodgers",0.358,0.412,0.23,0.0,TB
-84470,Amon-Ra St. Brown,DET,WR,8,0.0,17.0,2.0,"Byron Murphy Jr., Trent McDuffie",0.261,0.272,0.463,0.004,TB
-84270,Ja'Marr Chase,CIN,WR,8,0.0,16.0,2.0,"Christian Benford, Pat Surtain II",0.378,0.363,0.258,0.0,WAS
-86519,Drake London,ATL,WR,9,0.0,12.0,2.0,"Sauce Gardner, Christian Benford",0.352,0.264,0.383,0.0,BYE
-123000,Jordan Addison,MIN,WR,7,0.0,14.0,2.0,"D.J. Reed, Terrion Arnold",0.317,0.362,0.321,0.0,SF
-123085,Quentin Johnston,LAC,WR,7,0.0,14.0,2.0,"Adoree' Jackson, Pat Surtain II",0.432,0.327,0.241,0.0,NYJ
-97268,Zay Flowers,BAL,WR,8,0.0,17.0,2.0,DJ Turner II,0.191,0.206,0.603,0.0,CAR
-84140,Khalil Shakir,BUF,WR,8,0.0,16.0,2.0,"Dee Alford, Marlon Humphrey",0.171,0.211,0.533,0.085,MIA
-122518,Xavier Hutchinson,HOU,WR,8,0.0,17.0,2.0,"Cam Hart, Jalyn Armour-Davis",0.245,0.224,0.531,0.0,IND
-129918,Chimere Dike,TEN,WR,8,0.0,17.0,2.0,"Upton Stout, Marcus Jones",0.354,0.415,0.2,0.031,DAL
-102585,Xavier Smith,LAR,WR,3,0.0,14.0,2.0,"Devon Witherspoon, Upton Stout",0.317,0.067,0.617,0.0,BYE
-84355,Chris Olave,NO,WR,8,0.0,16.0,1.0,Christian Benford,0.356,0.349,0.295,0.0,CHI
-157170,Luther Burden III,CHI,WR,9,0.0,15.0,1.0,Cooper DeJean,0.263,0.181,0.556,0.0,NO
-11028,Kalif Raymond,CHI,WR,9,0.0,14.0,1.0,Fabian Moreau,0.247,0.293,0.456,0.004,NO
-143068,Jalen Coker,CAR,WR,7,0.0,11.0,1.0,Jarvis Brownlee Jr.,0.281,0.273,0.446,0.0,BAL
-129799,Parker Washington,JAX,WR,8,0.0,16.0,1.0,Kenny Moore II,0.28,0.251,0.464,0.005,NYG
-84088,Jaylen Waddle,DEN,WR,9,0.0,16.0,1.0,Maxwell Hairston,0.254,0.34,0.407,0.0,LV
-47468,Jakobi Meyers,JAX,WR,8,0.0,16.0,1.0,Riley Moss,0.275,0.396,0.329,0.0,NYG
-97108,Malik Washington,MIA,WR,8,0.0,17.0,1.0,Jalen Davis,0.263,0.18,0.556,0.0,BUF
-144949,Keon Coleman,BUF,WR,8,0.0,13.0,1.0,A.J. Terrell,0.351,0.386,0.223,0.04,MIA
-84292,Jalen Nailor,LV,WR,8,0.0,17.0,1.0,Javon Bullard,0.435,0.364,0.201,0.0,DEN
-145598,Konata Mumpfield,LAR,WR,9,0.0,16.0,1.0,A.J. Terrell,0.277,0.288,0.435,0.0,BYE
-145056,Marvin Harrison Jr.,HOU,WR,7,0.0,12.0,1.0,L'Jarius Sneed,0.468,0.335,0.197,0.0,IND
-125155,Jaylin Noel,HOU,WR,7,0.0,17.0,1.0,Upton Stout,0.184,0.102,0.714,0.0,IND
-146712,Adonai Mitchell,NYJ,WR,5,0.0,16.0,1.0,Mike Hughes,0.393,0.407,0.186,0.014,LAC
-146567,Troy Franklin,DEN,WR,9,0.0,17.0,1.0,Kenny Moore II,0.307,0.255,0.423,0.015,LV
-123709,Tez Johnson,TB,WR,9,0.0,16.0,1.0,Amik Robertson,0.398,0.226,0.376,0.0,DET
-48229,Terry McLaurin,WAS,WR,5,0.0,10.0,1.0,Paulson Adebo,0.432,0.341,0.227,0.0,CIN
-48262,Calvin Ridley,TEN,WR,7,0.0,7.0,1.0,Pat Surtain II,0.363,0.46,0.177,0.0,DAL
-128232,Tory Horton,SEA,WR,8,0.0,8.0,1.0,Kindle Vildor,0.306,0.407,0.287,0.0,BYE
-29049,Michael Pittman Jr.,PIT,WR,3,0.0,17.0,1.0,Pat Surtain II,0.333,0.404,0.263,0.0,PHI
-61568,Marquise Brown,PHI,WR,4,0.0,16.0,1.0,Riley Moss,0.402,0.305,0.293,0.0,PIT
-163586,Isaiah Bond,CLE,WR,8,0.0,16.0,1.0,Carlton Davis III,0.191,0.147,0.647,0.015,BYE
-97623,Jordan Whittington,LAR,WR,8,0.0,16.0,1.0,Jacob Parrish,0.079,0.222,0.683,0.016,BYE
-75916,Trey McBride,ARI,TE,9,0.0,17.0,0.0,,0.067,0.05,0.671,0.212,KC
-73774,Rome Odunze,CHI,WR,9,0.0,12.0,0.0,,0.354,0.417,0.226,0.003,NO
-100637,Devaughn Vele,NO,WR,8,0.0,13.0,0.0,,0.245,0.201,0.555,0.0,CHI
-61570,CeeDee Lamb,DAL,WR,9,0.0,14.0,0.0,,0.265,0.361,0.374,0.0,TEN
-83955,Isaiah Likely,NYG,TE,9,0.0,14.0,0.0,,0.057,0.09,0.8,0.053,JAX
-159617,Ryan Flournoy,DAL,WR,9,0.0,15.0,0.0,,0.182,0.321,0.497,0.0,TEN
-163104,Harold Fannin Jr.,CLE,TE,9,0.0,16.0,0.0,,0.072,0.068,0.411,0.449,BYE
-101106,Tre Tucker,LV,WR,9,0.0,17.0,0.0,,0.346,0.39,0.265,0.0,DEN
-158540,Colston Loveland,CHI,TE,9,0.0,16.0,0.0,,0.133,0.118,0.303,0.446,NO
-10657,Laquon Treadwell,IND,WR,9,0.0,4.0,0.0,,0.436,0.398,0.167,0.0,HOU
-11824,Cooper Kupp,SEA,WR,9,0.0,16.0,0.0,,0.27,0.213,0.517,0.0,BYE
-11839,Chris Godwin,TB,WR,9,0.0,9.0,0.0,,0.26,0.206,0.534,0.0,DET
-144718,Xavier Worthy,KC,WR,8,0.0,14.0,0.0,,0.352,0.36,0.276,0.011,ARI
-104034,Tucker Kraft,GB,TE,9,0.0,8.0,0.0,,0.054,0.043,0.333,0.57,BYE
-146715,Brock Bowers,LV,TE,7,0.0,12.0,0.0,,0.183,0.215,0.458,0.143,DEN
-61071,Cade Otton,TB,TE,9,0.0,16.0,0.0,,0.056,0.104,0.4,0.44,DET
-100632,Puka Nacua,LAR,WR,7,0.0,16.0,0.0,,0.268,0.456,0.272,0.004,BYE
-122906,Michael Mayer,LV,TE,9,0.0,13.0,0.0,,0.036,0.028,0.236,0.7,DEN
-129433,AJ Barner,SEA,TE,9,0.0,17.0,0.0,,0.033,0.045,0.247,0.675,BYE
-101690,Sam LaPorta,DET,TE,8,0.0,9.0,0.0,,0.054,0.063,0.389,0.494,TB
-28305,Juwan Johnson,NO,TE,8,0.0,17.0,0.0,,0.099,0.064,0.545,0.292,CHI
-10744,Tyler Higbee,LAR,TE,9,0.0,10.0,0.0,,0.1,0.087,0.317,0.496,BYE
-7844,Travis Kelce,KC,TE,8,0.0,17.0,0.0,,0.102,0.119,0.354,0.425,ARI
-84085,Pat Freiermuth,PIT,TE,8,0.0,17.0,0.0,,0.058,0.044,0.653,0.244,PHI
-9579,Stefon Diggs,WAS,WR,8,0.0,17.0,0.0,,0.167,0.194,0.64,0.0,CIN
-84375,Jahan Dotson,ATL,WR,9,0.0,17.0,0.0,,0.351,0.419,0.23,0.0,BYE
-129798,Tyler Warren,IND,TE,7,0.0,17.0,0.0,,0.082,0.078,0.461,0.379,HOU
-84296,Rashod Bateman,BAL,WR,9,0.0,13.0,0.0,,0.321,0.367,0.307,0.005,CAR
-61081,Jake Ferguson,DAL,TE,9,0.0,17.0,0.0,,0.024,0.057,0.51,0.41,TEN
-7857,Keenan Allen,SF,WR,8,0.0,17.0,0.0,,0.353,0.382,0.266,0.0,MIN
-47436,Mark Andrews,BAL,TE,9,0.0,17.0,0.0,,0.137,0.102,0.488,0.273,CAR
-47304,Dalton Schultz,HOU,TE,8,0.0,17.0,0.0,,0.07,0.1,0.433,0.398,IND
-11901,George Kittle,SF,TE,8,0.0,11.0,0.0,,0.065,0.02,0.261,0.653,MIN
-84000,Chigoziem Okonkwo,WAS,TE,7,0.0,17.0,0.0,,0.051,0.101,0.525,0.323,CIN
-9637,Darren Waller,CAR,TE,8,0.0,9.0,0.0,,0.122,0.117,0.571,0.189,BAL
-172430,Isaac TeSlaa,DET,WR,8,0.0,17.0,0.0,,0.378,0.275,0.332,0.016,TB
-47272,Dallas Goedert,PHI,TE,7,0.0,15.0,0.0,,0.057,0.068,0.38,0.495,PIT
-83964,Kyle Pitts,ATL,TE,9,0.0,17.0,0.0,,0.099,0.13,0.354,0.417,BYE
-11778,Evan Engram,DEN,TE,9,0.0,16.0,0.0,,0.079,0.063,0.323,0.534,LV
-10669,Hunter Henry,NE,TE,9,0.0,17.0,0.0,,0.016,0.107,0.46,0.417,BYE
-99711,Dontayvion Wicks,PHI,WR,6,0.0,14.0,0.0,,0.378,0.33,0.292,0.0,PIT
-91791,Dalton Kincaid,BUF,TE,8,0.0,12.0,0.0,,0.094,0.083,0.506,0.317,MIA
-122676,Tre Harris,LAC,WR,7,0.0,17.0,0.0,,0.268,0.33,0.402,0.0,NYJ
-40912,T.J. Hockenson,MIN,TE,8,0.0,15.0,0.0,,0.062,0.051,0.472,0.415,SF
-84068,Greg Dulcich,MIA,TE,8,0.0,10.0,0.0,,0.046,0.057,0.207,0.69,BUF
-101694,Brenton Strange,JAX,TE,8,0.0,12.0,0.0,,0.103,0.069,0.379,0.448,NYG
-144046,Oronde Gadsden II,LAC,TE,8,0.0,15.0,0.0,,0.12,0.157,0.331,0.392,NYJ
-144726,Gunnar Helm,TEN,TE,8,0.0,16.0,0.0,,0.037,0.067,0.573,0.323,DAL
-99218,Treylon Burks,WAS,WR,7,0.0,8.0,0.0,,0.354,0.367,0.278,0.0,CIN
-48027,Jauan Jennings,MIN,WR,6,0.0,15.0,0.0,,0.204,0.197,0.599,0.0,SF
-128374,Kyle Williams,NE,WR,9,0.0,17.0,0.0,,0.6,0.335,0.065,0.0,BYE
-157122,Mason Taylor,NYJ,TE,7,0.0,13.0,0.0,,0.054,0.034,0.415,0.497,LAC
-97605,Rashee Rice,KC,WR,6,0.0,8.0,0.0,,0.205,0.281,0.5,0.014,ARI
-84025,Tommy Tremble,CAR,TE,8,0.0,17.0,0.0,,0.028,0.042,0.333,0.597,BAL
-48267,DJ Moore,BUF,WR,6,0.0,17.0,0.0,,0.437,0.333,0.222,0.007,MIA
-124044,Darnell Washington,PIT,TE,8,0.0,16.0,0.0,,0.045,0.03,0.273,0.652,PHI
-97400,John Metchie III,CAR,WR,7,0.0,15.0,0.0,,0.185,0.292,0.523,0.0,BAL
-84425,Brycen Tremayne,CAR,WR,8,0.0,16.0,0.0,,0.367,0.336,0.297,0.0,BAL
-124030,Ladd McConkey,LAC,WR,6,0.0,16.0,0.0,,0.25,0.266,0.477,0.008,NYJ
-35883,Dawson Knox,BUF,TE,8,0.0,17.0,0.0,,0.071,0.087,0.294,0.548,MIA
-141521,Efton Chism III,NE,WR,8,0.0,6.0,0.0,,0.258,0.395,0.331,0.016,BYE
-144800,Pat Bryant,DEN,WR,5,0.0,15.0,0.0,,0.23,0.295,0.475,0.0,LV
-44920,Olamide Zaccheaus,ATL,WR,8,0.0,16.0,0.0,,0.127,0.186,0.686,0.0,BYE
-77965,Tutu Atwell,LAR,WR,6,0.0,10.0,0.0,,0.203,0.203,0.593,0.0,BYE
-77986,Dyami Brown,WAS,WR,7,0.0,13.0,0.0,,0.398,0.331,0.271,0.0,CIN
-145773,Devontez Walker,BAL,WR,8,0.0,9.0,0.0,,0.407,0.288,0.305,0.0,CAR
-52266,Colby Parkinson,LAR,TE,7,0.0,15.0,0.0,,0.043,0.096,0.139,0.722,BYE
-122730,Jordan Watkins,SF,WR,6,0.0,4.0,0.0,,0.31,0.434,0.257,0.0,MIN
-60878,Noah Gray,KC,TE,8,0.0,16.0,0.0,,0.082,0.091,0.282,0.545,ARI
-60917,Charlie Kolar,LAC,TE,6,0.0,17.0,0.0,,0.069,0.108,0.225,0.598,NYJ
-84006,Brevyn Spann-Ford,DAL,TE,9,0.0,16.0,0.0,,0.05,0.04,0.376,0.535,TEN
-163442,Jalen Royals,KC,WR,7,0.0,4.0,0.0,,0.38,0.3,0.26,0.06,ARI
-111284,Jalen Brooks,ARI,WR,6,0.0,6.0,0.0,,0.475,0.323,0.202,0.0,KC
-78092,Tyquan Thornton,KC,WR,4,0.0,14.0,0.0,,0.378,0.327,0.276,0.02,ARI
-60995,Cole Kmet,CHI,TE,7,0.0,16.0,0.0,,0.124,0.103,0.103,0.67,NO
-98027,Elijah Higgins,ARI,TE,9,0.0,17.0,0.0,,0.146,0.104,0.177,0.573,KC
-48274,Deebo Samuel,SF,WR,5,0.0,16.0,0.0,,0.189,0.368,0.442,0.0,MIN
-99697,Davis Allen,LAR,TE,9,0.0,17.0,0.0,,0.096,0.138,0.128,0.638,BYE
-61448,Cody White,LV,WR,9,0.0,9.0,0.0,,0.44,0.308,0.253,0.0,DEN
-144886,Tai Felton,MIN,WR,5,0.0,5.0,0.0,,0.385,0.374,0.242,0.0,SF
-147486,Mitchell Evans,CAR,TE,8,0.0,17.0,0.0,,0.044,0.044,0.209,0.703,BAL
-42388,Noah Fant,NO,TE,7,0.0,15.0,0.0,,0.067,0.056,0.167,0.711,CHI
-61610,Bo Melton,GB,WR,9,0.0,9.0,0.0,,0.264,0.276,0.46,0.0,BYE
-129787,Theo Johnson,NYG,TE,7,0.0,15.0,0.0,,0.149,0.092,0.517,0.241,JAX
-47259,Drew Sample,CIN,TE,8,0.0,17.0,0.0,,0.0,0.035,0.081,0.884,WAS
-42353,Luke Farrell,SF,TE,8,0.0,17.0,0.0,,0.05,0.038,0.125,0.788,MIN
-8655,Brandin Cooks,SF,WR,5,0.0,15.0,0.0,,0.468,0.291,0.241,0.0,MIN
-60994,Brock Wright,DET,TE,8,0.0,11.0,0.0,,0.089,0.025,0.203,0.684,TB
-62979,Joshua Palmer,BUF,WR,6,0.0,12.0,0.0,,0.405,0.342,0.241,0.013,MIA
-97774,Jonathan Mingo,DAL,WR,9,0.0,6.0,0.0,,0.41,0.41,0.179,0.0,TEN
-11855,Jonnu Smith,GB,TE,8,0.0,17.0,0.0,,0.067,0.12,0.36,0.453,BYE
-109795,Adam Trautman,DEN,TE,9,0.0,17.0,0.0,,0.067,0.067,0.16,0.707,LV
-42257,Charlie Woerner,ATL,TE,8,0.0,17.0,0.0,,0.041,0.081,0.216,0.662,BYE
-99691,Jared Wayne,MIA,WR,7,0.0,1.0,0.0,,0.541,0.351,0.108,0.0,BUF
-12206,Johnny Mundt,PHI,TE,9,0.0,15.0,0.0,,0.068,0.068,0.384,0.479,PIT
-122616,Ben Sinnott,WAS,TE,9,0.0,15.0,0.0,,0.137,0.068,0.233,0.562,CIN
-7912,Kyle Juszczyk,SF,WR,7,0.0,17.0,0.0,,0.088,0.103,0.382,0.426,MIN
-129789,KeAndre Lambert-Smith,LAC,WR,3,0.0,10.0,0.0,,0.269,0.358,0.373,0.0,NYJ
-61327,Brandon Smith,PIT,WR,4,0.0,1.0,0.0,,0.4,0.431,0.169,0.0,PHI
-47043,Foster Moreau,HOU,TE,8,0.0,11.0,0.0,,0.031,0.062,0.172,0.734,IND
-84029,Jeremy Ruckert,NYJ,TE,9,0.0,17.0,0.0,,0.016,0.0,0.344,0.641,LAC
-84302,Elijah Moore,PHI,WR,7,0.0,9.0,0.0,,0.281,0.453,0.266,0.0,PIT
-77881,Blake Whiteheart,CLE,TE,9,0.0,13.0,0.0,,0.016,0.095,0.175,0.714,BYE
-123155,Myles Price,MIN,WR,6,0.0,1.0,0.0,,0.175,0.159,0.667,0.0,SF
-84041,Daniel Bellinger,TEN,TE,8,0.0,16.0,0.0,,0.065,0.065,0.516,0.355,DAL
-11763,Christian McCaffrey,SF,WR,8,0.0,17.0,0.0,,0.082,0.131,0.787,0.0,MIN
-97116,Skyy Moore,GB,WR,5,0.0,13.0,0.0,,0.131,0.18,0.639,0.049,BYE
-174150,Makai Lemon,PHI,WR,9,0.0,,,,0.193,0.134,0.67,0.003,PIT
-170362,KC Concepcion,CLE,WR,9,0.0,,,,0.177,0.185,0.638,0.0,BYE
-156241,Antonio Williams,WAS,WR,9,0.0,,,,0.289,0.285,0.426,0.0,CIN
-170273,Carnell Tate,TEN,WR,7,0.0,,,,0.372,0.348,0.28,0.0,DAL
-187922,Ted Hurst,TB,WR,9,0.0,,,,0.437,0.27,0.293,0.0,DET
-143800,Dohnte Meyers,CIN,WR,8,0.0,,,,0.251,0.204,0.545,0.0,WAS
-174132,Kenyon Sadiq,NYJ,TE,9,0.0,,,,0.052,0.119,0.41,0.418,LAC
-157740,Caleb Douglas,MIA,WR,5,0.0,,,,0.3,0.477,0.223,0.0,BUF
-156970,Eli Raridon,NE,TE,8,0.0,,,,0.096,0.148,0.374,0.383,BYE
-160756,Kevin Coleman Jr.,MIA,WR,8,0.0,,,,0.284,0.312,0.394,0.009,BUF
-176638,Ja'Kobi Lane,BAL,WR,5,0.0,,,,0.404,0.413,0.183,0.0,CAR
-100894,Jacob Cowing,SF,WR,8,0.0,,,,0.378,0.255,0.367,0.0,MIN
-129676,Nate Boerkircher,JAX,TE,8,0.0,,,,0.038,0.088,0.175,0.7,NYG
-144513,Josh Cameron,JAX,WR,8,0.0,,,,0.397,0.26,0.342,0.0,NYG
-160110,Andrew Armstrong,KC,WR,4,0.0,,,,0.297,0.359,0.297,0.047,ARI
-174142,Zachariah Branch,ATL,WR,8,0.0,,,,0.297,0.188,0.516,0.0,BYE
+player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,Shadowed By,Left %,Right %,Slot %,Inline %,Wk 10 Opp
+61441,Nico Collins,HOU,WR,6,3.0,15.0,5.0,"Deonte Banks, Travis Hunter, Christian Benford, Jaylen Watson",0.443,0.355,0.202,0.0,CLE
+146759,Malik Nabers,NYG,WR,9,3.0,4.0,0.0,"Quinyon Mitchell, Derek Stingley Jr., Trent McDuffie",0.356,0.379,0.265,0.0,WAS
+47864,D.K. Metcalf,PIT,WR,8,2.0,15.0,6.0,"DJ Turner II, Christian Gonzalez, Rock Ya-Sin, Christian Benford",0.489,0.332,0.179,0.0,CIN
+8688,Davante Adams,LAR,WR,6,2.0,14.0,4.0,"Pat Surtain II, Greg Newsome II, Nate Wiggins, Charvarius Ward",0.569,0.276,0.155,0.0,ARI
+84329,Romeo Doubs,NE,WR,6,2.0,16.0,3.0,"Maxwell Hairston, Jamel Dean, D.J. Reed, Isaiah Rodgers",0.575,0.315,0.11,0.0,DET
+61211,Tee Higgins,CIN,WR,8,2.0,15.0,2.0,"Joshua Williams, Jarrian Jones, Christian Gonzalez, Riley Moss",0.429,0.446,0.121,0.004,PIT
+61398,Justin Jefferson,MIN,WR,7,2.0,17.0,2.0,"Charvarius Ward, Kool-Aid McKinstry, Amik Robertson, DJ Turner II",0.466,0.372,0.162,0.0,GB
+104155,Demario Douglas,NE,WR,9,2.0,17.0,1.0,"Jourdan Lewis, Devon Witherspoon, Jalen Ramsey",0.073,0.086,0.841,0.0,DET
+63707,Rashid Shaheed,SEA,WR,7,2.0,18.0,1.0,"Renardo Green, Carlton Davis III, Mike Hughes",0.367,0.38,0.253,0.0,LV
+48236,Darnell Mooney,NYG,WR,9,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.21,0.227,0.563,0.0,WAS
+151069,Malachi Fields,NYG,WR,9,2.0,,,"Tariq Woolen, Jaylen Watson",0.44,0.362,0.198,0.0,WAS
+148151,Bryce Lance,NO,WR,8,2.0,,,"Asante Samuel Jr., D.J. Reed",0.352,0.402,0.246,0.0,CAR
+145055,Emeka Egbuka,TB,WR,7,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.23,0.436,0.329,0.004,BYE
+101735,Wan'Dale Robinson,TEN,WR,8,1.0,16.0,2.0,"Myles Harden, Amik Robertson, Reddy Steward",0.118,0.127,0.754,0.0,JAX
+124087,Kayshon Boutte,HOU,WR,8,1.0,14.0,2.0,"Maxwell Hairston, Rasul Douglas, Jack Jones",0.261,0.479,0.261,0.0,CLE
+158735,Tetairoa McMillan,CAR,WR,8,1.0,17.0,1.0,"Pat Surtain II, A.J. Terrell",0.405,0.312,0.283,0.0,NO
+129758,Jaxon Smith-Njigba,SEA,WR,9,1.0,17.0,1.0,"Christian Gonzalez, A.J. Terrell",0.376,0.363,0.261,0.0,LV
+61103,Jerry Jeudy,CLE,WR,9,1.0,17.0,1.0,"Asante Samuel Jr., D.J. Reed",0.34,0.397,0.263,0.0,HOU
+97405,Garrett Wilson,NYJ,WR,8,1.0,7.0,1.0,"Christian Gonzalez, Pat Surtain II",0.408,0.365,0.227,0.0,BUF
+157263,Elic Ayomanor,TEN,WR,8,1.0,16.0,1.0,"Greg Newsome II, Riley Moss",0.463,0.39,0.141,0.006,JAX
+84423,Michael Wilson,ARI,WR,9,1.0,17.0,0.0,D.J. Reed,0.292,0.515,0.187,0.006,LAR
+156165,Matthew Golden,GB,WR,9,1.0,14.0,0.0,Christian Gonzalez,0.396,0.362,0.242,0.0,MIN
+12270,Kendrick Bourne,ARI,WR,8,1.0,16.0,0.0,Roger McCreary,0.153,0.136,0.712,0.0,LAR
+136866,Darius Cooper,PHI,WR,9,1.0,13.0,0.0,Akayleb Evans,0.365,0.348,0.275,0.013,BYE
+47153,Mike Gesicki,CIN,TE,8,1.0,13.0,0.0,Jourdan Lewis,0.047,0.068,0.879,0.005,PIT
+97156,Isaiah Williams,NYJ,WR,9,1.0,11.0,0.0,Marcus Harris,0.212,0.291,0.492,0.005,BUF
+61100,DeVonta Smith,PHI,WR,4,1.0,17.0,0.0,Will Lee III,0.353,0.496,0.151,0.0,BYE
+11873,Mack Hollins,NE,WR,5,1.0,15.0,0.0,Asante Samuel Jr.,0.234,0.508,0.258,0.0,DET
+129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,CIN
+123101,Savion Williams,GB,WR,4,1.0,10.0,0.0,Roger McCreary,0.265,0.122,0.592,0.02,MIN
+162481,Denzel Boston,CLE,WR,9,1.0,,,Joshua Williams,0.485,0.424,0.091,0.0,HOU
+158374,Germie Bernard,PIT,WR,8,1.0,,,Charles Woods,0.155,0.362,0.479,0.005,CIN
+156321,Chris Bell,MIA,WR,8,1.0,,,DJ Turner II,0.43,0.395,0.174,0.0,IND
+156395,Omar Cooper Jr.,NYJ,WR,5,1.0,,,Marcus Jones,0.243,0.153,0.604,0.0,BUF
+146760,Brian Thomas Jr.,JAX,WR,8,0.0,14.0,4.0,"Pat Surtain II, Charvarius Ward, Josh Jobe, Kamari Lassiter",0.376,0.323,0.301,0.0,TEN
+48164,Courtland Sutton,DEN,WR,9,0.0,17.0,3.0,"Derek Stingley Jr., Sauce Gardner, Quinyon Mitchell",0.383,0.35,0.267,0.0,BYE
+8642,Mike Evans,SF,WR,6,0.0,8.0,3.0,"Rasul Douglas, Sauce Gardner, Derek Stingley Jr.",0.423,0.382,0.195,0.0,DAL
+48327,A.J. Brown,NE,WR,3,0.0,15.0,3.0,"Rock Ya-Sin, Paulson Adebo, Pat Surtain II",0.506,0.337,0.157,0.0,DET
+122832,Josh Downs,KC,WR,9,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr.",0.133,0.166,0.701,0.0,ATL
+66581,Christian Watson,GB,WR,9,0.0,10.0,2.0,"Pat Surtain II, Amik Robertson",0.339,0.373,0.275,0.014,MIN
+99229,George Pickens,DAL,WR,8,0.0,17.0,2.0,"Jaylen Watson, Sauce Gardner",0.587,0.318,0.094,0.0,SF
+101701,Jameson Williams,DET,WR,8,0.0,17.0,2.0,"Cor'Dale Flott, Isaiah Rodgers",0.358,0.412,0.23,0.0,NE
+84470,Amon-Ra St. Brown,DET,WR,8,0.0,17.0,2.0,"Byron Murphy Jr., Trent McDuffie",0.261,0.272,0.463,0.004,NE
+84270,Ja'Marr Chase,CIN,WR,8,0.0,16.0,2.0,"Christian Benford, Pat Surtain II",0.378,0.363,0.258,0.0,PIT
+86519,Drake London,ATL,WR,9,0.0,12.0,2.0,"Sauce Gardner, Christian Benford",0.352,0.264,0.383,0.0,KC
+123000,Jordan Addison,MIN,WR,7,0.0,14.0,2.0,"D.J. Reed, Terrion Arnold",0.317,0.362,0.321,0.0,GB
+123085,Quentin Johnston,LAC,WR,7,0.0,14.0,2.0,"Adoree' Jackson, Pat Surtain II",0.432,0.327,0.241,0.0,BAL
+97268,Zay Flowers,BAL,WR,8,0.0,17.0,2.0,DJ Turner II,0.191,0.206,0.603,0.0,LAC
+84140,Khalil Shakir,BUF,WR,8,0.0,16.0,2.0,"Dee Alford, Marlon Humphrey",0.171,0.211,0.533,0.085,NYJ
+122518,Xavier Hutchinson,HOU,WR,8,0.0,17.0,2.0,"Cam Hart, Jalyn Armour-Davis",0.245,0.224,0.531,0.0,CLE
+129918,Chimere Dike,TEN,WR,8,0.0,17.0,2.0,"Upton Stout, Marcus Jones",0.354,0.415,0.2,0.031,JAX
+102585,Xavier Smith,LAR,WR,3,0.0,14.0,2.0,"Devon Witherspoon, Upton Stout",0.317,0.067,0.617,0.0,ARI
+84355,Chris Olave,NO,WR,8,0.0,16.0,1.0,Christian Benford,0.356,0.349,0.295,0.0,CAR
+157170,Luther Burden III,CHI,WR,9,0.0,15.0,1.0,Cooper DeJean,0.263,0.181,0.556,0.0,BYE
+11028,Kalif Raymond,CHI,WR,9,0.0,14.0,1.0,Fabian Moreau,0.247,0.293,0.456,0.004,BYE
+143068,Jalen Coker,CAR,WR,7,0.0,11.0,1.0,Jarvis Brownlee Jr.,0.281,0.273,0.446,0.0,NO
+129799,Parker Washington,JAX,WR,8,0.0,16.0,1.0,Kenny Moore II,0.28,0.251,0.464,0.005,TEN
+84088,Jaylen Waddle,DEN,WR,9,0.0,16.0,1.0,Maxwell Hairston,0.254,0.34,0.407,0.0,BYE
+47468,Jakobi Meyers,JAX,WR,8,0.0,16.0,1.0,Riley Moss,0.275,0.396,0.329,0.0,TEN
+97108,Malik Washington,MIA,WR,8,0.0,17.0,1.0,Jalen Davis,0.263,0.18,0.556,0.0,IND
+144949,Keon Coleman,BUF,WR,8,0.0,13.0,1.0,A.J. Terrell,0.351,0.386,0.223,0.04,NYJ
+84292,Jalen Nailor,LV,WR,8,0.0,17.0,1.0,Javon Bullard,0.435,0.364,0.201,0.0,SEA
+145598,Konata Mumpfield,LAR,WR,9,0.0,16.0,1.0,A.J. Terrell,0.277,0.288,0.435,0.0,ARI
+145056,Marvin Harrison Jr.,HOU,WR,7,0.0,12.0,1.0,L'Jarius Sneed,0.468,0.335,0.197,0.0,CLE
+125155,Jaylin Noel,HOU,WR,7,0.0,17.0,1.0,Upton Stout,0.184,0.102,0.714,0.0,CLE
+146712,Adonai Mitchell,NYJ,WR,5,0.0,16.0,1.0,Mike Hughes,0.393,0.407,0.186,0.014,BUF
+146567,Troy Franklin,DEN,WR,9,0.0,17.0,1.0,Kenny Moore II,0.307,0.255,0.423,0.015,BYE
+123709,Tez Johnson,TB,WR,9,0.0,16.0,1.0,Amik Robertson,0.398,0.226,0.376,0.0,BYE
+48229,Terry McLaurin,WAS,WR,5,0.0,10.0,1.0,Paulson Adebo,0.432,0.341,0.227,0.0,NYG
+48262,Calvin Ridley,TEN,WR,7,0.0,7.0,1.0,Pat Surtain II,0.363,0.46,0.177,0.0,JAX
+128232,Tory Horton,SEA,WR,8,0.0,8.0,1.0,Kindle Vildor,0.306,0.407,0.287,0.0,LV
+29049,Michael Pittman Jr.,PIT,WR,3,0.0,17.0,1.0,Pat Surtain II,0.333,0.404,0.263,0.0,CIN
+61568,Marquise Brown,PHI,WR,4,0.0,16.0,1.0,Riley Moss,0.402,0.305,0.293,0.0,BYE
+163586,Isaiah Bond,CLE,WR,8,0.0,16.0,1.0,Carlton Davis III,0.191,0.147,0.647,0.015,HOU
+97623,Jordan Whittington,LAR,WR,8,0.0,16.0,1.0,Jacob Parrish,0.079,0.222,0.683,0.016,ARI
+75916,Trey McBride,ARI,TE,9,0.0,17.0,0.0,,0.067,0.05,0.671,0.212,LAR
+73774,Rome Odunze,CHI,WR,9,0.0,12.0,0.0,,0.354,0.417,0.226,0.003,BYE
+100637,Devaughn Vele,NO,WR,8,0.0,13.0,0.0,,0.245,0.201,0.555,0.0,CAR
+61570,CeeDee Lamb,DAL,WR,9,0.0,14.0,0.0,,0.265,0.361,0.374,0.0,SF
+83955,Isaiah Likely,NYG,TE,9,0.0,14.0,0.0,,0.057,0.09,0.8,0.053,WAS
+159617,Ryan Flournoy,DAL,WR,9,0.0,15.0,0.0,,0.182,0.321,0.497,0.0,SF
+163104,Harold Fannin Jr.,CLE,TE,9,0.0,16.0,0.0,,0.072,0.068,0.411,0.449,HOU
+101106,Tre Tucker,LV,WR,9,0.0,17.0,0.0,,0.346,0.39,0.265,0.0,SEA
+158540,Colston Loveland,CHI,TE,9,0.0,16.0,0.0,,0.133,0.118,0.303,0.446,BYE
+10657,Laquon Treadwell,IND,WR,9,0.0,4.0,0.0,,0.436,0.398,0.167,0.0,MIA
+11824,Cooper Kupp,SEA,WR,9,0.0,16.0,0.0,,0.27,0.213,0.517,0.0,LV
+11839,Chris Godwin,TB,WR,9,0.0,9.0,0.0,,0.26,0.206,0.534,0.0,BYE
+144718,Xavier Worthy,KC,WR,8,0.0,14.0,0.0,,0.352,0.36,0.276,0.011,ATL
+104034,Tucker Kraft,GB,TE,9,0.0,8.0,0.0,,0.054,0.043,0.333,0.57,MIN
+146715,Brock Bowers,LV,TE,7,0.0,12.0,0.0,,0.183,0.215,0.458,0.143,SEA
+61071,Cade Otton,TB,TE,9,0.0,16.0,0.0,,0.056,0.104,0.4,0.44,BYE
+100632,Puka Nacua,LAR,WR,7,0.0,16.0,0.0,,0.268,0.456,0.272,0.004,ARI
+122906,Michael Mayer,LV,TE,9,0.0,13.0,0.0,,0.036,0.028,0.236,0.7,SEA
+129433,AJ Barner,SEA,TE,9,0.0,17.0,0.0,,0.033,0.045,0.247,0.675,LV
+101690,Sam LaPorta,DET,TE,8,0.0,9.0,0.0,,0.054,0.063,0.389,0.494,NE
+28305,Juwan Johnson,NO,TE,8,0.0,17.0,0.0,,0.099,0.064,0.545,0.292,CAR
+10744,Tyler Higbee,LAR,TE,9,0.0,10.0,0.0,,0.1,0.087,0.317,0.496,ARI
+7844,Travis Kelce,KC,TE,8,0.0,17.0,0.0,,0.102,0.119,0.354,0.425,ATL
+84085,Pat Freiermuth,PIT,TE,8,0.0,17.0,0.0,,0.058,0.044,0.653,0.244,CIN
+9579,Stefon Diggs,WAS,WR,8,0.0,17.0,0.0,,0.167,0.194,0.64,0.0,NYG
+84375,Jahan Dotson,ATL,WR,9,0.0,17.0,0.0,,0.351,0.419,0.23,0.0,KC
+129798,Tyler Warren,IND,TE,7,0.0,17.0,0.0,,0.082,0.078,0.461,0.379,MIA
+84296,Rashod Bateman,BAL,WR,9,0.0,13.0,0.0,,0.321,0.367,0.307,0.005,LAC
+61081,Jake Ferguson,DAL,TE,9,0.0,17.0,0.0,,0.024,0.057,0.51,0.41,SF
+7857,Keenan Allen,SF,WR,8,0.0,17.0,0.0,,0.353,0.382,0.266,0.0,DAL
+47436,Mark Andrews,BAL,TE,9,0.0,17.0,0.0,,0.137,0.102,0.488,0.273,LAC
+47304,Dalton Schultz,HOU,TE,8,0.0,17.0,0.0,,0.07,0.1,0.433,0.398,CLE
+11901,George Kittle,SF,TE,8,0.0,11.0,0.0,,0.065,0.02,0.261,0.653,DAL
+84000,Chigoziem Okonkwo,WAS,TE,7,0.0,17.0,0.0,,0.051,0.101,0.525,0.323,NYG
+9637,Darren Waller,CAR,TE,8,0.0,9.0,0.0,,0.122,0.117,0.571,0.189,NO
+172430,Isaac TeSlaa,DET,WR,8,0.0,17.0,0.0,,0.378,0.275,0.332,0.016,NE
+47272,Dallas Goedert,PHI,TE,7,0.0,15.0,0.0,,0.057,0.068,0.38,0.495,BYE
+83964,Kyle Pitts,ATL,TE,9,0.0,17.0,0.0,,0.099,0.13,0.354,0.417,KC
+11778,Evan Engram,DEN,TE,9,0.0,16.0,0.0,,0.079,0.063,0.323,0.534,BYE
+10669,Hunter Henry,NE,TE,9,0.0,17.0,0.0,,0.016,0.107,0.46,0.417,DET
+99711,Dontayvion Wicks,PHI,WR,6,0.0,14.0,0.0,,0.378,0.33,0.292,0.0,BYE
+91791,Dalton Kincaid,BUF,TE,8,0.0,12.0,0.0,,0.094,0.083,0.506,0.317,NYJ
+122676,Tre Harris,LAC,WR,7,0.0,17.0,0.0,,0.268,0.33,0.402,0.0,BAL
+40912,T.J. Hockenson,MIN,TE,8,0.0,15.0,0.0,,0.062,0.051,0.472,0.415,GB
+84068,Greg Dulcich,MIA,TE,8,0.0,10.0,0.0,,0.046,0.057,0.207,0.69,IND
+101694,Brenton Strange,JAX,TE,8,0.0,12.0,0.0,,0.103,0.069,0.379,0.448,TEN
+144046,Oronde Gadsden II,LAC,TE,8,0.0,15.0,0.0,,0.12,0.157,0.331,0.392,BAL
+144726,Gunnar Helm,TEN,TE,8,0.0,16.0,0.0,,0.037,0.067,0.573,0.323,JAX
+99218,Treylon Burks,WAS,WR,7,0.0,8.0,0.0,,0.354,0.367,0.278,0.0,NYG
+48027,Jauan Jennings,MIN,WR,6,0.0,15.0,0.0,,0.204,0.197,0.599,0.0,GB
+128374,Kyle Williams,NE,WR,9,0.0,17.0,0.0,,0.6,0.335,0.065,0.0,DET
+157122,Mason Taylor,NYJ,TE,7,0.0,13.0,0.0,,0.054,0.034,0.415,0.497,BUF
+97605,Rashee Rice,KC,WR,6,0.0,8.0,0.0,,0.205,0.281,0.5,0.014,ATL
+84025,Tommy Tremble,CAR,TE,8,0.0,17.0,0.0,,0.028,0.042,0.333,0.597,NO
+48267,DJ Moore,BUF,WR,6,0.0,17.0,0.0,,0.437,0.333,0.222,0.007,NYJ
+124044,Darnell Washington,PIT,TE,8,0.0,16.0,0.0,,0.045,0.03,0.273,0.652,CIN
+97400,John Metchie III,CAR,WR,7,0.0,15.0,0.0,,0.185,0.292,0.523,0.0,NO
+84425,Brycen Tremayne,CAR,WR,8,0.0,16.0,0.0,,0.367,0.336,0.297,0.0,NO
+124030,Ladd McConkey,LAC,WR,6,0.0,16.0,0.0,,0.25,0.266,0.477,0.008,BAL
+35883,Dawson Knox,BUF,TE,8,0.0,17.0,0.0,,0.071,0.087,0.294,0.548,NYJ
+141521,Efton Chism III,NE,WR,8,0.0,6.0,0.0,,0.258,0.395,0.331,0.016,DET
+144800,Pat Bryant,DEN,WR,5,0.0,15.0,0.0,,0.23,0.295,0.475,0.0,BYE
+44920,Olamide Zaccheaus,ATL,WR,8,0.0,16.0,0.0,,0.127,0.186,0.686,0.0,KC
+77965,Tutu Atwell,LAR,WR,6,0.0,10.0,0.0,,0.203,0.203,0.593,0.0,ARI
+77986,Dyami Brown,WAS,WR,7,0.0,13.0,0.0,,0.398,0.331,0.271,0.0,NYG
+145773,Devontez Walker,BAL,WR,8,0.0,9.0,0.0,,0.407,0.288,0.305,0.0,LAC
+52266,Colby Parkinson,LAR,TE,7,0.0,15.0,0.0,,0.043,0.096,0.139,0.722,ARI
+122730,Jordan Watkins,SF,WR,6,0.0,4.0,0.0,,0.31,0.434,0.257,0.0,DAL
+60878,Noah Gray,KC,TE,8,0.0,16.0,0.0,,0.082,0.091,0.282,0.545,ATL
+60917,Charlie Kolar,LAC,TE,6,0.0,17.0,0.0,,0.069,0.108,0.225,0.598,BAL
+84006,Brevyn Spann-Ford,DAL,TE,9,0.0,16.0,0.0,,0.05,0.04,0.376,0.535,SF
+163442,Jalen Royals,KC,WR,7,0.0,4.0,0.0,,0.38,0.3,0.26,0.06,ATL
+111284,Jalen Brooks,ARI,WR,6,0.0,6.0,0.0,,0.475,0.323,0.202,0.0,LAR
+78092,Tyquan Thornton,KC,WR,4,0.0,14.0,0.0,,0.378,0.327,0.276,0.02,ATL
+60995,Cole Kmet,CHI,TE,7,0.0,16.0,0.0,,0.124,0.103,0.103,0.67,BYE
+98027,Elijah Higgins,ARI,TE,9,0.0,17.0,0.0,,0.146,0.104,0.177,0.573,LAR
+48274,Deebo Samuel,SF,WR,5,0.0,16.0,0.0,,0.189,0.368,0.442,0.0,DAL
+99697,Davis Allen,LAR,TE,9,0.0,17.0,0.0,,0.096,0.138,0.128,0.638,ARI
+61448,Cody White,LV,WR,9,0.0,9.0,0.0,,0.44,0.308,0.253,0.0,SEA
+144886,Tai Felton,MIN,WR,5,0.0,5.0,0.0,,0.385,0.374,0.242,0.0,GB
+147486,Mitchell Evans,CAR,TE,8,0.0,17.0,0.0,,0.044,0.044,0.209,0.703,NO
+42388,Noah Fant,NO,TE,7,0.0,15.0,0.0,,0.067,0.056,0.167,0.711,CAR
+61610,Bo Melton,GB,WR,9,0.0,9.0,0.0,,0.264,0.276,0.46,0.0,MIN
+129787,Theo Johnson,NYG,TE,7,0.0,15.0,0.0,,0.149,0.092,0.517,0.241,WAS
+47259,Drew Sample,CIN,TE,8,0.0,17.0,0.0,,0.0,0.035,0.081,0.884,PIT
+42353,Luke Farrell,SF,TE,8,0.0,17.0,0.0,,0.05,0.038,0.125,0.788,DAL
+8655,Brandin Cooks,SF,WR,5,0.0,15.0,0.0,,0.468,0.291,0.241,0.0,DAL
+60994,Brock Wright,DET,TE,8,0.0,11.0,0.0,,0.089,0.025,0.203,0.684,NE
+62979,Joshua Palmer,BUF,WR,6,0.0,12.0,0.0,,0.405,0.342,0.241,0.013,NYJ
+97774,Jonathan Mingo,DAL,WR,9,0.0,6.0,0.0,,0.41,0.41,0.179,0.0,SF
+11855,Jonnu Smith,GB,TE,8,0.0,17.0,0.0,,0.067,0.12,0.36,0.453,MIN
+109795,Adam Trautman,DEN,TE,9,0.0,17.0,0.0,,0.067,0.067,0.16,0.707,BYE
+42257,Charlie Woerner,ATL,TE,8,0.0,17.0,0.0,,0.041,0.081,0.216,0.662,KC
+99691,Jared Wayne,MIA,WR,7,0.0,1.0,0.0,,0.541,0.351,0.108,0.0,IND
+12206,Johnny Mundt,PHI,TE,9,0.0,15.0,0.0,,0.068,0.068,0.384,0.479,BYE
+122616,Ben Sinnott,WAS,TE,9,0.0,15.0,0.0,,0.137,0.068,0.233,0.562,NYG
+7912,Kyle Juszczyk,SF,WR,7,0.0,17.0,0.0,,0.088,0.103,0.382,0.426,DAL
+129789,KeAndre Lambert-Smith,LAC,WR,3,0.0,10.0,0.0,,0.269,0.358,0.373,0.0,BAL
+61327,Brandon Smith,PIT,WR,4,0.0,1.0,0.0,,0.4,0.431,0.169,0.0,CIN
+47043,Foster Moreau,HOU,TE,8,0.0,11.0,0.0,,0.031,0.062,0.172,0.734,CLE
+84029,Jeremy Ruckert,NYJ,TE,9,0.0,17.0,0.0,,0.016,0.0,0.344,0.641,BUF
+84302,Elijah Moore,PHI,WR,7,0.0,9.0,0.0,,0.281,0.453,0.266,0.0,BYE
+77881,Blake Whiteheart,CLE,TE,9,0.0,13.0,0.0,,0.016,0.095,0.175,0.714,HOU
+123155,Myles Price,MIN,WR,6,0.0,1.0,0.0,,0.175,0.159,0.667,0.0,GB
+84041,Daniel Bellinger,TEN,TE,8,0.0,16.0,0.0,,0.065,0.065,0.516,0.355,JAX
+11763,Christian McCaffrey,SF,WR,8,0.0,17.0,0.0,,0.082,0.131,0.787,0.0,DAL
+97116,Skyy Moore,GB,WR,5,0.0,13.0,0.0,,0.131,0.18,0.639,0.049,MIN
+174150,Makai Lemon,PHI,WR,9,0.0,,,,0.193,0.134,0.67,0.003,BYE
+170362,KC Concepcion,CLE,WR,9,0.0,,,,0.177,0.185,0.638,0.0,HOU
+156241,Antonio Williams,WAS,WR,9,0.0,,,,0.289,0.285,0.426,0.0,NYG
+170273,Carnell Tate,TEN,WR,7,0.0,,,,0.372,0.348,0.28,0.0,JAX
+187922,Ted Hurst,TB,WR,9,0.0,,,,0.437,0.27,0.293,0.0,BYE
+143800,Dohnte Meyers,CIN,WR,8,0.0,,,,0.251,0.204,0.545,0.0,PIT
+174132,Kenyon Sadiq,NYJ,TE,9,0.0,,,,0.052,0.119,0.41,0.418,BUF
+157740,Caleb Douglas,MIA,WR,5,0.0,,,,0.3,0.477,0.223,0.0,IND
+156970,Eli Raridon,NE,TE,8,0.0,,,,0.096,0.148,0.374,0.383,DET
+160756,Kevin Coleman Jr.,MIA,WR,8,0.0,,,,0.284,0.312,0.394,0.009,IND
+176638,Ja'Kobi Lane,BAL,WR,5,0.0,,,,0.404,0.413,0.183,0.0,LAC
+100894,Jacob Cowing,SF,WR,8,0.0,,,,0.378,0.255,0.367,0.0,DAL
+129676,Nate Boerkircher,JAX,TE,8,0.0,,,,0.038,0.088,0.175,0.7,TEN
+144513,Josh Cameron,JAX,WR,8,0.0,,,,0.397,0.26,0.342,0.0,TEN
+160110,Andrew Armstrong,KC,WR,4,0.0,,,,0.297,0.359,0.297,0.047,ATL
+174142,Zachariah Branch,ATL,WR,8,0.0,,,,0.297,0.188,0.516,0.0,KC

@@ -37,5 +37,6 @@
  "rbs": 92,
  "rb_cols": 135,
  "manzone_rows": 519,
- "manzone_cols": 80
+ "manzone_cols": 80,
+ "opp_week_note": "INTENTIONAL: week 10 is still in progress (only 1 of its 14 games is played), so opp_week stays 10 and every tab must show Wk10 opponents. A sheet showing Wk11 is WRONG (build bug of 2026-11-13 09:17) and must be overwritten with this build. Teams on bye show BYE with zero rates; that is correct."
 }

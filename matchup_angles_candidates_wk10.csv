@@ -38,7 +38,7 @@ CAR missing Will Lee III (CB, out)",237,2026-11-15 13:00,True,True,True,,True
 SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games
 
 SF missing Renardo Green (CB, doubt)",237,2026-11-15 16:25,True,True,True,,True
-10,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,NYG,clean-pocket EPA/DB,0.331,10,23,,,165,pressure rate,0.3,1,0.378,7 of 9,0.78,,53,0.603,2.55,"Jayden Daniels from a clean pocket
+10,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,NYG,clean-pocket EPA/DB,0.331,10,23,,,165,pressure rate,0.3,1,0.378,7 of 9,0.78,,54,0.603,2.55,"Jayden Daniels from a clean pocket
 
 +0.33 EPA per dropback (10th of 23 QBs) on 165 dropbacks | -0.29 under pressure
 
@@ -53,7 +53,7 @@ PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone
 2.37 YPRR (11th of 44 WRs) | 27% TPRR (7th) on 183 routes
 
 PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",204,2026-11-15 20:20,True,True,True,,False
-10,man-beater vs man-heavy defence,Treylon Burks,WR,WAS,NYG,man YPRR,2.49,8,32,0.137,26.0,51,man rate,0.288,5,0.267,7 of 9,0.78,,24,0.178,2.29,"Treylon Burks vs man coverage
+10,man-beater vs man-heavy defence,Treylon Burks,WR,WAS,NYG,man YPRR,2.49,8,32,0.137,26.0,51,man rate,0.288,5,0.267,7 of 9,0.78,,25,0.178,2.29,"Treylon Burks vs man coverage
 
 2.49 YPRR (8th of 32 WRs) | 14% TPRR (26th) on 51 routes
 
@@ -68,18 +68,18 @@ MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw mo
 2.37 YPRR (11th of 32 WRs) | 29% TPRR (8th) on 70 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",199,2026-11-12 20:15,False,False,False,game already kicked off,False
-10,man-beater vs man-heavy defence,Chigoziem Okonkwo,TE,WAS,NYG,man YPRR,1.47,4,11,0.207,6.0,58,man rate,0.288,5,0.267,7 of 9,0.78,,21,-0.221,1.97,"Chigoziem Okonkwo vs man coverage
-
-1.47 YPRR (4th of 11 TEs) | 21% TPRR (6th) on 58 routes
-
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-12 20:15,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,44,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",63,0.383,1.95,"George Pickens vs zone coverage
+10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,44,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",64,0.381,1.95,"George Pickens vs zone coverage
 
 2.24 YPRR (15th of 44 WRs) | 23% TPRR (16th) on 204 routes
 
 SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games
 
 SF missing Renardo Green (CB, doubt)",242,2026-11-15 16:25,True,True,True,,False
+10,man-beater vs man-heavy defence,Chigoziem Okonkwo,TE,WAS,NYG,man YPRR,1.47,4,10,0.207,6.0,58,man rate,0.288,5,0.267,7 of 9,0.78,,21,-0.221,1.89,"Chigoziem Okonkwo vs man coverage
+
+1.47 YPRR (4th of 10 TEs) | 21% TPRR (6th) on 58 routes
+
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-12 20:15,False,False,False,game already kicked off,False
 10,zone-beater vs zone-heavy defence,Michael Mayer,TE,LV,SEA,zone YPRR,1.62,9,16,0.2,8.0,130,zone rate,0.857,2,0.808,7 of 9,0.78,,4,-0.877,1.86,"Michael Mayer vs zone coverage
 
 1.62 YPRR (9th of 16 TEs) | 20% TPRR (8th) on 130 routes
@@ -92,9 +92,9 @@ SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone
 ARI plays zone on 85% of dropbacks (3rd most) and 8 of 9 opponents saw more zone vs ARI than in their other games
 
 ARI missing Andrew Wingard (S, doubt)",243,2026-11-15 16:05,True,False,False,Matchup Score below 60,True
-10,man-beater vs man-heavy defence,Trey McBride,TE,ARI,LAR,man YPRR,1.11,6,11,0.22,5.0,100,man rate,0.293,4,0.294,8 of 9,0.89,"LAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",9,-0.467,1.8,"Trey McBride vs man coverage
+10,man-beater vs man-heavy defence,Trey McBride,TE,ARI,LAR,man YPRR,1.11,6,10,0.22,5.0,100,man rate,0.293,4,0.294,8 of 9,0.89,"LAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",9,-0.467,1.73,"Trey McBride vs man coverage
 
-1.11 YPRR (6th of 11 TEs) | 22% TPRR (5th) on 100 routes
+1.11 YPRR (6th of 10 TEs) | 22% TPRR (5th) on 100 routes
 
 LAR plays man on 29% of dropbacks (4th most) and 8 of 9 opponents saw more man vs LAR than in their other games
 

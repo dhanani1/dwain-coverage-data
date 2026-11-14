@@ -11,7 +11,7 @@
   "player_rank": 3,
   "player_pool": 44,
   "tprr": 0.247,
-  "tprr_rank": 10,
+  "tprr_rank": 10.0,
   "sample_routes": 190,
   "def_stat": "zone rate",
   "def_value": 0.866,
@@ -25,7 +25,37 @@
   "strength": 4.7,
   "tweet": "Christian Watson vs zone coverage\n\n3.46 YPRR (3rd of 44 WRs) | 25% TPRR (10th) on 190 routes\n\nMIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",
   "chars": 214,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": true
+ },
+ {
+  "week": 10,
+  "type": "QB clean pocket vs low-pressure defence",
+  "player": "Trevor Lawrence",
+  "pos": "QB",
+  "team": "JAX",
+  "opp": "TEN",
+  "player_stat": "clean-pocket EPA/DB",
+  "player_value": 0.521,
+  "player_rank": 1,
+  "player_pool": 23,
+  "tprr": NaN,
+  "tprr_rank": NaN,
+  "sample_routes": 167,
+  "def_stat": "pressure rate",
+  "def_value": 0.304,
+  "def_rank": 2,
+  "forecast_rate": 0.333,
+  "consistency": "7 of 8",
+  "consistency_share": 0.88,
+  "def_absences": "",
+  "matchup_score": 92,
+  "pure_matchup_sim": 0.799,
+  "strength": 3.95,
+  "tweet": "Trevor Lawrence from a clean pocket\n\n+0.52 EPA per dropback (1st of 23 QBs) on 167 dropbacks | -0.29 under pressure\n\nTEN pressures on 30% of dropbacks (2nd lowest) and 7 of 8 opponents were pressured less vs TEN than in their other games",
+  "chars": 237,
+  "best_for_defence": true,
+  "score_agrees": true
  },
  {
   "week": 10,
@@ -39,7 +69,7 @@
   "player_rank": 2,
   "player_pool": 16,
   "tprr": 0.226,
-  "tprr_rank": 4,
+  "tprr_rank": 4.0,
   "sample_routes": 133,
   "def_stat": "zone rate",
   "def_value": 0.857,
@@ -53,7 +83,8 @@
   "strength": 3.71,
   "tweet": "Brock Bowers vs zone coverage\n\n2.59 YPRR (2nd of 16 TEs) | 23% TPRR (4th) on 133 routes\n\nSEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",
   "chars": 202,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -67,7 +98,7 @@
   "player_rank": 10,
   "player_pool": 44,
   "tprr": 0.239,
-  "tprr_rank": 13,
+  "tprr_rank": 13.0,
   "sample_routes": 213,
   "def_stat": "zone rate",
   "def_value": 0.866,
@@ -81,7 +112,8 @@
   "strength": 3.38,
   "tweet": "Matthew Golden vs zone coverage\n\n2.38 YPRR (10th of 44 WRs) | 24% TPRR (13th) on 213 routes\n\nMIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",
   "chars": 213,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -95,7 +127,7 @@
   "player_rank": 7,
   "player_pool": 44,
   "tprr": 0.238,
-  "tprr_rank": 14,
+  "tprr_rank": 14.0,
   "sample_routes": 151,
   "def_stat": "zone rate",
   "def_value": 0.857,
@@ -109,7 +141,8 @@
   "strength": 3.14,
   "tweet": "Tre Tucker vs zone coverage\n\n2.64 YPRR (7th of 44 WRs) | 24% TPRR (14th) on 151 routes\n\nSEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",
   "chars": 201,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -123,7 +156,7 @@
   "player_rank": 6,
   "player_pool": 44,
   "tprr": 0.284,
-  "tprr_rank": 5,
+  "tprr_rank": 5.0,
   "sample_routes": 194,
   "def_stat": "zone rate",
   "def_value": 0.812,
@@ -137,7 +170,8 @@
   "strength": 2.75,
   "tweet": "Chris Olave vs zone coverage\n\n2.66 YPRR (6th of 44 WRs) | 28% TPRR (5th) on 194 routes\n\nCAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games\n\nCAR missing Will Lee III (CB, out)",
   "chars": 237,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": true
  },
  {
   "week": 10,
@@ -151,7 +185,7 @@
   "player_rank": 5,
   "player_pool": 44,
   "tprr": 0.333,
-  "tprr_rank": 1,
+  "tprr_rank": 1.0,
   "sample_routes": 207,
   "def_stat": "zone rate",
   "def_value": 0.807,
@@ -165,7 +199,37 @@
   "strength": 2.71,
   "tweet": "CeeDee Lamb vs zone coverage\n\n2.86 YPRR (5th of 44 WRs) | 33% TPRR (1st) on 207 routes\n\nSF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games\n\nSF missing Renardo Green (CB, doubt)",
   "chars": 237,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": true
+ },
+ {
+  "week": 10,
+  "type": "QB clean pocket vs low-pressure defence",
+  "player": "Jayden Daniels",
+  "pos": "QB",
+  "team": "WAS",
+  "opp": "NYG",
+  "player_stat": "clean-pocket EPA/DB",
+  "player_value": 0.331,
+  "player_rank": 10,
+  "player_pool": 23,
+  "tprr": NaN,
+  "tprr_rank": NaN,
+  "sample_routes": 165,
+  "def_stat": "pressure rate",
+  "def_value": 0.3,
+  "def_rank": 1,
+  "forecast_rate": 0.378,
+  "consistency": "7 of 9",
+  "consistency_share": 0.78,
+  "def_absences": "",
+  "matchup_score": 53,
+  "pure_matchup_sim": 0.603,
+  "strength": 2.55,
+  "tweet": "Jayden Daniels from a clean pocket\n\n+0.33 EPA per dropback (10th of 23 QBs) on 165 dropbacks | -0.29 under pressure\n\nNYG pressures on 30% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs NYG than in their other games",
+  "chars": 244,
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -179,7 +243,7 @@
   "player_rank": 9,
   "player_pool": 44,
   "tprr": 0.205,
-  "tprr_rank": 18,
+  "tprr_rank": 18.0,
   "sample_routes": 185,
   "def_stat": "zone rate",
   "def_value": 0.811,
@@ -193,7 +257,8 @@
   "strength": 2.49,
   "tweet": "Tee Higgins vs zone coverage\n\n2.43 YPRR (9th of 44 WRs) | 21% TPRR (18th) on 185 routes\n\nPIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",
   "chars": 202,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -207,7 +272,7 @@
   "player_rank": 11,
   "player_pool": 44,
   "tprr": 0.268,
-  "tprr_rank": 7,
+  "tprr_rank": 7.0,
   "sample_routes": 183,
   "def_stat": "zone rate",
   "def_value": 0.811,
@@ -221,7 +286,8 @@
   "strength": 2.42,
   "tweet": "Ja'Marr Chase vs zone coverage\n\n2.37 YPRR (11th of 44 WRs) | 27% TPRR (7th) on 183 routes\n\nPIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",
   "chars": 204,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": true
  },
  {
   "week": 10,
@@ -235,7 +301,7 @@
   "player_rank": 8,
   "player_pool": 32,
   "tprr": 0.137,
-  "tprr_rank": 26,
+  "tprr_rank": 26.0,
   "sample_routes": 51,
   "def_stat": "man rate",
   "def_value": 0.288,
@@ -249,7 +315,8 @@
   "strength": 2.29,
   "tweet": "Treylon Burks vs man coverage\n\n2.49 YPRR (8th of 32 WRs) | 14% TPRR (26th) on 51 routes\n\nNYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",
   "chars": 200,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -263,7 +330,7 @@
   "player_rank": 11,
   "player_pool": 16,
   "tprr": 0.225,
-  "tprr_rank": 5,
+  "tprr_rank": 5.0,
   "sample_routes": 173,
   "def_stat": "zone rate",
   "def_value": 0.866,
@@ -277,7 +344,8 @@
   "strength": 2.28,
   "tweet": "Tucker Kraft vs zone coverage\n\n1.55 YPRR (11th of 16 TEs) | 23% TPRR (5th) on 173 routes\n\nMIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",
   "chars": 210,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -291,7 +359,7 @@
   "player_rank": 11,
   "player_pool": 32,
   "tprr": 0.286,
-  "tprr_rank": 8,
+  "tprr_rank": 8.0,
   "sample_routes": 70,
   "def_stat": "man rate",
   "def_value": 0.288,
@@ -305,7 +373,8 @@
   "strength": 2.17,
   "tweet": "Stefon Diggs vs man coverage\n\n2.37 YPRR (11th of 32 WRs) | 29% TPRR (8th) on 70 routes\n\nNYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",
   "chars": 199,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -319,7 +388,7 @@
   "player_rank": 4,
   "player_pool": 11,
   "tprr": 0.207,
-  "tprr_rank": 6,
+  "tprr_rank": 6.0,
   "sample_routes": 58,
   "def_stat": "man rate",
   "def_value": 0.288,
@@ -333,7 +402,8 @@
   "strength": 1.97,
   "tweet": "Chigoziem Okonkwo vs man coverage\n\n1.47 YPRR (4th of 11 TEs) | 21% TPRR (6th) on 58 routes\n\nNYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",
   "chars": 203,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -347,7 +417,7 @@
   "player_rank": 15,
   "player_pool": 44,
   "tprr": 0.225,
-  "tprr_rank": 16,
+  "tprr_rank": 16.0,
   "sample_routes": 204,
   "def_stat": "zone rate",
   "def_value": 0.807,
@@ -361,7 +431,8 @@
   "strength": 1.95,
   "tweet": "George Pickens vs zone coverage\n\n2.24 YPRR (15th of 44 WRs) | 23% TPRR (16th) on 204 routes\n\nSF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games\n\nSF missing Renardo Green (CB, doubt)",
   "chars": 242,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": true
  },
  {
   "week": 10,
@@ -375,7 +446,7 @@
   "player_rank": 9,
   "player_pool": 16,
   "tprr": 0.2,
-  "tprr_rank": 8,
+  "tprr_rank": 8.0,
   "sample_routes": 130,
   "def_stat": "zone rate",
   "def_value": 0.857,
@@ -389,7 +460,8 @@
   "strength": 1.86,
   "tweet": "Michael Mayer vs zone coverage\n\n1.62 YPRR (9th of 16 TEs) | 20% TPRR (8th) on 130 routes\n\nSEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",
   "chars": 203,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -403,7 +475,7 @@
   "player_rank": 10,
   "player_pool": 16,
   "tprr": 0.164,
-  "tprr_rank": 13,
+  "tprr_rank": 13.0,
   "sample_routes": 140,
   "def_stat": "zone rate",
   "def_value": 0.846,
@@ -417,7 +489,8 @@
   "strength": 1.82,
   "tweet": "Tyler Higbee vs zone coverage\n\n1.56 YPRR (10th of 16 TEs) | 16% TPRR (13th) on 140 routes\n\nARI plays zone on 85% of dropbacks (3rd most) and 8 of 9 opponents saw more zone vs ARI than in their other games\n\nARI missing Andrew Wingard (S, doubt)",
   "chars": 243,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -431,7 +504,7 @@
   "player_rank": 6,
   "player_pool": 11,
   "tprr": 0.22,
-  "tprr_rank": 5,
+  "tprr_rank": 5.0,
   "sample_routes": 100,
   "def_stat": "man rate",
   "def_value": 0.293,
@@ -445,7 +518,8 @@
   "strength": 1.8,
   "tweet": "Trey McBride vs man coverage\n\n1.11 YPRR (6th of 11 TEs) | 22% TPRR (5th) on 100 routes\n\nLAR plays man on 29% of dropbacks (4th most) and 8 of 9 opponents saw more man vs LAR than in their other games\n\nLAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",
   "chars": 260,
-  "best_for_defence": true
+  "best_for_defence": true,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -459,7 +533,7 @@
   "player_rank": 15,
   "player_pool": 32,
   "tprr": 0.129,
-  "tprr_rank": 28,
+  "tprr_rank": 28.0,
   "sample_routes": 70,
   "def_stat": "man rate",
   "def_value": 0.288,
@@ -473,7 +547,8 @@
   "strength": 1.62,
   "tweet": "Antonio Williams vs man coverage\n\n1.81 YPRR (15th of 32 WRs) | 13% TPRR (28th) on 70 routes\n\nNYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",
   "chars": 204,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  },
  {
   "week": 10,
@@ -487,7 +562,7 @@
   "player_rank": 15,
   "player_pool": 16,
   "tprr": 0.128,
-  "tprr_rank": 16,
+  "tprr_rank": 16.0,
   "sample_routes": 141,
   "def_stat": "zone rate",
   "def_value": 0.812,
@@ -501,6 +576,7 @@
   "strength": 0.16,
   "tweet": "Juwan Johnson vs zone coverage\n\n0.95 YPRR (15th of 16 TEs) | 13% TPRR (16th) on 141 routes\n\nCAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games\n\nCAR missing Will Lee III (CB, out)",
   "chars": 241,
-  "best_for_defence": false
+  "best_for_defence": false,
+  "score_agrees": false
  }
 ]

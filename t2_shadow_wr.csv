@@ -10,6 +10,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 63707,Rashid Shaheed,SEA,WR,7,2.0,18.0,1.0,"Renardo Green, Carlton Davis III, Mike Hughes",0.367,0.38,0.253,0.0,LV
 48236,Darnell Mooney,NYG,WR,9,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.21,0.227,0.563,0.0,WAS
 151069,Malachi Fields,NYG,WR,9,2.0,,,"Tariq Woolen, Jaylen Watson",0.44,0.362,0.198,0.0,WAS
+148151,Bryce Lance,NO,WR,8,2.0,,,"Asante Samuel Jr., D.J. Reed",0.352,0.402,0.246,0.0,CAR
 145055,Emeka Egbuka,TB,WR,7,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.23,0.436,0.329,0.004,BYE
 101735,Wan'Dale Robinson,TEN,WR,8,1.0,16.0,2.0,"Myles Harden, Amik Robertson, Reddy Steward",0.118,0.127,0.754,0.0,JAX
 124087,Kayshon Boutte,HOU,WR,8,1.0,14.0,2.0,"Maxwell Hairston, Rasul Douglas, Jack Jones",0.261,0.479,0.261,0.0,CLE
@@ -28,7 +29,6 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 11873,Mack Hollins,NE,WR,5,1.0,15.0,0.0,Asante Samuel Jr.,0.234,0.508,0.258,0.0,DET
 129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,CIN
 162481,Denzel Boston,CLE,WR,9,1.0,,,Joshua Williams,0.485,0.424,0.091,0.0,HOU
-148151,Bryce Lance,NO,WR,8,1.0,,,Asante Samuel Jr.,0.352,0.402,0.246,0.0,CAR
 158374,Germie Bernard,PIT,WR,8,1.0,,,Charles Woods,0.155,0.362,0.479,0.005,CIN
 156321,Chris Bell,MIA,WR,8,1.0,,,DJ Turner II,0.43,0.395,0.174,0.0,IND
 156395,Omar Cooper Jr.,NYJ,WR,5,1.0,,,Marcus Jones,0.243,0.153,0.604,0.0,BUF

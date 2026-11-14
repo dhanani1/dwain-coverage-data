@@ -1,0 +1,30 @@
+team,name,grp,share,status,p_available,snap_cap,state,provisional
+ARI,Andrew Wingard,S,0.54,doubt,0.52,0.91,listed,False
+ATL,Jessie Bates III,S,0.99,out,0.0,0.83,out,False
+BUF,Christian Benford,CB,0.86,doubt,0.51,0.91,listed,False
+CAR,Bobby Okereke,LB,0.72,out,0.0,0.8,out,False
+CAR,Will Lee III,CB,0.56,out,0.46,0.86,listed,False
+CLE,Ronnie Hickman Jr.,S,0.98,out,0.0,0.86,out,False
+DAL,Donovan Ezeiruaku,EDGE,0.58,out,0.0,0.83,out,False
+DAL,DaRon Bland,CB,0.96,doubt,0.69,0.95,listed,False
+DET,D.J. Reed,CB,0.72,out,0.0,0.83,out,False
+DET,Jack Campbell,LB,0.74,out,0.0,0.8,reserve,False
+GB,Xavier McKinney,S,0.96,doubt,0.78,0.98,listed,False
+HOU,Danielle Hunter,EDGE,0.72,out,0.0,0.83,out,False
+HOU,Azeez Al-Shaair,LB,0.95,out,0.0,0.83,out,False
+HOU,Will Anderson Jr.,EDGE,0.72,out,0.27,0.8,listed,False
+IND,Akeem Davis-Gaither,LB,0.6,out,0.0,0.8,out,False
+KC,Mansoor Delane,CB,0.52,doubt,0.64,0.83,listed,False
+LAR,Jaylen Watson,CB,0.68,out,0.0,0.8,reserve,False
+LAR,Braden Fiske,DL,0.65,doubt,0.61,0.99,listed,False
+LAR,Kamren Curl,S,0.99,doubt,0.66,1.0,listed,False
+MIA,Zach Sieler,DL,0.76,out,0.0,0.8,reserve,False
+MIN,Blake Cashman,LB,0.94,out,0.0,0.86,out,False
+MIN,Tyrion Ingram-Dawkins,EDGE,0.66,out,0.0,0.83,out,False
+MIN,Josh Metellus,LB,0.98,doubt,0.73,0.96,listed,False
+PHI,Jordan Davis,DL,0.6,out,0.0,0.83,out,False
+SEA,Leonard Williams,DL,0.56,out,0.0,0.83,out,False
+SEA,Derick Hall,EDGE,0.55,doubt,0.73,1.0,listed,False
+SF,Renardo Green,CB,0.97,doubt,0.78,0.98,listed,False
+TEN,Cody Barton,LB,0.64,out,0.0,0.86,out,False
+TEN,Anthony Hill Jr.,LB,0.99,out,0.0,0.83,out,False

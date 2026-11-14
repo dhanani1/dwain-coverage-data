@@ -1,0 +1,132 @@
+week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars
+10,zone-beater vs zone-heavy defence,Christian Watson,WR,GB,MIN,zone YPRR,3.46,3,44,0.247,10.0,190,zone rate,0.866,1,0.951,8 of 8,1.0,,79,-0.196,4.7,"Christian Watson vs zone coverage
+
+3.46 YPRR (3rd of 44 WRs) | 25% TPRR (10th) on 190 routes
+
+MIN plays zone on 87% of dropbacks (1st most) and 8 of 8 opponents saw less man vs MIN than in their other games",206
+10,zone-beater vs zone-heavy defence,Brock Bowers,TE,LV,SEA,zone YPRR,2.59,2,16,0.226,4.0,133,zone rate,0.857,2,0.808,7 of 9,0.78,,3,-0.582,3.71,"Brock Bowers vs zone coverage
+
+2.59 YPRR (2nd of 16 TEs) | 23% TPRR (4th) on 133 routes
+
+SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw less man vs SEA than in their other games",201
+10,zone-beater vs zone-heavy defence,Matthew Golden,WR,GB,MIN,zone YPRR,2.38,10,44,0.239,13.0,213,zone rate,0.866,1,0.951,8 of 8,1.0,,11,-0.2,3.38,"Matthew Golden vs zone coverage
+
+2.38 YPRR (10th of 44 WRs) | 24% TPRR (13th) on 213 routes
+
+MIN plays zone on 87% of dropbacks (1st most) and 8 of 8 opponents saw less man vs MIN than in their other games",205
+10,zone-beater vs zone-heavy defence,Tre Tucker,WR,LV,SEA,zone YPRR,2.64,7,44,0.238,14.0,151,zone rate,0.857,2,0.808,7 of 9,0.78,,17,0.024,3.14,"Tre Tucker vs zone coverage
+
+2.64 YPRR (7th of 44 WRs) | 24% TPRR (14th) on 151 routes
+
+SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw less man vs SEA than in their other games",200
+10,QB vs low-pressure defence,Josh Allen,QB,BUF,NYJ,FP/DB,0.57,4,23,,,272,pressure rate,0.568,5,0.364,7 of 9,0.78,,81,2.167,2.8,"Josh Allen gets a clean pocket
+
+0.57 fantasy points per dropback (4th of 23 QBs) | pressured on 39% of dropbacks
+
+NYJ pressures on 57% of dropbacks (5th lowest) and 7 of 9 opponents were pressured less vs NYJ than in their other games",234
+10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,44,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,"CAR missing Will Lee III (CB, out)",90,0.613,2.75,"Chris Olave vs zone coverage
+
+2.66 YPRR (6th of 44 WRs) | 28% TPRR (5th) on 194 routes
+
+CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw less man vs CAR than in their other games
+
+CAR missing Will Lee III (CB, out)",236
+10,zone-beater vs zone-heavy defence,CeeDee Lamb,WR,DAL,SF,zone YPRR,2.86,5,44,0.333,1.0,207,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",80,0.312,2.71,"CeeDee Lamb vs zone coverage
+
+2.86 YPRR (5th of 44 WRs) | 33% TPRR (1st) on 207 routes
+
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw less man vs SF than in their other games
+
+SF missing Renardo Green (CB, doubt)",236
+10,zone-beater vs zone-heavy defence,Tee Higgins,WR,CIN,PIT,zone YPRR,2.43,9,44,0.205,18.0,185,zone rate,0.811,6,0.853,7 of 8,0.88,,25,-2.193,2.49,"Tee Higgins vs zone coverage
+
+2.43 YPRR (9th of 44 WRs) | 21% TPRR (18th) on 185 routes
+
+PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw less man vs PIT than in their other games",201
+10,zone-beater vs zone-heavy defence,Ja'Marr Chase,WR,CIN,PIT,zone YPRR,2.37,11,44,0.268,7.0,183,zone rate,0.811,6,0.853,7 of 8,0.88,,70,-2.196,2.42,"Ja'Marr Chase vs zone coverage
+
+2.37 YPRR (11th of 44 WRs) | 27% TPRR (7th) on 183 routes
+
+PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw less man vs PIT than in their other games",203
+10,man-beater vs man-heavy defence,Treylon Burks,WR,WAS,NYG,man YPRR,2.49,8,32,0.137,26.0,51,man rate,0.288,5,0.267,7 of 9,0.78,,24,0.178,2.29,"Treylon Burks vs man coverage
+
+2.49 YPRR (8th of 32 WRs) | 14% TPRR (26th) on 51 routes
+
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",200
+10,zone-beater vs zone-heavy defence,Tucker Kraft,TE,GB,MIN,zone YPRR,1.55,11,16,0.225,5.0,173,zone rate,0.866,1,0.951,8 of 8,1.0,,22,-0.634,2.28,"Tucker Kraft vs zone coverage
+
+1.55 YPRR (11th of 16 TEs) | 23% TPRR (5th) on 173 routes
+
+MIN plays zone on 87% of dropbacks (1st most) and 8 of 8 opponents saw less man vs MIN than in their other games",202
+10,man-beater vs man-heavy defence,Stefon Diggs,WR,WAS,NYG,man YPRR,2.37,11,32,0.286,8.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,57,0.19,2.17,"Stefon Diggs vs man coverage
+
+2.37 YPRR (11th of 32 WRs) | 29% TPRR (8th) on 70 routes
+
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",199
+10,man-beater vs man-heavy defence,Chigoziem Okonkwo,TE,WAS,NYG,man YPRR,1.47,4,11,0.207,6.0,58,man rate,0.288,5,0.267,7 of 9,0.78,,21,-0.221,1.97,"Chigoziem Okonkwo vs man coverage
+
+1.47 YPRR (4th of 11 TEs) | 21% TPRR (6th) on 58 routes
+
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203
+10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,44,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",63,0.383,1.95,"George Pickens vs zone coverage
+
+2.24 YPRR (15th of 44 WRs) | 23% TPRR (16th) on 204 routes
+
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw less man vs SF than in their other games
+
+SF missing Renardo Green (CB, doubt)",241
+10,zone-beater vs zone-heavy defence,Michael Mayer,TE,LV,SEA,zone YPRR,1.62,9,16,0.2,8.0,130,zone rate,0.857,2,0.808,7 of 9,0.78,,4,-0.877,1.86,"Michael Mayer vs zone coverage
+
+1.62 YPRR (9th of 16 TEs) | 20% TPRR (8th) on 130 routes
+
+SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw less man vs SEA than in their other games",202
+10,zone-beater vs zone-heavy defence,Tyler Higbee,TE,LAR,ARI,zone YPRR,1.56,10,16,0.164,13.0,140,zone rate,0.846,3,0.894,8 of 9,0.89,"ARI missing Andrew Wingard (S, doubt)",35,0.841,1.82,"Tyler Higbee vs zone coverage
+
+1.56 YPRR (10th of 16 TEs) | 16% TPRR (13th) on 140 routes
+
+ARI plays zone on 85% of dropbacks (3rd most) and 8 of 9 opponents saw less man vs ARI than in their other games
+
+ARI missing Andrew Wingard (S, doubt)",242
+10,man-beater vs man-heavy defence,Trey McBride,TE,ARI,LAR,man YPRR,1.11,6,11,0.22,5.0,100,man rate,0.293,4,0.294,8 of 9,0.89,"LAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",9,-0.467,1.8,"Trey McBride vs man coverage
+
+1.11 YPRR (6th of 11 TEs) | 22% TPRR (5th) on 100 routes
+
+LAR plays man on 29% of dropbacks (4th most) and 8 of 9 opponents saw more man vs LAR than in their other games
+
+LAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",260
+10,QB vs low-pressure defence,Jacoby Brissett,QB,BAL,LAC,FP/DB,0.32,21,23,,,333,pressure rate,0.529,1,0.348,8 of 8,1.0,,6,-0.412,1.77,"Jacoby Brissett gets a clean pocket
+
+0.32 fantasy points per dropback (21st of 23 QBs) | pressured on 31% of dropbacks
+
+LAC pressures on 53% of dropbacks (1st lowest) and 8 of 8 opponents were pressured less vs LAC than in their other games",240
+10,man-beater vs man-heavy defence,Antonio Williams,WR,WAS,NYG,man YPRR,1.81,15,32,0.129,28.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,50,0.188,1.62,"Antonio Williams vs man coverage
+
+1.81 YPRR (15th of 32 WRs) | 13% TPRR (28th) on 70 routes
+
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",204
+10,QB vs low-pressure defence,Matthew Stafford,QB,LAR,ARI,FP/DB,0.42,17,23,,,365,pressure rate,0.553,3,0.293,6 of 9,0.67,,39,1.523,1.41,"Matthew Stafford gets a clean pocket
+
+0.42 fantasy points per dropback (17th of 23 QBs) | pressured on 28% of dropbacks
+
+ARI pressures on 55% of dropbacks (3rd lowest) and 6 of 9 opponents were pressured less vs ARI than in their other games",241
+10,QB vs low-pressure defence,Jordan Love,QB,GB,MIN,FP/DB,0.51,9,23,,,360,pressure rate,0.585,8,0.406,5 of 8,0.62,"MIN missing Tyrion Ingram-Dawkins (EDGE, out)",33,-2.817,1.41,"Jordan Love gets a clean pocket
+
+0.51 fantasy points per dropback (9th of 23 QBs) | pressured on 38% of dropbacks
+
+MIN pressures on 59% of dropbacks (8th lowest) and 5 of 8 opponents were pressured less vs MIN than in their other games
+
+MIN missing Tyrion Ingram-Dawkins (EDGE, out)",282
+10,QB vs low-pressure defence,Daniel Jones,QB,IND,MIA,FP/DB,0.28,23,23,,,339,pressure rate,0.534,2,0.37,6 of 8,0.75,"MIA missing Zach Sieler (DL, out)",10,0.724,0.71,"Daniel Jones gets a clean pocket
+
+0.28 fantasy points per dropback (23rd of 23 QBs) | pressured on 39% of dropbacks
+
+MIA pressures on 53% of dropbacks (2nd lowest) and 6 of 8 opponents were pressured less vs MIA than in their other games
+
+MIA missing Zach Sieler (DL, out)",272
+10,zone-beater vs zone-heavy defence,Juwan Johnson,TE,NO,CAR,zone YPRR,0.95,15,16,0.128,16.0,141,zone rate,0.812,5,0.876,6 of 7,0.86,"CAR missing Will Lee III (CB, out)",58,-0.091,0.16,"Juwan Johnson vs zone coverage
+
+0.95 YPRR (15th of 16 TEs) | 13% TPRR (16th) on 141 routes
+
+CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw less man vs CAR than in their other games
+
+CAR missing Will Lee III (CB, out)",240

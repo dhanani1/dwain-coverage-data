@@ -1,30 +1,25 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,hold_reason,best_for_defence
-10,zone-beater vs zone-heavy defence,Christian Watson,WR,GB,MIN,zone YPRR,3.46,3,43,0.247,10.0,190,zone rate,0.866,1,0.951,8 of 8,1.0,,82,-0.197,4.68,"Christian Watson vs zone coverage
+10,zone-beater vs zone-heavy defence,Christian Watson,WR,GB,MIN,zone YPRR,3.46,3,43,0.247,10.0,190,zone rate,0.866,1,0.951,8 of 8,1.0,,63,-0.197,4.68,"Christian Watson vs zone coverage
 
 3.46 YPRR (3rd of 43 WRs) | 25% TPRR (10th) on 190 routes
 
 MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",214,2026-11-15 13:00,False,True,False,game already kicked off,True
-10,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.521,1,22,,,167,pressure rate,0.304,2,0.333,7 of 8,0.88,,94,0.797,3.93,"Trevor Lawrence from a clean pocket
+10,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.521,1,22,,,167,pressure rate,0.304,2,0.333,7 of 8,0.88,,92,0.817,3.93,"Trevor Lawrence from a clean pocket
 
 +0.52 EPA per dropback (1st of 22 QBs) on 167 dropbacks | -0.29 under pressure
 
 TEN pressures on 30% of dropbacks (2nd lowest) and 7 of 8 opponents were pressured less vs TEN than in their other games",237,2026-11-15 13:00,False,True,False,game already kicked off,True
-10,zone-beater vs zone-heavy defence,Brock Bowers,TE,LV,SEA,zone YPRR,2.59,2,16,0.226,4.0,133,zone rate,0.857,2,0.808,7 of 9,0.78,,3,-0.586,3.71,"Brock Bowers vs zone coverage
-
-2.59 YPRR (2nd of 16 TEs) | 23% TPRR (4th) on 133 routes
-
-SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",202,2026-11-15 16:05,False,False,False,game already kicked off,True
-10,zone-beater vs zone-heavy defence,Matthew Golden,WR,GB,MIN,zone YPRR,2.38,10,43,0.239,13.0,213,zone rate,0.866,1,0.951,8 of 8,1.0,,14,-0.201,3.36,"Matthew Golden vs zone coverage
+10,zone-beater vs zone-heavy defence,Matthew Golden,WR,GB,MIN,zone YPRR,2.38,10,43,0.239,13.0,213,zone rate,0.866,1,0.951,8 of 8,1.0,,17,-0.201,3.36,"Matthew Golden vs zone coverage
 
 2.38 YPRR (10th of 43 WRs) | 24% TPRR (13th) on 213 routes
 
 MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",213,2026-11-15 13:00,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Tre Tucker,WR,LV,SEA,zone YPRR,2.64,7,43,0.238,14.0,151,zone rate,0.857,2,0.808,7 of 9,0.78,,15,0.023,3.12,"Tre Tucker vs zone coverage
+10,zone-beater vs zone-heavy defence,Tre Tucker,WR,LV,SEA,zone YPRR,2.64,7,43,0.238,14.0,151,zone rate,0.857,2,0.808,7 of 9,0.78,,34,0.023,3.12,"Tre Tucker vs zone coverage
 
 2.64 YPRR (7th of 43 WRs) | 24% TPRR (14th) on 151 routes
 
-SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",201,2026-11-15 16:05,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,43,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,,88,0.612,2.72,"Chris Olave vs zone coverage
+SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",201,2026-11-15 16:05,False,False,False,game already kicked off,True
+10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,43,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,,92,0.61,2.72,"Chris Olave vs zone coverage
 
 2.66 YPRR (6th of 43 WRs) | 28% TPRR (5th) on 194 routes
 
@@ -33,7 +28,7 @@ CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone
 
 2.86 YPRR (5th of 43 WRs) | 33% TPRR (1st) on 207 routes
 
-SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",199,2026-11-15 16:25,True,True,True,,True
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",199,2026-11-15 16:25,False,True,False,game already kicked off,True
 10,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,NYG,clean-pocket EPA/DB,0.331,9,22,,,165,pressure rate,0.3,1,0.378,7 of 9,0.78,,59,0.6,2.56,"Jayden Daniels from a clean pocket
 
 +0.33 EPA per dropback (9th of 22 QBs) on 165 dropbacks | -0.29 under pressure
@@ -44,60 +39,60 @@ NYG pressures on 30% of dropbacks (lowest in the NFL) and 7 of 9 opponents were 
 2.43 YPRR (9th of 43 WRs) | 21% TPRR (18th) on 185 routes
 
 PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",202,2026-11-15 20:20,True,False,False,Matchup Score below 60,True
-10,zone-beater vs zone-heavy defence,Ja'Marr Chase,WR,CIN,PIT,zone YPRR,2.37,11,43,0.268,7.0,183,zone rate,0.811,6,0.853,7 of 8,0.88,,67,-2.197,2.39,"Ja'Marr Chase vs zone coverage
+10,zone-beater vs zone-heavy defence,Ja'Marr Chase,WR,CIN,PIT,zone YPRR,2.37,11,43,0.268,7.0,183,zone rate,0.811,6,0.853,7 of 8,0.88,,68,-2.197,2.39,"Ja'Marr Chase vs zone coverage
 
 2.37 YPRR (11th of 43 WRs) | 27% TPRR (7th) on 183 routes
 
 PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",204,2026-11-15 20:20,True,True,True,,False
-10,man-beater vs man-heavy defence,Treylon Burks,WR,WAS,NYG,man YPRR,2.49,8,32,0.137,26.0,51,man rate,0.288,5,0.267,7 of 9,0.78,,22,0.178,2.29,"Treylon Burks vs man coverage
+10,zone-beater vs zone-heavy defence,Tucker Kraft,TE,GB,MIN,zone YPRR,1.55,10,15,0.225,4.0,173,zone rate,0.866,1,0.951,8 of 8,1.0,,13,-0.737,2.37,"Tucker Kraft vs zone coverage
+
+1.55 YPRR (10th of 15 TEs) | 23% TPRR (4th) on 173 routes
+
+MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",210,2026-11-15 13:00,False,False,False,game already kicked off,False
+10,man-beater vs man-heavy defence,Treylon Burks,WR,WAS,NYG,man YPRR,2.49,8,32,0.137,26.0,51,man rate,0.288,5,0.267,7 of 9,0.78,,22,0.177,2.29,"Treylon Burks vs man coverage
 
 2.49 YPRR (8th of 32 WRs) | 14% TPRR (26th) on 51 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",200,2026-11-12 20:15,False,False,False,game already kicked off,True
-10,zone-beater vs zone-heavy defence,Tucker Kraft,TE,GB,MIN,zone YPRR,1.55,11,16,0.225,5.0,173,zone rate,0.866,1,0.951,8 of 8,1.0,,25,-0.641,2.28,"Tucker Kraft vs zone coverage
+10,man-beater vs man-heavy defence,Chigoziem Okonkwo,TE,WAS,NYG,man YPRR,1.47,3,9,0.207,5.0,58,man rate,0.288,5,0.267,7 of 9,0.78,,20,-0.234,2.27,"Chigoziem Okonkwo vs man coverage
 
-1.55 YPRR (11th of 16 TEs) | 23% TPRR (5th) on 173 routes
+1.47 YPRR (3rd of 9 TEs) | 21% TPRR (5th) on 58 routes
 
-MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",210,2026-11-15 13:00,False,False,False,game already kicked off,False
-10,man-beater vs man-heavy defence,Stefon Diggs,WR,WAS,NYG,man YPRR,2.37,11,32,0.286,8.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,54,0.189,2.17,"Stefon Diggs vs man coverage
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",202,2026-11-12 20:15,False,False,False,game already kicked off,False
+10,man-beater vs man-heavy defence,Stefon Diggs,WR,WAS,NYG,man YPRR,2.37,11,32,0.286,8.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,55,0.189,2.17,"Stefon Diggs vs man coverage
 
 2.37 YPRR (11th of 32 WRs) | 29% TPRR (8th) on 70 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",199,2026-11-12 20:15,False,False,False,game already kicked off,False
+10,man-beater vs man-heavy defence,Trey McBride,TE,ARI,LAR,man YPRR,1.11,5,9,0.22,4.0,100,man rate,0.293,4,0.294,8 of 9,0.89,"LAR missing Jaylen Watson (CB, out)",6,-0.48,1.98,"Trey McBride vs man coverage
+
+1.11 YPRR (5th of 9 TEs) | 22% TPRR (4th) on 100 routes
+
+LAR plays man on 29% of dropbacks (4th most) and 8 of 9 opponents saw more man vs LAR than in their other games
+
+LAR missing Jaylen Watson (CB, out)",235,2026-11-15 16:05,False,False,False,game already kicked off,True
+10,zone-beater vs zone-heavy defence,Michael Mayer,TE,LV,SEA,zone YPRR,1.62,8,15,0.2,7.0,130,zone rate,0.857,2,0.808,7 of 9,0.78,,10,-0.892,1.95,"Michael Mayer vs zone coverage
+
+1.62 YPRR (8th of 15 TEs) | 20% TPRR (7th) on 130 routes
+
+SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",203,2026-11-15 16:05,False,False,False,game already kicked off,False
 10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,43,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,,60,0.382,1.93,"George Pickens vs zone coverage
 
 2.24 YPRR (15th of 43 WRs) | 23% TPRR (16th) on 204 routes
 
-SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",204,2026-11-15 16:25,True,True,True,,False
-10,man-beater vs man-heavy defence,Chigoziem Okonkwo,TE,WAS,NYG,man YPRR,1.47,4,10,0.207,6.0,58,man rate,0.288,5,0.267,7 of 9,0.78,,20,-0.228,1.89,"Chigoziem Okonkwo vs man coverage
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",204,2026-11-15 16:25,False,True,False,game already kicked off,False
+10,zone-beater vs zone-heavy defence,Tyler Higbee,TE,LAR,ARI,zone YPRR,1.56,9,15,0.164,12.0,140,zone rate,0.846,3,0.894,8 of 9,0.89,,27,0.834,1.91,"Tyler Higbee vs zone coverage
 
-1.47 YPRR (4th of 10 TEs) | 21% TPRR (6th) on 58 routes
+1.56 YPRR (9th of 15 TEs) | 16% TPRR (12th) on 140 routes
 
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-12 20:15,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Michael Mayer,TE,LV,SEA,zone YPRR,1.62,9,16,0.2,8.0,130,zone rate,0.857,2,0.808,7 of 9,0.78,,4,-0.883,1.86,"Michael Mayer vs zone coverage
-
-1.62 YPRR (9th of 16 TEs) | 20% TPRR (8th) on 130 routes
-
-SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",203,2026-11-15 16:05,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Tyler Higbee,TE,LAR,ARI,zone YPRR,1.56,10,16,0.164,13.0,140,zone rate,0.846,3,0.894,8 of 9,0.89,,27,0.833,1.82,"Tyler Higbee vs zone coverage
-
-1.56 YPRR (10th of 16 TEs) | 16% TPRR (13th) on 140 routes
-
-ARI plays zone on 85% of dropbacks (3rd most) and 8 of 9 opponents saw more zone vs ARI than in their other games",204,2026-11-15 16:05,False,False,False,game already kicked off,True
-10,man-beater vs man-heavy defence,Trey McBride,TE,ARI,LAR,man YPRR,1.11,6,10,0.22,5.0,100,man rate,0.293,4,0.294,8 of 9,0.89,"LAR missing Jaylen Watson (CB, out)",7,-0.473,1.73,"Trey McBride vs man coverage
-
-1.11 YPRR (6th of 10 TEs) | 22% TPRR (5th) on 100 routes
-
-LAR plays man on 29% of dropbacks (4th most) and 8 of 9 opponents saw more man vs LAR than in their other games
-
-LAR missing Jaylen Watson (CB, out)",236,2026-11-15 16:05,False,False,False,game already kicked off,True
-10,man-beater vs man-heavy defence,Antonio Williams,WR,WAS,NYG,man YPRR,1.81,15,32,0.129,28.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,47,0.187,1.62,"Antonio Williams vs man coverage
+ARI plays zone on 85% of dropbacks (3rd most) and 8 of 9 opponents saw more zone vs ARI than in their other games",203,2026-11-15 16:05,False,False,False,game already kicked off,True
+10,man-beater vs man-heavy defence,Antonio Williams,WR,WAS,NYG,man YPRR,1.81,15,32,0.129,28.0,70,man rate,0.288,5,0.267,7 of 9,0.78,,47,0.186,1.62,"Antonio Williams vs man coverage
 
 1.81 YPRR (15th of 32 WRs) | 13% TPRR (28th) on 70 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",204,2026-11-12 20:15,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Juwan Johnson,TE,NO,CAR,zone YPRR,0.95,15,16,0.128,16.0,141,zone rate,0.812,5,0.876,6 of 7,0.86,,55,-0.098,0.16,"Juwan Johnson vs zone coverage
+10,zone-beater vs zone-heavy defence,Juwan Johnson,TE,NO,CAR,zone YPRR,0.95,14,15,0.128,15.0,141,zone rate,0.812,5,0.876,6 of 7,0.86,,51,-0.238,0.17,"Juwan Johnson vs zone coverage
 
-0.95 YPRR (15th of 16 TEs) | 13% TPRR (16th) on 141 routes
+0.95 YPRR (14th of 15 TEs) | 13% TPRR (15th) on 141 routes
 
 CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games",205,2026-11-15 13:00,False,False,False,game already kicked off,False

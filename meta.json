@@ -15,7 +15,7 @@
  "opp_week": 10,
  "games_in_latest_week": 1,
  "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk10 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk10 header: none. Teams on bye show BYE with zero rates.",
- "book_games_in_latest_week": 1,
+ "book_games_in_latest_week": 9,
  "forecast": {
   "active": true,
   "reason": "ok",
@@ -26,7 +26,7 @@
    "run_blitz"
   ]
  },
- "built_at_utc": "2026-11-15T21:11:13.424547Z",
+ "built_at_utc": "2026-11-15T23:17:20.981467Z",
  "players": 520,
  "defenses": 32,
  "manzone_lookup_cols": 83,

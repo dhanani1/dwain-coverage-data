@@ -1,21 +1,4 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-10,zone-beater vs zone-heavy defence,Christian Watson,WR,GB,MIN,zone YPRR,3.46,3,43,0.247,10.0,190,zone rate,0.866,1,0.951,8 of 8,1.0,,84,-0.197,4.68,"Christian Watson vs zone coverage
-
-3.46 YPRR (3rd of 43 WRs) | 25% TPRR (10th) on 190 routes
-
-MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw more zone vs MIN than in their other games",214,2026-11-15 13:00,True,True,True,True
-10,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.521,1,22,,,167,pressure rate,0.304,2,0.333,7 of 8,0.88,,95,0.804,3.9,"Trevor Lawrence from a clean pocket
-
-+0.52 EPA per dropback (1st of 22 QBs) on 167 dropbacks | -0.29 under pressure
-
-TEN pressures on 30% of dropbacks (2nd lowest) and 7 of 8 opponents were pressured less vs TEN than in their other games",237,2026-11-15 13:00,True,True,True,True
-10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,43,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,"CAR missing Will Lee III (CB, out)",90,0.612,2.72,"Chris Olave vs zone coverage
-
-2.66 YPRR (6th of 43 WRs) | 28% TPRR (5th) on 194 routes
-
-CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games
-
-CAR missing Will Lee III (CB, out)",237,2026-11-15 13:00,True,True,True,True
 10,zone-beater vs zone-heavy defence,CeeDee Lamb,WR,DAL,SF,zone YPRR,2.86,5,43,0.333,1.0,207,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",79,0.312,2.69,"CeeDee Lamb vs zone coverage
 
 2.86 YPRR (5th of 43 WRs) | 33% TPRR (1st) on 207 routes

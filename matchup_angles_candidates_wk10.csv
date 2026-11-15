@@ -24,13 +24,11 @@ MIN plays zone on 87% of dropbacks (most in the NFL) and 8 of 8 opponents saw mo
 2.64 YPRR (7th of 43 WRs) | 24% TPRR (14th) on 151 routes
 
 SEA plays zone on 86% of dropbacks (2nd most) and 7 of 9 opponents saw more zone vs SEA than in their other games",201,2026-11-15 16:05,True,False,False,Matchup Score below 60,False
-10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,43,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,"CAR missing Will Lee III (CB, out)",89,0.612,2.72,"Chris Olave vs zone coverage
+10,zone-beater vs zone-heavy defence,Chris Olave,WR,NO,CAR,zone YPRR,2.66,6,43,0.284,5.0,194,zone rate,0.812,5,0.876,6 of 7,0.86,,89,0.612,2.72,"Chris Olave vs zone coverage
 
 2.66 YPRR (6th of 43 WRs) | 28% TPRR (5th) on 194 routes
 
-CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games
-
-CAR missing Will Lee III (CB, out)",237,2026-11-15 13:00,False,True,False,game already kicked off,True
+CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games",201,2026-11-15 13:00,False,True,False,game already kicked off,True
 10,zone-beater vs zone-heavy defence,CeeDee Lamb,WR,DAL,SF,zone YPRR,2.86,5,43,0.333,1.0,207,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",78,0.312,2.69,"CeeDee Lamb vs zone coverage
 
 2.86 YPRR (5th of 43 WRs) | 33% TPRR (1st) on 207 routes
@@ -104,10 +102,8 @@ LAR missing Jaylen Watson (CB, out), Kamren Curl (S, doubt)",260,2026-11-15 16:0
 1.81 YPRR (15th of 32 WRs) | 13% TPRR (28th) on 70 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",204,2026-11-12 20:15,False,False,False,game already kicked off,False
-10,zone-beater vs zone-heavy defence,Juwan Johnson,TE,NO,CAR,zone YPRR,0.95,15,16,0.128,16.0,141,zone rate,0.812,5,0.876,6 of 7,0.86,"CAR missing Will Lee III (CB, out)",56,-0.091,0.16,"Juwan Johnson vs zone coverage
+10,zone-beater vs zone-heavy defence,Juwan Johnson,TE,NO,CAR,zone YPRR,0.95,15,16,0.128,16.0,141,zone rate,0.812,5,0.876,6 of 7,0.86,,56,-0.091,0.16,"Juwan Johnson vs zone coverage
 
 0.95 YPRR (15th of 16 TEs) | 13% TPRR (16th) on 141 routes
 
-CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games
-
-CAR missing Will Lee III (CB, out)",241,2026-11-15 13:00,False,False,False,game already kicked off,False
+CAR plays zone on 81% of dropbacks (5th most) and 6 of 7 opponents saw more zone vs CAR than in their other games",205,2026-11-15 13:00,False,False,False,game already kicked off,False

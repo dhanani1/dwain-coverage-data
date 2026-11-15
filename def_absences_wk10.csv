@@ -1,9 +1,4 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
-ARI,Andrew Wingard,S,0.54,doubt,0.52,0.91,listed,False
 DAL,Donovan Ezeiruaku,EDGE,0.58,out,0.0,0.83,out,False
-DAL,DaRon Bland,CB,0.96,doubt,0.69,0.95,listed,False
 LAR,Jaylen Watson,CB,0.68,out,0.0,0.8,reserve,False
-LAR,Braden Fiske,DL,0.65,doubt,0.61,0.99,listed,False
-LAR,Kamren Curl,S,0.99,doubt,0.66,1.0,listed,False
 SEA,Leonard Williams,DL,0.56,out,0.0,0.83,out,False
-SF,Renardo Green,CB,0.97,doubt,0.78,0.98,listed,False

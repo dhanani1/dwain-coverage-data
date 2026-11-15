@@ -1,20 +1,16 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-10,zone-beater vs zone-heavy defence,CeeDee Lamb,WR,DAL,SF,zone YPRR,2.86,5,43,0.333,1.0,207,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",77,0.312,2.69,"CeeDee Lamb vs zone coverage
+10,zone-beater vs zone-heavy defence,CeeDee Lamb,WR,DAL,SF,zone YPRR,2.86,5,43,0.333,1.0,207,zone rate,0.807,7,0.865,6 of 8,0.75,,77,0.312,2.69,"CeeDee Lamb vs zone coverage
 
 2.86 YPRR (5th of 43 WRs) | 33% TPRR (1st) on 207 routes
 
-SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games
-
-SF missing Renardo Green (CB, doubt)",237,2026-11-15 16:25,True,True,True,True
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",199,2026-11-15 16:25,True,True,True,True
 10,zone-beater vs zone-heavy defence,Ja'Marr Chase,WR,CIN,PIT,zone YPRR,2.37,11,43,0.268,7.0,183,zone rate,0.811,6,0.853,7 of 8,0.88,,67,-2.197,2.39,"Ja'Marr Chase vs zone coverage
 
 2.37 YPRR (11th of 43 WRs) | 27% TPRR (7th) on 183 routes
 
 PIT plays zone on 81% of dropbacks (6th most) and 7 of 8 opponents saw more zone vs PIT than in their other games",204,2026-11-15 20:20,True,True,True,True
-10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,43,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,"SF missing Renardo Green (CB, doubt)",60,0.382,1.93,"George Pickens vs zone coverage
+10,zone-beater vs zone-heavy defence,George Pickens,WR,DAL,SF,zone YPRR,2.24,15,43,0.225,16.0,204,zone rate,0.807,7,0.865,6 of 8,0.75,,60,0.382,1.93,"George Pickens vs zone coverage
 
 2.24 YPRR (15th of 43 WRs) | 23% TPRR (16th) on 204 routes
 
-SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games
-
-SF missing Renardo Green (CB, doubt)",242,2026-11-15 16:25,True,True,True,False
+SF plays zone on 81% of dropbacks (7th most) and 6 of 8 opponents saw more zone vs SF than in their other games",204,2026-11-15 16:25,True,True,True,False

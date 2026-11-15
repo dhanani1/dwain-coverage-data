@@ -1,6 +1,6 @@
 # Frozen receiving-under rule (MSH): forward report
 
-Written 2026-11-15 08:58 ET by the scheduled build. Rule frozen 2026-11-13; prices = last pre-kickoff DraftKings snapshot; uncertainty clustered by game.
+Written 2026-11-15 09:29 ET by the scheduled build. Rule frozen 2026-11-13; prices = last pre-kickoff DraftKings snapshot; uncertainty clustered by game.
 
 - Week 10: waiting on ARI, ATL, BAL, BUF, CAR, CIN, CLE, DAL, DET, GB, HOU, IND, JAX, KC, LA, LAC, LV, MIA, MIN, NE, NO, NYJ, PIT, SEA, SF, TEN (2 of 28 teams)
 

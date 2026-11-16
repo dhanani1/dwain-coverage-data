@@ -29,7 +29,6 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 61100,DeVonta Smith,PHI,WR,4,1.0,17.0,0.0,Will Lee III,0.353,0.496,0.151,0.0,PIT
 77965,Tutu Atwell,LAR,WR,7,1.0,10.0,0.0,Kalen King,0.188,0.195,0.617,0.0,BYE
 129604,Roman Wilson,PIT,WR,5,1.0,13.0,0.0,Marcus Jones,0.213,0.221,0.566,0.0,PHI
-123101,Savion Williams,GB,WR,5,1.0,10.0,0.0,Roger McCreary,0.272,0.105,0.605,0.018,BYE
 162481,Denzel Boston,CLE,WR,10,1.0,,,Joshua Williams,0.478,0.424,0.097,0.0,BYE
 148151,Bryce Lance,NO,WR,9,1.0,,,Asante Samuel Jr.,0.354,0.395,0.251,0.0,CHI
 158374,Germie Bernard,PIT,WR,9,1.0,,,Charles Woods,0.169,0.335,0.492,0.004,PHI
@@ -146,6 +145,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 52266,Colby Parkinson,LAR,TE,8,0.0,15.0,0.0,,0.042,0.092,0.134,0.731,BYE
 77986,Dyami Brown,WAS,WR,7,0.0,13.0,0.0,,0.398,0.331,0.271,0.0,CIN
 145773,Devontez Walker,BAL,WR,8,0.0,9.0,0.0,,0.407,0.288,0.305,0.0,LAC
+123101,Savion Williams,GB,WR,5,0.0,10.0,0.0,,0.272,0.105,0.605,0.018,BYE
 47259,Drew Sample,CIN,TE,9,0.0,17.0,0.0,,0.009,0.027,0.072,0.892,WAS
 98027,Elijah Higgins,ARI,TE,10,0.0,17.0,0.0,,0.143,0.114,0.19,0.552,KC
 163442,Jalen Royals,KC,WR,8,0.0,4.0,0.0,,0.371,0.314,0.257,0.057,ARI
@@ -164,7 +164,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 11855,Jonnu Smith,GB,TE,9,0.0,17.0,0.0,,0.059,0.118,0.388,0.435,BYE
 123155,Myles Price,MIN,WR,7,0.0,1.0,0.0,,0.165,0.165,0.671,0.0,SF
 60994,Brock Wright,DET,TE,9,0.0,11.0,0.0,,0.083,0.024,0.19,0.702,TB
-42257,Charlie Woerner,ATL,TE,9,0.0,17.0,0.0,,0.049,0.073,0.195,0.683,BYE
+42257,Charlie Woerner,ATL,TE,9,0.0,17.0,0.0,,0.048,0.072,0.193,0.687,BYE
 42353,Luke Farrell,SF,TE,9,0.0,17.0,0.0,,0.061,0.037,0.134,0.768,MIN
 8655,Brandin Cooks,SF,WR,5,0.0,15.0,0.0,,0.468,0.291,0.241,0.0,MIN
 62979,Joshua Palmer,BUF,WR,6,0.0,12.0,0.0,,0.405,0.342,0.241,0.013,MIA

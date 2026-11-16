@@ -1,12 +1,13 @@
 # Frozen receiving-under rule (MSH): forward report
 
-Written 2026-11-15 19:15 ET by the scheduled build. Rule frozen 2026-11-13; prices = last pre-kickoff DraftKings snapshot; uncertainty clustered by game.
+Written 2026-11-16 09:33 ET by the scheduled build. Rule frozen 2026-11-13; prices = last pre-kickoff DraftKings snapshot; uncertainty clustered by game.
 
-- Week 10: waiting on ARI, BAL, CIN, DAL, LA, LAC, LV, PIT, SEA, SF (18 of 28 teams); stats last ingested 2026-11-15 18:17 ET
+- Week 10: waiting on BAL, LAC (26 of 28 teams); stats last ingested 2026-11-16 09:33 ET
+- Week 11: waiting on ARI, BAL, BUF, CAR, CHI, CIN, DAL, DEN, DET, HOU, IND, JAX, KC, LAC, LV, MIA, MIN, NO, NYG, NYJ, PHI, PIT, SF, TB, TEN, WAS (0 of 26 teams)
 
 ```
-FORWARD (weeks [np.int64(10)]) | fired player-markets logged 60 | never had a DraftKings line 26 | settled bets 18 over 6 games
-   by week: {10: {'bets': 18, 'roi': -0.265}} | quote age at kickoff, hours: median 2.1, max 16.2 | model cutoffs used: ['2026 wk 9']
-   net ROI -26.5% | hit 38.9% | game-clustered 90% -69.7% to +21.5%, 95% -77.2% to +33.1% | P(ROI >= 10%) 10% | control (all other logged DK receiving unders): n 130, ROI +7.7%
-   health beyond market props and role: needs 300+ settled lines over 20+ games on forward weeks; have 148 lines, 8 games
+FORWARD (weeks [np.int64(10), np.int64(11)]) | fired player-markets logged 82 | never had a DraftKings line 46 | settled bets 24 over 8 games
+   by week: {10: {'bets': 24, 'roi': -0.157}} | quote age at kickoff, hours: median 2.1, max 16.2 | model cutoffs used: ['2026 wk 9']
+   net ROI -15.7% | hit 45.8% | game-clustered 90% -51.8% to +23.0%, 95% -58.1% to +30.0% | P(ROI >= 10%) 13% | control (all other logged DK receiving unders): n 206, ROI +11.3%
+   health beyond market props and role: needs 300+ settled lines over 20+ games on forward weeks; have 230 lines, 12 games
 ```

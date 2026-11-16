@@ -12,31 +12,31 @@
   9,
   10
  ],
- "opp_week": 10,
- "games_in_latest_week": 1,
- "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk10 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk10 header: none. Teams on bye show BYE with zero rates.",
- "book_games_in_latest_week": 9,
+ "opp_week": 11,
+ "games_in_latest_week": 13,
+ "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk11 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk11 header: ['BAL', 'LAC']. Teams on bye show BYE with zero rates.",
+ "book_games_in_latest_week": 13,
  "forecast": {
   "active": true,
   "reason": "ok",
-  "built_at_utc": "2026-11-15T13:51:46Z",
-  "week": 10,
+  "built_at_utc": "2026-11-16T14:29:14Z",
+  "week": 11,
   "norm_only": [
    "disguise",
    "run_blitz"
   ]
  },
- "built_at_utc": "2026-11-16T00:15:35.883710Z",
- "players": 520,
+ "built_at_utc": "2026-11-16T14:32:42.331853Z",
+ "players": 533,
  "defenses": 32,
  "manzone_lookup_cols": 83,
  "def_lookup_cols": 23,
  "fav_cols": 8,
  "align_cols": 4,
- "qbs": 49,
+ "qbs": 54,
  "qb_cols": 122,
- "rbs": 92,
+ "rbs": 95,
  "rb_cols": 135,
- "manzone_rows": 519,
+ "manzone_rows": 529,
  "manzone_cols": 80
 }

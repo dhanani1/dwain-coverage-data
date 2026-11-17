@@ -1,27 +1,27 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,40,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.235,4.78,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,40,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.234,4.78,"Parker Washington vs man coverage
 
 4.81 YPRR (1st of 40 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.56,1,48,0.302,2.0,126,zone rate,0.823,4,0.85,7 of 8,0.88,,70,0.397,4.74,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,70,0.403,4.25,"Zay Flowers vs zone coverage
 
-3.56 YPRR (1st of 48 WRs) | 30% TPRR (2nd) on 126 routes
+3.18 YPRR (1st of 48 WRs) | 27% TPRR (6th) on 160 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",201,2026-11-22 13:00,True,True,True,True
-11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,19,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,94,0.672,3.53,"Trevor Lawrence from a clean pocket
+11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,19,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,94,0.67,3.59,"Trevor Lawrence from a clean pocket
 
 +0.51 EPA per dropback (2nd of 19 QBs) on 199 dropbacks | -0.22 under pressure
 
 NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressured less vs NYG than in their other games",237,2026-11-22 13:00,True,True,True,True
-11,QB clean pocket vs low-pressure defence,Dak Prescott,QB,DAL,TEN,clean-pocket EPA/DB,0.383,7,19,,,282,pressure rate,0.288,1,0.323,7 of 9,0.78,,98,2.529,3.0,"Dak Prescott from a clean pocket
+11,QB clean pocket vs low-pressure defence,Dak Prescott,QB,DAL,TEN,clean-pocket EPA/DB,0.383,7,19,,,282,pressure rate,0.288,1,0.323,7 of 9,0.78,,98,2.528,3.04,"Dak Prescott from a clean pocket
 
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,5,16,0.208,7.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,,80,0.573,2.54,"Travis Kelce vs zone coverage
+11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,5,17,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,,80,0.572,2.58,"Travis Kelce vs zone coverage
 
-1.94 YPRR (5th of 16 TEs) | 21% TPRR (7th) on 130 routes
+1.94 YPRR (5th of 17 TEs) | 21% TPRR (8th) on 130 routes
 
 ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zone vs ARI than in their other games",203,2026-11-22 13:00,True,True,True,True
 11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,40,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,64,-0.561,2.33,"Chris Olave vs man coverage
@@ -29,17 +29,17 @@ ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zon
 2.48 YPRR (6th of 40 WRs) | 28% TPRR (12th) on 83 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games",198,2026-11-22 13:00,True,True,True,True
-11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,10,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,88,1.375,1.58,"Patrick Mahomes from a clean pocket
+11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,10,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,88,1.374,1.59,"Patrick Mahomes from a clean pocket
 
 +0.28 EPA per dropback (10th of 19 QBs) on 203 dropbacks | +0.05 under pressure
 
 ARI pressures on 31% of dropbacks (3rd lowest) and 6 of 10 opponents were pressured less vs ARI than in their other games",239,2026-11-22 13:00,True,True,True,True
-11,QB clean pocket vs low-pressure defence,C.J. Stroud,QB,HOU,IND,clean-pocket EPA/DB,0.304,9,19,,,218,pressure rate,0.313,4,0.348,6 of 10,0.6,,89,0.995,1.53,"C.J. Stroud from a clean pocket
+11,QB clean pocket vs low-pressure defence,C.J. Stroud,QB,HOU,IND,clean-pocket EPA/DB,0.304,9,19,,,218,pressure rate,0.313,4,0.348,6 of 10,0.6,,89,0.994,1.55,"C.J. Stroud from a clean pocket
 
 +0.30 EPA per dropback (9th of 19 QBs) on 218 dropbacks | -0.05 under pressure
 
 IND pressures on 31% of dropbacks (4th lowest) and 6 of 10 opponents were pressured less vs IND than in their other games",234,2026-11-19 20:15,True,True,True,True
-11,QB clean pocket vs low-pressure defence,Caleb Williams,QB,CHI,NO,clean-pocket EPA/DB,0.246,12,19,,,129,pressure rate,0.326,8,0.361,8 of 9,0.89,,87,-0.312,1.43,"Caleb Williams from a clean pocket
+11,QB clean pocket vs low-pressure defence,Caleb Williams,QB,CHI,NO,clean-pocket EPA/DB,0.246,12,19,,,129,pressure rate,0.326,8,0.361,8 of 9,0.89,,88,-0.313,1.43,"Caleb Williams from a clean pocket
 
 +0.25 EPA per dropback (12th of 19 QBs) on 129 dropbacks | +0.16 under pressure
 

@@ -1,6 +1,7 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.82,out,False
-IND,Sauce Gardner,CB,0.66,out,0.09,0.82,out,True
-IND,Charvarius Ward,CB,0.83,out,0.16,0.82,out,True
+HOU,Kamari Lassiter,CB,0.99,out,0.3,0.86,listed,True
+IND,Sauce Gardner,CB,0.66,out,0.02,0.82,out,True
+IND,Charvarius Ward,CB,0.83,out,0.05,0.82,out,True
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False

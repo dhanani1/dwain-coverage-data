@@ -1,12 +1,12 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,hold_reason,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,40,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.235,4.78,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.236,4.74,"Parker Washington vs man coverage
 
-4.81 YPRR (1st of 40 WRs) | 39% TPRR (1st) on 54 routes
+4.81 YPRR (1st of 39 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,68,0.388,4.25,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,68,0.388,4.23,"Zay Flowers vs zone coverage
 
-3.18 YPRR (1st of 48 WRs) | 27% TPRR (6th) on 160 routes
+3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",201,2026-11-22 13:00,True,True,True,,True
 11,zone-beater vs zone-heavy defence,George Kittle,TE,SF,MIN,zone YPRR,2.33,2,17,0.242,3.0,132,zone rate,0.866,1,0.906,9 of 9,1.0,,24,-0.511,3.96,"George Kittle vs zone coverage
@@ -24,9 +24,9 @@ NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressur
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,48,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,49,-1.056,2.71,"Amon-Ra St. Brown vs zone coverage
+11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,47,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,49,-1.055,2.69,"Amon-Ra St. Brown vs zone coverage
 
-2.48 YPRR (5th of 48 WRs) | 28% TPRR (4th) on 205 routes
+2.48 YPRR (5th of 47 WRs) | 28% TPRR (4th) on 205 routes
 
 TB plays zone on 82% of dropbacks (5th most) and 6 of 9 opponents saw more zone vs TB than in their other games",205,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
 11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,5,17,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,,81,0.571,2.58,"Travis Kelce vs zone coverage
@@ -39,17 +39,17 @@ ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zon
 +0.41 EPA per dropback (5th of 19 QBs) on 227 dropbacks | -0.16 under pressure
 
 TB pressures on 32% of dropbacks (5th lowest) and 7 of 9 opponents were pressured less vs TB than in their other games",230,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,40,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,62,-0.56,2.33,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,39,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,62,-0.559,2.31,"Chris Olave vs man coverage
 
-2.48 YPRR (6th of 40 WRs) | 28% TPRR (12th) on 83 routes
+2.48 YPRR (6th of 39 WRs) | 28% TPRR (12th) on 83 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games",198,2026-11-22 13:00,True,True,True,,True
-11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,,22,-0.146,2.05,"Juwan Johnson vs man coverage
+11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,,21,-0.146,2.05,"Juwan Johnson vs man coverage
 
 1.90 YPRR (3rd of 12 TEs) | 24% TPRR (3rd) on 59 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games",199,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
-11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,9,17,0.221,7.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,7,-0.387,1.59,"Mark Andrews vs zone coverage
+11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,9,17,0.221,7.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,6,-0.387,1.59,"Mark Andrews vs zone coverage
 
 1.54 YPRR (9th of 17 TEs) | 22% TPRR (7th) on 140 routes
 

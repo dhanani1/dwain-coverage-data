@@ -1,19 +1,6 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
-ARI,Andrew Wingard,S,0.79,doubt,0.56,0.92,listed,False
-ATL,Jessie Bates III,S,0.73,out,0.0,0.82,out,False
-BUF,Terrel Bernard,LB,0.81,doubt,0.66,1.0,listed,False
-BUF,Christian Benford,CB,0.79,doubt,0.72,0.96,listed,False
-CIN,Dexter Lawrence,DL,0.63,doubt,0.77,0.99,listed,True
-DAL,DaRon Bland,CB,0.76,doubt,0.53,0.91,listed,False
-DAL,Joey Porter Jr.,CB,0.52,doubt,0.78,0.95,listed,False
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.82,out,False
-HOU,Will Anderson Jr.,EDGE,0.75,doubt,0.76,0.92,listed,False
-IND,Sauce Gardner,CB,0.66,out,0.25,0.84,listed,False
-IND,Charvarius Ward,CB,0.83,out,0.33,0.86,listed,False
-IND,A.J. Haulcy,S,0.64,doubt,0.65,0.95,listed,False
+IND,Sauce Gardner,CB,0.66,out,0.08,0.82,out,True
+IND,Charvarius Ward,CB,0.83,out,0.16,0.82,out,True
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
-MIN,Blake Cashman,LB,0.74,out,0.0,0.82,out,False
-MIN,Tyrion Ingram-Dawkins,EDGE,0.51,out,0.0,0.82,out,False
-PHI,Jordan Davis,DL,0.6,out,0.0,0.82,out,False
-TEN,Anthony Hill Jr.,LB,0.74,out,0.0,0.82,out,False

@@ -5,6 +5,7 @@ BUF,Christian Benford,CB,0.79,out,0.29,0.86,listed,True
 BUF,Damar Hamlin,S,0.67,doubt,0.52,0.96,listed,True
 CHI,Kyler Gordon,slot CB,0.58,out,0.19,0.86,out,True
 DAL,DaRon Bland,CB,0.76,out,0.23,0.82,out,True
+DET,Aidan Hutchinson,EDGE,0.71,out,0.0,0.8,out,False
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.8,reserve,False
 HOU,Will Anderson Jr.,EDGE,0.75,doubt,0.79,0.93,listed,False
@@ -13,8 +14,12 @@ IND,Sauce Gardner,CB,0.66,out,0.0,0.82,out,False
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
 MIA,Dante Trader Jr.,S,0.93,out,0.49,0.86,listed,True
-NYG,Jason Pinnock,S,0.55,doubt,0.53,1.0,listed,True
-NYJ,Harrison Phillips,DL,0.57,doubt,0.57,0.99,listed,True
+MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.75,1.0,listed,True
+NO,Pete Werner,LB,0.81,out,0.1,0.82,out,True
+NO,Justin Reid,S,0.78,out,0.39,0.86,listed,True
+NO,Martin Emerson Jr.,CB,0.81,out,0.41,0.86,listed,True
+NYG,Jason Pinnock,S,0.55,doubt,0.53,0.96,listed,True
+NYJ,Harrison Phillips,DL,0.57,doubt,0.57,0.92,listed,True
 TEN,Tony Adams,S,0.55,out,0.09,0.86,out,True
 TEN,Anthony Hill Jr.,LB,0.74,doubt,0.66,0.86,listed,True
 TEN,Amani Hooker,S,0.75,doubt,0.79,0.95,listed,True

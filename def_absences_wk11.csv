@@ -1,10 +1,11 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
+HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.8,reserve,False
-HOU,Danielle Hunter,EDGE,0.55,out,0.21,0.78,out,False
-HOU,Kamari Lassiter,CB,0.99,out,0.45,0.86,listed,False
 HOU,Will Anderson Jr.,EDGE,0.75,doubt,0.77,0.92,listed,False
 IND,Charvarius Ward,CB,0.83,out,0.0,0.82,out,False
 IND,Sauce Gardner,CB,0.66,out,0.0,0.82,out,False
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
+TEN,Tony Adams,S,0.55,out,0.09,0.86,out,True
+TEN,Anthony Hill Jr.,LB,0.74,doubt,0.66,0.86,listed,True

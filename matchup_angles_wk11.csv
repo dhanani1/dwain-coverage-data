@@ -1,12 +1,12 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,38,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,"NYG missing Jason Pinnock (S, doubt)",97,0.234,4.75,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,38,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,"NYG missing Jason Pinnock (S, doubt)",98,0.234,4.75,"Parker Washington vs man coverage
 
 4.81 YPRR (1st of 38 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games
 
 NYG missing Jason Pinnock (S, doubt)",241,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,77,0.396,4.21,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,80,0.396,4.21,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes
 
@@ -21,14 +21,14 @@ NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressur
 +0.38 EPA per dropback (6th of 17 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,5,16,0.208,9.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out)",82,0.573,2.62,"Travis Kelce vs zone coverage
+11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,4,15,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out)",81,0.579,2.87,"Travis Kelce vs zone coverage
 
-1.94 YPRR (5th of 16 TEs) | 21% TPRR (9th) on 130 routes
+1.94 YPRR (4th of 15 TEs) | 21% TPRR (8th) on 130 routes
 
 ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zone vs ARI than in their other games
 
 ARI missing Andrew Wingard (S, out)",240,2026-11-22 13:00,True,True,True,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",67,-0.561,2.29,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",69,-0.561,2.29,"Chris Olave vs man coverage
 
 2.48 YPRR (6th of 38 WRs) | 28% TPRR (12th) on 83 routes
 

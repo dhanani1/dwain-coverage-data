@@ -1,5 +1,8 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
+BUF,Dorian Williams,LB,0.5,out,0.19,0.86,out,True
+BUF,Christian Benford,CB,0.79,out,0.29,0.86,listed,True
+BUF,Damar Hamlin,S,0.67,doubt,0.52,0.96,listed,True
 CHI,Kyler Gordon,slot CB,0.58,out,0.19,0.86,out,True
 DAL,DaRon Bland,CB,0.76,out,0.23,0.82,out,True
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
@@ -9,7 +12,9 @@ IND,Charvarius Ward,CB,0.83,out,0.0,0.82,out,False
 IND,Sauce Gardner,CB,0.66,out,0.0,0.82,out,False
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
-MIA,Dante Trader Jr.,S,0.93,doubt,0.56,1.0,listed,True
+MIA,Dante Trader Jr.,S,0.93,out,0.49,0.86,listed,True
 NYG,Jason Pinnock,S,0.55,doubt,0.53,1.0,listed,True
+NYJ,Harrison Phillips,DL,0.57,doubt,0.57,0.99,listed,True
 TEN,Tony Adams,S,0.55,out,0.09,0.86,out,True
 TEN,Anthony Hill Jr.,LB,0.74,doubt,0.66,0.86,listed,True
+TEN,Amani Hooker,S,0.75,doubt,0.79,0.95,listed,True

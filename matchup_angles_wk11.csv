@@ -1,12 +1,12 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.235,4.74,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,95,0.234,4.74,"Parker Washington vs man coverage
 
 4.81 YPRR (1st of 39 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,68,0.397,4.23,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,69,0.396,4.24,"Zay Flowers vs zone coverage
 
-3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes
+3.18 YPRR (1st of 48 WRs) | 27% TPRR (6th) on 160 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",201,2026-11-22 13:00,True,True,True,True
 11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,17,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,94,0.661,3.54,"Trevor Lawrence from a clean pocket
@@ -24,7 +24,7 @@ TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were 
 1.94 YPRR (5th of 17 TEs) | 21% TPRR (8th) on 130 routes
 
 ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zone vs ARI than in their other games",203,2026-11-22 13:00,True,True,True,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,39,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,62,-0.56,2.31,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,39,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,63,-0.561,2.31,"Chris Olave vs man coverage
 
 2.48 YPRR (6th of 39 WRs) | 28% TPRR (12th) on 83 routes
 

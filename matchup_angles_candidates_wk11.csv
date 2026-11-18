@@ -1,10 +1,12 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,hold_reason,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,97,0.234,4.74,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,"NYG missing Jason Pinnock (S, doubt)",98,0.235,4.74,"Parker Washington vs man coverage
 
 4.81 YPRR (1st of 39 WRs) | 39% TPRR (1st) on 54 routes
 
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,76,0.387,4.24,"Zay Flowers vs zone coverage
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games
+
+NYG missing Jason Pinnock (S, doubt)",241,2026-11-22 13:00,True,True,True,,True
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,79,0.387,4.24,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 48 WRs) | 27% TPRR (6th) on 160 routes
 
@@ -24,7 +26,7 @@ NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressur
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,48,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,50,-1.056,2.69,"Amon-Ra St. Brown vs zone coverage
+11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,48,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,53,-1.056,2.69,"Amon-Ra St. Brown vs zone coverage
 
 2.48 YPRR (5th of 48 WRs) | 28% TPRR (4th) on 205 routes
 
@@ -41,16 +43,20 @@ ARI missing Andrew Wingard (S, out)",240,2026-11-22 13:00,True,True,True,,True
 +0.41 EPA per dropback (5th of 19 QBs) on 227 dropbacks | -0.16 under pressure
 
 TB pressures on 32% of dropbacks (5th lowest) and 7 of 9 opponents were pressured less vs TB than in their other games",230,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,39,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,,45,-0.561,2.31,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,39,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",47,-0.561,2.31,"Chris Olave vs man coverage
 
 2.48 YPRR (6th of 39 WRs) | 28% TPRR (12th) on 83 routes
 
-CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games",198,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,,10,-0.148,2.05,"Juwan Johnson vs man coverage
+CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
+
+CHI missing Kyler Gordon (slot CB, out)",239,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
+11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",10,-0.148,2.05,"Juwan Johnson vs man coverage
 
 1.90 YPRR (3rd of 12 TEs) | 24% TPRR (3rd) on 59 routes
 
-CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games",199,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
+CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
+
+CHI missing Kyler Gordon (slot CB, out)",240,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
 11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,8,16,0.221,7.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,9,-0.389,1.61,"Mark Andrews vs zone coverage
 
 1.54 YPRR (8th of 16 TEs) | 22% TPRR (7th) on 140 routes

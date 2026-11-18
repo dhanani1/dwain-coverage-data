@@ -1,10 +1,12 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,97,0.234,4.74,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,39,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,"NYG missing Jason Pinnock (S, doubt)",98,0.235,4.74,"Parker Washington vs man coverage
 
 4.81 YPRR (1st of 39 WRs) | 39% TPRR (1st) on 54 routes
 
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,76,0.387,4.24,"Zay Flowers vs zone coverage
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games
+
+NYG missing Jason Pinnock (S, doubt)",241,2026-11-22 13:00,True,True,True,True
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,48,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,79,0.387,4.24,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 48 WRs) | 27% TPRR (6th) on 160 routes
 

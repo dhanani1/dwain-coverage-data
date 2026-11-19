@@ -1,5 +1,8 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
+ARI,Budda Baker,S,0.97,doubt,0.59,1.0,listed,True
+ARI,Mack Wilson Sr.,LB,1.0,doubt,0.66,1.0,listed,True
+ARI,Josh Sweat,EDGE,0.65,doubt,0.67,0.99,listed,True
 BAL,Nnamdi Madubuike,DL,0.67,out,0.1,0.82,out,True
 BUF,Dorian Williams,LB,0.5,out,0.19,0.86,out,True
 BUF,Christian Benford,CB,0.79,out,0.29,0.86,listed,True
@@ -7,7 +10,7 @@ BUF,Damar Hamlin,S,0.67,doubt,0.52,0.96,listed,True
 CHI,Kyler Gordon,slot CB,0.58,out,0.19,0.86,out,True
 DAL,DaRon Bland,CB,0.76,out,0.23,0.82,out,True
 DEN,Brandon Jones,S,0.63,doubt,0.53,0.86,listed,True
-DEN,Riley Moss,CB,0.62,doubt,0.76,1.0,listed,True
+DEN,Riley Moss,CB,0.62,doubt,0.76,0.96,listed,True
 DET,Aidan Hutchinson,EDGE,0.71,out,0.0,0.8,out,False
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.8,reserve,False

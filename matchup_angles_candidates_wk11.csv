@@ -11,7 +11,7 @@ NYG missing Jason Pinnock (S, doubt)",241,2026-11-22 13:00,True,True,True,,True
 2.33 YPRR (1st of 15 TEs) | 24% TPRR (3rd) on 132 routes
 
 MIN plays zone on 87% of dropbacks (most in the NFL) and 9 of 9 opponents saw more zone vs MIN than in their other games",210,2026-11-22 20:20,True,False,False,Matchup Score below 60,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,80,0.387,4.21,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,81,0.387,4.21,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes
 
@@ -26,14 +26,14 @@ NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressur
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 7 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,4,15,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out)",81,0.585,2.87,"Travis Kelce vs zone coverage
+11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,4,15,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out), Budda Baker (S, doubt)",81,0.585,2.87,"Travis Kelce vs zone coverage
 
 1.94 YPRR (4th of 15 TEs) | 21% TPRR (8th) on 130 routes
 
 ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zone vs ARI than in their other games
 
-ARI missing Andrew Wingard (S, out)",240,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,47,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,54,-1.055,2.67,"Amon-Ra St. Brown vs zone coverage
+ARI missing Andrew Wingard (S, out), Budda Baker (S, doubt)",264,2026-11-22 13:00,True,True,True,,True
+11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,47,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,55,-1.055,2.67,"Amon-Ra St. Brown vs zone coverage
 
 2.48 YPRR (5th of 47 WRs) | 28% TPRR (4th) on 205 routes
 
@@ -43,7 +43,7 @@ TB plays zone on 82% of dropbacks (5th most) and 6 of 9 opponents saw more zone 
 +0.41 EPA per dropback (5th of 19 QBs) on 227 dropbacks | -0.16 under pressure
 
 TB pressures on 32% of dropbacks (5th lowest) and 7 of 9 opponents were pressured less vs TB than in their other games",230,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",70,-0.56,2.29,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,12.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",71,-0.56,2.29,"Chris Olave vs man coverage
 
 2.48 YPRR (6th of 38 WRs) | 28% TPRR (12th) on 83 routes
 
@@ -67,11 +67,13 @@ PIT plays zone on 80% of dropbacks (8th most) and 8 of 9 opponents saw more zone
 1.54 YPRR (7th of 15 TEs) | 22% TPRR (7th) on 140 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",202,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
-11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,10,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,89,1.372,1.59,"Patrick Mahomes from a clean pocket
+11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,10,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,"ARI missing Josh Sweat (EDGE, doubt)",89,1.372,1.59,"Patrick Mahomes from a clean pocket
 
 +0.28 EPA per dropback (10th of 19 QBs) on 203 dropbacks | +0.05 under pressure
 
-ARI pressures on 31% of dropbacks (3rd lowest) and 6 of 10 opponents were pressured less vs ARI than in their other games",239,2026-11-22 13:00,True,True,True,,True
+ARI pressures on 31% of dropbacks (3rd lowest) and 6 of 10 opponents were pressured less vs ARI than in their other games
+
+ARI missing Josh Sweat (EDGE, doubt)",277,2026-11-22 13:00,True,True,True,,True
 11,QB clean pocket vs low-pressure defence,C.J. Stroud,QB,HOU,IND,clean-pocket EPA/DB,0.304,9,19,,,218,pressure rate,0.313,4,0.355,6 of 10,0.6,,92,0.987,1.54,"C.J. Stroud from a clean pocket
 
 +0.30 EPA per dropback (9th of 19 QBs) on 218 dropbacks | -0.05 under pressure

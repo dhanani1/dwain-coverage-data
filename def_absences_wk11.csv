@@ -5,8 +5,8 @@ ARI,Mack Wilson Sr.,LB,1.0,doubt,0.66,1.0,listed,True
 ARI,Josh Sweat,EDGE,0.65,doubt,0.67,0.99,listed,True
 BAL,Nnamdi Madubuike,DL,0.67,out,0.03,0.92,out,True
 BUF,Dorian Williams,LB,0.5,out,0.06,0.93,out,True
+BUF,Damar Hamlin,S,0.67,out,0.1,0.96,out,True
 BUF,Christian Benford,CB,0.79,out,0.1,0.96,out,True
-BUF,Damar Hamlin,S,0.67,doubt,0.53,0.96,listed,True
 CHI,Kyler Gordon,slot CB,0.58,out,0.06,0.95,out,True
 CIN,Dax Hill,CB,0.9,out,0.16,0.8,out,True
 DAL,DaRon Bland,CB,0.76,out,0.07,0.96,out,True
@@ -21,9 +21,10 @@ IND,Sauce Gardner,CB,0.66,out,0.0,0.82,out,False
 LAC,Daiyan Henley,LB,0.84,doubt,0.55,0.93,listed,True
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
-MIA,JuJu Brents,CB,0.77,out,0.47,1.0,listed,True
-MIA,Dante Trader Jr.,S,0.93,doubt,0.52,0.96,listed,True
-MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.75,0.93,listed,True
+MIA,Dante Trader Jr.,S,0.93,out,0.22,0.96,out,True
+MIA,JuJu Brents,CB,0.77,out,0.48,1.0,listed,True
+MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.76,0.93,listed,True
+MIN,Isaiah Rodgers,CB,0.72,doubt,0.78,1.0,listed,True
 NO,Pete Werner,LB,0.81,out,0.03,0.93,out,True
 NO,Martin Emerson Jr.,CB,0.81,out,0.15,0.96,out,True
 NO,Justin Reid,S,0.78,doubt,0.69,1.0,listed,True

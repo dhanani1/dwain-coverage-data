@@ -4,11 +4,13 @@ week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,t
 4.81 YPRR (1st of 37 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,George Kittle,TE,SF,MIN,zone YPRR,2.33,1,16,0.242,3.0,132,zone rate,0.866,1,0.906,9 of 9,1.0,,29,-0.507,4.42,"George Kittle vs zone coverage
+11,zone-beater vs zone-heavy defence,George Kittle,TE,SF,MIN,zone YPRR,2.33,1,16,0.242,3.0,132,zone rate,0.866,1,0.906,9 of 9,1.0,"MIN missing Isaiah Rodgers (CB, doubt)",29,-0.507,4.42,"George Kittle vs zone coverage
 
 2.33 YPRR (1st of 16 TEs) | 24% TPRR (3rd) on 132 routes
 
-MIN plays zone on 87% of dropbacks (most in the NFL) and 9 of 9 opponents saw more zone vs MIN than in their other games",210,2026-11-22 20:20,True,False,False,Matchup Score below 60,True
+MIN plays zone on 87% of dropbacks (most in the NFL) and 9 of 9 opponents saw more zone vs MIN than in their other games
+
+MIN missing Isaiah Rodgers (CB, doubt)",250,2026-11-22 20:20,True,False,False,Matchup Score below 60,True
 11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,80,0.413,4.21,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes

@@ -1,8 +1,5 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
-ARI,Budda Baker,S,0.97,doubt,0.59,1.0,listed,True
-ARI,Mack Wilson Sr.,LB,1.0,doubt,0.66,1.0,listed,True
-ARI,Josh Sweat,EDGE,0.65,doubt,0.67,0.99,listed,True
 BAL,Nnamdi Madubuike,DL,0.67,out,0.03,0.92,out,True
 BUF,Dorian Williams,LB,0.5,out,0.06,0.93,out,True
 BUF,Damar Hamlin,S,0.67,out,0.1,0.96,out,True
@@ -10,26 +7,25 @@ BUF,Christian Benford,CB,0.79,out,0.1,0.96,out,True
 CHI,Kyler Gordon,slot CB,0.58,out,0.06,0.95,out,True
 CIN,Dax Hill,CB,0.9,out,0.16,0.8,out,True
 DAL,DaRon Bland,CB,0.76,out,0.07,0.96,out,True
-DEN,Brandon Jones,S,0.63,doubt,0.53,0.86,listed,True
-DEN,Riley Moss,CB,0.62,doubt,0.76,0.96,listed,True
+DEN,Brandon Jones,S,0.63,doubt,0.54,0.86,listed,True
+DEN,Riley Moss,CB,0.62,doubt,0.77,0.96,listed,True
 DET,Aidan Hutchinson,EDGE,0.71,out,0.0,0.8,reserve,False
 HOU,Danielle Hunter,EDGE,0.55,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.7,out,0.0,0.8,reserve,False
 HOU,Will Anderson Jr.,EDGE,0.75,doubt,0.79,0.93,listed,False
 IND,Charvarius Ward,CB,0.83,out,0.0,0.82,out,False
 IND,Sauce Gardner,CB,0.66,out,0.0,0.82,out,False
-LAC,Daiyan Henley,LB,0.84,doubt,0.55,0.93,listed,True
+LAC,Daiyan Henley,LB,0.84,out,0.24,0.93,out,True
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
 MIA,Dante Trader Jr.,S,0.93,out,0.22,0.96,out,True
 MIA,JuJu Brents,CB,0.77,out,0.48,1.0,listed,True
 MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.76,0.93,listed,True
-MIN,Isaiah Rodgers,CB,0.72,doubt,0.78,1.0,listed,True
+MIN,Isaiah Rodgers,CB,0.72,doubt,0.78,0.96,listed,True
 NO,Pete Werner,LB,0.81,out,0.03,0.93,out,True
 NO,Martin Emerson Jr.,CB,0.81,out,0.15,0.96,out,True
 NO,Justin Reid,S,0.78,doubt,0.69,1.0,listed,True
-NYJ,Harrison Phillips,DL,0.57,doubt,0.57,0.92,listed,True
-PHI,Zack Baun,LB,0.87,out,0.13,0.93,out,True
+PHI,Zack Baun,LB,0.87,out,0.04,0.93,out,True
 PIT,Nick Herbig,EDGE,0.52,out,0.15,0.93,out,True
 TEN,Tony Adams,S,0.55,out,0.48,0.96,listed,True
 TEN,Anthony Hill Jr.,LB,0.74,doubt,0.68,0.86,listed,True

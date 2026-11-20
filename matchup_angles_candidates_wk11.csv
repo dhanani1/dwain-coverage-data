@@ -57,14 +57,14 @@ CHI missing Kyler Gordon (slot CB, out)",239,2026-11-22 13:00,True,False,False,M
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
 
 CHI missing Kyler Gordon (slot CB, out)",240,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
-11,zone-beater vs zone-heavy defence,Dallas Goedert,TE,PHI,PIT,zone YPRR,1.64,6,15,0.236,4.0,127,zone rate,0.805,7,0.859,8 of 9,0.89,,4,-0.113,1.8,"Dallas Goedert vs zone coverage
+11,zone-beater vs zone-heavy defence,Dallas Goedert,TE,PHI,PIT,zone YPRR,1.64,6,15,0.236,4.0,127,zone rate,0.805,8,0.859,8 of 9,0.89,,4,-0.113,1.8,"Dallas Goedert vs zone coverage
 
 1.64 YPRR (6th of 15 TEs) | 24% TPRR (4th) on 127 routes
 
-PIT plays zone on 80% of dropbacks (7th most) and 8 of 9 opponents saw more zone vs PIT than in their other games",204,2026-11-22 16:25,True,False,False,Matchup Score below 60,True
-11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,7,15,0.221,6.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,8,-0.377,1.76,"Mark Andrews vs zone coverage
+PIT plays zone on 80% of dropbacks (8th most) and 8 of 9 opponents saw more zone vs PIT than in their other games",204,2026-11-22 16:25,True,False,False,Matchup Score below 60,True
+11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,7,15,0.221,5.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,8,-0.377,1.77,"Mark Andrews vs zone coverage
 
-1.54 YPRR (7th of 15 TEs) | 22% TPRR (6th) on 140 routes
+1.54 YPRR (7th of 15 TEs) | 22% TPRR (5th) on 140 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",202,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
 11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,11,20,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,83,1.372,1.61,"Patrick Mahomes from a clean pocket

@@ -3,9 +3,9 @@ ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
 BAL,Marlon Humphrey,CB,0.76,out,0.0,0.82,out,False
 BAL,Nnamdi Madubuike,DL,0.67,out,0.19,0.78,out,False
 BUF,Damar Hamlin,S,0.67,out,0.23,0.84,out,False
-BUF,Christian Benford,CB,0.79,out,0.3,0.86,listed,False
-BUF,Dorian Williams,LB,0.5,out,0.31,0.82,listed,False
-CHI,Kyler Gordon,slot CB,0.58,out,0.35,0.87,listed,False
+BUF,Christian Benford,CB,0.79,out,0.29,0.86,listed,False
+BUF,Dorian Williams,LB,0.5,out,0.32,0.82,listed,False
+CHI,Kyler Gordon,slot CB,0.58,out,0.36,0.87,listed,False
 CIN,Dax Hill,CB,0.9,out,0.16,0.8,out,True
 DAL,DaRon Bland,CB,0.76,out,0.0,0.8,out,False
 DEN,Brandon Jones,S,0.63,out,0.47,0.9,listed,False
@@ -15,17 +15,18 @@ JAX,Antonio Johnson,S,0.54,doubt,0.75,0.97,listed,False
 LAC,Daiyan Henley,LB,0.84,doubt,0.62,0.89,listed,False
 MIA,Zach Sieler,DL,0.57,out,0.0,0.8,reserve,False
 MIA,Jordan Phillips,DL,0.58,out,0.0,0.8,reserve,False
-MIA,JuJu Brents,CB,0.77,out,0.47,1.0,listed,False
-MIA,Dante Trader Jr.,S,0.93,doubt,0.57,0.92,listed,False
-MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.63,0.9,listed,False
-MIN,Blake Cashman,LB,0.74,doubt,0.67,0.86,listed,False
+MIA,JuJu Brents,CB,0.77,out,0.48,1.0,listed,False
+MIA,Dante Trader Jr.,S,0.93,doubt,0.58,0.93,listed,False
+MIN,Andrew Van Ginkel,EDGE,0.77,doubt,0.64,0.9,listed,False
+MIN,Blake Cashman,LB,0.74,doubt,0.65,0.86,listed,False
 MIN,Isaiah Rodgers,CB,0.72,doubt,0.68,0.95,listed,False
 NO,Pete Werner,LB,0.81,out,0.19,0.79,out,False
+NO,Justin Reid,S,0.78,doubt,0.54,1.0,listed,False
 NO,Martin Emerson Jr.,CB,0.81,doubt,0.56,0.92,listed,False
-PHI,Zack Baun,LB,0.87,out,0.28,0.81,listed,False
-PIT,Nick Herbig,EDGE,0.52,doubt,0.51,0.87,listed,False
+PHI,Zack Baun,LB,0.87,out,0.29,0.81,listed,False
+PIT,Nick Herbig,EDGE,0.52,doubt,0.52,0.87,listed,False
 PIT,Patrick Queen,LB,1.0,doubt,0.76,0.93,listed,False
-SF,Ji'Ayir Brown,S,0.85,doubt,0.74,0.96,listed,False
-TEN,Tony Adams,S,0.55,doubt,0.61,0.93,listed,False
-TEN,Anthony Hill Jr.,LB,0.74,doubt,0.62,0.86,listed,False
+SF,Ji'Ayir Brown,S,0.85,doubt,0.75,0.97,listed,False
+TEN,Tony Adams,S,0.55,doubt,0.62,0.94,listed,False
 TEN,Amani Hooker,S,0.75,doubt,0.63,0.94,listed,False
+TEN,Anthony Hill Jr.,LB,0.74,doubt,0.63,0.86,listed,False

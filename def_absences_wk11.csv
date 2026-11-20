@@ -2,9 +2,9 @@ team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.79,out,0.0,0.8,reserve,False
 BAL,Marlon Humphrey,CB,0.76,out,0.0,0.82,out,False
 BAL,Nnamdi Madubuike,DL,0.67,out,0.19,0.78,out,False
+BUF,Christian Benford,CB,0.79,out,0.0,0.86,out,False
+BUF,Dorian Williams,LB,0.5,out,0.0,0.82,out,False
 BUF,Damar Hamlin,S,0.67,out,0.23,0.84,out,False
-BUF,Christian Benford,CB,0.79,out,0.29,0.86,listed,False
-BUF,Dorian Williams,LB,0.5,out,0.32,0.82,listed,False
 CHI,Kyler Gordon,slot CB,0.58,out,0.36,0.87,listed,False
 CIN,Dax Hill,CB,0.9,out,0.16,0.8,out,True
 DAL,DaRon Bland,CB,0.76,out,0.0,0.8,out,False

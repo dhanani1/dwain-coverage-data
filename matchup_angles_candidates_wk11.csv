@@ -3,7 +3,7 @@ week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,t
 
 4.81 YPRR (1st of 38 WRs) | 39% TPRR (1st) on 54 routes
 
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 13:00,True,True,True,,True
+NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 16:25,True,True,True,,True
 11,zone-beater vs zone-heavy defence,George Kittle,TE,SF,MIN,zone YPRR,2.33,1,16,0.242,3.0,132,zone rate,0.866,1,0.906,9 of 9,1.0,"MIN missing Isaiah Rodgers (CB, doubt)",36,-0.506,4.45,"George Kittle vs zone coverage
 
 2.33 YPRR (1st of 16 TEs) | 24% TPRR (3rd) on 132 routes
@@ -20,7 +20,7 @@ CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone
 
 +0.51 EPA per dropback (2nd of 19 QBs) on 199 dropbacks | -0.22 under pressure
 
-NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressured less vs NYG than in their other games",237,2026-11-22 13:00,True,True,True,,True
+NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressured less vs NYG than in their other games",237,2026-11-22 16:25,True,True,True,,True
 11,QB clean pocket vs low-pressure defence,Dak Prescott,QB,DAL,TEN,clean-pocket EPA/DB,0.383,7,19,,,282,pressure rate,0.288,1,0.313,8 of 9,0.89,,97,2.531,3.24,"Dak Prescott from a clean pocket
 
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
@@ -61,7 +61,7 @@ CHI missing Kyler Gordon (slot CB, out)",240,2026-11-22 13:00,True,False,False,M
 
 1.64 YPRR (7th of 16 TEs) | 24% TPRR (4th) on 127 routes
 
-PIT plays zone on 80% of dropbacks (8th most) and 8 of 9 opponents saw more zone vs PIT than in their other games",204,2026-11-22 16:25,True,False,False,Matchup Score below 60,True
+PIT plays zone on 80% of dropbacks (8th most) and 8 of 9 opponents saw more zone vs PIT than in their other games",204,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
 11,zone-beater vs zone-heavy defence,Mark Andrews,TE,BAL,CAR,zone YPRR,1.54,8,16,0.221,5.0,140,zone rate,0.823,4,0.85,7 of 8,0.88,,9,-0.379,1.74,"Mark Andrews vs zone coverage
 
 1.54 YPRR (8th of 16 TEs) | 22% TPRR (5th) on 140 routes

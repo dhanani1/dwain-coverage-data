@@ -1,7 +1,7 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,hold_reason,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,37,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,97,0.235,4.79,"Parker Washington vs man coverage
+11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,38,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,,97,0.235,4.78,"Parker Washington vs man coverage
 
-4.81 YPRR (1st of 37 WRs) | 39% TPRR (1st) on 54 routes
+4.81 YPRR (1st of 38 WRs) | 39% TPRR (1st) on 54 routes
 
 NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games",203,2026-11-22 16:25,True,True,True,,True
 11,zone-beater vs zone-heavy defence,George Kittle,TE,SF,MIN,zone YPRR,2.33,1,16,0.242,3.0,132,zone rate,0.866,1,0.906,9 of 9,1.0,"MIN missing Isaiah Rodgers (CB, doubt)",38,-0.506,4.45,"George Kittle vs zone coverage
@@ -43,9 +43,9 @@ TB plays zone on 82% of dropbacks (5th most) and 6 of 9 opponents saw more zone 
 +0.41 EPA per dropback (5th of 19 QBs) on 227 dropbacks | -0.16 under pressure
 
 TB pressures on 32% of dropbacks (4th lowest) and 7 of 9 opponents were pressured less vs TB than in their other games",230,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,5,37,0.277,11.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",50,-0.56,2.33,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,11.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",50,-0.56,2.31,"Chris Olave vs man coverage
 
-2.48 YPRR (5th of 37 WRs) | 28% TPRR (11th) on 83 routes
+2.48 YPRR (6th of 38 WRs) | 28% TPRR (11th) on 83 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
 

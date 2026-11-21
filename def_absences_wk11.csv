@@ -6,8 +6,7 @@ BUF,Christian Benford,CB,0.79,out,0.0,0.86,out,False
 BUF,Dorian Williams,LB,0.5,out,0.0,0.82,out,False
 BUF,Damar Hamlin,S,0.67,doubt,0.5,0.91,listed,False
 CHI,Kyler Gordon,slot CB,0.58,out,0.0,0.86,out,False
-CIN,Dax Hill,CB,0.9,out,0.05,0.8,out,True
-CIN,Jonathan Allen,EDGE,0.54,doubt,0.74,0.99,listed,True
+CIN,Dax Hill,CB,0.9,out,0.21,0.8,out,False
 DAL,DaRon Bland,CB,0.76,out,0.0,0.8,out,False
 DEN,Brandon Jones,S,0.63,out,0.47,0.9,listed,False
 DET,Aidan Hutchinson,EDGE,0.71,out,0.0,0.8,reserve,False

@@ -1,13 +1,1 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-11,man-beater vs man-heavy defence,Parker Washington,WR,JAX,NYG,man YPRR,4.81,1,38,0.389,1.0,54,man rate,0.286,5,0.259,7 of 9,0.78,"NYG missing Jason Pinnock (S, out)",96,0.235,4.78,"Parker Washington vs man coverage
-
-4.81 YPRR (1st of 38 WRs) | 39% TPRR (1st) on 54 routes
-
-NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man vs NYG than in their other games
-
-NYG missing Jason Pinnock (S, out)",239,2026-11-22 16:25,True,True,True,True
-11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,19,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,91,0.67,3.62,"Trevor Lawrence from a clean pocket
-
-+0.51 EPA per dropback (2nd of 19 QBs) on 199 dropbacks | -0.22 under pressure
-
-NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressured less vs NYG than in their other games",237,2026-11-22 16:25,True,True,True,True

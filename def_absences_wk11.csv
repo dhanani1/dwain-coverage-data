@@ -1,6 +1,6 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 CIN,Dax Hill,CB,0.9,out,0.21,0.8,out,False
-DEN,Brandon Jones,S,0.63,out,0.47,0.9,listed,False
+DEN,Brandon Jones,S,0.63,out,0.0,0.82,out,False
 LAC,Daiyan Henley,LB,0.84,out,0.0,0.82,out,False
-LAC,Tarheeb Still,CB,1.0,doubt,0.7,0.96,listed,False
+LAC,Tarheeb Still,CB,1.0,out,0.0,0.82,out,False
 MIN,Isaiah Rodgers,CB,0.72,doubt,0.68,0.95,listed,False

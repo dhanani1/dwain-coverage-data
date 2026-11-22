@@ -11,12 +11,12 @@ NYG plays man on 29% of dropbacks (5th most) and 7 of 9 opponents saw more man v
 MIN plays zone on 87% of dropbacks (most in the NFL) and 9 of 9 opponents saw more zone vs MIN than in their other games
 
 MIN missing Isaiah Rodgers (CB, doubt)",250,2026-11-22 20:20,True,False,False,Matchup Score below 60,True
-11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,78,0.388,4.2,"Zay Flowers vs zone coverage
+11,zone-beater vs zone-heavy defence,Zay Flowers,WR,BAL,CAR,zone YPRR,3.18,1,47,0.269,6.0,160,zone rate,0.823,4,0.85,7 of 8,0.88,,76,0.388,4.2,"Zay Flowers vs zone coverage
 
 3.18 YPRR (1st of 47 WRs) | 27% TPRR (6th) on 160 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",201,2026-11-22 13:00,True,True,True,,True
-11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,19,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,91,0.664,3.62,"Trevor Lawrence from a clean pocket
+11,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,NYG,clean-pocket EPA/DB,0.51,2,19,,,199,pressure rate,0.298,2,0.327,7 of 9,0.78,,89,0.664,3.62,"Trevor Lawrence from a clean pocket
 
 +0.51 EPA per dropback (2nd of 19 QBs) on 199 dropbacks | -0.22 under pressure
 
@@ -26,14 +26,14 @@ NYG pressures on 30% of dropbacks (2nd lowest) and 7 of 9 opponents were pressur
 +0.38 EPA per dropback (7th of 19 QBs) on 282 dropbacks | -0.23 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 8 of 9 opponents were pressured less vs TEN than in their other games",241,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,4,16,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out)",62,0.577,2.9,"Travis Kelce vs zone coverage
+11,zone-beater vs zone-heavy defence,Travis Kelce,TE,KC,ARI,zone YPRR,1.94,4,16,0.208,8.0,130,zone rate,0.834,3,0.883,9 of 10,0.9,"ARI missing Andrew Wingard (S, out)",60,0.577,2.9,"Travis Kelce vs zone coverage
 
 1.94 YPRR (4th of 16 TEs) | 21% TPRR (8th) on 130 routes
 
 ARI plays zone on 83% of dropbacks (3rd most) and 9 of 10 opponents saw more zone vs ARI than in their other games
 
 ARI missing Andrew Wingard (S, out)",240,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,47,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,63,-1.061,2.66,"Amon-Ra St. Brown vs zone coverage
+11,zone-beater vs zone-heavy defence,Amon-Ra St. Brown,WR,DET,TB,zone YPRR,2.48,5,47,0.283,4.0,205,zone rate,0.82,5,0.865,6 of 9,0.67,,61,-1.063,2.66,"Amon-Ra St. Brown vs zone coverage
 
 2.48 YPRR (5th of 47 WRs) | 28% TPRR (4th) on 205 routes
 
@@ -43,21 +43,21 @@ TB plays zone on 82% of dropbacks (5th most) and 6 of 9 opponents saw more zone 
 +0.41 EPA per dropback (5th of 19 QBs) on 227 dropbacks | -0.16 under pressure
 
 TB pressures on 32% of dropbacks (4th lowest) and 7 of 9 opponents were pressured less vs TB than in their other games",230,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,11.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",49,-0.56,2.31,"Chris Olave vs man coverage
+11,man-beater vs man-heavy defence,Chris Olave,WR,NO,CHI,man YPRR,2.48,6,38,0.277,11.0,83,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",47,-0.56,2.31,"Chris Olave vs man coverage
 
 2.48 YPRR (6th of 38 WRs) | 28% TPRR (11th) on 83 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
 
 CHI missing Kyler Gordon (slot CB, out)",239,2026-11-22 13:00,True,False,False,Matchup Score below 60,True
-11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",13,-0.137,2.06,"Juwan Johnson vs man coverage
+11,man-beater vs man-heavy defence,Juwan Johnson,TE,NO,CHI,man YPRR,1.9,3,12,0.237,3.0,59,man rate,0.28,6,0.242,7 of 9,0.78,"CHI missing Kyler Gordon (slot CB, out)",12,-0.137,2.06,"Juwan Johnson vs man coverage
 
 1.90 YPRR (3rd of 12 TEs) | 24% TPRR (3rd) on 59 routes
 
 CHI plays man on 28% of dropbacks (6th most) and 7 of 9 opponents saw more man vs CHI than in their other games
 
 CHI missing Kyler Gordon (slot CB, out)",240,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
-11,zone-beater vs zone-heavy defence,Dallas Goedert,TE,PHI,PIT,zone YPRR,1.64,7,16,0.236,4.0,127,zone rate,0.805,8,0.859,8 of 9,0.89,,1,-0.115,1.78,"Dallas Goedert vs zone coverage
+11,zone-beater vs zone-heavy defence,Dallas Goedert,TE,PHI,PIT,zone YPRR,1.64,7,16,0.236,4.0,127,zone rate,0.805,8,0.859,8 of 9,0.89,,3,-0.115,1.78,"Dallas Goedert vs zone coverage
 
 1.64 YPRR (7th of 16 TEs) | 24% TPRR (4th) on 127 routes
 
@@ -67,12 +67,12 @@ PIT plays zone on 80% of dropbacks (8th most) and 8 of 9 opponents saw more zone
 1.54 YPRR (8th of 16 TEs) | 22% TPRR (5th) on 140 routes
 
 CAR plays zone on 82% of dropbacks (4th most) and 7 of 8 opponents saw more zone vs CAR than in their other games",202,2026-11-22 13:00,True,False,False,Matchup Score below 60,False
-11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,11,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,77,1.368,1.53,"Patrick Mahomes from a clean pocket
+11,QB clean pocket vs low-pressure defence,Patrick Mahomes,QB,KC,ARI,clean-pocket EPA/DB,0.278,11,19,,,203,pressure rate,0.305,3,0.332,6 of 10,0.6,,78,1.368,1.53,"Patrick Mahomes from a clean pocket
 
 +0.28 EPA per dropback (11th of 19 QBs) on 203 dropbacks | +0.05 under pressure
 
 ARI pressures on 31% of dropbacks (3rd lowest) and 6 of 10 opponents were pressured less vs ARI than in their other games",239,2026-11-22 13:00,True,True,True,,True
-11,zone-beater vs zone-heavy defence,Sam LaPorta,TE,DET,TB,zone YPRR,1.4,10,16,0.171,11.0,187,zone rate,0.82,5,0.865,6 of 9,0.67,,42,0.007,0.94,"Sam LaPorta vs zone coverage
+11,zone-beater vs zone-heavy defence,Sam LaPorta,TE,DET,TB,zone YPRR,1.4,10,16,0.171,11.0,187,zone rate,0.82,5,0.865,6 of 9,0.67,,39,0.007,0.94,"Sam LaPorta vs zone coverage
 
 1.40 YPRR (10th of 16 TEs) | 17% TPRR (11th) on 187 routes
 

@@ -13,21 +13,18 @@
   10,
   11
  ],
- "opp_week": 11,
+ "opp_week": 12,
  "games_in_latest_week": 1,
- "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk11 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk11 header: none. Teams on bye show BYE with zero rates.",
+ "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk12 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk12 header: ['CIN', 'WAS']. Teams on bye show BYE with zero rates.",
  "book_games_in_latest_week": 8,
  "forecast": {
-  "active": true,
-  "reason": "ok",
-  "built_at_utc": "2026-11-22T13:59:26Z",
-  "week": 11,
-  "norm_only": [
-   "disguise",
-   "run_blitz"
-  ]
+  "active": false,
+  "reason": "FileNotFoundError(2, 'No such file or directory')",
+  "built_at_utc": null,
+  "week": 12,
+  "norm_only": []
  },
- "built_at_utc": "2026-11-23T00:10:45.023711Z",
+ "built_at_utc": "2026-11-23T07:05:56.892198Z",
  "players": 535,
  "defenses": 32,
  "manzone_lookup_cols": 83,

@@ -14,27 +14,34 @@
   11
  ],
  "opp_week": 12,
- "games_in_latest_week": 1,
+ "games_in_latest_week": 12,
  "opp_week_note": "INTENTIONAL: the opponent week follows the schedule clock, not the charted weeks. Every tab must show Wk12 opponents; a sheet showing any other week is stale and must be overwritten with this build, even if that looks like going backwards. Teams yet to play their Monday game keep that opponent under the Wk12 header: ['CIN', 'WAS']. Teams on bye show BYE with zero rates.",
- "book_games_in_latest_week": 8,
+ "book_games_in_latest_week": 12,
  "forecast": {
-  "active": false,
-  "reason": "FileNotFoundError(2, 'No such file or directory')",
-  "built_at_utc": null,
+  "active": true,
+  "reason": "ok",
+  "built_at_utc": "2026-11-23T15:07:41Z",
   "week": 12,
-  "norm_only": []
+  "norm_only": [
+   "disguise",
+   "run_blitz"
+  ],
+  "pending_prior_week": [
+   "CIN",
+   "WAS"
+  ]
  },
- "built_at_utc": "2026-11-23T07:20:37.748780Z",
- "players": 535,
+ "built_at_utc": "2026-11-23T15:21:26.580171Z",
+ "players": 542,
  "defenses": 32,
  "manzone_lookup_cols": 83,
  "def_lookup_cols": 23,
  "fav_cols": 8,
  "align_cols": 4,
- "qbs": 54,
+ "qbs": 55,
  "qb_cols": 122,
- "rbs": 95,
+ "rbs": 98,
  "rb_cols": 135,
- "manzone_rows": 531,
+ "manzone_rows": 538,
  "manzone_cols": 80
 }

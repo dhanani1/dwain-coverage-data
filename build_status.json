@@ -1,1 +1,1 @@
-{"ok": true, "at_utc": "2026-11-23T00:11:45.114424+00:00"}
+{"ok": false, "at_utc": "2026-11-23T07:21:07.908032+00:00", "error": "  File '/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/subprocess.py', line 571, in run     raise CalledProcessError(retcode, process.args, subprocess.CalledProcessError: Command '['git', '-C', '/Users/Zain/Documents/dwain-coverage-data', 'push', '-q', 'origin', 'main']' returned non-zero exit status 1. === done Mon Nov 23 01:21:07 CST 2026 rc=1 === "}

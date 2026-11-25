@@ -1,6 +1,6 @@
 # Frozen receiving-under rule (MSH): forward report
 
-Written 2026-11-25 14:25 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
+Written 2026-11-25 18:26 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
 
 - Week 10: all games and stats verified (28 of 28 teams); stats last ingested 2026-11-17 08:58 ET
 - Week 11: all games and stats verified (26 of 26 teams); stats last ingested 2026-11-25 14:25 ET
@@ -9,7 +9,7 @@ Written 2026-11-25 14:25 ET. Rule frozen 2026-11-13. Prices are the last pre-kic
 ```
 MSH excluded 1 mixed-game snapshot(s) from grading: [(11, '2026-11-16 09:33')]
 MSH excluded 6 snapshot(s) awaiting approved model and training cutoff evidence
-FORWARD (weeks [np.int64(10), np.int64(11), np.int64(12)]) | fired player-markets logged 168 | never had a DraftKings line 62 | settled bets 50 over 16 games
+FORWARD (weeks [np.int64(10), np.int64(11), np.int64(12)]) | fired player-markets logged 182 | never had a DraftKings line 76 | settled bets 50 over 16 games
    pending prices by outcome: 0 without verified finals, 14 without a matched official result
    by week: {10: {'bets': 24, 'roi': -0.157}, 11: {'bets': 26, 'roi': -0.031}} | quote age at kickoff, hours: median 3.6, max 16.2 | model cutoffs used: ['2026 wk 9']
    net ROI -9.1% | hit 48.0% | game-clustered 90% -35.0% to +20.0%, 95% -39.6% to +26.4% | P(ROI >= 10%) 14% | control (all other logged DK receiving unders): n 466, ROI +2.5%

@@ -2,11 +2,26 @@ team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
 BUF,Christian Benford,CB,0.55,out,0.43,0.89,listed,False
 CHI,Tyrique Stevenson,CB,0.77,doubt,0.7,0.96,listed,False
+CLE,Isaiah McGuire,EDGE,0.66,out,0.34,0.92,listed,True
 DAL,DaRon Bland,CB,0.55,out,0.0,0.8,reserve,False
-DEN,Taylor Rapp,S,0.67,doubt,0.55,0.92,listed,False
+DEN,Taylor Rapp,S,0.67,out,0.0,0.82,out,False
 DET,Chuck Clark,S,0.99,doubt,0.75,0.97,listed,False
 HOU,Azeez Al-Shaair,LB,0.52,out,0.0,0.8,reserve,False
+HOU,Sheldon Rankins,DL,0.64,out,0.27,0.92,listed,True
+IND,Charvarius Ward,CB,0.58,out,0.09,0.8,out,True
+MIA,JuJu Brents,CB,0.72,out,0.15,0.8,out,True
+MIA,Dante Trader Jr.,S,0.69,doubt,0.55,0.86,listed,True
+MIN,Isaiah Rodgers,CB,0.56,out,0.08,0.82,out,True
+MIN,Harrison Smith,S,0.63,out,0.28,1.0,listed,True
+MIN,Jalen Redmond,DL,0.8,out,0.37,0.99,listed,True
+NO,Pete Werner,LB,0.57,doubt,0.53,0.86,listed,True
+NO,Martin Emerson Jr.,CB,0.64,doubt,0.78,0.86,listed,True
 NYG,Greg Newsome II,CB,0.53,out,0.0,0.8,reserve,False
+NYG,Dru Phillips,slot CB,0.78,out,0.16,0.8,out,True
+NYG,Abdul Carter,EDGE,0.83,out,0.36,0.93,listed,True
+NYG,Shelby Harris,DL,0.6,doubt,0.65,0.92,listed,True
+NYJ,Harrison Phillips,DL,0.5,doubt,0.56,0.92,listed,True
 PHI,Zack Baun,LB,0.6,out,0.0,0.8,reserve,False
-PHI,Quinyon Mitchell,CB,0.93,out,0.0,0.82,out,False
 PIT,Alex Highsmith,EDGE,0.5,out,0.01,1.0,out,False
+TEN,Cor'Dale Flott,CB,0.89,out,0.13,0.96,out,True
+WAS,Amik Robertson,CB,0.76,out,0.1,0.82,out,True

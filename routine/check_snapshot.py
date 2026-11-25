@@ -22,6 +22,8 @@ def select_snapshot(repo, ref, now):
             raise ValueError("Build timestamp is missing its time zone")
         return result
 
+    if git("rev-parse", "--is-shallow-repository") == "true":
+        raise ValueError("Fetch the full main history before checking the snapshot")
     revision = git("rev-parse", "--verify", f"{ref}^{{commit}}")
     latest = read_json(revision, "build_status.json")
     using_fallback = latest["ok"] is False
@@ -70,7 +72,7 @@ def main():
     parser.add_argument("ref", nargs="?", default="HEAD")
     args = parser.parse_args()
     try:
-        result = select_snapshot(Path(__file__).resolve().parents[1], args.ref, datetime.now(timezone.utc))
+        result = select_snapshot(Path.cwd(), args.ref, datetime.now(timezone.utc))
     except (KeyError, TypeError, ValueError, subprocess.SubprocessError) as error:
         parser.exit(1, f"Sheet refresh held: {error}\n")
     print(json.dumps(result))

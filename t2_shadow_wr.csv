@@ -10,7 +10,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 63707,Rashid Shaheed,SEA,WR,8,2.0,18.0,1.0,"Renardo Green, Carlton Davis III, Mike Hughes",0.382,0.37,0.248,0.0,SF
 48236,Darnell Mooney,NYG,WR,10,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.21,0.235,0.555,0.0,IND
 151069,Malachi Fields,NYG,WR,10,2.0,,,"Tariq Woolen, Jaylen Watson",0.435,0.356,0.209,0.0,IND
-148151,Bryce Lance,NO,WR,10,2.0,,,"Asante Samuel Jr., D.J. Reed",0.371,0.385,0.245,0.0,CIN
+146760,Brian Thomas Jr.,JAX,WR,10,1.0,14.0,4.0,"Christian Gonzalez, Pat Surtain II, Charvarius Ward, Josh Jobe",0.389,0.303,0.308,0.0,TEN
 99229,George Pickens,DAL,WR,10,1.0,17.0,2.0,"Joshua Williams, Jaylen Watson, Sauce Gardner",0.588,0.315,0.097,0.0,PHI
 84470,Amon-Ra St. Brown,DET,WR,10,1.0,17.0,2.0,"Christian Gonzalez, Byron Murphy Jr., Trent McDuffie",0.269,0.269,0.459,0.003,CHI
 145055,Emeka Egbuka,TB,WR,8,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.246,0.421,0.329,0.004,CAR
@@ -34,9 +34,9 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 12087,Tim Patrick,NYJ,WR,4,1.0,15.0,0.0,Charles Woods,0.361,0.426,0.164,0.049,MIA
 162481,Denzel Boston,CLE,WR,10,1.0,,,Joshua Williams,0.478,0.424,0.097,0.0,LV
 158374,Germie Bernard,PIT,WR,10,1.0,,,Charles Woods,0.187,0.313,0.497,0.003,DEN
+148151,Bryce Lance,NO,WR,10,1.0,,,Asante Samuel Jr.,0.371,0.385,0.245,0.0,CIN
 156321,Chris Bell,MIA,WR,9,1.0,,,DJ Turner II,0.407,0.387,0.206,0.0,NYJ
 156395,Omar Cooper Jr.,NYJ,WR,6,1.0,,,Marcus Jones,0.241,0.161,0.598,0.0,MIA
-146760,Brian Thomas Jr.,JAX,WR,10,0.0,14.0,4.0,"Pat Surtain II, Charvarius Ward, Josh Jobe, Kamari Lassiter",0.389,0.303,0.308,0.0,TEN
 48164,Courtland Sutton,DEN,WR,10,0.0,17.0,3.0,"Derek Stingley Jr., Sauce Gardner, Quinyon Mitchell",0.379,0.355,0.266,0.0,PIT
 8642,Mike Evans,SF,WR,7,0.0,8.0,3.0,"Rasul Douglas, Sauce Gardner, Derek Stingley Jr.",0.424,0.374,0.201,0.0,SEA
 48327,A.J. Brown,NE,WR,4,0.0,15.0,3.0,"Rock Ya-Sin, Paulson Adebo, Pat Surtain II",0.567,0.298,0.135,0.0,LAC

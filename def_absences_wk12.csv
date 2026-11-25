@@ -1,0 +1,11 @@
+team,name,grp,share,status,p_available,snap_cap,state,provisional
+ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
+BUF,Christian Benford,CB,0.55,out,0.43,0.89,listed,False
+DAL,DaRon Bland,CB,0.55,out,0.0,0.8,reserve,False
+DEN,Taylor Rapp,S,0.67,doubt,0.55,0.92,listed,False
+DET,Chuck Clark,S,0.99,doubt,0.75,0.97,listed,False
+HOU,Azeez Al-Shaair,LB,0.52,out,0.0,0.8,reserve,False
+NYG,Greg Newsome II,CB,0.53,out,0.0,0.8,reserve,False
+PHI,Zack Baun,LB,0.6,out,0.0,0.8,reserve,False
+PHI,Quinyon Mitchell,CB,0.93,out,0.0,0.82,out,False
+PIT,Alex Highsmith,EDGE,0.5,out,0.01,1.0,out,False

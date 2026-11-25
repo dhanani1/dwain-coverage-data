@@ -6,6 +6,8 @@ This runs DAILY. On most days only the favourability scores and the forecast tab
 
 PEOPLE ARE READING THIS SHEET WHILE YOU WORK (Zain and Dwain McFarland use the WR, QB and RB tabs live). Therefore NEVER clear a tab before writing it. Always write the new values IN PLACE over the old ones (header row first chunk, then the following chunks at their exact rows), and only AFTER the whole tab is written, clear the rows BELOW the new data (from row count+2 to the old extent) with batch_clear_values. A tab must never be blank at any moment.
 
+Part 3 publishes Matchup Score and Matchup Forecast together from a verified temporary staging tab in one Sheets batch. Only that paired publish may change their values. Other parts may verify them and perform the final tidy.
+
 ROWS 1-8 ARE SACRED ON EVERY TAB. NEVER delete, insert above, or move rows 1 through 8 of any tab, for any reason. Colour rules and lookups point at helper cells in those rows (WR tab FQ1:FQ8, QB tab DT1:DV2, RB tab EG1:EI2, T2 Data CH1:CN5, T2 Fav K1:L2, T2 Align G1:J2); deleting one of those rows permanently breaks every colour rule on the tab (this happened on 2026-11-11). You may overwrite the VALUES in the data columns of rows 2-8, never the rows themselves.
 
 RELEASE CHECK BEFORE ANY SHEET WRITE

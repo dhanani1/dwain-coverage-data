@@ -1,6 +1,6 @@
 PART 5 OF 5: Final tidy of every tab
 
-This part runs last, after parts 1-4 and the Mug Looks run. It writes no data. Do the final tidy on every tab exactly as written, then report per tab: rows deleted, formats copied, filters extended, any #REF found. In step 2 insert nothing.
+This part runs last, after parts 1-4 and the Mug Looks run. Run the shared release check first. In last-good mode, report the saved release and skip the tidy because the external-source tabs were held. Otherwise do the final tidy on every tab exactly as written, then report per tab: rows deleted, formats copied, filters extended, any #REF found. In step 2 insert nothing.
 
 Step 1 and step 2 below apply to every part, but in step 2 check and extend ONLY the tabs this part writes.
 

@@ -1,6 +1,6 @@
 PART 4 OF 5: Dwain's export into the Receiving (WR) tab and RBEff, replica check, verification
 
-Tabs you own: the WR tab (sheetId 1215298671, may be titled 'Receiving') columns A:D and M:CJ only, and 'RBEff'. Start with the compare in step 9 straight away; it is the large one. Parts 1 and 2 have already refreshed the T2 tabs this run.
+Tabs you own: the WR tab (sheetId 1215298671, may be titled 'Receiving') columns A:D and M:CJ only, and 'RBEff'. Run the shared release check first. In last-good mode, retain both tabs and report that today's external-source import was held. Otherwise proceed to the compare in step 9. Parts 1 and 2 have already refreshed the T2 tabs this run.
 
 Step 1 and step 2 below apply to every part, but in step 2 check and extend ONLY the tabs this part writes.
 

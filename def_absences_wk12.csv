@@ -1,6 +1,7 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
 BUF,Christian Benford,CB,0.55,out,0.43,0.89,listed,False
+CHI,Tyrique Stevenson,CB,0.77,doubt,0.7,0.96,listed,False
 DAL,DaRon Bland,CB,0.55,out,0.0,0.8,reserve,False
 DEN,Taylor Rapp,S,0.67,doubt,0.55,0.92,listed,False
 DET,Chuck Clark,S,0.99,doubt,0.75,0.97,listed,False

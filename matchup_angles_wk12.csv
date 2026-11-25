@@ -1,5 +1,5 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-12,zone-beater vs zone-heavy defence,Jaxon Smith-Njigba,WR,SEA,SF,zone YPRR,4.17,1,65,0.339,1.0,180,zone rate,0.822,6,0.876,9 of 10,0.9,,80,0.337,5.18,"Jaxon Smith-Njigba vs zone coverage
+12,zone-beater vs zone-heavy defence,Jaxon Smith-Njigba,WR,SEA,SF,zone YPRR,4.17,1,65,0.339,1.0,180,zone rate,0.822,6,0.876,9 of 10,0.9,,79,0.337,5.18,"Jaxon Smith-Njigba vs zone coverage
 
 4.17 YPRR (1st of 65 WRs) | 34% TPRR (1st) on 180 routes
 
@@ -9,24 +9,24 @@ SF plays zone on 82% of dropbacks (6th most) and 9 of 10 opponents saw more zone
 3.20 YPRR (3rd of 65 WRs) | 29% TPRR (4th) on 199 routes
 
 MIN plays zone on 87% of dropbacks (most in the NFL) and 10 of 10 opponents saw more zone vs MIN than in their other games",211,2026-11-29 13:00,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.495,2,23,,,227,pressure rate,0.289,1,0.319,8 of 10,0.8,,99,2.651,3.97,"Trevor Lawrence from a clean pocket
+12,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.495,2,23,,,227,pressure rate,0.289,1,0.319,8 of 10,0.8,,99,2.652,3.97,"Trevor Lawrence from a clean pocket
 
 +0.49 EPA per dropback (2nd of 23 QBs) on 227 dropbacks | -0.34 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 8 of 10 opponents were pressured less vs TEN than in their other games",245,2026-11-29 13:00,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Joe Burrow,QB,CIN,NO,clean-pocket EPA/DB,0.402,6,23,,,286,pressure rate,0.327,7,0.313,9 of 10,0.9,,94,-0.453,2.5,"Joe Burrow from a clean pocket
+12,QB clean pocket vs low-pressure defence,Joe Burrow,QB,CIN,NO,clean-pocket EPA/DB,0.402,6,23,,,286,pressure rate,0.327,7,0.313,9 of 10,0.9,,94,-0.452,2.5,"Joe Burrow from a clean pocket
 
 +0.40 EPA per dropback (6th of 23 QBs) on 286 dropbacks | +0.04 under pressure
 
 NO pressures on 33% of dropbacks (7th lowest) and 9 of 10 opponents were pressured less vs NO than in their other games",231,2026-11-29 13:00,True,True,True,True
-12,zone-beater vs zone-heavy defence,Chigoziem Okonkwo,TE,WAS,ARI,zone YPRR,1.64,11,28,0.183,13.0,120,zone rate,0.842,3,0.869,10 of 11,0.91,"ARI missing Andrew Wingard (S, out)",93,0.988,2.43,"Chigoziem Okonkwo vs zone coverage
+12,zone-beater vs zone-heavy defence,Chigoziem Okonkwo,TE,WAS,ARI,zone YPRR,1.64,11,28,0.183,13.0,120,zone rate,0.842,3,0.869,10 of 11,0.91,"ARI missing Andrew Wingard (S, out)",93,0.991,2.43,"Chigoziem Okonkwo vs zone coverage
 
 1.64 YPRR (11th of 28 TEs) | 18% TPRR (13th) on 120 routes
 
 ARI plays zone on 84% of dropbacks (3rd most) and 10 of 11 opponents saw more zone vs ARI than in their other games
 
 ARI missing Andrew Wingard (S, out)",248,2026-11-29 16:25,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,ARI,clean-pocket EPA/DB,0.336,9,23,,,192,pressure rate,0.298,2,0.341,7 of 11,0.64,,76,1.408,2.23,"Jayden Daniels from a clean pocket
+12,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,ARI,clean-pocket EPA/DB,0.336,9,23,,,192,pressure rate,0.298,2,0.341,7 of 11,0.64,,76,1.409,2.23,"Jayden Daniels from a clean pocket
 
 +0.34 EPA per dropback (9th of 23 QBs) on 192 dropbacks | -0.29 under pressure
 

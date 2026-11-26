@@ -1,42 +1,32 @@
 week,type,player,pos,team,opp,player_stat,player_value,player_rank,player_pool,tprr,tprr_rank,sample_routes,def_stat,def_value,def_rank,forecast_rate,consistency,consistency_share,def_absences,matchup_score,pure_matchup_sim,strength,tweet,chars,kickoff_et,pre_kickoff,score_agrees,publish,best_for_defence
-12,zone-beater vs zone-heavy defence,Drake London,WR,ATL,MIN,zone YPRR,3.2,2,62,0.286,4.0,199,zone rate,0.868,1,0.922,10 of 10,1.0,"MIN missing Isaiah Rodgers (CB, out), Harrison Smith (S, out)",94,-0.234,4.72,"Drake London vs zone coverage
+12,zone-beater vs zone-heavy defence,Drake London,WR,ATL,MIN,zone YPRR,3.2,2,63,0.286,4.0,199,zone rate,0.868,1,0.922,10 of 10,1.0,"MIN missing Isaiah Rodgers (CB, out), Harrison Smith (S, doubt)",93,-0.234,4.74,"Drake London vs zone coverage
 
-3.20 YPRR (2nd of 62 WRs) | 29% TPRR (4th) on 199 routes
+3.20 YPRR (2nd of 63 WRs) | 29% TPRR (4th) on 199 routes
 
 MIN plays zone on 87% of dropbacks (most in the NFL) and 10 of 10 opponents saw more zone vs MIN than in their other games
 
-MIN missing Isaiah Rodgers (CB, out), Harrison Smith (S, out)",274,2026-11-29 13:00,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.495,2,22,,,227,pressure rate,0.289,1,0.319,8 of 10,0.8,,99,2.652,4.08,"Trevor Lawrence from a clean pocket
+MIN missing Isaiah Rodgers (CB, out), Harrison Smith (S, doubt)",276,2026-11-29 13:00,True,True,True,True
+12,QB clean pocket vs low-pressure defence,Trevor Lawrence,QB,JAX,TEN,clean-pocket EPA/DB,0.495,2,23,,,227,pressure rate,0.289,1,0.319,8 of 10,0.8,,99,2.651,4.08,"Trevor Lawrence from a clean pocket
 
-+0.49 EPA per dropback (2nd of 22 QBs) on 227 dropbacks | -0.34 under pressure
++0.49 EPA per dropback (2nd of 23 QBs) on 227 dropbacks | -0.34 under pressure
 
 TEN pressures on 29% of dropbacks (lowest in the NFL) and 8 of 10 opponents were pressured less vs TEN than in their other games",245,2026-11-29 13:00,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Dak Prescott,QB,DAL,PHI,clean-pocket EPA/DB,0.437,3,22,,,307,pressure rate,0.313,3,0.334,6 of 10,0.6,,75,-0.134,2.58,"Dak Prescott from a clean pocket
+12,QB clean pocket vs low-pressure defence,Joe Burrow,QB,CIN,NO,clean-pocket EPA/DB,0.402,6,23,,,286,pressure rate,0.327,7,0.313,9 of 10,0.9,,92,-0.453,2.5,"Joe Burrow from a clean pocket
 
-+0.44 EPA per dropback (3rd of 22 QBs) on 307 dropbacks | -0.17 under pressure
-
-PHI pressures on 31% of dropbacks (3rd lowest) and 6 of 10 opponents were pressured less vs PHI than in their other games",235,2026-11-26 16:30,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Joe Burrow,QB,CIN,NO,clean-pocket EPA/DB,0.402,6,22,,,286,pressure rate,0.327,7,0.313,9 of 10,0.9,,91,-0.453,2.51,"Joe Burrow from a clean pocket
-
-+0.40 EPA per dropback (6th of 22 QBs) on 286 dropbacks | +0.04 under pressure
++0.40 EPA per dropback (6th of 23 QBs) on 286 dropbacks | +0.04 under pressure
 
 NO pressures on 33% of dropbacks (7th lowest) and 9 of 10 opponents were pressured less vs NO than in their other games",231,2026-11-29 13:00,True,True,True,True
-12,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,ARI,clean-pocket EPA/DB,0.336,9,22,,,192,pressure rate,0.298,2,0.341,8 of 11,0.73,"ARI missing Josh Sweat (EDGE, out)",75,1.409,2.35,"Jayden Daniels from a clean pocket
+12,zone-beater vs zone-heavy defence,Chigoziem Okonkwo,TE,WAS,ARI,zone YPRR,1.64,10,24,0.183,12.0,120,zone rate,0.842,3,0.868,10 of 11,0.91,"ARI missing Andrew Wingard (S, out)",93,1.003,2.36,"Chigoziem Okonkwo vs zone coverage
 
-+0.34 EPA per dropback (9th of 22 QBs) on 192 dropbacks | -0.29 under pressure
-
-ARI pressures on 30% of dropbacks (2nd lowest) and 8 of 11 opponents were pressured less vs ARI than in their other games
-
-ARI missing Josh Sweat (EDGE, out)",273,2026-11-29 16:25,True,True,True,True
-12,zone-beater vs zone-heavy defence,Chigoziem Okonkwo,TE,WAS,ARI,zone YPRR,1.64,11,25,0.183,13.0,120,zone rate,0.842,3,0.868,10 of 11,0.91,"ARI missing Andrew Wingard (S, out)",94,1.001,2.34,"Chigoziem Okonkwo vs zone coverage
-
-1.64 YPRR (11th of 25 TEs) | 18% TPRR (13th) on 120 routes
+1.64 YPRR (10th of 24 TEs) | 18% TPRR (12th) on 120 routes
 
 ARI plays zone on 84% of dropbacks (3rd most) and 10 of 11 opponents saw more zone vs ARI than in their other games
 
 ARI missing Andrew Wingard (S, out)",248,2026-11-29 16:25,True,True,True,True
-12,zone-beater vs zone-heavy defence,Tetairoa McMillan,WR,CAR,TB,zone YPRR,2.17,15,62,0.208,24.0,226,zone rate,0.829,4,0.844,7 of 10,0.7,,79,0.336,2.26,"Tetairoa McMillan vs zone coverage
+12,QB clean pocket vs low-pressure defence,Jayden Daniels,QB,WAS,ARI,clean-pocket EPA/DB,0.336,10,23,,,192,pressure rate,0.298,2,0.341,8 of 11,0.73,"ARI missing Josh Sweat (EDGE, out)",75,1.409,2.33,"Jayden Daniels from a clean pocket
 
-2.17 YPRR (15th of 62 WRs) | 21% TPRR (24th) on 226 routes
++0.34 EPA per dropback (10th of 23 QBs) on 192 dropbacks | -0.29 under pressure
 
-TB plays zone on 83% of dropbacks (4th most) and 7 of 10 opponents saw more zone vs TB than in their other games",208,2026-11-30 20:15,True,True,True,True
+ARI pressures on 30% of dropbacks (2nd lowest) and 8 of 11 opponents were pressured less vs ARI than in their other games
+
+ARI missing Josh Sweat (EDGE, out)",274,2026-11-29 16:25,True,True,True,True

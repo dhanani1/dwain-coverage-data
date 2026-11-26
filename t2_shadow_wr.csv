@@ -10,7 +10,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 63707,Rashid Shaheed,SEA,WR,8,2.0,18.0,1.0,"Renardo Green, Carlton Davis III, Mike Hughes",0.382,0.37,0.248,0.0,SF
 48236,Darnell Mooney,NYG,WR,10,2.0,15.0,0.0,"Kamari Lassiter, Josh Wallace",0.21,0.235,0.555,0.0,IND
 151069,Malachi Fields,NYG,WR,10,2.0,,,"Tariq Woolen, Jaylen Watson",0.435,0.356,0.209,0.0,IND
-146760,Brian Thomas Jr.,JAX,WR,10,1.0,14.0,4.0,"Christian Gonzalez, Pat Surtain II, Charvarius Ward, Josh Jobe",0.389,0.303,0.308,0.0,TEN
+148151,Bryce Lance,NO,WR,10,2.0,,,"Asante Samuel Jr., D.J. Reed",0.371,0.385,0.245,0.0,CIN
 99229,George Pickens,DAL,WR,10,1.0,17.0,2.0,"Joshua Williams, Jaylen Watson, Sauce Gardner",0.588,0.315,0.097,0.0,PHI
 84470,Amon-Ra St. Brown,DET,WR,10,1.0,17.0,2.0,"Christian Gonzalez, Byron Murphy Jr., Trent McDuffie",0.269,0.269,0.459,0.003,CHI
 145055,Emeka Egbuka,TB,WR,8,1.0,17.0,2.0,"DJ Turner II, Christian Gonzalez, Kamari Lassiter",0.246,0.421,0.329,0.004,CAR
@@ -21,8 +21,8 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 129758,Jaxon Smith-Njigba,SEA,WR,10,1.0,17.0,1.0,"Christian Gonzalez, A.J. Terrell",0.368,0.359,0.273,0.0,SF
 61103,Jerry Jeudy,CLE,WR,10,1.0,17.0,1.0,"Asante Samuel Jr., D.J. Reed",0.337,0.381,0.282,0.0,LV
 157263,Elic Ayomanor,TEN,WR,10,1.0,16.0,1.0,"Greg Newsome II, Riley Moss",0.455,0.409,0.128,0.009,JAX
+156165,Matthew Golden,GB,WR,11,1.0,14.0,0.0,Christian Gonzalez,0.389,0.373,0.238,0.0,LAR
 84423,Michael Wilson,ARI,WR,9,1.0,17.0,0.0,D.J. Reed,0.292,0.515,0.187,0.006,WAS
-156165,Matthew Golden,GB,WR,10,1.0,14.0,0.0,Christian Gonzalez,0.39,0.376,0.234,0.0,LAR
 136866,Darius Cooper,PHI,WR,10,1.0,13.0,0.0,Akayleb Evans,0.345,0.345,0.298,0.012,DAL
 47153,Mike Gesicki,CIN,TE,10,1.0,13.0,0.0,Jourdan Lewis,0.059,0.068,0.869,0.004,NO
 12270,Kendrick Bourne,ARI,WR,8,1.0,16.0,0.0,Roger McCreary,0.153,0.136,0.712,0.0,WAS
@@ -30,21 +30,21 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 61100,DeVonta Smith,PHI,WR,5,1.0,17.0,0.0,Will Lee III,0.389,0.469,0.142,0.0,DAL
 129604,Roman Wilson,PIT,WR,6,1.0,13.0,0.0,Marcus Jones,0.235,0.296,0.469,0.0,DEN
 11873,Mack Hollins,NE,WR,6,1.0,15.0,0.0,Asante Samuel Jr.,0.195,0.535,0.27,0.0,LAC
-77965,Tutu Atwell,LAR,WR,7,1.0,10.0,0.0,Kalen King,0.188,0.195,0.617,0.0,GB
-123101,Savion Williams,GB,WR,5,1.0,10.0,0.0,Roger McCreary,0.272,0.105,0.605,0.018,LAR
+123101,Savion Williams,GB,WR,6,1.0,10.0,0.0,Roger McCreary,0.259,0.129,0.597,0.014,LAR
+77965,Tutu Atwell,LAR,WR,8,1.0,10.0,0.0,Kalen King,0.188,0.203,0.609,0.0,GB
 12087,Tim Patrick,NYJ,WR,4,1.0,15.0,0.0,Charles Woods,0.361,0.426,0.164,0.049,MIA
 162481,Denzel Boston,CLE,WR,10,1.0,,,Joshua Williams,0.478,0.424,0.097,0.0,LV
 158374,Germie Bernard,PIT,WR,10,1.0,,,Charles Woods,0.187,0.313,0.497,0.003,DEN
-148151,Bryce Lance,NO,WR,10,1.0,,,Asante Samuel Jr.,0.371,0.385,0.245,0.0,CIN
 156321,Chris Bell,MIA,WR,9,1.0,,,DJ Turner II,0.407,0.387,0.206,0.0,NYJ
 156395,Omar Cooper Jr.,NYJ,WR,6,1.0,,,Marcus Jones,0.241,0.161,0.598,0.0,MIA
+146760,Brian Thomas Jr.,JAX,WR,10,0.0,14.0,4.0,"Pat Surtain II, Charvarius Ward, Josh Jobe, Kamari Lassiter",0.389,0.303,0.308,0.0,TEN
 48164,Courtland Sutton,DEN,WR,10,0.0,17.0,3.0,"Derek Stingley Jr., Sauce Gardner, Quinyon Mitchell",0.379,0.355,0.266,0.0,PIT
 8642,Mike Evans,SF,WR,7,0.0,8.0,3.0,"Rasul Douglas, Sauce Gardner, Derek Stingley Jr.",0.424,0.374,0.201,0.0,SEA
 48327,A.J. Brown,NE,WR,4,0.0,15.0,3.0,"Rock Ya-Sin, Paulson Adebo, Pat Surtain II",0.567,0.298,0.135,0.0,LAC
 84270,Ja'Marr Chase,CIN,WR,10,0.0,16.0,2.0,"Christian Benford, Pat Surtain II",0.38,0.352,0.268,0.0,NO
+66581,Christian Watson,GB,WR,11,0.0,10.0,2.0,"Pat Surtain II, Amik Robertson",0.34,0.369,0.279,0.012,LAR
 101701,Jameson Williams,DET,WR,10,0.0,17.0,2.0,"Cor'Dale Flott, Isaiah Rodgers",0.363,0.402,0.236,0.0,CHI
 122832,Josh Downs,KC,WR,11,0.0,16.0,2.0,"Brandin Echols, Jason Marshall Jr.",0.131,0.155,0.714,0.0,BUF
-66581,Christian Watson,GB,WR,10,0.0,10.0,2.0,"Pat Surtain II, Amik Robertson",0.346,0.373,0.269,0.012,LAR
 86519,Drake London,ATL,WR,10,0.0,12.0,2.0,"Sauce Gardner, Christian Benford",0.348,0.26,0.392,0.0,MIN
 97268,Zay Flowers,BAL,WR,10,0.0,17.0,2.0,DJ Turner II,0.206,0.188,0.606,0.0,HOU
 123085,Quentin Johnston,LAC,WR,9,0.0,14.0,2.0,"Adoree' Jackson, Pat Surtain II",0.431,0.311,0.258,0.0,NE
@@ -52,7 +52,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 122518,Xavier Hutchinson,HOU,WR,10,0.0,17.0,2.0,"Cam Hart, Jalyn Armour-Davis",0.221,0.202,0.577,0.0,BAL
 123000,Jordan Addison,MIN,WR,7,0.0,14.0,2.0,"D.J. Reed, Terrion Arnold",0.317,0.362,0.321,0.0,ATL
 129918,Chimere Dike,TEN,WR,10,0.0,17.0,2.0,"Upton Stout, Marcus Jones",0.336,0.359,0.29,0.015,JAX
-102585,Xavier Smith,LAR,WR,4,0.0,14.0,2.0,"Devon Witherspoon, Upton Stout",0.284,0.06,0.657,0.0,GB
+102585,Xavier Smith,LAR,WR,5,0.0,14.0,2.0,"Devon Witherspoon, Upton Stout",0.247,0.117,0.636,0.0,GB
 84355,Chris Olave,NO,WR,10,0.0,16.0,1.0,Christian Benford,0.373,0.351,0.276,0.0,CIN
 143068,Jalen Coker,CAR,WR,9,0.0,11.0,1.0,Jarvis Brownlee Jr.,0.297,0.255,0.448,0.0,TB
 129799,Parker Washington,JAX,WR,10,0.0,16.0,1.0,Kenny Moore II,0.277,0.228,0.491,0.003,TEN
@@ -63,7 +63,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 157170,Luther Burden III,CHI,WR,10,0.0,15.0,1.0,Cooper DeJean,0.264,0.19,0.547,0.0,DET
 84292,Jalen Nailor,LV,WR,10,0.0,17.0,1.0,Javon Bullard,0.409,0.374,0.217,0.0,CLE
 84088,Jaylen Waddle,DEN,WR,10,0.0,16.0,1.0,Maxwell Hairston,0.257,0.346,0.397,0.0,PIT
-145598,Konata Mumpfield,LAR,WR,10,0.0,16.0,1.0,A.J. Terrell,0.282,0.33,0.388,0.0,GB
+145598,Konata Mumpfield,LAR,WR,11,0.0,16.0,1.0,A.J. Terrell,0.303,0.338,0.359,0.0,GB
 146712,Adonai Mitchell,NYJ,WR,7,0.0,16.0,1.0,Mike Hughes,0.412,0.387,0.191,0.01,MIA
 145056,Marvin Harrison Jr.,HOU,WR,7,0.0,12.0,1.0,L'Jarius Sneed,0.468,0.335,0.197,0.0,BAL
 125155,Jaylin Noel,HOU,WR,7,0.0,17.0,1.0,Upton Stout,0.184,0.102,0.714,0.0,BAL
@@ -85,6 +85,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 83955,Isaiah Likely,NYG,TE,10,0.0,14.0,0.0,,0.057,0.087,0.775,0.081,IND
 163104,Harold Fannin Jr.,CLE,TE,10,0.0,16.0,0.0,,0.078,0.072,0.39,0.459,LV
 144718,Xavier Worthy,KC,WR,10,0.0,14.0,0.0,,0.375,0.345,0.271,0.009,BUF
+104034,Tucker Kraft,GB,TE,11,0.0,8.0,0.0,,0.066,0.041,0.329,0.563,LAR
 122906,Michael Mayer,LV,TE,11,0.0,13.0,0.0,,0.045,0.035,0.223,0.697,CLE
 10657,Laquon Treadwell,IND,WR,11,0.0,4.0,0.0,,0.422,0.412,0.166,0.0,NYG
 11839,Chris Godwin,TB,WR,10,0.0,9.0,0.0,,0.271,0.211,0.518,0.0,CAR
@@ -92,7 +93,6 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 158540,Colston Loveland,CHI,TE,10,0.0,16.0,0.0,,0.136,0.115,0.295,0.454,DET
 101690,Sam LaPorta,DET,TE,10,0.0,9.0,0.0,,0.052,0.066,0.379,0.503,CHI
 61071,Cade Otton,TB,TE,10,0.0,16.0,0.0,,0.049,0.119,0.409,0.423,CAR
-104034,Tucker Kraft,GB,TE,10,0.0,8.0,0.0,,0.056,0.038,0.332,0.573,LAR
 28305,Juwan Johnson,NO,TE,10,0.0,17.0,0.0,,0.09,0.057,0.541,0.312,CIN
 11824,Cooper Kupp,SEA,WR,10,0.0,16.0,0.0,,0.266,0.219,0.514,0.0,SF
 84085,Pat Freiermuth,PIT,TE,10,0.0,17.0,0.0,,0.05,0.05,0.691,0.209,DEN
@@ -106,11 +106,11 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 100632,Puka Nacua,LAR,WR,7,0.0,16.0,0.0,,0.268,0.456,0.272,0.004,GB
 11901,George Kittle,SF,TE,10,0.0,11.0,0.0,,0.056,0.024,0.282,0.637,SEA
 7857,Keenan Allen,SF,WR,10,0.0,17.0,0.0,,0.34,0.381,0.279,0.0,SEA
+10744,Tyler Higbee,LAR,TE,11,0.0,10.0,0.0,,0.101,0.089,0.304,0.506,GB
 47304,Dalton Schultz,HOU,TE,10,0.0,17.0,0.0,,0.065,0.098,0.424,0.412,BAL
 101694,Brenton Strange,JAX,TE,10,0.0,12.0,0.0,,0.095,0.104,0.315,0.485,TEN
 172430,Isaac TeSlaa,DET,WR,10,0.0,17.0,0.0,,0.371,0.271,0.346,0.012,CHI
 9637,Darren Waller,CAR,TE,10,0.0,9.0,0.0,,0.118,0.118,0.567,0.197,TB
-10744,Tyler Higbee,LAR,TE,10,0.0,10.0,0.0,,0.105,0.084,0.315,0.496,GB
 83964,Kyle Pitts,ATL,TE,10,0.0,17.0,0.0,,0.103,0.129,0.375,0.392,MIN
 122676,Tre Harris,LAC,WR,9,0.0,17.0,0.0,,0.291,0.304,0.404,0.0,NE
 84000,Chigoziem Okonkwo,WAS,TE,8,0.0,17.0,0.0,,0.066,0.096,0.528,0.31,ARI
@@ -146,16 +146,17 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 42388,Noah Fant,NO,TE,9,0.0,15.0,0.0,,0.054,0.038,0.215,0.692,CIN
 141521,Efton Chism III,NE,WR,9,0.0,6.0,0.0,,0.262,0.389,0.333,0.016,LAC
 145773,Devontez Walker,BAL,WR,10,0.0,9.0,0.0,,0.381,0.286,0.333,0.0,HOU
+52266,Colby Parkinson,LAR,TE,9,0.0,15.0,0.0,,0.04,0.088,0.128,0.744,GB
 60917,Charlie Kolar,LAC,TE,8,0.0,17.0,0.0,,0.065,0.106,0.211,0.618,NE
 146771,Jack Bech,LV,WR,7,0.0,15.0,0.0,,0.18,0.23,0.59,0.0,CLE
-52266,Colby Parkinson,LAR,TE,8,0.0,15.0,0.0,,0.042,0.092,0.134,0.731,GB
 47259,Drew Sample,CIN,TE,10,0.0,17.0,0.0,,0.008,0.025,0.076,0.89,NO
 77986,Dyami Brown,WAS,WR,7,0.0,13.0,0.0,,0.398,0.331,0.271,0.0,ARI
 98027,Elijah Higgins,ARI,TE,11,0.0,17.0,0.0,,0.136,0.119,0.203,0.542,WAS
 147486,Mitchell Evans,CAR,TE,10,0.0,17.0,0.0,,0.053,0.08,0.239,0.628,TB
 163442,Jalen Royals,KC,WR,9,0.0,4.0,0.0,,0.384,0.304,0.259,0.054,BUF
 61448,Cody White,LV,WR,11,0.0,9.0,0.0,,0.452,0.308,0.24,0.0,CLE
-99697,Davis Allen,LAR,TE,10,0.0,17.0,0.0,,0.09,0.14,0.13,0.64,GB
+99697,Davis Allen,LAR,TE,11,0.0,17.0,0.0,,0.087,0.136,0.136,0.641,GB
+61610,Bo Melton,GB,WR,10,0.0,9.0,0.0,,0.28,0.26,0.46,0.0,LAR
 111284,Jalen Brooks,ARI,WR,6,0.0,6.0,0.0,,0.475,0.323,0.202,0.0,WAS
 78092,Tyquan Thornton,KC,WR,4,0.0,14.0,0.0,,0.378,0.327,0.276,0.02,BUF
 60995,Cole Kmet,CHI,TE,7,0.0,16.0,0.0,,0.124,0.103,0.103,0.67,DET
@@ -165,10 +166,9 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 129787,Theo Johnson,NYG,TE,8,0.0,15.0,0.0,,0.161,0.086,0.527,0.226,IND
 123155,Myles Price,MIN,WR,8,0.0,1.0,0.0,,0.169,0.169,0.663,0.0,ATL
 84041,Daniel Bellinger,TEN,TE,10,0.0,16.0,0.0,,0.057,0.045,0.58,0.318,JAX
+11855,Jonnu Smith,GB,TE,10,0.0,17.0,0.0,,0.057,0.126,0.391,0.425,LAR
 42353,Luke Farrell,SF,TE,10,0.0,17.0,0.0,,0.069,0.046,0.126,0.759,SEA
-61610,Bo Melton,GB,WR,9,0.0,9.0,0.0,,0.264,0.276,0.46,0.0,LAR
 109795,Adam Trautman,DEN,TE,10,0.0,17.0,0.0,,0.058,0.058,0.174,0.709,PIT
-11855,Jonnu Smith,GB,TE,9,0.0,17.0,0.0,,0.059,0.118,0.388,0.435,LAR
 7912,Kyle Juszczyk,SF,WR,9,0.0,17.0,0.0,,0.085,0.11,0.402,0.402,SEA
 42257,Charlie Woerner,ATL,TE,9,0.0,17.0,0.0,,0.049,0.073,0.195,0.683,MIN
 122616,Ben Sinnott,WAS,TE,10,0.0,15.0,0.0,,0.138,0.062,0.238,0.562,ARI
@@ -187,7 +187,7 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 122937,Marvin Mims Jr.,DEN,WR,8,0.0,15.0,0.0,,0.333,0.197,0.47,0.0,PIT
 84096,Chris Blair,ATL,WR,10,0.0,2.0,0.0,,0.277,0.369,0.354,0.0,MIN
 91479,Ashton Dulin,IND,WR,6,0.0,11.0,0.0,,0.484,0.344,0.156,0.016,NYG
-97116,Skyy Moore,GB,WR,5,0.0,13.0,0.0,,0.131,0.18,0.639,0.049,LAR
+97116,Skyy Moore,GB,WR,6,0.0,13.0,0.0,,0.129,0.177,0.645,0.048,LAR
 10715,Austin Hooper,ATL,TE,9,0.0,16.0,0.0,,0.067,0.05,0.217,0.667,MIN
 10760,Demarcus Robinson,SF,WR,4,0.0,14.0,0.0,,0.3,0.467,0.233,0.0,SEA
 174150,Makai Lemon,PHI,WR,10,0.0,,,,0.193,0.152,0.652,0.003,DAL
@@ -208,12 +208,12 @@ player_id,Player,Team,Pos,2026 G,2026 Times Shadowed,2025 G,2025 Times Shadowed,
 145107,Deion Burks,IND,WR,10,0.0,,,,0.381,0.298,0.31,0.012,NYG
 160110,Andrew Armstrong,KC,WR,6,0.0,,,,0.304,0.367,0.291,0.038,BUF
 129581,Matthew Hibner,BAL,TE,10,0.0,,,,0.081,0.135,0.135,0.649,HOU
+146288,J. Michael Sturdivant,GB,WR,10,0.0,,,,0.194,0.417,0.389,0.0,LAR
 147570,Josh Cuevas,BAL,TE,11,0.0,,,,0.183,0.197,0.268,0.352,HOU
 158022,Reggie Virgil,ARI,WR,7,0.0,,,,0.563,0.211,0.225,0.0,WAS
 78874,Tank Dell,HOU,WR,4,0.0,,,,0.324,0.353,0.324,0.0,BAL
 157690,Jordyn Tyson,NO,WR,3,0.0,,,,0.235,0.162,0.603,0.0,CIN
-146288,J. Michael Sturdivant,GB,WR,9,0.0,,,,0.197,0.394,0.409,0.0,LAR
+131911,Mark Redman,GB,TE,11,0.0,,,,0.094,0.047,0.062,0.797,LAR
 174142,Zachariah Branch,ATL,WR,8,0.0,,,,0.297,0.188,0.516,0.0,MIN
 144013,Gavin Bartholomew,MIN,TE,6,0.0,,,,0.111,0.079,0.397,0.413,ATL
-131911,Mark Redman,GB,TE,10,0.0,,,,0.1,0.05,0.067,0.783,LAR
 145896,Will Kacmarek,MIA,TE,10,0.0,,,,0.067,0.017,0.05,0.867,NYJ

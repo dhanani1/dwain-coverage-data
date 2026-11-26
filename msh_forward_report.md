@@ -1,10 +1,10 @@
 # Frozen receiving-under rule (MSH): forward report
 
-Written 2026-11-25 18:26 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
+Written 2026-11-26 10:18 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
 
 - Week 10: all games and stats verified (28 of 28 teams); stats last ingested 2026-11-17 08:58 ET
 - Week 11: all games and stats verified (26 of 26 teams); stats last ingested 2026-11-25 14:25 ET
-- Week 12: waiting on ARI, ATL, BAL, BUF, CAR, CHI, CIN, CLE, DAL, DEN, DET, GB, HOU, IND, JAX, KC, LA, LAC, LV, MIA, MIN, NE, NO, NYG, NYJ, PHI, PIT, SEA, SF, TB, TEN, WAS, 2026_12_ATL_MIN final, 2026_12_BAL_HOU final, 2026_12_CAR_TB final, 2026_12_CHI_DET final, 2026_12_DEN_PIT final, 2026_12_GB_LA final, 2026_12_KC_BUF final, 2026_12_LV_CLE final, 2026_12_NE_LAC final, 2026_12_NO_CIN final, 2026_12_NYG_IND final, 2026_12_NYJ_MIA final, 2026_12_PHI_DAL final, 2026_12_SEA_SF final, 2026_12_TEN_JAX final, 2026_12_WAS_ARI final (0 of 32 teams)
+- Week 12: waiting on ARI, ATL, BAL, BUF, CAR, CHI, CIN, CLE, DAL, DEN, DET, HOU, IND, JAX, KC, LAC, LV, MIA, MIN, NE, NO, NYG, NYJ, PHI, PIT, SEA, SF, TB, TEN, WAS, 2026_12_ATL_MIN final, 2026_12_BAL_HOU final, 2026_12_CAR_TB final, 2026_12_CHI_DET final, 2026_12_DEN_PIT final, 2026_12_KC_BUF final, 2026_12_LV_CLE final, 2026_12_NE_LAC final, 2026_12_NO_CIN final, 2026_12_NYG_IND final, 2026_12_NYJ_MIA final, 2026_12_PHI_DAL final, 2026_12_SEA_SF final, 2026_12_TEN_JAX final, 2026_12_WAS_ARI final (2 of 32 teams); stats last ingested 2026-11-26 10:18 ET
 
 ```
 MSH excluded 1 mixed-game snapshot(s) from grading: [(11, '2026-11-16 09:33')]

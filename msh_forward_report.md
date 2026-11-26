@@ -1,6 +1,6 @@
 # Frozen receiving-under rule (MSH): forward report
 
-Written 2026-11-26 10:18 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
+Written 2026-11-26 14:17 ET. Rule frozen 2026-11-13. Prices are the last pre-kickoff DraftKings snapshot. Uncertainty is clustered by game.
 
 - Week 10: all games and stats verified (28 of 28 teams); stats last ingested 2026-11-17 08:58 ET
 - Week 11: all games and stats verified (26 of 26 teams); stats last ingested 2026-11-25 14:25 ET

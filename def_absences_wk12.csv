@@ -1,33 +1,18 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
-ARI,Josh Sweat,EDGE,0.63,doubt,0.63,0.99,listed,False
-CAR,Pat Jones II,EDGE,0.72,out,0.08,0.8,out,True
-CLE,Isaiah McGuire,EDGE,0.66,doubt,0.58,0.99,listed,False
-DEN,Taylor Rapp,S,0.67,out,0.0,0.82,out,False
+CAR,Pat Jones II,EDGE,0.72,out,0.02,0.8,out,True
 HOU,Azeez Al-Shaair,LB,0.52,out,0.0,0.8,reserve,False
-HOU,Sheldon Rankins,DL,0.64,doubt,0.73,0.91,listed,False
 IND,Charvarius Ward,CB,0.58,out,0.0,0.8,out,False
+LAC,Daiyan Henley,LB,0.63,out,0.0,0.8,out,False
+LAC,Akheem Mesidor,EDGE,0.55,out,0.01,1.0,out,False
 LAC,Tarheeb Still,CB,0.75,out,0.21,0.82,out,False
-LAC,Daiyan Henley,LB,0.63,out,0.23,0.8,out,False
-LAC,Akheem Mesidor,EDGE,0.55,out,0.28,0.81,listed,False
 LAC,Tuli Tuipulotu,EDGE,0.84,doubt,0.5,0.86,listed,False
-LAC,Dalvin Tomlinson,DL,0.57,doubt,0.57,0.87,listed,False
 MIA,JuJu Brents,CB,0.72,out,0.0,0.8,out,False
-MIA,Dante Trader Jr.,S,0.69,out,0.46,0.9,listed,False
-MIN,Isaiah Rodgers,CB,0.56,out,0.19,0.82,out,False
+MIN,Isaiah Rodgers,CB,0.56,out,0.0,0.82,out,False
 MIN,Harrison Smith,S,0.63,doubt,0.67,0.95,listed,False
-MIN,Jalen Redmond,DL,0.8,doubt,0.74,0.92,listed,False
-NO,Pete Werner,LB,0.57,out,0.45,0.85,listed,False
-NO,Martin Emerson Jr.,CB,0.64,doubt,0.64,0.86,listed,False
+NYG,Shelby Harris,DL,0.6,out,0.0,0.82,out,False
 NYG,Greg Newsome II,CB,0.53,out,0.0,0.8,reserve,False
-NYG,Dru Phillips,slot CB,0.78,out,0.2,0.8,out,False
-NYG,Shelby Harris,DL,0.6,doubt,0.5,0.86,listed,False
-NYG,Abdul Carter,EDGE,0.83,doubt,0.53,0.87,listed,False
-NYG,Arvell Reese,LB,1.0,doubt,0.78,0.93,listed,False
-PIT,Alex Highsmith,EDGE,0.5,out,0.0,0.86,out,False
-SEA,Ernest Jones,LB,1.0,doubt,0.75,0.93,listed,False
-SEA,DeMarcus Lawrence,EDGE,0.67,doubt,0.76,0.93,listed,False
+NYG,Dru Phillips,slot CB,0.78,doubt,0.77,1.0,listed,False
 SF,Dre Greenlaw,LB,0.68,doubt,0.65,0.86,listed,False
-TB,Jacob Parrish,CB,0.76,doubt,0.66,0.96,listed,True
 TEN,Cor'Dale Flott,CB,0.89,out,0.0,0.82,out,False
-WAS,Amik Robertson,CB,0.76,out,0.26,0.85,listed,False
+WAS,Amik Robertson,CB,0.76,out,0.0,0.82,out,False

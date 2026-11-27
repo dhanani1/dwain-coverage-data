@@ -2,13 +2,11 @@ team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
 ARI,Josh Sweat,EDGE,0.63,doubt,0.63,0.99,listed,False
 CAR,Pat Jones II,EDGE,0.72,out,0.08,0.8,out,True
-CLE,Isaiah McGuire,EDGE,0.66,doubt,0.5,0.86,listed,False
-CLE,Ronnie Hickman Jr.,S,0.74,doubt,0.69,0.86,listed,False
-CLE,Quincy Williams,LB,0.95,doubt,0.77,0.93,listed,False
+CLE,Isaiah McGuire,EDGE,0.66,doubt,0.58,0.99,listed,False
 DEN,Taylor Rapp,S,0.67,out,0.0,0.82,out,False
 HOU,Azeez Al-Shaair,LB,0.52,out,0.0,0.8,reserve,False
 HOU,Sheldon Rankins,DL,0.64,doubt,0.73,0.91,listed,False
-IND,Charvarius Ward,CB,0.58,out,0.22,0.82,out,False
+IND,Charvarius Ward,CB,0.58,out,0.0,0.8,out,False
 LAC,Tarheeb Still,CB,0.75,out,0.21,0.82,out,False
 LAC,Daiyan Henley,LB,0.63,out,0.23,0.8,out,False
 LAC,Akheem Mesidor,EDGE,0.55,out,0.28,0.81,listed,False

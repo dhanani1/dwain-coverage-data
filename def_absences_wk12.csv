@@ -1,11 +1,11 @@
 team,name,grp,share,status,p_available,snap_cap,state,provisional
 ARI,Andrew Wingard,S,0.74,out,0.0,0.8,reserve,False
-CAR,Pat Jones II,EDGE,0.72,out,0.02,0.8,out,True
+CAR,Pat Jones II,EDGE,0.72,out,0.24,0.8,out,False
 HOU,Azeez Al-Shaair,LB,0.52,out,0.0,0.8,reserve,False
 IND,Charvarius Ward,CB,0.58,out,0.0,0.8,out,False
 LAC,Daiyan Henley,LB,0.63,out,0.0,0.8,out,False
 LAC,Akheem Mesidor,EDGE,0.55,out,0.01,1.0,out,False
-LAC,Tarheeb Still,CB,0.75,out,0.21,0.82,out,False
+LAC,Tarheeb Still,CB,0.75,out,0.17,0.82,out,False
 LAC,Tuli Tuipulotu,EDGE,0.84,doubt,0.5,0.86,listed,False
 MIA,JuJu Brents,CB,0.72,out,0.0,0.8,out,False
 MIN,Isaiah Rodgers,CB,0.56,out,0.0,0.82,out,False
